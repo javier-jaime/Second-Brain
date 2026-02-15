@@ -1,4 +1,4 @@
-# Reports, Essays and White Papers
+# Synth AI / Second Brain
 
 Examples of Synth AI with Obsidian and NotebookLM
 
