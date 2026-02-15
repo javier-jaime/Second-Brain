@@ -6,4 +6,4 @@ Examples of Synth AI with Obsidian and NotebookLM
 
 Using a Critical Thinking Loop and a "Second Brain"
 
-![Critical Thinking Loop](images/SynthAI.png)
+![Critical Thinking Loop](images/CT_Loop.png)
