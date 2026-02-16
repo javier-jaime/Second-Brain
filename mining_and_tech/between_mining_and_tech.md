@@ -1,4 +1,4 @@
-### **Between a Rock and Hard Tech**
+# **Between a Rock and Hard Tech**
 
 From the copper wiring in an AI data centre to the rare earth magnets in a fighter jet, our entire tech infrastructure is built from the ground up. But the foundation of it all is something far humbler: rocks. More specifically, "critical minerals"; the essential inputs for technology, energy, and defence.  
    
@@ -8,16 +8,16 @@ Humble rocks are blasted, shovelled, crushed, and refined — the earth transmut
 
 The most surprising realities of this global contest, reveal the true nature of the challenge and the radical new approach required to win.
 
-##### **1\. The Misnomer of "Critical" as "Scarcity": Rare Earths Aren't Actually Rare.**
+### **1\. The Misnomer of "Critical" as "Scarcity": Rare Earths Aren't Actually Rare.**
 
 The first and most fundamental misconception is that "critical" means rare. The primary challenge with minerals like lithium, cobalt, and rare earths is not a lack of deposits in the earth's crust. Instead, the term "critical" refers to supply chains that are fragile and at high risk of disruption. The bottleneck is not geology; it's the huge logistical, technical, and economic difficulty of extraction and processing. Many critical minerals are not extracted in high volumes as primary targets but are recovered as a byproduct from complex ore bodies that demand specialized processing. As an old industry quip has it: "rare earths are not actually rare — just rarely worth the trouble". This distinction is crucial. The problem isn't finding the rocks; it's overcoming the industrial hurdles required to turn them into the high-purity metals that power our world.
 
-##### **2\. The Real Problem Isn't Rocks, It's Spreadsheets.**
+### **2\. The Real Problem Isn't Rocks, It's Spreadsheets.**
 
 If the problem isn't a lack of deposits, what is it? The central bottleneck in expanding mineral production capacity is coordination failure. The mining industry, a foundational pillar of the global economy, is behind technologically. Core workflows for capital-intensive extraction and processing operations still depend on "spreadsheets, clipboards, and decades-old software," with some systems running on legacy tools like Windows XP. The entire ecosystem is hampered by siloed data and fragmented communication across teams. Operations that rely on "Excel files passed between EPCs, regulators, and owners" often a few weeks data lag between what happens in the field and what the back office sees.  
 This stunning reality means an industry responsible for the foundational inputs of our most advanced technologies — from AI data centres to precision-guided weapons — is making critical decisions based on information that may be weeks out of date.
 
-##### **3\. Big Mining Is Where Startups Go to Die.**
+### **3\. Big Mining Is Where Startups Go to Die.**
 
 This technological lag is a symptom of a deeper cultural problem. The incumbent mining industry is composed of what it is described as "calcified industrial relics." These firms exhibit a deep institutional resistance to change, creating a hostile environment for new technology.This culture creates a "death spiral" for startups. Rather than being deployed on the critical path, new tools are relegated to "innovation labs or dump them in tailings ponds". The core issue is a broken model for risk evaluation. A step-change improvement might require a thousand small changes, but risk is evaluated for each individual change. The perceived downside of any single tweak—a potential multi-million dollar plant shutdown—is the same every time. This creates a powerful institutional bias against any change at all, incentivizing endless pilot projects with no clear path to commercial scale and stifling the very innovation the industry needs to compete.
 
