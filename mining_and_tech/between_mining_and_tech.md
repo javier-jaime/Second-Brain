@@ -1,4 +1,4 @@
-# **Between a Rock and Hard Tech**
+## **Between a Rock and Hard Tech**
 
 From the copper wiring in an AI data centre to the rare earth magnets in a fighter jet, our entire tech infrastructure is built from the ground up. But the foundation of it all is something far humbler: rocks. More specifically, "critical minerals"; the essential inputs for technology, energy, and defence.  
    
@@ -21,7 +21,7 @@ This stunning reality means an industry responsible for the foundational inputs 
 
 This technological lag is a symptom of a deeper cultural problem. The incumbent mining industry is composed of what it is described as "calcified industrial relics." These firms exhibit a deep institutional resistance to change, creating a hostile environment for new technology.This culture creates a "death spiral" for startups. Rather than being deployed on the critical path, new tools are relegated to "innovation labs or dump them in tailings ponds". The core issue is a broken model for risk evaluation. A step-change improvement might require a thousand small changes, but risk is evaluated for each individual change. The perceived downside of any single tweak—a potential multi-million dollar plant shutdown—is the same every time. This creates a powerful institutional bias against any change at all, incentivizing endless pilot projects with no clear path to commercial scale and stifling the very innovation the industry needs to compete.
 
-##### **4\. China's Control Is a Decades-Long Strategy, Not a Lucky Break.**
+### **4\. China's Control Is a Decades-Long Strategy, Not a Lucky Break.**
 
 While North America’s mining industry has calcified, China has executed a strategic masterclass on their mining operations. Its overwhelming dominance in critical minerals is the result of a deliberate, state-backed, decades-long strategy to control every stage of the value chain.
 
@@ -33,13 +33,13 @@ This strategy unfolded in three distinct phases:
 
 China has already demonstrated its willingness to "weaponize its control of mineral supply chains for geopolitical leverage". The strategy was articulated with prescient clarity by Deng Xiaoping decades ago: "The Middle East has oil; China has rare earths”. Beyond strategic investment, China's key advantage is its "insane" talent pool. In one recent example, a Chinese nickel refining operation in Indonesia mobilized 13,000 people on site for construction — a scale of execution that is nearly impossible to replicate in North America.
 
-##### **5\. Mining Has a Bizarre Incentive Problem Found Nowhere Else.**
+### **5\. Mining Has a Bizarre Incentive Problem Found Nowhere Else.**
 
 North America’s failures are not just cultural and technological; they are also economic. A profound incentive misalignment exists between mining producers and their manufacturing customers. In manufacturing, higher volume drives costs down through economies of scale; that logic is inverted in the commodity-driven world of mining, where "more demand... the expectation is that the price goes up".
 
 This mindset discourages the long-term, iterative improvements in efficiency that are standard in sectors like tech. Instead of collaborating to innovate and drive down costs for mutual benefit, the relationship is often adversarial, built around a zero-sum view of constrained supply that stifles investment in scalable production.
 
-##### **To compete we need to build a new kind of Industrial Champion.**
+### **To compete we need to build a new kind of Industrial Champion.**
 
 The answer to these systemic failures cannot be "piecemeal innovation." Selling point solutions into a broken, calcified system is a recipe for failure. Instead, North America needs an entirely new industrial model: a "vertically integrated, software-native" company that owns and operates multiple stages of the value chain.This full-stack approach has a powerful precedent. As one analysis notes:"SpaceX didn’t sell rocket engines to Lockheed Martin; it launched payloads.
 
