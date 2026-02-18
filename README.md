@@ -1,6 +1,6 @@
 # Synth AI / Second Brain
 
-Examples of Synth AI with Obsidian and NotebookLM
+Examples of Synth AI with Obsidian, NotebookLM & Neo4j
 
 ![SynthAI](images/SynthAI.png)
 
