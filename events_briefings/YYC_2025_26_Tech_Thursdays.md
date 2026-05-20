@@ -2518,3 +2518,72 @@ The landscape is seeing significant consolidation, such as the acquisition of **
 | **Core Value** | Safety & Operational Efficiency | Accuracy in Ore Discovery | Speed to Project Approval |
 | **Market Reach** | Western Canada, Abu Dhabi, Iraq | Three Continents, 25+ Trailers | Utilities, Power, Energy, Mining |
 
+# Episode 026
+
+# **Canada’s AI Infrastructure and the Path to a Trillion Dollar Company**
+
+## **Executive Summary**
+
+The emergence of AI infrastructure as a new, macro mega category of infrastructure represents a significant shift in the global asset landscape, combining software and hardware into a single, high value class. **Simply Silicon** aims to capitalize on this shift by building Canada’s first trillion dollar company, utilizing Calgary as a strategic hub to create the nation’s first AI native city. The company’s core thesis revolves around the marriage of energy and intelligence, specifically by colocating specialized data centers within existing urban utility infrastructure.
+
+By repurposing Calgary’s district heating network, **Simply Silicon** is developing a 12 megawatt facility known as Foundation, which will house 10,000 GPUs dedicated exclusively to AI inference. This project differentiates itself from standard data centers through a private, air gapped fiber network, superior power density, and a future phase involving liquid cooling to recycle waste heat for urban use. While a significant portion of current AI data center projects in Alberta are predicted to fail due to a lack of customer awareness and foresight, **Simply Silicon** positions itself as a market leader by focusing on specialized, high margin inference services rather than general purpose compute.
+
+## **The Strategic Importance of Calgary as an AI Hub**
+
+Calgary is positioned to surpass other major global centers, including Houston, London, and San Francisco, as a primary destination for AI infrastructure. This advantage is derived from a unique combination of energy legacy, infrastructure, and regulatory environment.
+
+* **Energy Legacy and Infrastructure:** The city possesses a massive concentration of engineering and systems thinkers who previously built the oil sands, one of the greatest engineering projects in history. This expertise is now being applied to the intersection of chips and power.  
+* **Regulatory Environment:** Alberta’s deregulated market and regulatory simplicity allow for faster movement without an overburden of permits, a significant advantage over other jurisdictions.  
+* **Urban Proximity:** Unlike many data centers built in rural areas, **Simply Silicon** focuses on urban downtown locations to provide low latency services required for next generation technologies like robotics, autonomous vehicles, and AI native city services.
+
+## **Simply Silicon and the Foundation Project**
+
+The Foundation project represents a departure from traditional data center design, focusing on specialized hardware and strategic utility integration.
+
+### **Technical Specifications and Capabilities**
+
+Foundation is designed to be a world class supercomputer, serving as the largest independently owned and operated facility of its kind in Canada.
+
+| Feature | Specification |
+| :---- | :---- |
+| **Power Capacity** | 12 Megawatts (12,000 Kilowatts) |
+| **Compute Hardware** | 10,000 GPUs |
+| **Primary Function** | Dedicated AI Inference (Highly specialized) |
+| **Connectivity** | Private, air gapped fiber network |
+| **Cooling (Phase 1\)** | Dry air cooling (no water usage) |
+| **Cooling (Phase 2\)** | Liquid cooling with waste heat capture |
+
+### **Utility Integration and Efficiency**
+
+The facility is integrated into Calgary’s district heating plant, which serves 27 buildings. This colocation offers several strategic advantages:
+
+* **Reliability:** The facility is connected to two different grids and features on site backup systems, utilizing utility grade engineering that far exceeds standard real estate developments.  
+* **Thermal Services:** In its second phase, the data center will use heat pumps to upgrade waste heat from chips to a temperature suitable for the district heating loop, offsetting natural gas consumption and reducing carbon emissions.  
+* **Responsive Load Management:** Through a partnership with **Emerald AI**, the site will be the first in Canada to use software to flex electrical loads against other remote loads in the city, ensuring grid stability.
+
+## **Analysis of the AI Data Center Bubble**
+
+There is a significant swell of AI data center projects currently in development, yet the majority are expected to result in wealth destruction.
+
+* **The Build It and They Will Come Fallacy:** Many developers are speculative real estate players, lacking an understanding of end user needs. "If you don't have an offtaker in mind, strong relationships and an understanding of what they want saying 'Oh well I'll build you anything.' Well guess what, so will every other rich guy in the world, right, it didn't really convert to anything."  
+* **Specialization vs. General Purpose:** Most facilities are built for general purpose use, which is less efficient than the specialized inference architecture employed by **Simply Silicon**. "What we're building here is not for that type of use. It only does one thing which is inference. It does it extremely well."  
+* **The Shift to Inference:** By 2027, the demand for inference is expected to exceed 50 percent of total compute usage, surpassing the energy and tokens used for training Large Language Models.
+
+## **Economic Philosophy and Global Competitiveness**
+
+The founders of **Simply Silicon** and **Augur VC** advocate for a shift in how Canadian companies approach global markets and government relations.
+
+### **The Also Sovereign Framework**
+
+The document identifies two types of companies in the Canadian landscape:
+
+1. **Just Sovereign:** These companies exist primarily as a byproduct of government policy, subsidies, and lobbying. They are viewed as uninvestable because they live or die by policy wins, rather than market value.  
+2. **Also Sovereign:** These companies, like **Simply Silicon**, are built to be globally competitive and profitable in private markets regardless of government support. They have the capability to serve government needs, such as providing ultra secure, air gapped compute, but do not rely on them for survival.
+
+### **Talent and Capital Markets**
+
+Canada produces high quality entrepreneurs, but often fails to convert that talent into billion dollar outcomes, due to a restrictive indigenous VC environment, and a reliance on industrial subsidies. "You can't force any of this stuff, you have to create the conditions for the incredibly incredibly talented entrepreneurs here in Canada to flourish."
+
+## **Conclusion: The Trillion Dollar Objective**
+
+**Simply Silicon** is currently acquiring unique sites across North America, including locations in Grand Rapids, Oklahoma City, and Los Angeles, to replicate the Foundation model. The company’s long term moat is built on physical characteristics that are difficult to replicate, such as existing conduit networks and utility relationships. The ultimate goal is to move beyond the hundred billion dollar scale typical of major Canadian startups to create a trillion dollar entity that secures Calgary’s position as a global leader in the new macro category of AI infrastructure. "Our goal is to build Canada's first trillion dollar company."
