@@ -4090,3 +4090,100 @@ The psychological and philosophical components of wealth management are often mo
 * Spending and Lifestyle: High spending requires a more liquid, lower return portfolio, whereas modest living allows for aggressive, long term growth strategies.
 
 "If you don't have those basic things thought out, trying to structure the trust itself is not the difficult bit, it's these things you define inside it that are a difficult bit." Success in long term wealth accumulation often depends on the ability to avoid unnecessary spending on expensive depreciating assets like private jets or yachts, which carry massive maintenance and crew costs.
+
+# Episode 144
+
+# **Jackie Reses on Financial Infrastructure, Global Strategy, and Leadership**
+
+## **Executive Summary**
+
+The provided source details the professional trajectory and strategic philosophy of [Jackie Reses](https://www.linkedin.com/in/jacqueline-reses-938b7850), currently the CEO and founder of **Lead Bank**. [Reses](https://www.linkedin.com/in/jacqueline-reses-938b7850), who has held senior leadership positions at **Goldman Sachs**, **Apex**, **Yahoo**, and **Square**, provides an analysis of the evolving financial landscape, specifically regarding fintech infrastructure, the integration of crypto assets, and the realities of modern banking regulation. The following sections outline the key themes and evidentiary data regarding her work with global technology visionaries and the development of scalable financial products.
+
+The primary conclusion from the source is that the future of financial services relies on programmable, technical infrastructure rather than traditional banking rails. [Jackie Reses](https://www.linkedin.com/in/jacqueline-reses-938b7850) emphasizes that high growth companies in the fintech, crypto, and e-commerce sectors require specialized banking partners that possess native engineering capabilities. Key takeaways include:
+
+* **Lead Bank** has achieved approximately $280 million in annual revenue and $31 million in net income using a referral based model without a dedicated sales team.  
+* The transition from traditional finance to technology leadership requires an operational approach to roles typically viewed as administrative, such as human resources.  
+* Strategic value capture at **Yahoo** was significantly driven by managing the complex relationship with **Alibaba** and **Alipay**, eventually yielding billions in equity value.  
+* Corporate success at **Square**, now known as **Block**, was catalyzed by rapid product execution, such as the launch of crypto trading and the organic growth of the **Square Capital** hack week project.  
+* Claims of systematic debanking in the United States are dismissed as a crock of shit, with [Reses](https://www.linkedin.com/in/jacqueline-reses-938b7850) arguing that bank exits from certain sectors are typically due to density of client base, compliance standards, or risk prerogative rather than a coordinated exclusion.
+
+## **Strategic Maneuvers and Global Board Experience**
+
+[Reses](https://www.linkedin.com/in/jacqueline-reses-938b7850)’s career is characterized by navigating unprecedented and high stakes corporate environments. Her experience at **Yahoo** and **Alibaba** illustrates the complexity of managing cross border shareholder interests and cultural dynamics.
+
+### **The Yahoo and Alibaba Relationship**
+
+[Reses](https://www.linkedin.com/in/jacqueline-reses-938b7850) joined **Yahoo** as Chief Development Officer to manage a fractured relationship with **Alibaba**, in which **Yahoo** held a 40 percent stake.
+
+* **Relationship Restoration:** At the time, the two companies had ceased communication. [Reses](https://www.linkedin.com/in/jacqueline-reses-938b7850) made frequent trips to Hangzhou to build relationships with [Joe Tsai](https://en.wikipedia.org/wiki/Joseph_Tsai) and [Jack Ma](https://en.wikipedia.org/wiki/Jack_Ma) to bridge the fracture.  
+* **Value Recovery:** Through deals between **Alibaba** and **Alipay**, [Reses](https://www.linkedin.com/in/jacqueline-reses-938b7850) helped pull back tens of millions of dollars of value to **Alibaba** shareholders and managed the monumental capital transaction of taking **Alibaba** public.  
+* **Tax Management:** [Reses](https://www.linkedin.com/in/jacqueline-reses-938b7850) led a team of lawyers across five countries to address a massive capital gains tax bill associated with the **Alibaba** stake, which was one of the largest in corporate history.
+
+### **Leadership Traits of Global Visionaries**
+
+[Reses](https://www.linkedin.com/in/jacqueline-reses-938b7850) provides direct observations of the leadership styles of [Jack Ma](https://en.wikipedia.org/wiki/Jack_Ma), [Joe Tsai](https://en.wikipedia.org/wiki/Joseph_Tsai), [Masa Son](https://en.wikipedia.org/wiki/Masayoshi_Son), and [Jack Dorsey](https://en.wikipedia.org/wiki/Jack_Dorsey) based on her time on various boards and executive teams.
+
+* [**Jack Ma**](https://en.wikipedia.org/wiki/Jack_Ma)**:** Described as a big picture visionary focused on using entrepreneurialism to elevate the middle class in China.  
+* [**Joe Tsai**](https://en.wikipedia.org/wiki/Joseph_Tsai)**:** Viewed as an incredible deal guy and easy partner who bridged cultural dynamics between Eastern and Western values.  
+* [**Masa Son**](https://en.wikipedia.org/wiki/Masayoshi_Son)**:** Observed as a big picture thinker who would bless deals after execution oriented milestones were handled by legal and management teams.  
+* [**Jack Dorsey**](https://en.wikipedia.org/wiki/Jack_Dorsey)**:** Characterized by unparalleled listening skills and a bias toward immediate action. "When [Jack](https://en.wikipedia.org/wiki/Jack_Dorsey) has an idea that he thinks is going to change the world, well of course we're going to put people behind it, and go execute against it, that's just the way he is."
+
+## **The Evolution of Square and Block**
+
+During her tenure at **Square**, [Reses](https://www.linkedin.com/in/jacqueline-reses-938b7850) transformed small scale experiments into institutional financial products.
+
+* **Square Capital:** This multibillion dollar business began as a hack week project with ten colleagues. It eventually expanded into **Square Lending** and **Square Banking**.  
+* **Crypto Integration:** In January 2017, **Square** launched a crypto trading platform after [Jack Dorsey](https://en.wikipedia.org/wiki/Jack_Dorsey) and three engineers spent three days coding the system. This required navigating complex accounting and **SEC** implications for a public company.  
+* **Internal Dynamics:** [Reses](https://www.linkedin.com/in/jacqueline-reses-938b7850) notes the contrast between the stability of **Square** and the relative chaos of **Twitter**, describing the two companies as cousins. While **Square** focused on financial products like debit cards and point of sale systems, **Twitter** was often embroiled in global cultural controversies.
+
+## **Lead Bank: Building Fintech Infrastructure**
+
+[Reses](https://www.linkedin.com/in/jacqueline-reses-938b7850) founded **Lead Bank** to solve the structural difficulties she encountered while building products at **Block**. Most tech companies operate on the rails of small community banks that lack engineering teams.
+
+### **Infrastructure and Technology Stack**
+
+**Lead Bank** was built by acquiring a hundred year old community bank in Kansas City, Missouri, to secure the necessary bank holding company licensing. The bank’s technology is based on five core API sets:
+
+| API Category | Functionality |
+| :---- | :---- |
+| Lending | Programmable lending infrastructure for clients. |
+| Money Movement | Real time payment networks and programmable transfers. |
+| Issuing | Technical rails for creating financial instruments. |
+| Accounts | Rapid deployment of high volume bank accounts. |
+| Stablecoins | Support for both fiat and on-chain stablecoin rails. |
+
+### **Client Roster and Revenue Model**
+
+The bank’s client acquisition is entirely referral driven, with existing clients acting as the primary sales team.
+
+* **Revenue:** $280 million last year.  
+* **Net Income:** $31 million.  
+* **Notable Clients:** **Ramp**, **Atlas**, **Stripe**, **Walmart**, **Affirm**, **Flex**, **Self**, **Revolute**, and over one hundred crypto companies.
+
+## **Perspectives on Banking Regulation and Debanking**
+
+[Reses](https://www.linkedin.com/in/jacqueline-reses-938b7850) offers a pragmatic view of the relationship between technology companies and the banking system, specifically rejecting the narrative that the industry is being systematically targeted for exclusion.
+
+### **Analysis of Debanking**
+
+"I don't believe there was debanking, I think it's a crock of shit, there's 5,000 banks in the United States, we're one of the most active banks in the crypto industry, our last year's revenue was about $280 million, and about $31 million of net income, it is all referrals, but honestly our clients are really our sales team."
+
+[Reses](https://www.linkedin.com/in/jacqueline-reses-938b7850) argues that when companies lose banking access, it is usually for specific operational reasons:
+
+* **Density:** Banks pull back if they do not have enough clients in a specific sector to justify hiring specialized compliance and finance teams.  
+* **Compliance:** Some digital asset companies fail to meet Know Your Customer (KYC) standards, required by United States banking regulations. "What debanking actually means is that banks transitioned out of offering crypto products or risky products like adult entertainment or something like that."  
+* **Risk Prerogative:** Individual banks maintain the right to make decisions based on their own reputational risk.
+
+### **Regulatory Collaboration**
+
+[Reses](https://www.linkedin.com/in/jacqueline-reses-938b7850) advocates for proactive engagement with regulators like the **FDIC**, the **OCC**, and the **Federal Reserve**. She believes that because government agencies lack native expertise in AI and crypto, private sector leaders must provide the insights necessary to build effective legal frameworks. "I think the framework that I've applied to crypto is probably the same that I'd applied to any other product."
+
+## **Organizational Culture and Future Outlook**
+
+**Lead Bank** maintains a workforce that is nearly 60 percent female, a result [Reses](https://www.linkedin.com/in/jacqueline-reses-938b7850) attributes to hiring the best talent available by utilizing the full network of potential candidates. Regarding future growth, the company is focused on the following:
+
+* **AI Integration:** Utilizing AI for agentic commerce and real time payment networks.  
+* **Product Launches:** Developing new products to enhance the programmable financial system.  
+* **Regulatory Modernization:** Continuing to work with the **Federal Reserve** and other bodies to update banking regulation for the digital and AI age.
+
+[Reses](https://www.linkedin.com/in/jacqueline-reses-938b7850) concludes that her focus remains on building durable value through products that offer a clear use case, maintaining a belief that "When faced with something that's pretty unprecedented and hairy like, I run straight into that fire."
