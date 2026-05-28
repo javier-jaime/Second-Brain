@@ -21,7 +21,7 @@
 | **Squiggle** | [Oliver Leung](https://www.linkedin.com/in/oliverleung~/) | Real Estate / AI | Not in source | Not in source | Real estate marketplace combining AI and SMS for home valuations; connects buyers directly to listing agents to save commission fees. | Home buyers and realtors |
 | **WiDrive** | [Ben Oguntimehin](https://www.linkedin.com/in/ben-oguntimehin-627bab1b2/) | Fleet Management / Automotive | Not in source | Not in source | Automates fleet maintenance using AI to detect issues and dispatch mechanics on-site; reduced downtime for Amazon-style fleets. | Downtime sensitive businesses and fleet owners |
 
-# 2020 YYC Investment Summit Document
+# 2025 YYC Investment Summit Document
 
 # **Startup TNT Investment Summit XI**
 
