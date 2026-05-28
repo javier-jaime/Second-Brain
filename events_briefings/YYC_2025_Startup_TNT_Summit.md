@@ -25,9 +25,9 @@
 
 # **Startup TNT Investment Summit XI**
 
-This document synthesizes the key outcomes, investment data, and company profiles from the Startup TNT Investment Summit XI held in Calgary. The document covers both the Top 20 Pitch Night (April 3, 2025\) and the Finale Pitch Night (May 1, 2025), detailing the growth of the regional innovation ecosystem and the specific startups receiving investment.
-
 ## **Executive Summary**
+
+This document synthesizes the key outcomes, investment data, and company profiles from the Startup TNT Investment Summit XI held in Calgary. The document covers both the Top 20 Pitch Night (April 3, 2025\) and the Finale Pitch Night (May 1, 2025), detailing the growth of the regional innovation ecosystem and the specific startups receiving investment.
 
 Startup TNT’s Investment Summit XI marks a significant milestone in the Western Canadian venture capital landscape, coinciding with the organization's five-year anniversary. Since its inception in 2019, Startup TNT has facilitated over $17.4 million in investments across 110 companies, supported by a network of nearly 490 angel investors.
 
