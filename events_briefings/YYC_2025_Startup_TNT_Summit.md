@@ -1,4 +1,4 @@
-# 2020 YYC Investment Summit Table
+# 2025 YYC Investment Summit Table
 
 | Company | Founder | Industry/Sector | Amount Raised/Seeking | Valuation/Cap (Inferred) | Key Business Highlights | Target Market |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
