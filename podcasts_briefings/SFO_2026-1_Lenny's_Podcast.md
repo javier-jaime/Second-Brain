@@ -2736,3 +2736,94 @@ To remain successful as the technology advances, the following actions are recom
 "We speed ran the CLI era. It was nice while it lasted but I think CLI's over."
 
 "The only thing you need to do is ride the models and that means use them for whatever it is that you do."
+
+# Episode 346
+
+# **Benedict Evans on AI Evolution and Market Dynamics**
+
+## **Executive Summary**
+
+The current state of Artificial Intelligence is most accurately compared to the internet in 1997, a period of radical uncertainty where fundamental technologies exist but their ultimate applications and winners remain undetermined. While some industry perspectives suggest AI is a shift on the scale of the Industrial Revolution, it is more likely a platform shift equivalent to the internet or mobile. This transition is characterized by a wide distribution of adoption, where technical circles have fully integrated these tools while the broader market remains in an early, experimental phase.
+
+Key takeaways include:
+
+* **The Labor Paradox:** Automation historically unlocks new categories of work rather than causing a permanent job apocalypse. Current trends show that even the most advanced AI firms are rapidly increasing human headcount to manage complexity.  
+* **Commoditization of Models:** Foundation models may lack traditional network effects, potentially turning them into low margin utilities similar to the telecommunications or electricity industries.  
+* **The Moat of Distribution:** As software becomes easier to produce, the value of distribution increases. Incumbents like **Apple**, **Google**, and **Meta** possess significant advantages due to their existing user bases and integrated ecosystems.  
+* **Professional Services Growth:** Integration of AI into enterprise workflows requires significant human intervention, leading to an unexpected surge in demand for consulting and forward deployed engineering.
+
+## **Historical Analogies and the 1997 Timeline**
+
+The development of AI is currently in a fractured state where the technology is exciting but often non functional for complex tasks. This mirrors the internet in 1997, when it was unclear if early leaders like **Yahoo** or **Excite** would dominate.
+
+* **Scale of Impact:** AI is identified as a fundamental change, yet there is skepticism regarding claims that it exceeds the impact of the internet or mobile telephony.  
+* **Maturity Gap:** There is a significant spread between power users in the technology sector and the general population. Surveys indicate that even among younger demographics, daily active usage remains relatively low, around 15 to 20 percent.  
+* **Standing on Shoulders:** AI adoption appears faster than previous shifts because it utilizes existing infrastructure, such as the 900 million people already on the internet and the global smartphone install base.
+
+## **Labor Market and the Automation of Tasks**
+
+The fear of a coming job apocalypse is often framed through a failure to understand historical economic patterns and enterprise operations.
+
+* **Historical Precedent:** Since 1800, technology has consistently automated jobs, yet society has become richer as new, previously unimaginable roles were created. "Every time we have a new technology, it automates away a bunch of jobs, and then that automation unlocks a bunch of new jobs, and you don't know the new job, cuz it doesn't exist yet, we've had that process over and over again, even just looking at the most advanced AI companies throughout big open AI, everyone's increasing headcount."  
+* **Enterprise Constraints:** Large organizations operate on long software sales and implementation cycles, often lasting 18 months or more. The notion that companies will fire their entire staff in a matter of weeks ignores the reality of how businesses function.  
+* **The Task vs. Job Distinction:** A job is a collection of responsibilities, while a task is a specific action. Automating a task, such as an accountant using a spreadsheet, often leads to the professional doing more complex work rather than being replaced.
+
+## **The Professional Services Surge**
+
+A notable trend in the AI sector is the heavy investment in professional services and consulting by major labs like **OpenAI** and **Anthropic**.
+
+* **Integration Needs:** Companies do not have surplus staff to reimagine internal workflows or plug vertical systems into horizontal ones. This creates a reliance on firms like **Bain**, **BCG**, **McKinsey**, and **Accenture**.  
+* **The Hard Part of the Job:** While AI can generate a slide deck or write lines of code, the valuable part of professional services is understanding company politics, customer sentiment, and strategic direction.  
+* **Forward Deployed Engineering:** Modern AI deployment mimics the model of **Palantir** or traditional outsourced developers, where engineers must work directly with clients to make the technology functional within specific corporate environments.
+
+## **Market Structure and Value Capture**
+
+A central question in the current cycle is where economic value will accrue, particularly whether the foundation model labs can maintain pricing power.
+
+### **Model Labs as Utilities**
+
+There is a possibility that foundation models will follow the trajectory of the mobile industry. Despite exponential growth in data consumption, mobile carrier stocks have remained stagnant because they provide a low margin commodity utility. "And you look at this and think you know my dear sweet child, you need me to explain the margin structure of the utility industry to you."
+
+### **Comparison of Software Ecosystems**
+
+The future of AI value capture may resemble one of two existing models:
+
+1. **The Windows Model:** A dominant platform with immense leverage up the stack.  
+2. **The AWS Model:** A specialized infrastructure where customers do not necessarily care which cloud their software runs on, as long as it is functional.
+
+Current evidence suggests models may lack network effects, meaning competition could remain high and margins could be squeezed, shifting value to the application layer.
+
+## **The Role of Incumbents and Distribution**
+
+In an era where AI makes software easier to build, distribution becomes the primary moat for a business.
+
+* **Default Power:** **Google** and **Meta** can integrate AI into existing products with massive reach, effectively neutralizing startups that lack a distribution engine.  
+* **The Apple Strategy:** **Apple** aims to provide a personal AI assistant integrated across its ecosystem via standardized APIs. While execution is complex, their control over a billion devices gives them a unique advantage in deploying edge AI.  
+* **Feature vs. Product:** Incumbents often successfully turn new technologies into features. For many users, an adequate AI tool integrated into their existing workflow is preferable to a superior standalone startup app.
+
+## **Public Sentiment and Social Impact**
+
+The anti AI sentiment is a complex mixture of legitimate concerns and misinformation.
+
+* **Resource Concerns:** Claims regarding AI water consumption are often exaggerated. Data centers account for approximately 0.017 percent of US water usage, making localized water issues a planning problem rather than a systemic AI problem.  
+* **Data Scarcity:** There is a significant lack of transparency regarding AI usage. Unlike previous cycles, model labs do not release meaningful daily active user data, forcing analysts to rely on academic surveys and third party estimates.  
+* **Cultural Resistance:** Backlash in creative fields, such as cover art and literature, mirrors previous anxieties about social media or databases. Every technology wave introduces new ways to affect lives, requiring a balance between caution and avoiding panic.
+
+## **Strategic Recommendations for Professionals**
+
+To succeed in an AI integrated future, individuals are encouraged to adopt a mindset of submerging themselves in the technology rather than resisting it.
+
+* **Avoid Moral Superiority:** Rejecting AI on principle may provide a temporary sense of superiority but does not assist in career longevity.  
+* **Active Engagement:** "What helps is you diving into this and coming out understanding what you can do with today."  
+* **Skill Synthesis:** Success typically comes from identifying a set of skills, finding a job that utilizes them, and ensuring there is a market willing to pay for that specific combination.
+
+## **Key Terminology and Concepts**
+
+| Term | Context |
+| :---- | :---- |
+| **Jevons Paradox** | The concept that making a resource more efficient (like labor via AI) can actually increase total demand for it. |
+| **Jagged Frontier** | The idea that AI is highly capable at some tasks but fails unexpectedly at others, making its utility non intuitive. |
+| **AGI** | Artificial General Intelligence, often subject to creative redefinition depending on what machines can currently achieve. |
+| **Forward Deployed Engineer** | A role focused on the direct implementation of technology into a client's specific environment. |
+| **Platform Shift** | A fundamental change in technology infrastructure, such as the move from mainframe to PC, or PC to mobile. |
+
