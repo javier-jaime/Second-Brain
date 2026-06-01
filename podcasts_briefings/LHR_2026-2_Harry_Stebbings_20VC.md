@@ -2027,3 +2027,89 @@ A new layer of "picks and shovels" companies is emerging to support the developm
 ### **The Future of Software**
 
 The market is observing a software explosion where agents are building applications at an unprecedented rate. At **Databricks** **Neon**, over 90 percent of databases are now built by agents rather than humans. This suggests that while individual token costs may decrease, the sheer volume of agentic activity will drive the next phase of sector growth.
+
+# Episode 1412
+
+# **Nico Laqua on Corporate Culture and Strategic Philosophy at Corgi Insurance**
+
+## **Executive Summary**
+
+**Corgi Insurance**, recently valued at 2.5 billion dollars following a 1.3 billion dollar funding round led by **TCV**, operates under a self described culture of winning characterized by extreme intensity and a rejection of traditional work life balance. Led by co-founder and CEO [Nico Laqua](https://www.linkedin.com/in/nico-laqua-302b17233), the company mandates a seven day work week, with the leadership frequently residing in the office to maintain operational momentum. The strategic framework of the organization is built on seeking asymmetric upside, defined as seeking infinite gains with capped downsides, and navigating a perpetual crisis of legitimacy inherent to startups. Key operational tenets include rapid cycle fundraising, the use of immersive work trials for recruitment, and a bullish outlook on technical talent hubs in San Francisco and London.
+
+## **Core Workplace Culture and Leadership Philosophy**
+
+The foundational principle at **Corgi Insurance** is an uncompromising commitment to work, which the CEO asserts is necessary to achieve world historic goals.
+
+### **The Seven Day Work Week and Intensity**
+
+The organization rejects the standard five day work week, operating on the premise that a continuous seven day effort exponentially increases output.
+
+* **Mandatory Presence:** Employees are expected to work weekends, and those who prioritize Saturdays and Sundays as recurring days off are deemed a poor fit for the organization. "If your days off happen to be Saturday and Sunday every week then you will not have a place at **Corgi**."  
+* **Leadership from the Front:** The CEO maintains a physical presence in the office, sleeping on a mattress on site and averaging three to four hours of sleep per night. This is viewed as a symbolic and practical necessity to lead the team.  
+* **Physical and Personal Sacrifice:** Leadership acknowledges that this intensity has led to health issues, including heart palpitations and psoriasis, but views these as acceptable trade offs for victory. "I would rather like measure my lifespan in victories than in years."  
+* **Anti-Pampering Stance:** The company explicitly avoids the perks heavy culture associated with legacy tech firms like **Google**, viewing such environments as detrimental to a growth mindset.
+
+### **The Philosophy of Winning**
+
+The CEO defines the company's culture in a single word, winning, and draws inspiration from historical military figures such as [Napoleon](https://en.wikipedia.org/wiki/Napoleon) and [Alexander the Great](https://en.wikipedia.org/wiki/Alexander_the_Great).
+
+* **Asymmetric Upside:** Business strategy is modeled on the idea that, unlike sports where scoring is capped, business offers uncapped, infinite upside. This justifies taking numerous risks to find a breakthrough similar to **AWS**. "I really think like seeking asymmetric upside, or infinite upside, uncapped upside with cap downside, is the core of business and taking a lot of shots on goal."  
+* **Acceptance of Volatility:** Volatility is viewed as a source of alpha, rather than a risk to be mitigated. The organization prioritizes growth over the stability, or lower volatility typically sought by mature or public companies.
+
+## **Recruitment and Talent Management**
+
+**Corgi Insurance** utilizes a specific recruitment methodology designed to attract individuals with high ambition and repel those seeking a standard corporate environment.
+
+### **Selection Criteria and Trials**
+
+* **Work Trials:** Potential hires undergo mock work trials, often over weekends, to experience the office at full capacity. This serves as a primary filter for intensity and cultural alignment.  
+* **Soft Skills Over Hard Skills:** While technical ability is required, the primary focus is on a candidate's drive and willingness to solve hard problems.  
+* **Motivation:** The company seeks individuals motivated by the desire to build something important, rather than those solely focused on short term financial gain, although equity is used as a significant performance incentive.
+
+### **Compensation and Equity**
+
+* **Cash vs. Equity:** The company favors low cash compensation, paired with generous equity top offs based on performance.  
+* **Alignment:** High performing employees are incentivized through equity to ensure their highest expected value (EV) is found by remaining and working hard within the company.
+
+## **Strategic Operations and Fundraising**
+
+The company’s approach to fundraising and market positioning is characterized by speed and a focus on long term brand building.
+
+### **Fundraising Tactics**
+
+* **Speed of Execution:** Fundraising rounds are typically completed within a few days to minimize distraction from core business operations. "Good companies get deals done."  
+* **Pricing Strategy:** The company intentionally avoids taking the highest possible valuation offered by venture capitalists. This is based on advice from leaders at **Airbnb** to avoid the complications of overpricing.  
+* **Investor Selection:** The CEO views capital as non fungible, suggesting that tier one investors like **Sequoia Capital**, **Kleiner Perkins**, or **TCV** provide a brand legitimacy that the startup can borrow until it establishes its own.
+
+### **Market and Geographic Perspectives**
+
+| Location | Strategic Assessment |
+| :---- | :---- |
+| San Francisco | Viewed as the spiritual center for technology and nerds, essential for hardcore American startups. |
+| London | Considered a premier talent hub for AI and technology, second only to San Francisco, with exceptional European talent. |
+| New York | Dismissed as a location chosen for lifestyle and dating rather than hardcore company building. |
+| Dallas | Noted as a positive location where the company maintains an office. |
+
+## **Operational Initiatives and Innovations**
+
+The organization engages in auxiliary projects that support its core culture of high intensity work.
+
+### **The Corgi Cafe**
+
+To address the lack of late night infrastructure in San Francisco's Financial District, the company opened a 24/7 cafe.
+
+* **Purpose:** It serves as a hub for serious technology workers and founders to congregate and work at all hours.  
+* **Economic Model:** The cafe is supported by sponsorships from companies like **Brex** and **Deel**. While it loses money on some fronts, it is considered slightly profitable with sponsorships and acts as a cultural landmark.
+
+### **Shift in Internal Services**
+
+The company previously employed a seven day a week chef, but transitioned to food delivery services to reduce logistical burdens. The focus remains on keeping employees in the office to maximize high leverage work time and minimize cognitive load associated with external dining.
+
+## **Industry Outlook and Future Trends**
+
+The CEO maintains a techno optimist view, focusing on highly regulated sectors currently managed with legacy technology like fax machines.
+
+* **B2B Marketing:** There is a belief that B2B companies have mastered sales but have poor marketing. There is a strategic opportunity to apply consumer grade marketing to B2B products.  
+* **AI and Sales:** As AI makes engineering and product development more efficient, sales and marketing will become increasingly critical to differentiate products in a crowded market.  
+* **The Future of AI Labs:** The CEO currently favors **Anthropic** over **OpenAI** for enterprise workflows, despite viewing **OpenAI** as having a more pure origin. "Anthropic frankly speaking, has been out executing OpenAI, their product's much better."  
+* **Venture Capital Responsibility:** There is a call for venture capital leaders to take more active stances on ecosystem incentives, rather than just providing capital. The CEO attributes some industry failures, to a quest for legitimacy through credentials rather than fundamental business ethics.

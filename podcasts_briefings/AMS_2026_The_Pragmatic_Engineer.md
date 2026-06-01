@@ -206,7 +206,7 @@ The divide between those who thrive with AI and those who struggle is defined by
 Entering the market is projected to be significantly harder for new graduates.
 
 * **Pain-Driven Learning:** Real system understanding is often discovered through the pain of building and failing.  
-* **Leveraging the Patient Machine:** New engineers have access to an infinitely patient machine that can explain complex open-source codebases, provided they have the curiosity to ask the right questions.
+* **Leveraging the Patient Machine:** New engineers have access to an infinitely patient machine that can explain complex open source codebases, provided they have the curiosity to ask the right questions.
 
 ### **3\. Structural Changes in Companies**
 
@@ -264,7 +264,7 @@ The evolution of software engineering is characterized by shifts in how develope
   * The Software Crisis of the 70s/80s (demand outstripped the ability to produce quality code) led to the need for better organization.  
   * Rise of personal computers (PCs) and the hobbyist culture.  
   * Evolution of platforms and Service-Oriented Architectures (SOA).  
-  * The birth of open-source software and the decoupling of software as a distinct commercial product.
+  * The birth of open source software and the decoupling of software as a distinct commercial product.
 
 ### **The Third Golden Age (2000s – Present)**
 
@@ -709,7 +709,7 @@ Currently, an estimated 70% of engineers remain stuck at the lower levels, faili
 
 As development moves beyond simple chat interfaces, the next phase is Orchestration, the management of agents running in loops.
 
-* **Gastown Architecture:** An open-source orchestrator designed to move the Overton window regarding what is possible. It features a Mayor (the primary interface) managing various Workers.  
+* **Gastown Architecture:** An open source orchestrator designed to move the Overton window regarding what is possible. It features a Mayor (the primary interface) managing various Workers.  
 * **Worker Roles:**  
   * **Polecats:** Designed for minimaxing roles, small, well-specified, self-contained tasks with minimal context windows to reduce costs and cognitive drift.  
   * **Crews:** Designed for maximaxing context, large-scale design problems requiring rich, juicy context and long-form conversations.  
@@ -907,7 +907,7 @@ This document synthesizes the engineering and leadership principles of [Thuan Ph
 
 Critical takeaways include:
 
-* **Survival-Driven Architecture:** The shift to thousands of microservices and hundreds of internal tools was born from the necessity of speed and the failure of existing open-source solutions to handle **Uber** scale.  
+* **Survival-Driven Architecture:** The shift to thousands of microservices and hundreds of internal tools was born from the necessity of speed and the failure of existing open source solutions to handle **Uber** scale.  
 * **The Power of Reputation:** Career progression and successful recruiting are driven by long-term professional relationships and a reputation for excellence rather than intentional networking.  
 * **Operational Fearlessness:** Success in hyper-growth environments requires a willingness to redline the organization, tackling the hardest problems first to build institutional confidence.  
 * **AI as a Force Multiplier:** At **Faire**, AI is currently being used to double engineering output through techniques like swarm coding, though the fundamental value of inquisitive and innovative human talent remains unchanged.
@@ -941,7 +941,7 @@ In late 2014, **Uber** leadership mandated a launch in China within two months, 
 To prevent the backend API monolith from blocking development, [Pham](https://www.linkedin.com/in/thuanqpham) declared that all new features must be built as microservices.
 
 * **Project Darwin:** This initiative aimed to decompose the monolith. However, because the business continued to grow during the process, it took two years rather than the anticipated six months.  
-* **Tooling Necessity:** **Uber** built hundreds of internal tools, including Schemaless, M3, and Jaeger, because open-source solutions such as **PostgreSQL** and existing monitoring tools broke at **Uber** scale. In one instance, [Pham](https://www.linkedin.com/in/thuanqpham) had to seek consultants on **LinkedIn** because **PostgreSQL** would randomly fail within the kernel, threatening the entire service.
+* **Tooling Necessity:** **Uber** built hundreds of internal tools, including Schemaless, M3, and Jaeger, because open source solutions such as **PostgreSQL** and existing monitoring tools broke at **Uber** scale. In one instance, [Pham](https://www.linkedin.com/in/thuanqpham) had to seek consultants on **LinkedIn** because **PostgreSQL** would randomly fail within the kernel, threatening the entire service.
 
 ### **Organizational Structure**
 
@@ -994,7 +994,7 @@ Despite the rise of AI, [Pham](https://www.linkedin.com/in/thuanqpham) believes 
 | **Project Darwin** | The two-year effort to decompose the **Uber** API monolith. |
 | **Project ARC** | An initiative to simplify the microservices ecosystem by adding domain interfaces. |
 | **Swarm Coding** | The use of multiple AI agents and an orchestrator to accelerate engineering output. |
-| **Schemaless** | A custom trip data store developed when open-source databases failed at scale. |
+| **Schemaless** | A custom trip data store developed when open source databases failed at scale. |
 | **M3** | An internal observability and monitoring tool created by **Uber**. |
 
 # Episode 057
@@ -1481,3 +1481,90 @@ Rust includes an escape hatch called unsafe, which allows for operations that th
 ## **Conclusion**
 
 The growth of Rust is attributed to its ability to address the mistakes programmers repeatedly make in other languages. By moving checks from runtime to compile time and providing a robust framework for community governance, Rust has established itself as a premier choice for building reliable and performant software. Significant contributions from organizations like **Mozilla**, **Amazon**, and **Google**, alongside its adoption in the Linux kernel, indicate a long term trajectory toward replacing less safe systems languages.
+
+# Episode 062
+
+# **Dax Raad on AI Engineering and the Growth of OpenCode**
+
+## **Executive Summary**
+
+This document synthesizes the key insights and strategic perspectives of [Dax Raad](https://thdxr.com/), co-founder of **OpenCode**, regarding the current state of AI assisted software development, market dynamics between major model providers, and the reality of engineering productivity.
+
+The transition to AI augmented coding has produced a paradox where the mechanical process of writing code has become significantly easier, yet the cognitive load of engineering remains at peak levels. **OpenCode** has achieved rapid scale, reaching nearly 10 million active users in less than a year, by positioning itself as the neutral, open source alternative to proprietary agents. Key takeaways from this analysis include:
+
+* **Productivity Disconnect:** While AI agents allow for faster feature output, they often lead to the accumulation of technical debt, because they lack the emotional feedback loop, or the prickle that prevents human engineers from shipping low quality hacks.  
+* **Strategic Market Neutrality:** By remaining open source, **OpenCode** leverages competition between giants like **OpenAI** and **Anthropic**, serving as a distribution channel that allows these companies to gain leverage over one another.  
+* **Inference Economics:** AI inference is proving to be highly profitable with margins reaching up to 80 or 90 percent for established players, though supply chain bottlenecks for GPUs remain a critical constraint.  
+* **Engineering Leadership:** Future success depends on establishing rigorous guardrails and using established design patterns to manage the high volume of code generated by AI agents, which are currently viewed as highly productive but potentially erratic contributors.
+
+## **The Growth and Strategy of OpenCode**
+
+**OpenCode** emerged as a solution to workflow annoyances experienced by its founding team, who previously worked on **SST** and **OpenNext**. The platform moved from 650,000 monthly active users in December to 2.5 million in January, eventually reaching approximately 8 million monthly active users.
+
+### **Market Positioning and The Neutral Party Strategy**
+
+The success of **OpenCode** is attributed to its positioning in the open source territory, which was largely unoccupied by other coding agents. The company utilizes a strategy of identifying a temporary bad guy among competitors to galvanize industry support.
+
+| Event | Strategic Response | Result |
+| :---- | :---- | :---- |
+| **Anthropic** Block | **Anthropic** blocked **OpenCode** users from using their subscriptions. | **OpenCode** partnered with **OpenAI** the next morning for a PR win. |
+| Vendor Competition | **OpenCode** remains a neutral party for all major models. | Billions of dollars in model investment from **Microsoft**, **Google**, and **OpenAI** flow through **OpenCode**. |
+| Friction Reduction | Focused on terminal rendering and ground up framework development. | Created a high quality consumer like experience that outperformed jankier competitors. |
+
+## **The AI Productivity Paradox**
+
+Despite the speed of AI agents, there is a significant risk that the net result of these tools, is simply making engineers happier by making their jobs easier, rather than actually increasing the amount of quality work completed.
+
+### **The Erosion of Professional Judgment**
+
+A critical observation in the current engineering landscape, is the loss of the muted prickle, the feeling of guilt or hesitation an engineer feels when implementing a hacky solution. Because agents do not have feelings, they will execute hacks without warning, leading to several organizational challenges:
+
+* **Turbocharged Technical Debt:** AI agents make it too easy to ship features that should not have been shipped or to accept architectural compromises.  
+* **The Frankenstein Product:** Continuous prompting without a cohesive vision leads to products that lack consistency and become difficult to support.  
+* **The 96 Percent Rule:** In the pre AI era, engineers might spend 95 percent of their time thinking and 5 percent doing, now the ratio has shifted slightly to 96 percent thinking and 4 percent doing, keeping the difficulty of the job largely unchanged.
+
+### **Redefining the Engineering Role**
+
+Engineering leadership is shifting toward creating guardrails. Engineers are moving away from manual typing and toward a role more akin to a system designer who ensures that agents can safely ship code. This includes a return to verbose enterprise patterns, such as domain driven design, because while these patterns are tedious for humans to write, they provide the structure necessary for AI agents to operate reliably.
+
+## **Infrastructure and Economics of AI**
+
+The business side of AI is currently defined by high margins and severe hardware shortages. **OpenCode** has expanded into an inference service called **OpenCode** Zen, which reached a 50 million dollar run rate within five to six months.
+
+### **Profitability and GPU Bottlenecks**
+
+Inference is identified as one of the most profitable businesses in technology, with the floor of the cost being primarily electricity after the initial capital expenditure on hardware.
+
+* **Profit Margins:** Some models offer up to 80 percent margins between the sticker price and the hosting cost.  
+* **Supply Chain Tightness:** GPU supply is currently a major bottleneck, forcing even mid sized companies like **OpenCode** to pay large sums upfront to reserve capacity.  
+* **Large Cap Domination:** Companies like **Amazon**, **Meta**, and **Google** are spending tens of billions of dollars, effectively vacuuming up the supply chain and making it difficult for smaller startups to negotiate with hardware providers.
+
+## **Organizational Principles and Quality**
+
+**OpenCode** maintains a small team of approximately 20 people, emphasizing high salaries for elite talent over large, less motivated workforces. The company operates on the belief that quality is a primary differentiator against larger incumbents like **GitHub** or **Vercel**.
+
+### **Feedback Loops and Building in Public**
+
+As an open source company, **OpenCode** uses direct public feedback from **X** and **GitHub** issues to drive its roadmap. This creates an environment where no one is insulated from the consequences of their engineering decisions. The team focuses on getting features through a painful zero to one phase quickly, then allowing the community to help flesh out the details.
+
+### **The Role of Taste**
+
+Taste and craft remain essential, because products are rotting faster than ever due to automated agent workflows.
+
+"If you start to be lazy in one place, you start to become lazy everywhere, it's like an infection."
+
+To combat this, the team at **OpenCode** invests in irrational quality, such as building a custom terminal rendering framework rather than using existing libraries, to ensure the user experience is distinctive and polished.
+
+## **Important Quotes**
+
+"The 24 to 29 year old engineer will soon become the most valuable asset in technology because they have pre AI principles and post AI speed."
+
+"Objectively, stuff has become easier, but then, why am I thinking as hard as I ever have."
+
+"Every single prediction that you see is happening, that past 10ish years of building dev tools and understanding dynamics is really helping."
+
+"A defense mechanism is to confidently assert a future in which you're a winner, and that's almost what every single prediction that you see is happening."
+
+"The moment you ship something, you're stuck supporting it forever, and by supporting it means any future feature you build is going to like interact with it."
+
+"There is a world where the net result of all these AI coding tools is the same amount of work gets done, but all the engineers are happier cuz their job is easier."
