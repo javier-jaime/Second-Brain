@@ -4187,3 +4187,139 @@ The bank’s client acquisition is entirely referral driven, with existing clien
 * **Regulatory Modernization:** Continuing to work with the **Federal Reserve** and other bodies to update banking regulation for the digital and AI age.
 
 [Reses](https://www.linkedin.com/in/jacqueline-reses-938b7850) concludes that her focus remains on building durable value through products that offer a clear use case, maintaining a belief that "When faced with something that's pretty unprecedented and hairy like, I run straight into that fire."
+
+# Episode 145
+
+# **Manufacturing and Material Synthesis for PsiQuantum Silicon Photonic Chipsets**
+
+## **Executive Summary**
+
+The development of a single photon quantum computer by **PsiQuantum** relies on the integration of advanced crystalline thin films onto standard silicon technology platforms. The primary manufacturing vehicle is the 300mm wafer, which allows the technology to align with existing high volume semiconductor production lines. A specialized process called Molecular Beam Epitaxy (MBE), is utilized to grow complex oxide structures, specifically Barium Titanium Oxide (BTO) and Strontium Titanium Oxide (STO), onto silicon substrates. These films, ranging from a few nanometers to several hundred nanometers in thickness, are critical for the properties required in quantum computing. The manufacturing process involves extreme environmental controls, including high vacuum states and ultra clean room environments, to prevent defects and contamination. Once the foundational BTO layers are grown at the MBE facility, the wafers are transported to **GlobalFoundries** for integration into the broader manufacturing flow.
+
+## **Advanced Material Composition and Thin Film Synthesis**
+
+The functionality of the **PsiQuantum** chipset depends on the successful synthesis of specific crystalline structures. These materials are difficult to produce due to their complex atomic ratios and the precision required at the nanometer scale.
+
+* **Material Types:** The process focuses on Strontium Titanium Oxide (STO) and Barium Titanium Oxide (BTO).  
+* **Atomic Structure:** Each material consists of three distinct elements, such as strontium, titanium, and oxygen. Achieving the correct structural corporate film requires precise control over the ratio of these three elements.  
+* **Film Thickness:** The films are extremely thin, measured from a few nanometers to a few hundred nanometers.  
+* **Critical Performance Factors:** "The high property that we need for a single photon quantum computer depends on the property out of this film's composition ratio to each other and crystal structure of the final thin film."  
+* **Optical Characteristics:** The uniformity of the films is verified through light reflection. Differences in the observed color of a wafer indicate variations in film thickness due to the interference of light as it reflects through the film.
+
+## **Molecular Beam Epitaxy (MBE) Process Mechanics**
+
+The MBE machine is a specialized piece of equipment designed to create crystalline structures by evaporating metals in a controlled environment.
+
+| Feature | Specification / Description |
+| :---- | :---- |
+| **Vacuum Level** | High vacuum reaching 10 to the minus 10\. |
+| **Source Materials** | Metals including strontium, barium, and titanium are hosted in crucible containers. |
+| **Evaporation Mechanism** | Metals are heated beyond their melting point until they extend from the surface toward the wafer. |
+| **Wafer Orientation** | The silicon wafer sits in the middle of the container facing downward while the metal vapor moves upward. |
+| **Growth Rate** | The process is intentionally slow to prevent defects in the crystalline structure. |
+| **Monitoring** | An electron beam is used to strike the lattice, and the resulting reflection signal provides data on the lattice definition. |
+
+To maintain purity, the chamber utilizes a specific cooling mechanism. A 50 degree Celsius coolant is provided through tubes, while the walls of the chamber are cooled to minus 10 or 20 degrees Celsius. This ensures that high temperature metal hitting the walls condenses immediately rather than bouncing back onto the wafer, which would compromise the purity of the film.
+
+## **Environmental Controls and Cleanroom Requirements**
+
+Because these wafers are eventually processed in a standard silicon technology line, they must adhere to strict cleanliness protocols to avoid introducing contaminants into the larger manufacturing ecosystem.
+
+* **Cleanroom Classifications:** The facility utilizes cleanrooms classified as Class 1000 and Class 100\. The Class 100 environment maintains an extremely low particle count per cubic unit of space.  
+* **Particle Defect Prevention:** "In a silicon semiconductor industry, the particle defect usually in the air moisture, particles in the air usually cause some defectivity inside the silicon, that will cause some degraded performance out of any device you want to make out of silicon."  
+* **Protective Gear:** Staff wear bunny suits to prevent contamination. When refilling cells with heavy metals, full mask protection is required.  
+* **Automation:** To support high volume manufacturing, the transfer of wafers from the MBE machine into storage boxes, is fully automated with no manual operation.
+
+## **Industrial Integration and Supply Chain**
+
+The manufacturing strategy for **PsiQuantum** involves a hybrid approach, combining specialized material growth with large scale industrial fabrication.
+
+* **Collaboration with GlobalFoundries:** After the BTO or STO films are grown on the silicon wafers, they are shipped to **GlobalFoundries**. "We grow that BTO on top of there, and then we take that VCO, and then ship it to global foundries, where it gets integrated into the rest of the manufacturing process."  
+* **Standardization:** The use of 300mm wafers is a deliberate choice because it is the current most advanced technology in the silicon industry, allowing the quantum components to be compatible with existing infrastructure.  
+* **Component Testing:** Before high volume manufacturing, components are tested in a high vacuum, high temperature chamber to observe their behavior and ensure quality.  
+* **Material Sourcing:** The process requires rare metals. While **PsiQuantum** currently relies on a limited number of vendors, they are in the process of qualifying more suppliers to secure the production supply chain.
+
+# Episode 146
+
+# **The Invisible Layer in AI Infrastructure: Merge and the Evolving SaaS Landscape**
+
+## **Executive Summary**
+
+**Merge** provides critical connectivity and integration infrastructure for major organizations including **OpenAI**, **Netflix**, **JPMorgan**, and **Uber**. The company has recently undergone a strategic pivot to prioritize three primary AI focused efforts: using AI aggressively for internal operations, adjusting their core products for AI native companies, and launching new products specifically for the agentic era.
+
+The current technological shift is characterized by a transition from deterministic, engineer led integrations to non deterministic agents that require robust governance. Key challenges identified include the rise of supply chain attacks through agent generated code, the high cost of model usage for enterprises, and the evolution of software toward a headless, UI-less future. **Merge** addresses these through a product suite consisting of Merge Unified, Merge Agent Handler, and Merge Gateway, focusing on high availability, security guardrails, and cost optimization.
+
+## **Core Product Architecture and Use Cases**
+
+**Merge** has developed a suite of tools designed to manage the flow of data and the orchestration of AI models within the enterprise.
+
+* **Merge Unified:** This original product enables companies to sync, ingest, and normalize data. It is primarily used to power enterprise search and Retrieval Augmented Generation (RAG) by providing a clean data layer for customers.  
+* **Merge Agent Handler:** This serves as a Model Context Protocol (MCP) server that allows developers to offer hundreds of integrations within AI agents. It is utilized for both internal company agents and external customer support bots.  
+* **Merge Gateway:** This infrastructure allows organizations to switch between hundreds of different AI models. It routes traffic based on smart policies, cost saving measures, and security layers, providing dashboards to monitor enterprise AI spend.
+
+"We power critical functions for a lot of businesses."
+
+## **The Shift in Sales and Customer Dynamics**
+
+The sales experience in the AI sector differs significantly from traditional software sales, particularly regarding buyer expertise and speed.
+
+* **Sales Cycles:** Large financial services companies like **JPMorgan** or **US Bank** typically have longer deal cycles. In contrast, AI native companies purchase much faster due to fierce competition.  
+* **Buyer Expertise:** While traditional software buyers previously employed API experts to ask detailed technical questions, current buyers often lack experience with integrations and rely on **Merge** to define best practices.  
+* **Deployment Preferences:** There is a recurring tension between multi-tenant cloud solutions and on-premise infrastructure. While trust in the cloud is returning, many enterprises still demand that AI models run within their own infrastructure to maintain data privacy.  
+* **The Headless Transition:** Modern software is moving toward a headless model where agents interact via APIs or Command Line Interface (CLI) tools rather than traditional User Interfaces (UI). This approach, adopted by companies like **Salesforce**, allows for seamless integration into agentic workflows.
+
+"An agent can make the choice, and also headless really removes a lot of the barrier of learning any new platform."
+
+## **Cybersecurity and Governance in the AI Era**
+
+The integration of AI agents into corporate systems introduces novel security risks that traditional frameworks are not equipped to handle.
+
+### **The Problem of Non Deterministic Agents**
+
+Unlike traditional code written by engineers to perform specific, deterministic tasks, AI agents can behave unpredictably. Without hard guardrails, agents might inadvertently send sensitive data, such as Social Security numbers or bank details, across system boundaries.
+
+### **Supply Chain and Bot Attacks**
+
+* **Automated Vulnerabilities:** The volume of code changes pushed to platforms like **GitHub** has surged due to AI agents. This makes it difficult for humans to review all code, increasing the risk of malicious vulnerabilities being injected into open source packages.  
+* **Automated Scanning:** Companies are facing frequent bot attacks where automated scanners, potentially powered by AI, probe endpoints for vulnerabilities.  
+* **Data Leakage:** A primary concern for organizations is data leaving the system. **Merge** implements jailbreak detection and sensitive data blocking to prevent unauthorized data movement.
+
+"The second you connect it to tools, which is what everyone is trying to do right now, that's where everything goes wrong."
+
+### **Internal Threats and Recruitment**
+
+The greatest security threat remains internal. **Merge** emphasizes rigorous background checks and reference calls to mitigate the risk of compromised accounts or insider threats.
+
+## **Organizational Culture and High Agency Talent**
+
+To adapt to the rapid pace of AI development, **Merge** has implemented specific internal cultural and hiring practices.
+
+* **Internal AI Adoption:** Use of AI is a performance requirement at **Merge**. Teams across R\&D, accounting, recruiting, and finance use tools like **Anthropic** Claude and **Cursor** to automate tasks.  
+* **The Barrels vs. Ammunition Framework:** This philosophy distinguishes between ammunition (employees who excel at specific tasks) and barrels (high agency individuals who can independently drive projects to completion). The rise of AI coding tools has increased the demand for barrels who can leverage AI to achieve the output of entire teams.  
+* **Missionaries vs. Mercenaries:** **Merge** filters for talent interested in the long term mission rather than those seeking high cash compensation or low risk environments.
+
+"If you don't do it, it does, it is a part of your performance."
+
+## **Market Trends and the Future of SaaS**
+
+The landscape for Software as a Service (SaaS) is facing a potential apocalypse as AI makes it easier to build custom internal tools.
+
+* **Build vs. Buy:** The cost of building a product in-house has dropped significantly, reducing the leverage SaaS vendors have during renewals.  
+* **English as a Programming Language:** As AI models become more capable, natural language is becoming the primary interface for software development and automation.  
+* **Model Over-Engineering:** A common mistake in the current market is companies over-engineering their machine learning usage by training custom models when a generic model would suffice, often at the expense of product quality.  
+* **Valuation Discrepancies:** There is a significant gap between public and private market valuations. Some AI companies are raising capital at multiples of 100x to 1,000x their revenue, which may lead to future failures or massive layoffs, if they cannot sustain growth.
+
+"English becomes your programming language."
+
+## **Summary of Key Partnerships and Clients**
+
+**Merge** maintains a diverse client base across multiple sectors:
+
+| Sector | Notable Clients |
+| :---- | :---- |
+| **AI and LLMs** | **OpenAI**, **Perplexity**, **Mistral**, **Anthropic**, **Scale AI** |
+| **Financial Services** | **JPMorgan**, **US Bank**, **Brex**, **Plaid** |
+| **Enterprise SaaS** | **Netflix**, **Uber**, **Dropbox**, **Freshworks**, **Slack**, **Salesforce** |
+| **Security and Compliance** | **Drata**, **Vanta**, **Spreo**, **Whiz** |
+| **Logistics and Operations** | **DoorDash**, **ServiceTitan**, **Flexport** |
+
