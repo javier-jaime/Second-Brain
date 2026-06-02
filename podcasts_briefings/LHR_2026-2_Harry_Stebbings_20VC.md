@@ -2212,7 +2212,7 @@ The United States maintains a significant advantage over Europe due to the aggre
 
 "The labs tend to prefer partnering with a very horizontally capable vendor, that is able to flex across all of the different verticals, and scale extremely quickly rather than working with a 100 different vendors."
 
-"I think we're seeing in real time, that services are getting automated."
+"I think we're seeing in real time that services are getting automated."
 
 "I could definitely see one of them being a 10 trillion company, maybe even significantly higher."
 
