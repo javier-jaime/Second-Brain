@@ -4323,3 +4323,194 @@ The landscape for Software as a Service (SaaS) is facing a potential apocalypse 
 | **Security and Compliance** | **Drata**, **Vanta**, **Spreo**, **Whiz** |
 | **Logistics and Operations** | **DoorDash**, **ServiceTitan**, **Flexport** |
 
+# Episode 147
+
+# **Eric Romo on Impulse Space Operations and Market Positioning**
+
+## **Executive Summary**
+
+**Impulse Space** has transitioned from a specialized propulsion startup into a major aerospace entity, recently securing a 500 million dollar Series D funding round that elevated its total capitalization to over 1.025 billion dollars. Led by **SpaceX** veteran [Tom Mueller](https://www.linkedin.com/in/thomas-mueller-2094513b) and President [Eric Romo](https://www.linkedin.com/in/eric-romo), the company focuses on high performance space vehicles designed for rapid orbital maneuvering and logistics. The primary product lines include Helios, a high energy third stage for medium launch vehicles, and Mera, a high thrust vehicle serving the defense sector. While the company initially explored the commercial low earth orbit (LEO) orbital transfer market, it pivoted after determining the economic fundamentals were insufficient. Current growth is driven by the demand for rapid access to geostationary orbit (GEO) and a critical need for space based defense assets to protect national security interests against adversaries such as China and Russia.
+
+## **Financial Overview and Capitalization**
+
+The recent 500 million dollar Series D round represents a significant milestone for **Impulse Space**, though leadership views this capital as a mandate for increased performance rather than a simple success metric.
+
+* **Funding Details:** The round was led by **137 Ventures** and **Banner VC**. **137 Ventures** is a long term **SpaceX** shareholder, while the General Partner at **Banner VC** had a prior relationship with **Impulse Space** through a previous fund.  
+* **Oversubscription:** The round was heavily oversubscribed by internal investors, leading to a rapid closing process.  
+* **Strategic Use of Funds:** The capital is allocated toward hiring technical talent, expanding facilities, and capitalizing the business to allow for forward leaning execution.  
+* **Valuation and Responsibility:** "That just means the bar just got higher for us." This funding necessitates the building of a large scale business capable of returning significant capital to shareholders.
+
+## **Product Portfolio and Market Applications**
+
+**Impulse Space** maintains three distinct product lines, each targeting specific gaps in the current launch and orbital transfer market.
+
+### **Helios**
+
+Helios is designed as a third stage for medium launch vehicles, such as the Falcon 9 produced by **SpaceX**.
+
+* **Primary Value Proposition:** Helios enables payloads to reach GEO within approximately eight hours of launch. Traditional methods involve a geostationary transfer orbit (GTO) that requires six to ten months of orbit raising.  
+* **Economic Impact:** The time saved represents tens of millions of dollars in pulled forward revenue for satellite operators. Additionally, it eliminates the need for expensive fuel for orbit raising and reduces exposure to radiation belts, which can lower spacecraft manufacturing costs.  
+* **Market Position:** Helios provides a lower cost alternative to the Falcon Heavy, which is currently the primary option for direct to GEO insertion but is rarely used for commercial flights due to its high cost and launch pad scheduling constraints.
+
+### **Mera**
+
+Mera is a high thrust, high delta V vehicle that has found its primary product market fit within the defense sector.
+
+* **Production Scaling:** The company is scaling production to build one Mera vehicle per month.  
+* **Defense Functionality:** Unlike a slow orbital tug, Mera is described as being closer to a fighter jet. It is designed to move rapidly to characterize foreign actor spacecraft in contested environments.  
+* **Space Force Collaboration:** Development has been closely aligned with Space Force requirements, focusing on rapid repositioning and asset protection.
+
+### **Caravan**
+
+Caravan serves as a rideshare service specifically for the GEO market, effectively acting as a **SpaceX** Transporter equivalent for high altitude orbits.
+
+* **Market Demand:** It targets the growing trend of smaller GEO spacecraft, exemplified by companies like **Astronis**.  
+* **Operational Model:** **Impulse Space** aggregates multiple small satellites, sometimes four to seven per flight, to provide direct to GEO access that was previously unavailable to smaller payloads.
+
+## **Strategic Pivot and Market Analysis**
+
+The current strategy of **Impulse Space** is the result of a rigorous analysis of orbital dynamics and market economics that led the company away from its original LEO focused goals.
+
+### **Rejection of the LEO Tug Model**
+
+The company identified several critical flaws in the commercial LEO orbital transfer vehicle (OTV) market:
+
+* **Skinny Margins:** Gross margins were estimated at only 20 percent, which is considered insufficient for hardware-intensive businesses.  
+* **Working Capital Challenges:** Serving the market would require prepurchasing tens of millions of dollars in launch capacity from providers like **SpaceX** or **Rocket Lab**, creating a heavy financial burden for a startup.  
+* **Limited Market Size:** The pitch relied on stealing market share from small launch providers like **Rocket Lab**, a market that was not deemed large enough to support the necessary scale.  
+* **Economic Dead End:** "The answer when we looked at the economics was, yeah actually you can maybe save like a million, maybe a little bit more than a million dollars for that customer, maybe you end up charging them seven or something all in instead of eight."
+
+### **The Tugboat vs. Fighter Jet Distinction**
+
+Leadership explicitly rejects the term tug for their vehicles, particularly regarding the defense market. The company views the market for orbital debris remediation as economically unviable at present, describing it as having very little current economic value. Instead, the focus is on high performance maneuvers that provide tactical advantages.
+
+## **National Security and Defense Context**
+
+The defense market has become a primary driver for **Impulse Space** due to shifting geopolitical realities in space.
+
+* **Adversary Capabilities:** China is actively working to duplicate United States launch capacity, while previous understandings with Russia regarding the safety of space assets are perceived to be breaking down.  
+* **Defensive Strategies:** In LEO, the strategy is proliferation, using thousands of small satellites to overwhelm an attacker. However, the volume of space between LEO and GEO is a million times larger, making proliferation impractical.  
+* **The Need for Mobility:** Defending assets in deep space requires vehicles like Mera that can patrol, act as bodyguards for high value satellites like GPS constellations, and rapidly approach unknown objects to determine if they possess hostile capabilities such as robot arms or weapons.  
+* **Intelligence Gaps:** "The reality is from the ground we don't know what that thing is." High speed maneuverability is the only way to effectively characterize potential threats in GEO.
+
+## **Operational Philosophy and SpaceX Heritage**
+
+The operational DNA of **Impulse Space** is heavily influenced by the early experiences of [Tom Mueller](https://www.linkedin.com/in/thomas-mueller-2094513b) and [Eric Romo](https://www.linkedin.com/in/eric-romo) at **SpaceX**.
+
+### **Iteration Speed and Insourcing**
+
+A core lesson from the early days of **SpaceX** was the necessity of internalizing manufacturing to reduce cycle times.
+
+* **Reducing Cycle Time:** Relying on outside vendors often leads to two week delays for simple part changes, which stalls development.  
+* **Vertical Integration:** **Impulse Space** emphasizes building components in house to ensure that engineers can test and modify designs immediately.  
+* **Risk Mitigation:** Insourcing reduces the supply chain risk inherent in the traditional aerospace model of using hundreds of suppliers across different states.
+
+### **Responsible Engineering**
+
+The company employs a hiring and management philosophy known as responsible engineering.
+
+* **Single Point of Accountability:** Individuals are given total ownership over specific parts, vehicles, or processes.  
+* **Hiring Focus:** The company aims to add approximately 200 more owners to its staff, focusing almost exclusively on technical talent, including engineers and machinists.  
+* **Growth Caution:** "Startups don't die from starvation they die from indigestion." Leadership maintains a balance between pursuing opportunities and ensuring the organization can execute on its current commitments.
+
+## **Future Milestones**
+
+The company is focused on several high priority technical and contractual milestones over the next year:
+
+* **Helios Development:** Continued testing of the Helios engine, which has already been fired hundreds of times, and moving toward vertical test stand operations in the desert.  
+* **Mera Production:** Fulfilling existing contracts for Mera vehicles and scaling the manufacturing floor.  
+* **Engine Innovation:** Advancing the development of the RALE engine for a wide range of future programs.  
+* **Operational Scaling:** Expanding the workforce from nearly 500 employees to include even more specialized technical talent to meet the Freedom to Execute enabled by the Series D funding.
+
+# Episode 148
+
+# **Tom Mueller on Impulse Space Orbital Logistics and In-Space Transportation**
+
+## **Executive Summary**
+
+The space industry is undergoing a fundamental shift from solving the challenge of Earth to orbit launch to managing complex logistics within space itself. [Tom Mueller](https://www.linkedin.com/in/thomas-mueller-2094513b), a founding employee of **SpaceX** and the lead architect of the Merlin engine, has established **Impulse Space** to address this emerging market. The company focuses on in-space transportation, providing the necessary infrastructure to move payloads between orbits, deliver cargo to the moon, and facilitate deep space missions. By leveraging high performance propulsion, 3D printing, and vertical integration, **Impulse Space** aims to create a dedicated third stage for modern rockets, significantly increasing payload efficiency to Geostationary Earth Orbit (GEO), the moon, and Mars.
+
+## **Strategic Mission and Organizational Philosophy**
+
+The foundational premise of **Impulse Space** is that while the launch sector is largely solved by companies like **SpaceX**, the ability to maneuver and transport cargo effectively once in orbit remains a critical gap.
+
+* **Shift in Focus:** The company identifies the next major opportunity as in-space transportation, which involves moving assets from Low Earth Orbit (LEO) to higher orbits or lunar trajectories.  
+* **Vertical Integration:** Core to the business is extreme vertical integration. **Impulse Space** maintains a machine shop, assembly areas, and test facilities in a single location to enable rapid prototyping and iteration.  
+* **Iterative Development:** The development philosophy emphasizes fast testing and repeated iterations to reach a high quality product. [Mueller](https://www.linkedin.com/in/thomas-mueller-2094513b) notes, "I always say it takes really three three iterations to get to a really really tight product."  
+* **Talent Acquisition:** Success is attributed to recruiting high level talent and maintaining an atmosphere of urgency, a strategy inherited from [Mueller](https://www.linkedin.com/in/thomas-mueller-2094513b)'s experience at **SpaceX**.
+
+## **Vehicle Architecture and Capabilities**
+
+**Impulse Space** is developing two primary classes of vehicles designed for different mission profiles, known as Mirror and Helios.
+
+### **Mirror: Orbital Maneuvering Vehicle**
+
+Mirror is designed as a highly propulsive maneuvering vehicle capable of staying in space for up to five years.
+
+* **Propulsion:** It utilizes eight Saiph thrusters, each providing six pounds of thrust for a total of nearly 50 pounds of thrust.  
+* **Attitude Control:** The vehicle uses reaction wheels for precise steering and steerable solar panels to maintain power positivity regardless of spacecraft orientation.  
+* **Structure:** The internal chassis contains three propellant tanks, two for oxidizer and one for fuel. The electronics are housed in a protected enclosure referred to as the vault.  
+* **Operational History:** Three Mirror spacecraft are currently in orbit. In previous operations, two vehicles successfully performed a rendezvous, coming within 1,200 meters of each other.
+
+### **Helios: High-Energy Transfer Vehicle**
+
+Helios serves as a high performance stage that adds a third stage to traditional two stage rockets.
+
+* **Capacity:** It features a propellant tank holding 12 tons of liquid oxygen and liquid methane.  
+* **Mission Profile:** It is designed to transport a four ton satellite from LEO to Geostationary Orbit, escaping the majority of Earth's gravity well.  
+* **Interplanetary Reach:** When launched on a Falcon 9, Helios can deliver five tons of payload to the moon or increase the payload delivered to Mars by a factor of five.
+
+## **Propulsion Systems and Engineering**
+
+The engines developed by **Impulse Space** are named after stars and utilize advanced combustion cycles and manufacturing techniques.
+
+### **The Denib Engine**
+
+The Denib engine is the primary mover for the Helios vehicle, designed for high thrust and performance.
+
+* **Specifications:** It provides 15,000 pounds of thrust and utilizes an oxygen rich staged combustion cycle.  
+* **Performance:** It is projected to have an ISP (Specific Impulse) of nearly 400 seconds. [Mueller](https://www.linkedin.com/in/thomas-mueller-2094513b) states, "This engine will probably be the highest performing hydrocarbon engine ever flown because it has a very high area ratio."  
+* **Materials:** The combustion chamber is made of copper forgings to handle intense heat, while the nozzle features a carbon skirt that can operate at temperatures exceeding 3,000 degrees Fahrenheit.
+
+### **The Saiph Thruster**
+
+These smaller, six pound thrusters are used for the Mirror vehicle's maneuvering.
+
+* **Cooling:** The thrusters use a combination of radiation cooling for the nozzle and propellant cooling for the forward sections.  
+* **Precision:** They are capable of both steady state firing and pulse width modulation to achieve precise steering.
+
+## **Manufacturing and Technical Innovations**
+
+**Impulse Space** utilizes cutting edge manufacturing to reduce mass and complexity while controlling costs.
+
+* **3D Printing:** This technology is described as a vital advantage for rocket engine production. Most engine components, including complex injectors and cooling passages, are 3D printed. This avoids the difficulties of traditional machining, welding, and brazing.  
+* **Advanced Alloys:** The company uses proprietary alloys like Novaloy, a burn resistant nickel alloy suitable for high pressure hot oxygen environments.  
+* **Composite Overwrapped Pressure Vessels (COPVs):** To minimize spacecraft mass, **Impulse Space** manufactures COPVs in-house. These tanks use an aluminum liner overwrapped with carbon fiber, making them approximately half the weight of traditional metallic tanks.  
+* **Software Integration:** Modern hardware development is supported by autonomous software, AI for coding and design, and generative software for 3D printing optimization.
+
+## **Long Term Strategic Visions**
+
+The leadership of **Impulse Space** envisions a future where space infrastructure supports the critical resource needs of Earth.
+
+### **Space-Based Data Centers**
+
+[Mueller](https://www.linkedin.com/in/thomas-mueller-2094513b) argues that moving computation to space is a logical step due to the massive power requirements and resource consumption of terrestrial data centers.
+
+* **Resource Constraints:** Earth based power use and copper requirements for data centers are growing at unsustainable rates.  
+* **The Space Solution:** Space offers unlimited solar power and a simplified environment for megastructures where the only input is power and the only output is data, transmitted via lasers.
+
+### **Lunar and Nuclear Development**
+
+The moon is identified as a more critical near term priority than Mars.
+
+* **Lunar Base:** There is a strong emphasis on establishing a permanent presence on the moon. [Mueller](https://www.linkedin.com/in/thomas-mueller-2094513b) states, "We're going to build a base on the moon and we're going to stay there."  
+* **Lunar Mining:** The solar system, specifically the moon and asteroids, contains an almost infinite supply of materials like copper to offset Earth's depleting resources.  
+* **Nuclear Propulsion:** Nuclear electric propulsion is viewed as the necessary next step for deep space exploration, particularly for missions to the outer planets where solar energy is insufficient.
+
+## **Support Infrastructure and Partnerships**
+
+**Impulse Space** operates within a broader ecosystem of space and technology companies.
+
+* **Vast:** **Impulse Space** provided the entire propulsion system, including thrusters, for the **Vast** space station.  
+* **LeoLabs:** The company utilizes tracking data from commercial entities like **LeoLabs** and the **Air Force** to perform collision avoidance maneuvers.  
+* **SpaceX:** The ongoing success of **SpaceX**, particularly the **Starlink** business, provides the launch cadence necessary for **Impulse Space** to thrive as a provider of orbital logistics.
