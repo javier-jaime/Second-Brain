@@ -1,3 +1,47 @@
+# 2026-1 Sourcery
+
+| Company | Interviewees | Key Metrics or Revenue | Core AI or Tech Strategy | Market Vertical | Primary Headquarters / Office Locations | Notable Partnerships |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| **Anduril** | [Kyle Harrison](https://www.linkedin.com/in/kyle-harrison-9274b278) | $30B-$60B reported/rumored valuation range. | Software-defined hardware; Lattice AI (sensor fusion brain); autonomous systems; mosaic warfare. | Defense Technology and National Security | Costa Mesa, CA; Sydney, Australia (Ghost Shark factory) | Founders Fund, General Catalyst, Contrary, Hyundai |
+| **Robinhood** | [Vlad Tenev](https://www.linkedin.com/in/vlad-tenev-7037591b) | 11 business lines generate $100M+ in annual revenue; 4M gold subscribers; \~$100B Market Cap; $350B assets under custody. | Robinhood Cortex (AI assistant with full financial context); Tokenization of 1,500 stocks in Europe; 24/7 trading using crypto infrastructure. | Fintech / Consumer Brokerage | Menlo Park, CA (HQ) | Open Door (first partner for live-streaming earnings calls in-app); Bitstamp (institutional business). |
+| **Coatue** | [Jaimin Rangwalla](https://www.linkedin.com/in/jaimin-rangwalla-402a21/), [Thomas Laffont](https://www.linkedin.com/in/thomas-laffont-02430914) | Manages over $80 billion in assets; 200 people; portfolio includes companies adding $10B+ ARR a month (AI leaders); Anthropic revenue cited in excess of $13B-$14B. | Follow the GPU/Gigawatt units of growth; monitoring the AI supply chain (semiconductors, memory, optical, power); focus on "Big Idea Investing" (BFI) and risk management. | Investment Management (Public/Private Tech) | New York, NY (new office); Multiple global offices | Nvidia; TSMC; Anthropic; OpenAI; Intel; SpaceX; Revolut; Databricks. |
+| **Applied Intuition** | [Qasar Younis](https://www.linkedin.com/in/qasar), [Peter Ludwig](https://www.linkedin.com/in/peterwludwig) | $15 billion valuation; 1,400 employees (1,000 engineers); 18 of top 20 global automakers as customers; never spent raised primary capital. | Physical AI (autonomous vehicles, robotics), end-to-end deep learning, transformers for robotics, vehicle operating systems, hardware/software abstraction. | Automotive, Defense, Trucking, Mining, Agriculture, Construction, Maritime. | Mountain View/Sunnyvale, CA; Detroit, MI; Washington, D.C.; Japan; India; UK; Munich, Germany; Australia (18 sites globally). | Stellantis, Isuzu, US Army, US Navy, US Air Force, General Dynamics, Sierra Nevada Corporation, Brex, Turing, Deel, Fundrise. |
+| **Roblox** | [David Baszucki](https://www.linkedin.com/in/davidbaszucki) | $6.8 billion in bookings; 35 billion hours of engagement (Q4); top creators earn $1.3 million average; $1.5 billion paid to developers. | Human co-experience platform; UGC; internal cloud with 40+ data centers; over 400 AI models; 3D/4D functional simulation; generative AI for world building. | Gaming, Social Communication, Education, Digital Economy. | San Mateo, CA | NFL, major sports leagues, various music artists (e.g., Bruno Mars). |
+| **Sequoia Capital** | [Shaun Maguire](https://www.linkedin.com/in/shaun-maguire-c), [Alfred Lin](https://www.linkedin.com/in/linalfred/) | SpaceX valued at $800B; Starlink had 9.2M subscribers; Sequoia distributed $43B to investors since 2020; fund history of 53 years. | Selective investing in LLMs and AI native companies; vertical integration and reusable rockets (SpaceX); emphasis on productivity gains and paradigm shifts in software moats. | Venture Capital / Growth Equity / Aerospace | Menlo Park, CA (Inferred); Hawthorne, CA; Starbase, TX. | Airbnb, DoorDash, Unity, Snowflake, Nvidia, Apple, Google, Citadel Securities, T-Mobile, United Airlines. |
+| **Zipline** | [Keller Rinaudo Cliffton](https://www.linkedin.com/in/kellerrc) | Raised over $625 million; 140 million commercial autonomous miles; saving 17,000 lives annually; serving 5,000 hospitals; system growing 15% week-over-week. | Automated logistics; vertical integration; internal design of flight computers and electric motors; autonomy team (ML, detect and avoid, computer vision); hardware-in-the-loop simulation. | Logistics, Healthcare, Retail/Instant Delivery. | South San Francisco, CA (HQ); operations in Rwanda, Africa, and several US metros (Dallas, Houston, Phoenix). | Walmart, Chipotle, Sweetgreen, Buffalo Wild Wings, Cleveland Clinic, OhioHealth, Michigan Medicine, Brex, Turing, Deel. |
+| **Uber** | [Dara Khosrowshahi](https://www.linkedin.com/in/dara-khosrowshahi-70949862) | Almost $10 billion in free cash flow last year; 50 million Uber 1 members; Available in 72+ countries. | Platform strategy, AI agents for customer service and coding, deep learning algorithms for pricing/matching, AV platform (integrating third-party robot drivers). | Transportation (Rides), Delivery (Eats, Grocery), Travel (Hotels). | San Francisco, CA; New York, NY; Amsterdam, Netherlands; India. | Expedia, Waymo, Zoox, Joby Aviation, Waive, WeRide, Brex, Turing, Public, Deel. |
+| **Figure** | [Brett Adcock](https://www.linkedin.com/in/brettadcock) | Nearly $2 billion raised; $3.9 billion valuation; goal of 1 million units per year. | Humanoid robotics; vertical hardware design (motors, sensors, batteries); Helix 2 AI model (Vision-Language-Action neural networks); reinforcement learning; physical AI. | Manufacturing, Logistics, Consumer/Home Robotics. | Sunnyvale, CA (Robot Campus); Pasadena, CA. | BMW, Jeff Bezos, Microsoft, Brex, Turing, Public, Deel. |
+| **Opendoor** | [Kaz Nejatian](https://ca.linkedin.com/in/kasranejatian), [Carrie Wheeler](https://www.linkedin.com/in/carrie-wheeler-b0825897), [Michael Judd](https://www.linkedin.com/in/michael-judd-43894560) | $2.8 billion bet; millions saved by cutting consulting fees; stock resurrected from $0.50 share price. | AI-driven home valuation and repair estimation; automated underwriting; video live streams for earnings; technical vertical integration of mortgage/escrow. | Real Estate (PropTech), Fintech, Mortgage Services. | San Francisco, CA; Poland (Engineering team). | Lennar, Robinhood, Brex, Turing, Deel. |
+| **Skydio** | [Adam Bry](https://www.linkedin.com/in/adambry) | $110 million Series F at $4.4 billion valuation; 4,000 customers; $50 million Army contract; hundreds of millions in revenue. | Autonomous flying sensors, computer vision AI, deep learning perception stacks, agentic AI, robotic arm for fixed-wing docking, end-to-end automated inspection. | Public Safety (Law Enforcement), Critical Infrastructure, Energy Utilities, Defense, Site Security. | Hayward, CA (Factory); San Mateo, CA. | Axon, Armada, US Army, NYPD, San Francisco PD, Brex, Turing, Public, Deel. |
+| **Impulse Space** | [Eric Romo](https://www.linkedin.com/in/eric-romo), [Tom Mueller](https://www.linkedin.com/in/thomas-mueller-2094513b) | $500 million Series D raised; total funding over $1.025 billion; nearly 500 employees. | High-performance orbital transfer vehicles (Helios and Mira); high-thrust propulsion systems (Denib engine); 3D printing of engine components (Novalloy). | Space / Aerospace / Defense | Manhattan Beach, CA; Mojave, CA. | SpaceX (Launch partner), Space Force, Astronis, SES, Vast (space station propulsion). |
+| **Deel** | [Alex Bouaziz](https://il.linkedin.com/in/alexbouaziz) | $1.4B+ ARR; $17B+ valuation; profitable for 3 years. | AI-native operations; AI workforce hub; autonomous agents for HR tasks (screening, performance plans). | Global Payroll, HR, and Compliance | Fully Remote (London mentioned as interviewee location) | Ribbit Capital, Andreessen Horowitz, Coatue, Arsenal (football club) |
+| **Snowflake** | [Sridhar Ramaswamy](https://www.linkedin.com/in/sridhar-ramaswamy) | Trillion dollar company vision; 5,000+ sales team; $6 trillion total value creation discussed. | Snowflake Intelligence (conversational AI interface), agentic platforms, coding agents, SQL queries on clinical data, integrating acquired observability tech (Observe). | Data Platform, Enterprise Software, Financial Services, Healthcare. | San Francisco, CA; Bozeman, MT. | NVIDIA, Anthropic, Salesforce, Gemini, Microsoft, Brex, Turing, Public. |
+| **Commure (formerly Athelas)** | [Tanay Tandon](https://www.linkedin.com/in/tanaytandon) | $70M raised on $7B valuation; $750M total raised; supports 200M patient encounters annually. | AI-powered OS for Healthcare; fine-tuned language models and agents for RCM (Revenue Cycle Management), ambient documentation, and back-office automation. | Healthtech / Healthcare Administration | Mountain View, CA (HQ); New York, NY; Boston, MA; Nashville, TN; Salt Lake City, UT; India; Bangladesh | HCA Healthcare; Tenet Healthcare; General Catalyst; Sequoia; Morgan Stanley; Epic; Meditech |
+| **Anthropic** | [Deepti Srivastava](https://www.linkedin.com/in/thedeepti) | $100 million Anthology Fund | Foundation models (Claude); Reinforcement Learning; Agentic systems. | AI Safety and Research | San Francisco, CA | Menlo Ventures (Anthology Fund) |
+| **Affirm** | [Max Levchin](https://www.linkedin.com/in/maxlevchin) | $47B-$48B in loans annually; 800,000 merchants onboarded via Shopify. | AI for merchant risk review and credit underwriting; using LLMs to increase developer productivity; 'sculpting' elegant code with agent assistance. | Fintech / Buy Now Pay Later (BNPL) | San Francisco, CA; Poland; UK; Madrid, Spain. | Shopify, Amazon, Wrecking Ball. |
+| **Lead Bank** | [Jackie Reses](https://www.linkedin.com/in/jacqueline-reses-938b7850) | $280 million revenue; $31 million net income; $180 million raised; $1.5 billion valuation. | Modern programmable/interoperable API infrastructure for fintech/crypto; AI-driven agentic commerce and automated underwriting. | Banking / Fintech Infrastructure / Crypto | Kansas City, MO | Ramp, Stripe, Atlas, Affirm, Revolute, Walmart (One Pay) |
+| **Armada** | [Dan Wright](https://www.linkedin.com/in/wrightdh) | Raised over $200 million; 6 gigawatts of stranded energy identified. | Hyperscaler for the edge using modular AI factories ("Galliens") and full-stack infrastructure to run powerful models locally without latency. | Energy (Oil & Gas), Defense, Mining, Logistics, Space. | Not in source | SpaceX (Starlink/Starshield), Microsoft (Azure Stack), Ramco, Skylo, OpenAI, Navy. |
+| **Exowatt** | [Hannan Parvizian](https://www.linkedin.com/in/hannanhappi/) | 10 GW backlog; Total funding $140 million; Aiming for 1 cent per kilowatt hour cost. | Solar thermal modularity, Fresnel lenses for heat concentration, heat battery (rock science), Sterling engine technology, behind-the-meter generation. | Energy, AI Infrastructure (Data Center Power), Industrial Heat. | Miami, FL | Atomic (Venture Studio), Sam Altman, Felicis, Brex, Turing, Public, Deel. |
+| **Fundrise (VCX)** | [Ben Miller](https://www.linkedin.com/in/benjamin-miller-b5b79a4) | Fund listed at $700M valuation; traded up to $6.5B; 100,000 investors at launch. | Public Venture Capital (PVC) structure; democratization of private tech ownership; using AI for customer service (Intercom/Finn). | Proptech / Fintech / Venture Capital | Los Angeles, CA (West Adams) | Ramp; Intercom; Anthropic; OpenAI; SpaceX; Data Bricks; Vanta |
+| **Brex** | [Pedro Franceschi](https://www.linkedin.com/in/pfranceschi) | $5.15B acquisition valuation by Capital One; 40-50% growth; borderline cash flow positive. | Agentic finance platform (audit agents, expense automation); accelerating AI roadmap by 2-3 years via acquisition; building financial infrastructure from the bottom up. | Fintech / Corporate Cards / B2B Finance | San Francisco, CA; global remote presence. | Capital One (Acquirer); Scale AI, DoorDash, Anthropic, Flexport. |
+| **Nominal** | [Cameron McCord](https://www.linkedin.com/in/cameron-mccord), [Trae Stephens](https://www.linkedin.com/in/trae-stephens-485a811/) | $1.4B valuation (inferred); $80M Series B-2 round; $155M total funding. | Physical AI; data platform for hardware testing and validation; incorporating AI/agentic workflows into hardware testing. | Aerospace, Defense, and Industrial Manufacturing | New York, NY; Apple Valley, CA (test site) | Anduril, Founders Fund, Sequoia |
+| **Reddit** | [Steve Huffman](https://www.linkedin.com/in/shuffman56) | $2.2 billion annual revenue (up 69%); 121 million daily active uniques. | Providing high-quality human training data for LLMs; using AI for internal code production; proprietary ad-tech development. | Social Media / Community Platform / Data Licensing | San Francisco, CA (HQ) | Google, OpenAI (Data licensing partnerships) |
+| **Public** | [Leif Abraham](https://www.linkedin.com/in/leifabraham) | Millions of users; billions in assets; revenue doubling annually. | Agentic brokerage; 'Generated Assets' (custom investable indices via prompts); separation of reasoning (AI) from execution (deterministic code). | Fintech / Retail Brokerage | New York, NY (HQ); Copenhagen, Denmark; Raleigh, NC. | Charles Schwab, Fidelity; OpenAI, Anthropic. |
+| **AWS (Public Sector)** | [Teresa Carlson](https://www.linkedin.com/in/teresacarlson) | Built business from 0 to $10 billion in 10 years; launched 2,800 services and features by final year. | Cloud computing infrastructure; transition from custom to commercial; security/compliance frameworks (FedRamp). | Public Sector / Government / Defense / Intelligence | Herndon, VA; Seattle, WA | CIA; NASA JPL; NIST; GSA |
+| **General Catalyst** | [Hemant Taneja](https://www.linkedin.com/in/hemanttaneja) | $5 billion investment commitment to India; invested in Anthropic Series G. | Global Resilience and AI transformation; building AI-native companies (Creation strategy); investing in model layers (Mistral, Together) and applied AI. | Venture Capital / Healthcare / Defense / Global Resilience | San Francisco, CA; New York, NY; Europe; India. | Suma Health, Percepta, Anthropic, Mistral. |
+| **World (formerly Worldcoin)** | [Alex Blania](https://www.linkedin.com/in/alex-blania-b8444aa0) | Raised $250 million; 40 million users globally (17 million verified via Orbs). | Proof of human (biometrics/iris scanning), privacy-preserving cryptography, World ID, decentralized blockchain (World Chain), and deep face verification. | Identity, Finance (Crypto), Social Networking. | San Francisco, CA | OpenAI (direct investment/collaboration), Tinder (Tinder Japan integration). |
+| **Unconventional AI** | [Naveen Rao](https://www.linkedin.com/in/naveengrao) | Raised $475M (seed round); estimated $1.5B needed for escape velocity. | Analog computation / brain-inspired chips; utilizing non-linear dynamics of silicon to reduce power by 50x-1000x; stochastic processing. | Semiconductors / AI Infrastructure | Palo Alto, CA (Playground Global HQ). | Playground Global; DataBricks. |
+| **Cyberstarts** | [Gili Raanan](https://il.linkedin.com/in/giliraanan) | $50M first fund valued at \~$2B; $1.5B AUM. | Focus on 'Mega Agents' and autonomous defense programs; self-aware agents for real-time threat response to eliminate 'man in the middle'. | Cybersecurity / Venture Capital | Tel Aviv, Israel | Sequoia Capital; Wiz, Sierra, Island, Upwind. |
+| **M13** | [Courtney Reum](https://www.linkedin.com/in/courtneyreum), [Carter Reum](https://www.linkedin.com/in/carterreum) | $1.9 billion AUM; 200+ investments; 54 exits. | Focus on the execution of AI/blockchain as horizontal layers; utilizing a "propulsion team" for hands-on operational scaling. | Venture Capital (Future of Work, Health, Commerce, Money) | Los Angeles, CA (HQ); New York, NY; San Francisco, CA; Miami, FL. | Tony Robbins (Life Force), ring, Pinterest, Lyft, SpaceX. |
+| **Merge** | [Shensi Ding](https://www.linkedin.com/in/shensiding), [Gil Feig](https://www.linkedin.com/in/gilfeig) | 20,000-25,000 self-serve organizations; 400+ enterprise customers. | Unified APIs for integrations; Merge Agent Handler (MCP server for agents); Merge Gateway for model routing/security; AI-enabled internal coding. | Software Infrastructure / AI Integrations | Not in source | OpenAI; Perplexity; Netflix; Uber; Mistral; Dropbox; Brex; Drada; JP Morgan |
+| **Anti Fund** | [Jake Paul](https://en.wikipedia.org/wiki/Jake_Paul) and [Geoff Woo](https://www.linkedin.com/in/geoffreywoo) | $65 mil+ AUM total; investing a $30 million vehicle. | Venture capital investing in AI infrastructure, applied AI, and robotics; specific interest in defense tech and cultural distribution. | Venture Capital / AI / Robotics / Defense Tech | San Francisco, CA; Miami, FL; Puerto Rico. | OpenAI (consulting on Sora launch), Celsius, Dog House |
+| **a16z Perennial** | [Michel Del Buono](https://www.linkedin.com/in/mdelbuono) | Minimum of $25-$50 million wealth for clients; works with a couple dozen families. | Custom-built asset allocation tools and forecasting tools; tax alpha optimization; tax loss harvesting; trust and estate optimization (QSBS stacking). | Multi-Family Office / Wealth Management | Silicon Valley (West Coast); CA | Andreessen Horowitz (A16Z); SpaceX; Brex. |
+| **Revel** | [Scott Morton](https://www.linkedin.com/in/scott-morton-68334a15/) | Raised $150 million recently; 15 months old; 5x to 10x rate increase in engine testing for customers. | Software platform for controlling and testing complex hardware systems; low-latency control software; high-availability command and control (C2). | Aerospace, Automotive, Aviation, SMR, Industrial Control Systems. | Los Angeles, CA (Inferred) | Impulse Space; K2 Space; Radiant; Astro Mechanica; Index Ventures. |
+| **Harmonic** | [Vlad Tenev](https://www.linkedin.com/in/vlad-tenev-7037591b) | Not in source | Reinforcement learning (RL) applied to math; using mathematical programming language 'Lean' to formalize proofs and create training data. | Mathematics / AI Research | Not in source | Sergey Gukov (Consultant) |
+| **Turing** | [Deedy Das](https://www.linkedin.com/in/debarghyadas) | Not in source | Reinforcement Learning from Human Feedback (RLHF); creating data systems for frontier labs. | AI Training and Infrastructure | Palo Alto, CA (inferred) | Nvidia, Anthropic, Salesforce, Gemini |
+| **PsiQuantum** | [Er-Xuan Ping](https://www.linkedin.com/in/er-xuan-ping-90057b7) | Not in source | Silicon photonic quantum computing; molecular beam epitaxy (MBE) for crystalline films (BTO/STO); 300 mm wafer technology platform. | Quantum Computing, Semiconductors. | United States (4 locations). | GlobalFoundries. |
+| **Goodfire** | [Deepti Srivastava](https://www.linkedin.com/in/thedeepti) | Not in source | Mechanistic interpretability (brain surgery for AI models) to explain how models think. | AI Safety and Explainability | Silicon Valley (inferred) | Not in source |
+
 # Episode 101
 
 # **Vlad Tenev on Robinhood’s Growth and Future Initiatives**
@@ -1075,11 +1119,11 @@ To break the existing paradigm, [Naveen Rao](https://www.linkedin.com/in/naveen-
 
 # Episode 112
 
-# **Inside the Business Empire of Jake Paul and Anti-Fund**
+# **Inside the Business Empire of Jake Paul and Anti Fund**
 
 ## **Executive Summary**
 
-The following document synthesizes key insights from an analysis of the business operations, investment philosophies, and strategic partnerships surrounding [Jake Paul](https://en.wikipedia.org/wiki/Jake_Paul) and [Geoff Woo](https://www.linkedin.com/in/geoffreywoo), co-founders of **Anti-Fund**. Managing over $65 million in Assets Under Management (AUM), the duo leverages a unique power law of personality to bridge the gap between Silicon Valley and mainstream culture.
+The following document synthesizes key insights from an analysis of the business operations, investment philosophies, and strategic partnerships surrounding [Jake Paul](https://en.wikipedia.org/wiki/Jake_Paul) and [Geoff Woo](https://www.linkedin.com/in/geoffreywoo), co-founders of **Anti Fund**. Managing over $65 million in Assets Under Management (AUM), the duo leverages a unique power law of personality to bridge the gap between Silicon Valley and mainstream culture.
 
 The core thesis of their operation rests on unfair advantages in distribution and cultural affinity, particularly among Gen Z and Millennial audiences. By combining elite-level athletic discipline with aggressive tech investing, specifically in AI infrastructure, robotics, and defense, they aim to outperform traditional venture capital firms through superior context switching and life maxing. Key takeaways include their deep-seated relationship with **OpenAI**, the addition of [Logan Paul](https://en.wikipedia.org/wiki/Logan_Paul) as a strategic partner, and a shift in content strategy from spectacle toward authentic human storytelling in an AI-driven world.
 
@@ -1089,21 +1133,21 @@ The core thesis of their operation rests on unfair advantages in distribution an
 
 [Jake Paul](https://en.wikipedia.org/wiki/Jake_Paul)’s commercial interests extend across several industries, categorized by branding, sports, and venture capital.
 
-| Company/Entity | Industry | Description |
+| Company / Entity | Industry | Description |
 | :---- | :---- | :---- |
 | **W** | Men’s Body Care | Direct-to-consumer personal care brand. |
 | **Better** | Sports Gaming | Fantasy sports and gaming picks platform; expanding into new verticals. |
 | **Most Valuable Promotions (MVP)** | Sports Promotion | A boxing promotion company focused on branding and market control. |
-| **Anti-Fund** | Venture Capital | A tech-focused investment fund with $65M+ AUM. |
+| **Anti Fund** | Venture Capital | A tech-focused investment fund with $65M+ AUM. |
 | **Boxing Bullies** | Philanthropy | A non-profit charity organization. |
 | **Celsius** | Beverage | Strategic involvement with the energy drink brand. |
 | **Dog House** | Hospitality | Franchise ownership of multiple locations. |
 
 \--------------------------------------------------------------------------------
 
-## **Anti-Fund: Investment Strategy and Structure**
+## **Anti Fund: Investment Strategy and Structure**
 
-**Anti-Fund** operates as a generational venture product designed to compete with established firms on Sand Hill Road.
+**Anti Fund** operates as a generational venture product designed to compete with established firms on Sand Hill Road.
 
 ### **Financial Structure and Performance**
 
@@ -1112,9 +1156,9 @@ The core thesis of their operation rests on unfair advantages in distribution an
 * **Check Size:** Typically enters with a $250,000 relationship-building check, scaling up to multi-million dollar checks for high-conviction companies.  
 * **Target Returns:** The fund aims for a 5x net return, with an aspirational goal of achieving a 20x Distributed to Paid-In Capital (DPI) fund.
 
-### **The Anti-Fund Philosophy**
+### **The Anti Fund Philosophy**
 
-The name **Anti-Fund** reflects a rejection of rigid investment categories (e.g., being strictly seed or growth).
+The name **Anti Fund** reflects a rejection of rigid investment categories (e.g., being strictly seed or growth).
 
 * **Fluidity:** The fund maintains a dynamic strategy to capture upside at different inflection points, particularly in the fast-moving AI sector.  
 * **Selection Process:** The team is ruthless about saying no, reviewing 99% of companies without investing.  
@@ -1136,7 +1180,7 @@ The connection began at an inauguration event where [Paul](https://en.wikipedia.
 
 ### **Investment Focus Areas**
 
-**Anti-Fund** prioritizes sectors with 10- to 30-year growth horizons:
+**Anti Fund** prioritizes sectors with 10- to 30-year growth horizons:
 
 * **AI Infrastructure & Applied AI:** Deep involvement with companies like **Physical Intelligence**, **OpenAI**, and **Cognition**.  
 * **Robotics:** Viewed as a primary market for environmental interaction.  
@@ -1157,7 +1201,7 @@ The operational success of the empire is attributed to a philosophy called life 
 
 ### **Logan Paul’s Integration**
 
-[Logan Paul](https://en.wikipedia.org/wiki/Logan_Paul) recently joined **Anti-Fund** as a partner, bringing distinct advantages:
+[Logan Paul](https://en.wikipedia.org/wiki/Logan_Paul) recently joined **Anti Fund** as a partner, bringing distinct advantages:
 
 * **Entrepreneurial Credibility:** Cited as the founder of **Prime**, the fastest-growing beverage in history, with $1 billion in revenue.  
 * **Network Expansion:** He provides access to a different network of founders and investors than [Jake Paul](https://en.wikipedia.org/wiki/Jake_Paul) and [Geoff Woo](https://www.linkedin.com/in/geoffreywoo).  
@@ -1171,7 +1215,7 @@ As AI commoditizes content execution, the partners believe the highest order of 
 
 * **Human vs. Spectacle:** A hot take presented is the distinction between spectacle creators (who spend millions on stunts) and those with cultural affinity (who can engage an audience simply by talking).  
 * **The Value of Human Effort:** As AI-generated content proliferates, real human stories and sports will become more valuable because they tug the human heart in a way robots cannot.  
-* **The Ranch as a Node:** [Paul](https://en.wikipedia.org/wiki/Jake_Paul) is developing a personal ranch into a business entity and an **Anti-Fund** Summit location, intended to be a modern version of institutional retreats like **Allen & Co.**'s Sun Valley.
+* **The Ranch as a Node:** [Paul](https://en.wikipedia.org/wiki/Jake_Paul) is developing a personal ranch into a business entity and an **Anti Fund** Summit location, intended to be a modern version of institutional retreats like **Allen & Co.**'s Sun Valley.
 
 ### **Notable Quote on Entrepreneurship**
 
@@ -3896,21 +3940,21 @@ The firm has evolved to match the pace of the AI sector through structural chang
 
 # Episode 142
 
-# **Kamar and the AI Healthcare Operating System**
+# **Commure and the AI Healthcare Operating System**
 
 ## **Executive Summary**
 
-**Kamar** has evolved from a nascent blood testing startup into a 7 billion dollar enterprise described as the operating system for healthcare. The company recently raised 70 million dollars in a funding round led by **General Catalyst**, with participation from **Sequoia** and **Morgan Stanley**, bringing its total capital raised to approximately 750 million dollars. **Kamar** currently supports 200 million patient encounters annually and saves physicians an estimated 75 million hours per year through its suite of artificial intelligence tools.
+**Commure** has evolved from a nascent blood testing startup into a 7 billion dollar enterprise described as the operating system for healthcare. The company recently raised 70 million dollars in a funding round led by **General Catalyst**, with participation from **Sequoia** and **Morgan Stanley**, bringing its total capital raised to approximately 750 million dollars. **Commure** currently supports 200 million patient encounters annually and saves physicians an estimated 75 million hours per year through its suite of artificial intelligence tools.
 
-The core mission of the organization is to eliminate the work tax within the American healthcare system, a trillion dollar administrative burden that hampers efficiency and physician well-being. By utilizing large language models and autonomous agents, **Kamar** seeks to automate clinical and financial administration, including documentation, coding, and revenue cycle management. The company strategy emphasizes a unified platform over fragmented point solutions, aiming to consolidate the market and transform healthcare providers into high margin, business led organizations.
+The core mission of the organization is to eliminate the work tax within the American healthcare system, a trillion dollar administrative burden that hampers efficiency and physician well-being. By utilizing large language models and autonomous agents, **Commure** seeks to automate clinical and financial administration, including documentation, coding, and revenue cycle management. The company strategy emphasizes a unified platform over fragmented point solutions, aiming to consolidate the market and transform healthcare providers into high margin, business led organizations.
 
 ## **Strategic Financial Management and Growth**
 
-The recent 70 million dollar funding round was not driven by a need for capital but was executed for pricing purposes and to accelerate research and development in adjacent technologies. **Kamar** has utilized innovative financial vehicles to scale while minimizing shareholder dilution.
+The recent 70 million dollar funding round was not driven by a need for capital but was executed for pricing purposes and to accelerate research and development in adjacent technologies. **Commure** has utilized innovative financial vehicles to scale while minimizing shareholder dilution.
 
 ### **The Customer Value Fund (CVF)**
 
-**Kamar** has extensively used the **General Catalyst** Customer Value Fund, which provides non-dilutive capital based on forward looking customer cohorts rather than the balance sheet.
+**Commure** has extensively used the **General Catalyst** Customer Value Fund, which provides non-dilutive capital based on forward looking customer cohorts rather than the balance sheet.
 
 * **Mechanism:** This vehicle allows the company to pull forward revenue to fund go-to-market expansion.  
 * **Philosophy:** The management team believes that equity should be reserved for long term investments like R\&D, while credit should fund growth once software as a service cohorts show predictable performance.  
@@ -3922,7 +3966,7 @@ The company has grown to approximately 1,200 employees across seven global offic
 
 ## **The Operating System for Healthcare**
 
-**Kamar** positions itself as a comprehensive software platform rather than a collection of independent tools. The platform, known as **Kamar** OS, focuses on automating the trillion dollars spent annually on clinical and financial administration.
+**Commure** positions itself as a comprehensive software platform rather than a collection of independent tools. The platform, known as **Commure** OS, focuses on automating the trillion dollars spent annually on clinical and financial administration.
 
 ### **Key Product Verticals**
 
@@ -3935,25 +3979,25 @@ The company has grown to approximately 1,200 employees across seven global offic
 
 ### **Impact on Health Systems**
 
-In major for profit systems like **HCA**, the implementation of these tools has added several hours of productivity back to each physician's day. For smaller practices, the platform aims to shift operating margins from 2 or 3 percent to as high as 20 or 30 percent. By automating the labor intensive tasks that historically tracked linearly with revenue growth, **Kamar** enables healthcare systems to scale without a proportional increase in administrative staff.
+In major for profit systems like **HCA**, the implementation of these tools has added several hours of productivity back to each physician's day. For smaller practices, the platform aims to shift operating margins from 2 or 3 percent to as high as 20 or 30 percent. By automating the labor intensive tasks that historically tracked linearly with revenue growth, **Commure** enables healthcare systems to scale without a proportional increase in administrative staff.
 
 ## **Platform Strategy and Market Consolidation**
 
-A central thesis of the company is the inevitable death of point solutions in the healthcare sector. **Kamar** actively seeks to displace niche products with its integrated platform.
+A central thesis of the company is the inevitable death of point solutions in the healthcare sector. **Commure** actively seeks to displace niche products with its integrated platform.
 
-* **The Paradigm Shift:** Similar to how **Microsoft Word** integrated autocorrect and eliminated specialized software like Grammarly, **Kamar** intends to absorb the functionality of various healthcare point solutions.  
+* **The Paradigm Shift:** Similar to how **Microsoft Word** integrated autocorrect and eliminated specialized software like Grammarly, **Commure** intends to absorb the functionality of various healthcare point solutions.  
 * **Sales Strategy:** The company employs a twofold approach. It uses wedge products like ambient documentation for quick adoption through product led growth, followed by a longer enterprise sales cycle for the full platform.  
 * **Disintermediation:** The leadership anticipates that most current GPT wrapper businesses will be eliminated within three years as consolidated platforms provide more definitive return on investment and unified data orchestration.
 
 ## **Mergers, Acquisitions, and Corporate Culture**
 
-**Kamar** has utilized mergers and acquisitions to acquire distribution networks, talent, and technology. Notable examples include the merger with **Atheel** for engineering talent and the acquisition of **Augmedics** to gain access to 40 additional health systems.
+**Commure** has utilized mergers and acquisitions to acquire distribution networks, talent, and technology. Notable examples include the merger with **Atheel** for engineering talent and the acquisition of **Augmedics** to gain access to 40 additional health systems.
 
 ### **M\&A Philosophy**
 
 Success in acquisitions is attributed to a ruthless focus on culture and an acceptance of imperfect assets.
 
-* **Winning Culture:** Management enforces a 45 to 90 day window to integrate an acquired company into the **Kamar** culture, rejecting the idea of a blended or hybrid cultural identity.  
+* **Winning Culture:** Management enforces a 45 to 90 day window to integrate an acquired company into the **Commure** culture, rejecting the idea of a blended or hybrid cultural identity.  
 * **Internalizing Skeletons:** The company focuses on acquiring assets where there is a price disparity due to suboptimal innovation, then transforming those assets using its engineering resources.
 
 ### **The Heat-Seeking Missile Concept**
@@ -3973,7 +4017,7 @@ The company maintains an active relationship with government bodies, including t
 
 ### **Accuracy and AI Implementation**
 
-Reliability is the primary barrier to large-scale AI adoption in healthcare. To manage this, **Kamar** utilizes:
+Reliability is the primary barrier to large-scale AI adoption in healthcare. To manage this, **Commure** utilizes:
 
 * **Forward Deployed Engineers:** Inspired by models used at **Palantir**, young engineers work on site in hospitals to codevelop tools with physicians.  
 * **Robust Evaluation:** Massive datasets of historical documentation are used for back testing to ensure model iterations do not suffer from regression or hallucinations that could impact patient care.  
