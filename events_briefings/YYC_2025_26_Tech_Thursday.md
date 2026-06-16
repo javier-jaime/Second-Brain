@@ -2791,3 +2791,76 @@ The document outlines how **Wealthsimple** maintains a profitable business while
 | **Team Efficiency** | Small teams (e.g., 9 engineers for family suite). | Massive teams for similar product scopes. |
 
 By going vertical in the financial stack and removing middlemen, the company can pass savings back to the clients. This lean operating model is supported by aggressive automation and AI, ensuring that smaller teams can ship higher-quality products faster than larger institutions. "literally things we ship today, started off with this, like naive ambition, and we just again do the work to make it a reality."
+
+# Episode 029
+
+# **Helcim: From Local Reseller to Global Payment Processor**
+
+## **Executive Summary**
+
+**Helcim** is a Calgary based payments company that has transitioned from a small scale reseller to a significant independent processor. Led by founder and CEO [Nic Beique](https://ca.linkedin.com/in/nicbeique), the company recently evolved into its 2.0 iteration, which involved building a complete payment stack from the ground up, including hardware, fraud detection, and ledgers. Currently processing nearly $10 billion in annual payments with a team of 160 employees, **Helcim** emphasizes a builder culture and extreme transparency. The company has successfully navigated the shift from bootstrapping to venture capital, securing Series A and Series B funding rounds, with the long term objective of becoming a publicly traded anchor institution in the Canadian tech ecosystem.
+
+## **Historical Evolution and Early Origins**
+
+The foundations of **Helcim** were established in 2008, though the entrepreneurial roots of its founder date back to the late 1990s.
+
+* **Founder Background:** [Nic Beique](https://ca.linkedin.com/in/nicbeique), a self taught coder, began building websites for local businesses at age 15\. His early experience included a role at **Memory Express**, where he built an e-commerce platform and a computer configurator.  
+* **Helcim 1.0 (2008 to 2019):** For the first decade, the company operated under a reseller model. [Beique](https://ca.linkedin.com/in/nicbeique) likens this phase to being an insurance broker, where the company built a book of clients and managed relationships but relied on the infrastructure and control of a partner bank, specifically **US Bank**.  
+* **The Catalyst for Change:** The decision to pivot was driven by a desire to provide better rates and transparency to small businesses, which [Beique](https://ca.linkedin.com/in/nicbeique) felt were being underserved and gouged by traditional players like **Moneris**, **Square**, and **Stripe**.
+
+## **The Transition to Helcim 2.0**
+
+The transition from a reseller to an independent processor began in earnest around 2017 after years of negotiation with bank partners. This period is defined by a massive, three year technical build.
+
+### **The Builder Strategy**
+
+Rather than adopting a lean development approach, **Helcim** had to build a comprehensive system before going live. This included hardware certifications, fraud detection systems, money movement protocols, and Know Your Customer (KYC) compliance.
+
+### **The Junior Developer Army**
+
+Due to budget constraints and the talent market in Calgary at the time, [Beique](https://ca.linkedin.com/in/nicbeique) hired 15 junior developers, primarily graduates from local technical institutes. "Nobody told us we were crazy, and nobody had enough experience to tell us we were crazy, so to us it was just this like amazing blank slate"
+
+### **Launch and Market Position**
+
+**Helcim** 2.0 launched in the spring of 2020\. The company identifies as a challenger in a market where even dominant players like **Square** hold a relatively small percentage of the total market share.
+
+## **Corporate Culture and Operational Philosophy**
+
+Culture is a primary differentiator for **Helcim**, and the company has publicly released its culture book to aid in recruitment and self selection of talent.
+
+| Core Value | Description |
+| :---- | :---- |
+| We Are Builders | Emphasis on creating products and solutions from scratch. |
+| We Are Trustworthy | Prioritizing transparency in an industry often characterized by opacity. |
+| Choose the Harder Path | Favoring long term value over short term shortcuts or gratification. |
+| Company of Many | A collaborative environment focused on inclusion and collective effort. |
+
+### **Operational Practices**
+
+* **Open Book Management:** The company practices full financial transparency. Quarterly town halls involve the CFO sharing the balance sheet, revenue, and cash runway with the entire staff.  
+* **Transparency in Compensation:** Salary ranges for all positions are available on the company intranet.  
+* **The Spirit of 50:** The culture does not follow a strict 9 to 5 schedule, expecting employees to go above and beyond to achieve the company mission.  
+* **The Four Burners Concept:** This philosophy suggests that to be great at one area of life, such as a career, one must consciously turn down other burners, such as social life or hobbies, at different periods.
+
+## **Financial Trajectory and Future Objectives**
+
+**Helcim** has successfully transitioned from a bootstrapped entity to a venture backed scale up.
+
+### **Venture Capital Engagement**
+
+The company raised a Series A in 2022 and a Series B in 2024\. This transition required the leadership to adapt to the structured requirements of venture capital, despite not fitting the typical startup mold due to the company's age. [Beique](https://ca.linkedin.com/in/nicbeique) notes that **Information Venture Partners** invested specifically because of the company's intentional culture.
+
+### **The Six Months to Live Crisis**
+
+During the Series B fundraising in late 2023, **Helcim** faced a critical cash shortage due to a tightening investment market. "We did a big town hall and we got with everybody, and we're like six months to live" This transparency led to an intense period of innovation and marketing fixes that eventually secured the necessary funding.
+
+### **Long Term Vision**
+
+The company aims to reach $1 billion in revenue, a benchmark [Beique](https://ca.linkedin.com/in/nicbeique) believes is necessary for a successful initial public offering in the current market. The ultimate goal is to serve as a Calgary based anchor company, similar to the impact **Shopify** has had on Ottawa and Toronto.
+
+### **Current Scale Statistics**
+
+* **Merchants:** 20,000.  
+* **Processing Volume:** Approximately $10 billion annually.  
+* **Staffing:** 160 employees, with a goal of reaching 180 by the end of the year.  
+* **Hiring Ratio:** A target of three junior professionals for every one senior staff member.
