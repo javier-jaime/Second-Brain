@@ -1650,3 +1650,85 @@ While acknowledging the productivity gains of AI, [Hightower](https://www.linked
 * **Master the Fundamentals:** Engineers should learn the primary colors of the craft, such as memory management and hardware, to retain the ability to create new things rather than just consuming what an AI spits out.  
 * **Better API Design:** The emergence of Large Language Models (LLMs) highlights that many current APIs are poorly designed for both humans and machines. He predicts a shift toward intent based, declarative APIs.  
 * **Documentation as Context:** High quality documentation is becoming even more critical, as it serves as the training data and context for AI agents. The same effort put into training models should be applied to writing clear, human readable documentation.
+
+# Episode 064
+
+# **Robert Erez on Modern CI/CD and Progressive Delivery**
+
+## **Executive Summary**
+
+The transition from manual release processes to sophisticated continuous delivery systems represents a fundamental shift in software engineering. Modern infrastructure relies heavily on Kubernetes, which has expanded beyond cloud environments into on premise applications such as research vessels and point of sale systems. While GitOps provides a framework for declarative and reconciled infrastructure, its principles are often misunderstood as being strictly dependent on the Git tool. Progressive delivery techniques, particularly feature toggles, have emerged as superior methods for decoupling deployment from release and mitigating risk. High maturity teams are increasingly moving away from the concept of rollbacks, which are often non viable in stateful systems, in favor of a roll forward philosophy. Furthermore, the rise of platform engineering and the integration of Artificial Intelligence are reshaping the developer experience by prioritizing risk reduction and self service infrastructure over mere pipeline speed.
+
+## **The Maturity Stages of Software Delivery**
+
+The progression of a software team toward delivery excellence typically follows a four stage maturity model.
+
+* Stage 1: YOLO. This is the initial phase where developers deploy directly to production or staging machines without formal processes.  
+* Stage 2: Continuous Integration (CI). Teams focus on merging code changes into a single branch and running automated tests against them.  
+* Stage 3: Continuous Delivery (CD). The deployment process itself is tested to ensure that the software is always in a state where it could be deployed to production at the click of a button.  
+* Stage 4: Continuous Deployment. Changes flow through the automated pipeline directly to production without manual intervention.
+
+While continuous deployment is the ultimate technical stage, it is not suitable for every organization. Companies in highly regulated industries often maintain manual review boards to meet compliance requirements. The goal of this progression is to feel the pain as soon as possible and derisk the process before the final deployment point.
+
+## **Kubernetes and On-Premise Infrastructure**
+
+Kubernetes, originally developed by **Google**, has become the dominant platform for container orchestration. While often described as cloud native, a significant portion of the market utilizes Kubernetes for on-premise operations.
+
+### **Deployment Environments and Use Cases**
+
+| Environment Type | Description |
+| :---- | :---- |
+| Cloud Native | Managed services provided by vendors such as **AWS**, **Azure**, and **Google Cloud**. |
+| On-Premise | Private data centers or local server farms used for greater control and compliance. |
+| Edge / Disconnected | Kubernetes clusters running on research vessels at sea or in retail point of sale systems. |
+
+On-premise usage is particularly common in the financial and government sectors. In unique cases, such as research vessels, deployment must account for intermittent connectivity. When a ship returns to port, the system must be capable of pulling necessary updates after weeks or months at sea.
+
+## **GitOps: Principles and Pillars**
+
+The term GitOps, coined by **Weaveworks** in 2017, describes a practice centered on declarative infrastructure and continuous reconciliation. Despite the name, the core pillars of the methodology do not explicitly require the use of Git.
+
+### **The Four Pillars of GitOps**
+
+1. Declarative: The desired state of the system is defined rather than the steps to achieve it.  
+2. Versioned and Immutable: The state is stored in a way that provides a clear audit trail and cannot be changed without creating a new version.  
+3. Pull vs. Push: The GitOps agent pulls the state from the source and applies it to the cluster, rather than having an external process push changes.  
+4. Continuous Reconciliation: The system constantly monitors for drift and ensures the actual state matches the desired state.
+
+A common pitfall in GitOps adoption is the attempt to store sensitive information, such as secrets, in Git. Experts suggest that not everything belongs in Git, and the focus should remain on the principles of versioning and immutability rather than the specific tool.
+
+## **Progressive Delivery and Risk Mitigation**
+
+Progressive delivery is the evolution of continuous delivery, focused on releasing changes in a controlled, incremental fashion.
+
+### **Key Strategies**
+
+* Canary Deployments: Rolling out changes to a small subset of the user base. "New Zealand was always our canary." This allows teams to identify bugs in a limited environment before a full rollout.  
+* Blue Green Deployments: Running two identical production environments. Traffic is swapped from the old version (Blue) to the new version (Green) after validation.  
+* Feature Toggles: Using variables in the code to turn features on or off. This is often the most effective strategy as it allows for granular control and decouples the deployment of code from the release of a feature.
+
+Feature toggles are considered superior to canaries for application delivery because the unit of change is more precise. If a deployment contains multiple commits, a canary tests them all at once, whereas a toggle can isolate a single change.
+
+## **The Strategy of Rolling Forward**
+
+A common request in software engineering is the implementation of a rollback button. However, rollbacks are technically complex and often dangerous in stateful systems involving databases.
+
+"You want to avoid ever talking about rollback, it's always rollforward when it comes to CI/CD systems."
+
+When a failure occurs in a specific version, the safest path is often to treat the fix as the next version (e.g., moving from version two to version three) rather than attempting to revert to version one. This is especially true when schema changes are involved, as undoing a database migration can lead to data loss or inconsistency. Feature flags serve as a safer alternative for rolling back logic without affecting the state of the infrastructure.
+
+## **Organizational Evolution: Platform Engineering and AI**
+
+The industry is shifting from siloed DevOps teams toward Platform Engineering. This model provides application teams with internal development portals and self service mechanisms.
+
+### **The Impact of AI on CI/CD**
+
+As AI agents such as those from **Cognition** or **Anthropic** generate more code, the volume of changes entering the pipeline will increase. This shift will likely lead to a de-emphasis on the speed of the pipeline itself and a greater focus on decreasing risk. If an AI agent can monitor the build and issue its own fixes, the need for immediate human feedback loops diminishes. Feature toggles will become even more critical in this environment to manage the output of AI driven development.
+
+## **Maintenance and Hygiene in Modern Systems**
+
+Operating a large scale platform like the **Octopus Deploy** offering involves significant architectural challenges. Initially running on virtual machines, the service migrated to a cell based architecture on Kubernetes to improve cost efficiency.
+
+Supporting both SaaS and on-premise offerings creates a unique engineering burden. On-premise customers, including banks and government agencies, may wait hundreds of days to upgrade their software. "It took about 200 days for on average 50% of our customers on-prem to get, let's say, I ship a new change today." This requires software providers to maintain extensive support for schema upgrades across many years of versions.
+
+To maintain system hygiene, especially when using feature toggles, teams must implement expiry dates and notifications. This prevents the accumulation of technical debt, which is often described using the metaphor of weeding a garden. Effective communication, as outlined in books like Radical Candor, remains essential for engineers navigating these complex operational landscapes.
