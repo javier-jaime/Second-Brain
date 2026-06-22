@@ -3028,3 +3028,129 @@ Virality can create sinking speedboats where companies grow fast but lose users 
 * A round trip occurs when one player takes an action and the other responds (e.g., gifting back or taking a turn in a game).  
 * Moving a user from zero ASN to one increased the chance of seeing them the following month by 80%.  
 * Reaching an ASN of four resulted in a user being active for 22 out of the next 30 days.
+
+# Episode 349
+
+# **The Future of Software Engineering and AI-Native Workflows**
+
+## **Executive Summary**
+
+The landscape of software engineering is undergoing a fundamental transformation characterized by a massive increase in output and a shift in operational bottlenecks. Engineers at **Anthropic** now ship eight times as much code per quarter as they did in 2025, signaling that coding itself is no longer the primary constraint in development. The ceiling of possibility has been lifted, moving the focus from technical execution to the level of ambition a builder can maintain.
+
+Critical takeaways from this shift include:
+
+* The transition of the engineering role into a broader builder persona, where product sense and systems expertise are the two most valued skills.  
+* The emergence of verification and quality control as the new bottlenecks, necessitating automated frameworks for what good looks like.  
+* A move toward asynchronous management through routines and autonomous agents that handle tasks such as bug triaging and pull request generation.  
+* The requirement for leaders to remain deeply connected to their products through consistent dogfooding and player coach models.  
+* The need to address the human aspects of AI integrated work, including the potential for loneliness and the growing gap between those who adopt AI tools and those who resist them.
+
+## **The Transformation of the Engineering Role**
+
+The role of the software engineer has shifted from manual code creation to high level system orchestration. As AI models handle the bulk of code generation, the primary value of a human engineer lies in their initiative, agency, and accountability.
+
+### **Hiring and Skill Requirements**
+
+Modern engineering teams prioritize two distinct profiles to navigate this new environment:
+
+* Creative Builders with Product Sense: These individuals act as dreamers who can own a product end to end, using AI to iterate rapidly based on customer feedback to create delightful experiences.  
+* Deep Systems Experts: These specialists are required for the hard parts of the stack, distributed systems, and the verification of AI generated output.
+
+### **The Ambition Shift**
+
+With the technical barriers to entry lowered, engineers are no longer limited by what they can personally type. This allows for a mindset shift where everything is possible in theory, and the primary differentiator is the scale of one's thinking. For example, engineers who are not mobile specialists by trade can now successfully ship features on mobile surfaces by partnering with AI tools like Claude.
+
+## **AI-Native Management and Operations**
+
+Managing high velocity teams requires a departure from traditional, synchronous processes toward automated, high context leadership styles.
+
+### **Asynchronous Workflows and Routines**
+
+Management is increasingly becoming an asynchronous activity. Through the use of routines, leaders can automate daily rituals:
+
+* Automated triaging: Setting agents to monitor feedback channels (Slack, email, social media) and summarize themes while the manager is offline.  
+* Proactive pull requests: Using AI to generate polish fixes and bug resolutions that are ready for review when the manager begins their workday.  
+* Visibility: Tools like Claude Code remote sessions allow managers to enlist in repositories, giving them full visibility into work across the organization and the ability to track metrics through natural language queries.
+
+### **Just-in-Time (JIT) Planning**
+
+Traditional long-term planning is often incompatible with the current rate of technological change. The shift toward Just-in-Time planning involves:
+
+* Shrinking planning cycles: Moving from six month roadmaps to monthly cycles that are reviewed weekly.  
+* Lightweight documentation: Utilizing simple spreadsheets for alignment rather than exhaustive documentation.  
+* Explicit permission to kill processes: Teams must actively identify and remove processes, such as long form roadmap docs, that no longer serve a purpose or keep pace with the landscape.
+
+### **The Player Coach Model**
+
+At **Anthropic**, managers are encouraged to start as individual contributors (ICs) to learn the codebase and tools before taking on the responsibility of supporting people. Maintaining a presence in the code through occasional pull requests is viewed as a way to keep leaders in the flow and ensure they do not lose touch with the developer experience.
+
+## **Quality Assurance and the Verification Bottleneck**
+
+As the volume of code increases, the difficulty of ensuring quality becomes the primary challenge for engineering teams.
+
+### **The Bad vs. Sad Framework**
+
+To stay on top of quality across diverse product surfaces, teams use a qualitative framework to categorize issues:
+
+* Bad: Irrecoverable errors, such as crashes or lost work, that represent a severe failure in the experience.  
+* Sad: Recoverable pain points or minor frustrations, such as UI flickering, that degrade the overall feel of the product.
+
+### **Automated Verification**
+
+Teams are moving away from human intensive reviews for routine tasks and toward automated frameworks:
+
+* Statement of Good: Checking specifications and design standards into the repository so that AI can validate code against these frameworks.  
+* Test-Driven Development (TDD): Using AI to handle the tax of writing tests first, which ensures that fixes are verified before they are even implemented.  
+* Proactive Monitoring: Shifting focus from manual review to early detection and trend analysis on quality dashboards.
+
+## **Cultural and Human Considerations**
+
+The integration of AI into the workplace introduces new social and psychological dynamics that leaders must manage.
+
+### **Addressing the AI Gap and Fear**
+
+A divide is forming between people leaning into AI and those who are frustrated or resistant. Frustration often stems from a fear that things are outside of one's control. Advice for navigating this includes:
+
+* Maintaining a growth mindset: Accepting that what made a person successful in the past may no longer serve them.  
+* Leaning into curiosity: Identifying one action within one's control to counter anxiety.  
+* Knowledge as power: Learning the tools to ensure they act as a light rather than a source of alienation.
+
+### **Combating Loneliness**
+
+The high efficiency of working with agents can lead to a lonely experience. To counter this, teams are implementing:
+
+* Pairwise programming lunches: Engineers work next to each other to observe different AI assisted workflows and learn from one another.  
+* Hackathons: Dedicated time for team members to interact and build together, reinforcing the one team mentality.
+
+### **Dogfooding and Customer Connection**
+
+Leaders must remain obsessed with the user experience to avoid being misled by raw data. Dogfooding, the practice of using one's own product daily, allows leaders to catch nuances that metrics miss. When direct dogfooding is not possible, such as in specialized environments, deep customer research and listening tours are essential to identify growth blockers like slow network conditions in specific regions.
+
+## **Key Principles and Quotes**
+
+The following table summarizes the core operational principles mentioned by [Fiona Fung](https://www.linkedin.com/in/fionafung) at **Anthropic**.
+
+| Principle | Description |
+| :---- | :---- |
+| High Agency, High Accountability | Giving folks the freedom to cook while maintaining strict responsibility for hypotheses and outcomes. |
+| Latent Demand | Watching closely for unexpected user behaviors and doubling down on those opportunities. |
+| Making New Mistakes | Encouraging speed and learning by accepting errors, provided they are not repetitions of past failures. |
+| Context Switching Management | Recognizing that running multiple agents increases the cognitive load and requires dedicated focus time to catch up. |
+
+### **Important Quotes**
+
+"Anthropic engineers on average have eight times as much code per quarter, as they did compared to 2025."
+
+"Coding is no longer the bottleneck, it lifted the ceiling of what anyone is able to do."
+
+"Everything is now possible in theory, now it is about how ambitious can you be."
+
+"The people that seem to be doing best are taking the most initiative, getting the most practice, having the most agency."
+
+"With high agency is also high accountability, so it is all about making sure folks have that freedom to cook, but then it is also like okay, what is the accountability for it."
+
+"The cave you fear contains the treasure you seek."
+
+"I have a theory, Maybe that the what is important, will shift over time and then how do you kind of build the proficiency in doing, yeah just learn the things that really matter."
+
+"In a world where you can be anything, be kind."
