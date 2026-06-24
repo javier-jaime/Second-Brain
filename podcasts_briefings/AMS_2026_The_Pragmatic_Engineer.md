@@ -1732,3 +1732,68 @@ Operating a large scale platform like the **Octopus Deploy** offering involves s
 Supporting both SaaS and on-premise offerings creates a unique engineering burden. On-premise customers, including banks and government agencies, may wait hundreds of days to upgrade their software. "It took about 200 days for on average 50% of our customers on-prem to get, let's say, I ship a new change today." This requires software providers to maintain extensive support for schema upgrades across many years of versions.
 
 To maintain system hygiene, especially when using feature toggles, teams must implement expiry dates and notifications. This prevents the accumulation of technical debt, which is often described using the metaphor of weeding a garden. Effective communication, as outlined in books like Radical Candor, remains essential for engineers navigating these complex operational landscapes.
+
+# Episode 065
+
+# **Navdeep Singh on Tech Careers, AI, and the Future of Engineering Interviews**
+
+## **Executive Summary**
+
+The current landscape of software engineering is undergoing a significant transformation driven by Artificial Intelligence, yet foundational elements like the coding interview remain remarkably resilient. [Nav Singh](https://www.linkedin.com/in/navdeep-singh-3aaa14161), the creator of the **NeetCode** platform, provides a deep analysis of how AI is eroding specific technical skills while simultaneously increasing the value of human centric traits such as high agency, communication, and systems thinking. While AI tools allow for rapid development, often referred to as vibe coding, they introduce new risks regarding code quality and long term maintenance. The most critical takeaway for modern engineers is that while it has never been easier to build software, building actual business value has become ten times harder. Success in the current market requires a shift from being a mere worker bee to becoming a systems thinker who can navigate complex trade offs and articulate the intent behind technical decisions.
+
+## **The Persistence of Data Structures and Algorithms Interviews**
+
+Despite the proliferation of AI tools that can solve complex coding problems instantly, the traditional Data Structures and Algorithms (DSA) interview format remains the industry standard at major firms like **Google**, **Amazon**, and **Meta**.
+
+* **Evaluative Limitations:** Companies have historically struggled to predict job performance accurately. DSA interviews persist not because they perfectly mirror daily tasks, but because they serve as a standardized proxy for a candidate's ability to think through problems.  
+* **Bureaucratic Inertia:** Changing the interview process at large scales is difficult and risky. Standardizing new formats across thousands of interviewers is a monumental task that most large organizations are slow to undertake.  
+* **Anti Cheating Measures:** The rise of AI assisted cheating has pushed companies like **Google** back toward traditional in person on site interviews using whiteboards or supervised laptops to ensure the candidate's independent thinking.  
+* **Mindset over Syntax:** The preparation for DSA interviews teaches engineers how to make a plan, communicate their thoughts to a manager, and understand trade-offs, which are skills that translate directly to on site performance.
+
+## **Comparative Analysis of Corporate Cultures: Amazon vs. Google**
+
+[Nav Singh](https://www.linkedin.com/in/navdeep-singh-3aaa14161)’s career trajectory provides a stark contrast between two of the largest entities in the tech world, highlighting how environment impacts engineer retention and growth.
+
+| Feature | Amazon (Alexa Org) | Google (Cloud Org) |
+| :---- | :---- | :---- |
+| **Onboarding** | Intense, self-driven, and high pressure. | Supportive, structured, and friendly. |
+| **Environment** | Described as a thankless job with 3:00 AM commits. | Focused on documentation, design docs, and metrics. |
+| **Management** | Targeted unregretted attrition (6% annually). | Facilitated rapid promotion through independent projects. |
+| **Communication** | Hesitant, prompted by managers. | Open, though new hires may initially fear asking questions. |
+
+[Nav Singh](https://www.linkedin.com/in/navdeep-singh-3aaa14161) noted a specific observation regarding the culture at **Amazon** where "if you're the one person who's not doing it at 3:00 a.m. you're going to be the first in line, to maybe get kicked out of the company."
+
+## **AI and the Evolution of Software Development**
+
+The introduction of AI has fundamentally changed the speed of development, but it has also introduced a potential for sloppiness and the erosion of fundamental skills.
+
+### **The Rise of Vibe Coding**
+
+Vibe coding refers to using AI to implement features rapidly, based on prompts, without necessarily understanding every line of code produced. [Nav Singh](https://www.linkedin.com/in/navdeep-singh-3aaa14161) admits to using this for his own services, such as a code execution engine that he built in three days using AI.
+
+### **Quality and Technical Debt**
+
+While AI can refactor sloppy code and migrate tech stacks quickly, it can also lead to quality regressions.
+
+* **The Memory Leak Trade-off:** [Nav Singh](https://www.linkedin.com/in/navdeep-singh-3aaa14161) maintains a service with a known memory leak because the business cost of fixing it is higher than the cost of simply running redundant server instances.  
+* **Product Regression:** Major labs like **Anthropic** have acknowledged that moving too fast with AI can lead to performance regressions that users notice before the developers do.
+
+### **The Problem of Low-Effort Output**
+
+In a redesign contest for **NeetCode**, most submissions were clearly AI generated and lacked intentionality. "I don't care how pretty something looked, I told them like what criteria I actually cared about, and I think you know some people just didn't follow the directions, or whatever and that's that's fine."
+
+## **The Shift Toward Personality Traits and Agency**
+
+In an era where AI can handle the raw implementation of code, the human element of engineering has become the primary differentiator.
+
+* **Defining High Agency:** The most valuable trait in a modern hire is the ability to take a task with no clear starting point and learn everything necessary to solve it within a week.  
+* **Systems Thinking:** As suggested by industry experts like [Chip Huyen](https://www.linkedin.com/in/chiphuyen), systems thinking, the ability to understand the rules and architecture of a complex process, is a skill that AI cannot currently replicate.  
+* **Communication as a Hard Skill:** Success on YouTube and in corporate promotions, often depends on the ability to explain complex concepts simply. "Nobody cares how correct you are, nobody cares how smart you are, nobody cares like in the lead code forums if you have this super like crazy like solution, that's really impressive and really performant if you can't explain it, because what they care about is like the value you can give to them."
+
+## **Predictions for the Future of Tech Careers**
+
+The role of the programmer is not facing extinction, but it is facing a radical redefinition.
+
+* **Programmer Resilience:** Historical innovations like cloud computing through **AWS** and **GCP** did not reduce the need for programmers, they just shifted the problems being solved.  
+* **The Contentious Take:** [Nav Singh](https://www.linkedin.com/in/navdeep-singh-3aaa14161) argues that some individuals should consider leaving the field, if they are unwilling to put in the effort to understand the fundamentals. "I think if you have an attitude of like you don't want to try hard, or you don't like, you don't want to do things yourself, and you don't want to dig deeper into things, like you need to do, that you need to do certain things, and if you're not willing to do, that I think you should know like what you're getting yourself into, because a lot of people don't know."  
+* **The Human Connection:** Companies like **Anthropic** and **OpenAI** are increasingly relying on relatable, human personalities (like [Boris](https://www.linkedin.com/in/bcherny) from **Anthropic** or [Tibo](https://www.linkedin.com/in/thibault-sottiaux-27195366) from **OpenAI**) to build trust and market their tools. This personal angle is becoming essential for business growth in a crowded market.
