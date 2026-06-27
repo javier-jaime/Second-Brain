@@ -3043,3 +3043,127 @@ The briefing identifies several key shifts in corporate performance and venture 
 | **Hardware Integration** | **OpenAI** is developing its own custom chip, Jalapeño, to reduce inference costs and protect against the flabby middle of the market. |
 
 The move toward vertical integration in hardware is a significant strategic shift. "The whole reason the **OpenAI** and **Anthropic** models work is because other idiots have spent the $300 billion on their behalf." This outsourcing of capital risk has been foundational to the rapid rise of current AI leaders, but as the market matures, owning the stack becomes a potential path to maintaining margins.
+
+# Episode 1424
+
+# **FOMO: Operations, Growth Philosophy, and the Future of Social Trading**
+
+## **Executive Summary**
+
+The following document provides a detailed examination of **FOMO**, a social trading platform focused on onchain assets and global market access. Led by co-founder and CEO [Paul Erlanger](https://www.linkedin.com/in/paul-erlanger), **FOMO** distinguishes itself through a lean organizational model, high conviction engineering, and a unique social graph that facilitates real time interaction among traders. The company has successfully secured significant investment from tier-one venture firms, including **Benchmark**, **Index Ventures**, and **USV**, raising over $94 million to date.
+
+Key takeaways include:
+
+* An organizational structure consisting of only 17 team members with no internal hierarchy or one on one meetings.  
+* A founding philosophy that prioritizes high equity ownership and extreme product momentum over traditional scaling.  
+* A strategic rejection of the financial super app model in favor of an intentional, social driven trading experience.  
+* The integration of Artificial Intelligence to accelerate engineering velocity, with future spending on AI tokens potentially reaching 20 percent of developer salaries.  
+* A growth strategy anchored in a decentralized media arm and high impact brand marketing.
+
+## **Organizational Structure and Founding Philosophy**
+
+**FOMO** operates with a nontraditional organizational framework designed to maximize autonomy and ownership among its senior staff.
+
+### **The Lean Team Model**
+
+The company currently maintains a total head count of 17 team members. The CEO intends to keep the team below 25 people for the foreseeable future, emphasizing that the best talent is significantly more valuable in the current technological landscape. The internal structure is entirely horizontal:
+
+* There is no formal hierarchy among staff.  
+* Traditional one on one meetings are not utilized.  
+* Employees are self-reporting and autonomous.
+
+### **Equity and Ownership**
+
+To foster a deep sense of commitment, **FOMO** utilized an aggressive equity distribution model. During the first eight months of development, no team members took a salary, as the original group consisted primarily of senior engineers betting on the long term success of the company.
+
+* "We gave non-founders a percentage of the company that usually founders get."  
+* "I think what is really important here is, all those people feel like owners of the business because if those five to seven to 10 people build this business for the next 10 years there is literally nothing stopping us."
+
+## **Financing and Venture Strategy**
+
+The financing history of **FOMO** reflects a transition from a community driven angel round to high stakes institutional backing.
+
+### **Initial Capital and Angel Network**
+
+The company initially avoided institutional investors, opting for an angel round featuring 140 individuals. This approach was a deliberate strategy to solve the cold start problem for a consumer product. By allowing users and builders in the industry to invest, **FOMO** created an immediate distribution channel. [Aaron Harris](https://www.linkedin.com/in/aaronkharris), formerly of **XYC**, is cited as a pivotal advisor who helped the founders navigate complex term sheets.
+
+### **Institutional Rounds**
+
+The company subsequently raised a Series A and a Series B, moving from a position of protecting downside risk to aggressive scaling.
+
+| Round | Lead Investors | Amount Raised | Valuation (Post Money) |
+| :---- | :---- | :---- | :---- |
+| Series A | **Benchmark** | $20 Million | Not Disclosed |
+| Series B | **Index Ventures**, **USV** | $75 Million | $550 Million |
+
+Key insights regarding venture capital include:
+
+* Investors such as [Fred Wilson](https://en.wikipedia.org/wiki/Fred_Wilson_\(financier\)) of **USV** were selected for their product intuition and historical involvement with companies like **Coinbase**.  
+* **Index Ventures** provides significant resources for scaling that smaller firms may lack.  
+* The founders suggest waiting to announce a funding round until a company is ready to raise the next one, as announcements generate significant investor inbound that can distract from operations.
+
+## **Product Philosophy and Market Differentiation**
+
+**FOMO** positions itself against the horizontal scaling seen in competitors like **Robinhood** and **Revolut**.
+
+### **Social Graph and Intentionality**
+
+The CEO argues that the financial super app theory, which bundles disparate services, lacks intentionality. **FOMO** utilizes a social graph as the glue between different market types, allowing users to express convictions on beliefs rather than just accessing a list of assets.
+
+* "Everything app means not intentional."  
+* The platform allows users to track the positions of friends, and high performing traders in real time, creating a feedback loop of discovery.
+
+### **Market Access and Perpetuals**
+
+**FOMO** aims to provide global access to equities and perpetuals, particularly focusing on onchain native assets like Bitcoin and Ethereum. The use of perpetuals allows retail investors to bet on the price of assets, such as **SpaceX**, without needing the transfer of the underlying asset.
+
+* "I think Casino is kind of a derogatory way to view it."  
+* Speculation is viewed as a fundamental aspect of most financial assets, and the coordination of retail investors is seen as an empowering force against traditional institutions.
+
+## **Engineering and the Integration of AI**
+
+Engineering at **FOMO** is defined by speed and the strategic use of Artificial Intelligence to maintain a small head count while increasing output.
+
+### **AI Assisted Development**
+
+The team utilizes Claude Code and Codex within an internal AI policy to ensure data security. AI is used as a framework to speed up the learning process and implementation of front end components.
+
+* "The best people are just so much more valuable now, because it is like, you can use chat GPT to make art, but you need to have like the creative direction behind it."  
+* The company built its web app in one month and developed a new product in three weeks by leveraging these tools.  
+* The CEO anticipates that spending on AI tokens could feasibly reach 20 percent of developer salaries as models become integral to the architectural process.
+
+### **Product Velocity vs. Perfection**
+
+While acknowledging the perfectionism of companies like **Apple**, the leadership at **FOMO** prioritizes shipping fast to maintain momentum.
+
+* "Everything is about momentum."  
+* "Once you lose momentum the boulder just starts rolling down the hill."  
+* The company iterates based on direct feedback from passionate users in **Telegram** channels, which allows for rapid product refinement.
+
+## **Growth and Brand Strategy**
+
+**FOMO** has developed a sophisticated growth engine that combines user generated content with a centralized media arm.
+
+### **The Media Arm and Clipper System**
+
+The company manages an in-house group of 30 to 40 creators who produce content for platforms like **TikTok**. This strategy focuses on:
+
+* Creating share cards that display positions and fumbles, which users post on other social media platforms.  
+* Managing creators based on strict metrics like impressions and conversion costs.  
+* Iterating on high performing content formats rather than constantly searching for new ones.
+
+### **Brand Marketing and Customer Acquisition**
+
+Leadership emphasizes the importance of brand marketing, despite the difficulty of direct attribution.
+
+* The company looks for immortal assets, such as podcast sponsorships or sports partnerships like those of **Airwall** or **Vodafone**, which provide value in perpetuity.  
+* There is a recognized need to increase the cost per acquisition to capture larger audiences as the company matures beyond the lowest hanging fruit.
+
+## **Future Outlook and Strategic Challenges**
+
+As **FOMO** expands globally, it faces challenges related to market volatility and regulatory clarity.
+
+* **Verticalization:** The company plans to verticalize its infrastructure to own more of the user experience and reduce reliance on third party servers.  
+* **Regulatory Environment:** While there has been positive movement regarding regulatory clarity in the United States, public sentiment toward crypto remains impacted by high profile scams and lack of consumer protection.  
+* **Long term Vision:** The ultimate goal is to remain the best trading platform for top-tier traders while evolving the social features to keep non active traders engaged.  
+* "The goal for FOMO, as cheesy as it sounds, is to be a beacon of light."
