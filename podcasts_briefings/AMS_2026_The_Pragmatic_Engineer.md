@@ -1896,3 +1896,86 @@ The current era of AI agents, or Genies, has pushed the industry back into the E
 ## **Conclusion**
 
 The evolution of software engineering from the 1970s to the present reveals a consistent pattern: technical tools are most effective when they serve the human needs of confidence and communication. As the industry moves into an AI driven future, the source context suggests that practitioners should not fear the loss of coding but should instead embrace the shaking of the tree to discover new ways of building trust and understanding through software.
+
+# Episode 067
+
+# **The Pragmatic Engineer Insights and Industry Analysis**
+
+## **Executive Summary**
+
+This document synthesizes key themes from an analysis of the tech industry, the role of Artificial Intelligence in engineering, and the evolution of software development careers. It is based on a detailed interview with [Gergely Orosz](https://nl.linkedin.com/in/gergelyorosz), the creator of **The Pragmatic Engineer**, a leading independent technical publication.
+
+The software engineering landscape is undergoing a significant transformation driven by the integration of Artificial Intelligence and shifting corporate structures. Key findings include:
+
+* **The Decline of Middle Management:** There is a move away from traditional people management toward technical leadership, with a growing expectation for engineering managers to remain hands on with code.  
+* **AI Native Development:** Companies like **Anthropic** are pioneering fluid, prototype driven development cycles that bypass traditional documentation, though this model remains difficult for larger, established firms to replicate.  
+* **The Hiring Friction:** AI has rendered traditional remote algorithmic interviews and take home tasks less effective, leading to a messier and more subjective hiring process that prioritizes in person evaluation and deep reasoning.  
+* **Big Tech AI Disparities:** **Google** remains a strong competitor with Gemini, while **Meta** operates in a wartime mode that has impacted internal morale. **Microsoft** and **Amazon** face challenges in retrofitting AI into massive, political organizations.  
+* **The Persistence of Craft:** Despite the speed of AI, there remains a critical demand for professionals who prioritize software craftsmanship and can navigate the trade offs of technical debt.
+
+## **Career Transitions and the Independent Model**
+
+The transition from a high level role at **Uber** to independent content creation, was driven by a desire to move away from the politics of middle management. "I was a little bit tired of being a middle manager, they tell you congratulations you become a manager, they should have said you became a middle manager."
+
+The decision to build **The Pragmatic Engineer** was a calculated risk made possible by financial stability from stock options. It was modeled after successful independent newsletters on platforms like **Substack**, specifically noting the success of product management content which suggested a larger untapped market for software engineering insights. The business has grown to over 10,000 paying subscribers, generating revenue that exceeds typical big tech total compensation.
+
+## **The Impact of Artificial Intelligence on Engineering**
+
+### **Software Development Life Cycle (SDLC)**
+
+The traditional SDLC, which moved from planning to deployment, is being challenged by AI native approaches. While most large companies are building internal AI infrastructure to assist with coding and agents, they struggle to fundamentally change their pace.
+
+* **Anthropic**: Cited as the closest example of an AI native company. They prioritize prototypes and iteration over design documents.  
+* **Uber** and **Ramp**: Focused on building AI infrastructure to optimize their specific business models rather than trying to build foundational models.  
+* **Spotify**: While using AI, the company has faced reliability issues, suggesting that AI adoption does not automatically lead to better system stability.
+
+### **Technical Debt and Quality**
+
+AI allows for faster building but also faster refactoring. A false dichotomy often exists between speed and quality. Technical debt can be a strategic tool during the expand phase of a product, provided it is addressed once product market fit is achieved. "AI doesn't only let us build faster, it allows us to refactor faster, so we have no excuse not to do that every now and then."
+
+## **The Evolution of Hiring and Education**
+
+AI has fundamentally disrupted the two primary worlds of hiring: the algorithmic Google style interview and the practical take home task.
+
+| Hiring Challenge | Impact of AI |
+| :---- | :---- |
+| **Algorithmic Interviews** | AI can solve **LeetCode** style questions instantly, making remote testing less reliable. |
+| **Take Home Tasks** | AI can complete complex assignments, reducing the signal for actual candidate skill. |
+| **Filtering** | Companies are becoming more selective, prioritizing candidates with a computer science degree or pedigree from prestigious universities. |
+
+The hiring process is becoming more high friction and subjective. Some companies, like **Linear**, use trial weeks to assess collaboration. Others, like **Wordsmith**, allow AI use during tasks but follow up with deep questioning to ensure the candidate can reason through decisions and correct AI errors. "I think hiring will be honestly just more, there will be more. As a candidate it'll feel more unfair because there will be no clear rules that we have been gotten used to, and it'll be messy."
+
+### **Education and Junior Roles**
+
+The market for self taught professionals has tightened. A computer science degree is increasingly seen as a necessary filter for large employers and is critical for securing international visas. For juniors, the current market is saturated, and the recommendation is to accept any available role to build a network and gain hands-on experience.
+
+## **Big Tech Performance in the AI Era**
+
+The major tech players are at different stages of AI adoption and effectiveness:
+
+* **Google**: Seen as a leader due to Gemini and its internal culture of encouraging AI experiments.  
+* **Meta**: Currently in a wartime mode that prioritizes AI above all else, which has led to some engineers being reassigned to tasks like data labeling, negatively impacting morale.  
+* **Microsoft**: Described as being in a political phase, with internal organizations competing for capacity while source control and reliability suffer.  
+* **Amazon**: Facing difficulties in retrofitting AI into its culture, with internal tools often seen as subpar compared to external alternatives.  
+* **Apple**: Remains secretive with a focus on local AI running on hardware, though its engineering culture is described as less modern than its peers.
+
+## **Professionalism and the Future of the Craft**
+
+The core of software engineering in the next five years, will remain the demand for true professionals. These are individuals who understand tools and their trade offs without ego.
+
+"There will be just as big a demand for professionals who care about the craft, if you have no ego and you just choose the right one for the right job."
+
+Future proofing requires working on relevant projects within a company, rather than returning for full time education. Engineers are encouraged to start AI experiments as internal tools to stay relevant.
+
+## **Analysis of Tools and Sponsors**
+
+Newer tools are emerging to handle the complexities of AI and modern systems:
+
+* **Antithesis**: A system that verifies correctness through hostile simulation, offering unique visualizations for bug probability and a multiverse debugger that allows command injection during playback.  
+* **Granola**: An AI tool for note taking in meetings that enhances user notes.  
+* **Perplexity**: Recognized for its deep research capabilities as a search alternative.  
+* **Cursor** and **Anthropic** Claude Code: Current leaders in the coding assistant space.
+
+## **Journalistic Ethics and Business Practices**
+
+As a creator, maintaining editorial integrity is paramount. This includes choosing not to publish hit pieces, such as a prepared article on **Bunk**, because it lacked a balanced view of the company's business value. However, investigative work on companies like **Pollen** revealed severe issues like unpaid salaries and insurance cancellations, leading to broader reporting by the **BBC**. The goal remains to share things that work and provide value to the engineering community rather than focusing solely on negative exposés.
