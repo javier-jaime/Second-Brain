@@ -3263,3 +3263,74 @@ The document highlights a specific approach to building in a rapidly evolving la
 * **Building for Future Models:** Teams should develop features that may not work perfectly with current models, maintaining them as artifacts to be tested against future, more intelligent iterations.  
 * **Ambition and Disruption:** A culture of bottom-up exploration is necessary because current products will inevitably be disrupted by future efforts.  
 * **Process Agency:** Success requires the willingness to relearn processes constantly. "Do not get married to your exact process, get married to like the outcomes that you are uniquely able to deliver, and then do things like change your process to try things."
+
+# Episode 351
+
+# **Adam Mosseri on the Evolution of Product, AI, and Instagram**
+
+### **Executive Summary**
+
+This document synthesizes key insights from [Adam Mosseri](https://uk.linkedin.com/in/mosseri), head of **Instagram**, regarding the fundamental shifts in product development, team structure, and platform strategy in an era dominated by Artificial Intelligence. The central thesis is that as AI lowers the barrier to execution, human value shifts toward taste, judgment, and strategic curation. **Instagram** is undergoing an organizational transformation, moving from large specialized teams to smaller, generalist pods led by an evolved product staff role. Simultaneously, the platform is navigating the rise of synthetic content by doubling down on individual creators and authenticity.
+
+### **Organizational Evolution and the Rise of the Generalist**
+
+The traditional structure of product teams at large technology companies is becoming obsolete. The canonical team of 2026 is expected to be smaller, faster, and less reliant on highly specialized roles for every function.
+
+* **Shift from Specialized Teams to Pods:** In previous years, a standard team at **Meta** or **Instagram** consisted of a baker’s dozen of specialists, including multiple engineers for specific platforms, designers, data scientists, and researchers. Current trends favor pods of four to six engineers who function as generalists.  
+* **The Product Staff Role:** This role is an evolution of the traditional Product Manager. A product staff member acts as a generalist who can perform tasks previously reserved for specialized designers, data scientists, or researchers, such as conducting waterfall analyses using internal tools.  
+* **Blurring Functional Lines:** AI tools allow for the reduction of mechanical work, enabling roles to bleed into one another. Designers are increasingly involved in programming, while engineers perform data science and data scientists contribute to product strategy.  
+* **The Continued Value of Senior Specialists:** While generalists handle the core work, there remains a critical need for very senior, highly creative specialists for tasks involving complex pricing strategies or novel user experiences.
+
+| Traditional Team Structure (Pre-AI) | Modern Pod Structure (2026 Model) |
+| :---- | :---- |
+| 12 to 13 people | 6 to 7 people |
+| Specialized engineers (iOS, Android, Server) | Generalist engineers |
+| Dedicated PM, Designer, Data Scientist, Researcher | Product Staff (Generalist) |
+| Higher coordination cost, design by committee | Faster decision making, high autonomy |
+
+### **Skillsets and Human Value in an AI World**
+
+As AI increasingly automates the software development life cycle, the traits required for professional success are shifting away from raw execution toward higher level cognitive functions.
+
+* **The Premium on Taste:** Taste is defined as the ability to figure out what should be built in the first place. This quality is considered difficult to automate and is the primary reason why designers are expected to remain influential, even as their traditional roles change.  
+* **Vision and Strategy vs. Execution:** Human brains are most valuable in articulating a vision, a specific state of the product, and defining strategy, an opinionated and controversial path to achieve that vision.  
+* **Critical Traits for Hiring:**  
+  * **Grit and Drive:** A fire in the belly to see projects through.  
+  * **Learning Velocity:** The ability to learn quickly and adapt to new tools.  
+  * **Self-Awareness:** The capacity to take feedback and understand personal strengths and weaknesses.  
+  * **Curiosity and Risk-Taking:** A willingness to try new technologies and sound like an idiot while learning.  
+* **The Role of the Curator:** Great product leaders are often less about being idea machines and more about being curators of people, ideas, and strategies to ensure the best environment for talent.
+
+### **Technical and Algorithmic Strategy**
+
+The **Instagram** algorithm is evolving from opaque mathematical artifacts to more legible, semantically understood models powered by LLMs.
+
+* **Demystifying the Algorithm:** A common misconception is that the algorithm has always had a detailed semantic understanding of interests. Historically, it relied on giant vectors in embedding spaces that were not legible to humans.  
+* **Legibility through LLMs:** **Instagram** is using LLMs to translate embedding spaces into human readable topics. This allows features like your algorithm to show users exactly what the system thinks they are interested in, such as deep pourover coffee snobbery.  
+* **Chronological vs. Algorithmic Feeds:** Pure chronological feeds create negative incentives where professional publishers overwhelm the feed by posting frequently. Algorithmic ranking is necessary to prioritize relevant content, such as a family engagement over a recent post about a sandwich.  
+* **Computational Costs:** While **Meta** does not currently impose strict token limits on engineers, [Mosseri](https://uk.linkedin.com/in/mosseri) anticipates that the burn rate of a strong engineer might eventually match their salary, requiring ROI based caps on AI resource usage.
+
+### **The Content Ecosystem and Synthetic Media**
+
+The rise of AI generated content presents both a tailwind for engagement and a significant challenge for platform integrity.
+
+* **Tailwind for Attention:** Abundant content can drive more attention and advertising opportunities, provided the platform can effectively rank and personalize it.  
+* **Individual over Institution:** Power is shifting from institutions to individuals. In a world of synthetic abundance, people will likely seek out the unique point of view and authenticity of human creators.  
+* **Labeling and Transparency:** **Instagram** aims to label AI content rather than filter it out. "I think we should let you know if content is AI content or not, that is hard by the way."  
+* **Detection Challenges:** As AI models improve, detecting synthetic content becomes harder. It may eventually be more practical to label camera captured content as the verified non AI standard.
+
+### **Leadership Lessons and Strategic Failures**
+
+[Mosseri](https://uk.linkedin.com/in/mosseri) identifies several past failures as critical learning moments for his leadership at **Facebook** and **Instagram**.
+
+* **Facebook Home:** This attempt to fork Android at the OS level was a spectacular failure. It taught [Mosseri](https://uk.linkedin.com/in/mosseri) about carriers, OEMs, and the importance of identifying a lack of market fit quickly.  
+* **Early Reels Architecture:** The first version of Reels was built on top of Stories in 2019\. This was a mistake because the read through rate of Stories was too low, causing most Reels to go unseen. If **Instagram** had launched its 2020 version of Reels a year earlier, **TikTok** might not have gained its current level of dominance.  
+* **Navigating Public Critique:** [Mosseri](https://uk.linkedin.com/in/mosseri) advocates for participating in the public debate rather than being secretive. "I think it is better for us to talk about it, and just be clear about what we are doing, why we are doing it, what the trade-offs are."
+
+### **Personal Philosophy on Technology and Literacy**
+
+Management of technology at a personal level involves setting boundaries while encouraging digital literacy.
+
+* **Parental Controls:** For his children, [Mosseri](https://uk.linkedin.com/in/mosseri) employs a system where screen time on iPads must be earned through homework or other tasks.  
+* **Vibe Coding:** [Mosseri](https://uk.linkedin.com/in/mosseri) encourages children to learn how to make things using AI. His ten year old uses **Claude** to build complex video games, emphasizing a shift from consumption to creation. "I want you to be thinking, not just playing games, and I am gonna sit with you and do, we are going to do this together."  
+* **The Inevitability of Trade-offs:** Every major product decision, from privacy vs. safety to ranking changes, involves significant trade-offs. "None of these contentious debates are nearly as simple, as most people pretend to make them out to be."
