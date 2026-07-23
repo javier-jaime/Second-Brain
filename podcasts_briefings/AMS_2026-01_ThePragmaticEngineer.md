@@ -458,6 +458,246 @@ In the new era, [Breslav](https://uk.linkedin.com/in/abreslav) views the LLM as 
 
 "The hardest thing about the future is that humans will be as smart or as dumb as they are today", [Andrey Breslav](https://uk.linkedin.com/in/abreslav)
 
+# 2026-02-23
+
+# **Internal Software Engineering Paradigms at OpenAI**
+
+## **Executive Summary**
+
+The internal engineering culture at **OpenAI** is undergoing a fundamental transformation in how software is conceptualized, constructed, and maintained. The transition from using AI as a simple autocomplete tool to employing it as an autonomous teammate has significantly altered the developer workflow. Key findings include the emergence of parallel implementation strategies, where multiple versions of a feature are developed simultaneously, and the shifting of engineering bottlenecks from code generation to code review and high level strategy. **OpenAI** is actively hiring AI native new graduates and interns, asserting that while traditional foundations remain critical, the ability to leverage AI agents from day one is becoming a primary driver of productivity. The organization anticipates a future where code is abstracted away, systems are debugged via symptom analysis, and multi-agent networks handle complex tasks autonomously.
+
+## **The Evolution of AI as a Teammate**
+
+The role of AI within **OpenAI** has progressed rapidly from an extension to an agent and finally to a teammate. This evolution is characterized by a significant increase in usage and autonomy.
+
+* **Usage Volume:** Internal engineers routinely consume hundreds of billions of tokens every week, indicating that AI is deeply integrated into the development process.  
+* **Codex Box:** This internal tool allows engineers to reserve development boxes on a server to fire off prompts. This enables asynchronous work where an engineer can orchestrate tasks, shut their laptop for meetings, and return to find the work completed.  
+* **Asynchronous Orchestration:** Software development has moved toward a model where the human engineer acts as an orchestrator, allowing agents to perform the bulk of the work in parallel on server side infrastructure.
+
+## **Shifting Bottlenecks and Engineering Roles**
+
+As AI eliminates the friction of writing code, the challenges of software engineering have shifted to other areas of the lifecycle.
+
+* **Dynamic Bottlenecks:** The primary constraint on productivity has moved from code generation to code review. As code volume increases, integration and deployment (CI/CD) are expected to become the next major hurdles.  
+* **Parallel Exploration:** Engineers now explore multiple different implementations of a solution in parallel rather than choosing one path during the design phase. They then zoom in on the implementation that proves to work best.  
+* **Role Blurring:** Traditional boundaries between disciplines are fading. Designers are now shipping code that is of high enough quality to be merged as is, and product managers are building prototypes and managing bug bashes with extreme leverage.  
+* **Hyper-Leveraged Product Management:** A single product manager on the Codex team at **OpenAI** uses AI to collect feedback, file bug reports, and assign tickets in **Linear**, effectively performing the work of multiple program managers.
+
+## **Advanced Operational Practices**
+
+**OpenAI** employs several novel engineering practices that utilize their own models to manage technical debt and operational health.
+
+* **Autonomous Testing Loops:** The model is capable of running for multiple hours to perform large scale tasks. This includes overnight runs where Codex autonomously tests itself, performs QA in a loop, and flags regressions.  
+* **Real Time Data Diagnosis:** During weekly meetings, teams fire off threads to diagnose issues or answer analytics questions in real time. Rather than relying solely on static dashboards, AI agents provide answers within the timeframe of the meeting.  
+* **Technical Diagnosis:** AI is used to determine the fastest path to recovery during incidents, accelerating the gathering of information and problem solving during live calls.
+
+## **Organizational Structure and New Talent**
+
+The approach to human capital and organizational design is evolving to match the speed of AI driven development.
+
+* **Flat Organizations:** To avoid individual leads becoming bottlenecks, some teams operate with a very flat structure. For example, the Codex team lead has thirty three direct reports to ensure rapid decision making and execution.  
+* **AI Native Onboarding:** New hires and interns are expected to be AI native. Onboarding is largely handled by Codex, with new employees using the AI to navigate the codebase and understand the existing culture.  
+* **The Value of Foundations:** Despite the reliance on AI, core engineering foundations, architecture, and product intuition remain essential. Leaders at **OpenAI** compare the current shift to previous paradigm shifts at **Microsoft** and throughout the industry, such as the move from assembly to higher level languages or the introduction of IntelliSense.
+
+## **Future Projections and Industry Trends**
+
+The trajectory of software engineering suggests further abstraction and the rise of complex agent networks.
+
+* **Multi Agent Networks:** Within six months, it is predicted that large networks of multi agent systems will collaborate on massive goals, such as building complex software like a browser from scratch within twenty four hours.  
+* **Abstraction of Code:** As AI systems become more capable, the actual code may be abstracted away. Engineering will focus on setting guardrails and proving the correctness and security of inputs and outputs rather than reviewing every line of code.  
+* **Symptom Based Debugging:** As software systems become increasingly complex and multi-layered, developers will move toward identifying and solving issues by looking at symptoms, supported by tools designed for high level system analysis.  
+* **Productivity Metrics over Token Cost:** While cost remains a consideration for the broader industry, the mindset at **OpenAI** is shifting toward viewing AI as a teammate. The value is measured by the productivity of having a team of agents working twenty four hours a day rather than the cost of individual tokens.
+
+## **Significant Quotes Regarding Internal Operations**
+
+"The way we write software has fundamentally changed."
+
+"I fully expect engineers to name their agents now, and call themselves as their teammates, and this is happening so fast."
+
+"One thing I'm noticing is the depth of these demos have been consistently going up."
+
+"Once you solve coding for example, now you've just made every engineer five times more productive."
+
+"I actually truly believe that the new software engineers that are being created, are going to be AI native."
+
+"Code will become abstracted away and it will all become about, you know, what are the actual challenges and things, and you know, the properties of the system."
+
+"As long as we're building products for humans to use, we will need human designers, we will need human product managers."
+
+# 2026-02-24-01
+
+# **Data vs Hype: Organizational Success in the Age of AI**
+
+### **Executive Summary**
+
+The current landscape of Artificial Intelligence adoption reveals a significant gap between tool utilization and meaningful organizational transformation. Data collected between November 2025 and February 2026 shows that 92.6 percent of developers use AI coding assistants monthly, yet many organizations struggle to translate this into bottom line impact. While developers report saving approximately 4.08 hours per week, representing a roughly 10 percent productivity increase consistent with findings from **Google**, the effects of AI are highly uneven.
+
+The industry is currently transitioning toward agentic workflows, with tools like the Codex app from **OpenAI** reaching over one million downloads within a week of release. High performing organizations are distinguished by their ability to apply AI to systems level problems rather than isolated coding tasks. Key findings indicate that AI has cut developer onboarding time in half, but sustainable gains require addressing human and organizational constraints. Success is predicated on clear goal measurement, investment in developer experience, and a focus on solving real customer problems.
+
+### **Industry Benchmarks and Productivity Indicators**
+
+Recent industry data derived from 121,000 developers across more than 450 companies provides a baseline for current AI integration. Adoption rates remain high, but the rate of code actually reaching production via AI is seeing the most significant growth.
+
+| Metric | Industry Statistic |
+| :---- | :---- |
+| Monthly AI Assistant Usage | 92.6% |
+| Weekly AI Assistant Usage | 75.0% |
+| Self-Reported Time Savings | 4.08 hours/week |
+| AI Authored Code in Production | 26.9% |
+| Code Authored by Daily AI Users | Over 30% |
+
+The 26.9 percent of AI authored code merged into customer facing environments represents a notable increase from 22 percent in the previous quarter. This suggests that while time savings have plateaued around the 10 percent mark, the volume of AI generated content passing code review and hitting production is accelerating.
+
+### **The Onboarding Multiplier**
+
+One of the most effective use cases for AI is developer onboarding. Between Q1 2024 and Q4 2025, the industry saw a 50 percent reduction in onboarding time, measured by the time it takes a developer to reach their 10th pull request.
+
+* This gain applies to new hires, engineers moving between projects, and non engineers joining technical projects.  
+* Research from **Microsoft** indicates that an engineer's performance during the time to 10th pull request milestone typically correlates with their productivity for the first two years of their tenure.  
+* AI reduces the cognitive load associated with entering new codebases, creating a productivity gain that persists long after the initial onboarding phase.
+
+### **Uneven Impact: The Big Bang Effect**
+
+The introduction of AI into organizations acts as an accelerator, moving companies toward different extremes based on their pre-existing health. "There is no typical experience with AI."
+
+#### **Quality and Performance Divergence**
+
+Organizations are experiencing a split in outcomes regarding system stability and quality. Some organizations are facing twice as many customer facing incidents since the integration of AI tools. Conversely, other companies have leveraged AI to create healthier systems, resulting in 50 percent fewer incidents. These high performing organizations see improvements in code maintainability and change confidence, while dysfunctional organizations often see their existing issues amplified.
+
+#### **The Transformation Ceiling**
+
+A July 2025 study by **MIT** titled “The Gen AI Divide” identified a trend of high adoption but low transformation. Many organizations are reaching a low ceiling for productivity gains, because they apply AI only to individual coding tasks at a developer's desk. True transformation requires organizational change management, yet many companies that struggled with cloud or agile transformations are similarly faltering with AI.
+
+### **The Rise of Agentic Workflows**
+
+The universe of AI possibility is expanding through agentic workflows, which allow for more complex, multi-step operations.
+
+* **OpenAI**: The **Codex** desktop app, released on February 2nd, saw a 60 percent user growth in a single week. Developers using these tools ship approximately 60 percent more pull requests per week compared to those using standard AI assistants.  
+* **Haven Headache and Migraine Center**: This startup uses agentic workflows to prototype custom patient portals using artifacts from **Figma** and **Linear**. By training a HIPAA compliant model on symptom logs, **Haven** has achieved three times the industry average in customer satisfaction and improved clinical outcomes.  
+* **Cisco**: With 18,000 engineers using agentic tools daily, the company has seen a 50 percent reduction in code review time and utilizes the technology for complex migrations.  
+* **JP Morgan Chase**: The organization developed a multi-agent framework for annotation, known as MAFA, which utilizes a business of agents where different units annotate, rank, and validate outputs through consensus algorithms.
+
+### **Strategic Frameworks for Winning with AI**
+
+To move beyond the hype and achieve real organizational impact, leadership must treat AI as a systems level challenge.
+
+#### **Measurement and Goals**
+
+Winning organizations avoid a spray and prey approach of distributing licenses without a plan. The AI measurement framework developed by **DX** suggests tracking three specific pillars:
+
+1. Usage and Adoption: Monitoring how and how often tools are used.  
+2. Impact: Measuring changes in speed, developer experience, quality, and the innovation ratio.  
+3. Cost: Assessing if the investment is yielding a proportional return as tool costs rise.
+
+"Insufficient facts always invite danger."
+
+#### **Prioritizing Developer Experience**
+
+Developer experience matters more than ever because the factors that support human engineers, such as clear documentation, fast CI loops, and solid testing practices, are the same factors that make AI agents successful. AI cannot compensate for a poor meeting culture or constant interruptions. High performing organizations use AI to fix the systems themselves, such as reducing meeting frequency or dev environment toil, rather than just increasing coding speed.
+
+#### **Addressing Systems Level Constraints**
+
+A retreat marking the 25th anniversary of the agile manifesto, attended by experts from **Thoughtworks**, concluded that technology cannot fix fundamental human or organizational problems. "AI does not solve organizational systems problems."
+
+"Organizations are constrained by human and systems level problems."
+
+To prepare for effective AI integration, organizations can utilize the DORA AI capabilities model or the **Thoughtworks** Forest framework to conduct internal audits of AI readiness. These models emphasize that having a clear and communicated AI stance correlates with better organizational outcomes.
+
+### **Conclusion**
+
+The Age of Exploration in AI mirrors space exploration in its sense of wonder, but its ultimate value lies in improving systems back on Earth. While experimentation is necessary to push boundaries, sustainable success requires a pragmatic focus on real customer problems. "The point of going to the moon, and the point of exploring, and doing all this crazy stuff, was to improve life on Earth." Organizations must remain grounded in reality to achieve meaningful impact.
+
+# 2026-04-24-02
+
+# **Building World-Class Engineering Teams in the Age of AI**
+
+## **Executive Summary**
+
+The transition toward AI native engineering represents a fundamental shift in mindset, organizational structure, and the software development life cycle. Rather than simply using AI as a tool for efficiency, AI native teams are redefining the boundaries of professional roles, where product managers and designers contribute directly to codebases and engineers evolve into orchestrators of agents. Evidence from **Atlassian** demonstrates significant quantitative gains, including an 89 percent increase in pull requests per engineer and a 51 percent improvement in identifying security vulnerabilities. The emergence of agentic workflows is also mitigating the traditional disadvantages of distributed teams by providing 24/7 expert assistance. While technical challenges remain regarding legacy codebases and the rising costs of flexible tokens, the primary evolution is the upleveling of human talent from manual labor to high level intent and verification.
+
+## **Defining the AI Native Framework**
+
+The concept of AI native is currently undergoing a definition phase similar to the early days of cloud native, characterized by a transition from traditional coding to agent orchestration.
+
+* **The Mindset Shift:** AI native work begins with a belief in working with agents. In advanced teams, engineers are writing zero lines of manual code, focusing instead on the orchestration of multiple agents.  
+* **The AI Native Generation:** Younger individuals are entering the workforce having grown up with tools like **Adobe** Firefly. For this generation, using agents is more natural than traditional search or manual processes.  
+* **Human Agent Synergy:** The goal of these teams is not the replacement of humans but the elevation of human roles. "We are upleveling the humans to become the masters of these, of these agents."  
+* **Contextual Intelligence:** The effectiveness of agents is heavily dependent on context. **Atlassian** has developed a teamwork graph that maps relationships between employees, pull requests, and issues in **Jira** to provide agents with the necessary data to outperform general models.
+
+## **Transformation of the Software Development Life Cycle (SDLC)**
+
+The integration of AI is shifting the traditional bottlenecks of software development away from implementation and toward planning and verification.
+
+### **Left of Code: Planning and Specifying**
+
+Implementation is becoming increasingly inexpensive, shifting the focus to the ideation phase.
+
+* Tools like **Confluence** and **Loom** are used to capture intent, specs, and video thoughts.  
+* Agents can read comments and intent within **Confluence** to begin the development process through reasoning loops.  
+* Product managers are now expected to use coding agents to build prototypes rather than just delivering static documents.
+
+### **Implementation: Agentic Coding**
+
+The act of writing code is becoming an automated function handled by specialized agents.
+
+* **Atlassian** utilizes Robo Dev, an internal coding agent built on **Anthropic** models, to handle tasks across the SDLC.  
+* Developers are encouraged to look at code as little as possible, forcing themselves to solve problems through prompts and voicing intent.  
+* Legacy systems remain a challenge, as agents currently struggle with the complexity of older, non AI native codebases.
+
+### **Right of Code: Verification and Deployment**
+
+The final stages of the SDLC are moving from manual inspection to automated verification.
+
+* The role of the engineer is shifting toward the verification of inputs and outputs to ensure systems meet security, reliability, and performance standards.  
+* The industry is moving toward a state where coding agents and code review agents interact directly, potentially removing the human bottleneck from the review merge deploy cycle.
+
+## **Blurring of Professional Roles and Organizational Structure**
+
+AI is causing a role collapse where the distinctions between engineering, design, and product management are disappearing.
+
+| Traditional Role | Emerging AI Native Role | Change in Function |
+| :---- | :---- | :---- |
+| Product Manager | Product Engineer | Uses agents to build prototypes and write code. |
+| Product Designer | Design Engineer | Bridges the gap between design and functional implementation. |
+| Engineering Manager | Technical Lead / Doer | Spans of control increase, fewer managers are needed, and leaders return to coding. |
+
+* **Increased Span of Control:** Traditional management structures often featured a binary tree with few direct reports. In AI native organizations, managers can handle 30 to 50 direct reports as AI automates administrative tasks like performance reviews and status updates.  
+* **Leadership Reengagement:** AI tools like **Cursor** or **GitHub** Copilot allow engineering leaders to remain hands-on. "I think the span of controls will increase."  
+* **Performance Management:** AI is being used both to write and decode performance reviews, leading to a demand for more direct, honest communication between managers and individual contributors.
+
+## **Impact on Distributed and Remote Work**
+
+AI agents act as a force multiplier for distributed teams, evening the competitive field between remote first companies and in office organizations.
+
+* **Mitigating Isolation:** Remote workers often face the challenge of being alone without immediate access to colleagues. Agents provide a 24/7 expert presence for brainstorming, research, and code reviews.  
+* **Continuous Engagement:** Distributed teams benefit from a 24/7 work cycle. When a team in San Francisco finishes their day, agents and human counterparts in Australia or Europe continue the momentum.  
+* **Intentional Togetherness:** While AI facilitates remote work, companies like **Atlassian** still emphasize intentional togetherness, using agents to bridge the gap between physical meetings.
+
+## **Quantitative Impact and Metrics**
+
+The adoption of agentic workflows has resulted in measurable improvements in engineering output and security.
+
+* **Developer Productivity:** **Atlassian** reports that pull requests (PRs) per engineer have increased by 89 percent.  
+* **Cycle Time:** Issue cycle times have decreased by 42 percent.  
+* **Security:** 51 percent of security vulnerabilities are now identified and caught by AI agents.  
+* **Efficiency:** Some teams report productivity gains ranging from 2x to 100x, depending on the project and the level of agent integration.
+
+## **Economic and Technical Challenges**
+
+Despite the benefits, the transition to AI native engineering introduces new operational complexities.
+
+* **Token Costs vs. Headcount:** Unlike fixed salary costs, AI introduces flexible token costs. High developer productivity can lead to surging token expenses, creating a scenario where finance teams might feel pressured to slow down developers to manage budgets.  
+* **The Problem of Feature Bloat:** The ease of generating code can lead to the creation of products with too many features and no cohesive architecture, a phenomenon compared to the "Homer Simpson's Car" of software design.  
+* **Legacy Code Bottlenecks:** AI agents perform best in Greenfield projects. Legacy codebases require significantly more effort and are not yet as amenable to aggressive agentic intervention.
+
+## **Future Outlook**
+
+The trajectory of AI native engineering suggests a future where traditional programming abstractions may become obsolete.
+
+* **The End of Programming Languages:** There is a possibility that programming languages and Integrated Development Environments (IDEs) will disappear in favor of an AI Java Virtual Machine (JVM) that operates on high level intent.  
+* **The Return of Joy in Coding:** AI agents are removing the mundane aspects of development, such as fixing build errors or writing unit tests. "Coding is fun again and it brings us back to when we learned coding."  
+* **Democratization of Building:** Tools like **Replit**, **Lovable**, and **Cursor** allow individuals to build native applications without looking at the underlying code, enabling a broader range of employees to contribute to the technical goals of an organization.
+
 # 2026-02-25
 
 # **Mitchell Hashimoto on Infrastructure, Software Engineering and the AI Frontier**
@@ -657,6 +897,109 @@ As manual coding becomes a commodity, the value of specific engineering traits i
 "One metaphor I have for this moment in time is the printing press... there was a group of scribes that knew how to write. If you think about what happened to the scribes, they ceased to become scribes, but now there's a category of writers and authors", [Boris Cherny](https://www.linkedin.com/in/bcherny)
 
 "The first pull request \[at **Anthropic**\] gets rejected not because the code was bad, but because you wrote it by hand", [Boris Cherny](https://www.linkedin.com/in/bcherny)
+
+# 2026-03-06
+
+# **Lessons from Building Vercel v0 and the d0 Agent**
+
+## **Executive Summary**
+
+The transition into agentic software development represents a fundamental shift in both product architecture and organizational management. The following document synthesizes insights from **Vercel** leadership regarding the development of internal and public facing AI agents. Key findings indicate that successful agent construction favors simplicity and emergent behavior over hard coded rules and complex harnesses. Internally, **Vercel** has moved toward a model of optimistic locking in organizational processes, prioritizing speed and veto power over traditional approval cycles. As the cost of software creation approaches zero, the industry faces a transition comparable to the introduction of mainframes in the 1960s, moving from a period of being software light to one of software abundance. While agents drastically increase productivity, they also introduce a significant maintenance burden, necessitating a shift in the role of engineers from individual contributors to managers of agentic minions.
+
+## **Internal Agent Architecture: The DZero Case Study**
+
+**Vercel** developed an internal data agent known as DZero (or DZ), designed as a text to SQL engine to interface with the company's **Snowflake** data warehouse. The evolution of this tool provides a template for modern agentic design.
+
+### **Evolution from Complex to Simple**
+
+The initial version of DZero utilized traditional infrastructure, featuring tools in a loop architecture with various specialized tools. This was eventually discarded in favor of a simpler, more declarative model. The current iteration consists of approximately 50 lines of code and relies on only two primary tools:
+
+* A bash tool.  
+* A SQL execution tool.
+
+### **Semantic Mapping and Logic**
+
+Rather than hardcoding business rules, the team documented the business value and semantics of every column in **Snowflake** using YAML files. The agent utilizes these files to understand the business context of a user query and then generates the appropriate SQL. This approach relies on the emergent reasoning capabilities of modern models rather than extensive prompting or rigid constraints.
+
+### **Impact on Business Intelligence**
+
+The agent allows non technical staff to perform complex cross platform research. One noted example involved a salesperson identifying Fortune 500 CTOs and VPs of Engineering with private **Vercel** accounts who deployed code during holiday periods, a task that would traditionally require extensive manual research across **LinkedIn** and database queries.
+
+## **Development Lessons from Vercel v0**
+
+The development of **v0**, **Vercel**'s public facing generative UI tool, highlights the necessity of remaining humble and adaptable as underlying models improve.
+
+### **Product-Market Fit Divergence**
+
+Initially intended for frontend engineers, **v0** found its primary early adoption among backend engineers. These users were technically proficient enough to fix the subpar code the 2023 era models (such as **GPT-3.5** and **GPT-4**) often produced. As model intelligence increased, specifically with the release of **Anthropic** **Sonnet 3.5**, the product reached a success rate that allowed non engineers and tech adjacent roles, such as Product Managers and designers, to be successful.
+
+### **The Tailwind Breakthrough**
+
+A critical milestone in making **v0** viable was the discovery that models performed better when instructed to use. This was due to the model's superior ability to perform inline reasoning within a single file rather than managing the complexity of separate CSS and HTML files.
+
+### **Target Audience and Shadow IT**
+
+The current focus for **v0** involves tech adjacent users and business professionals building internal applications. This has led to a rise in what is described as shadow IT, where individuals within an enterprise create their own functional software without traditional engineering overhead.
+
+## **Organizational Strategy and Operations**
+
+**Vercel** has implemented specific organizational patterns to maintain high velocity while operating a global infrastructure.
+
+### **Optimistic Locking in Management**
+
+To avoid the slowdowns associated with traditional corporate approvals, **Vercel** employs a pattern called optimistic locking. There are no formal approvals required to ship; instead, employees must inform the organization of their intent. This empowers specialized teams, such as legal or security, to exercise a veto if a change is high-risk, but it removes the requirement to wait for an active yes.
+
+### **Infrastructure and Risk Mitigation**
+
+**Vercel** operates 20 autonomous core regions. To prevent global outages, the company adheres to several operational rules:
+
+* **Regional Autonomy:** Regions are designed to be autonomous without a mechanism to change all of them simultaneously.  
+* **Deployment Waves:** Changes are rolled out in waves rather than globally to ensure feedback from one region can be assessed before further deployment.  
+* **Serving vs. Control Plane:** The serving systems are shipped once per day to ensure stability, while the control plane is updated every time code is pushed to the main branch.
+
+### **Labor and Hiring Trends**
+
+The company has observed a shift in the utility of different engineering levels. The most senior engineers benefit by managing more agentic minions, while junior engineers are more adept at adopting and integrating new agentic tools. The middle layer of engineering faces the most significant challenge in adapting to this new management centric role. Notable organizational data points include:
+
+* **Employee Cap:** **Vercel** has set a target to cap its employee count at 1,024, despite revenue growth.  
+* **Support Automation:** 87% of support intake has been automated via agents, allowing human staff to focus exclusively on complex problems.  
+* **Token Access:** Engineers are granted unlimited model tokens to encourage experimentation and high velocity development.
+
+## **The Future of the Software Market**
+
+The increasing availability of agentic tools is fundamentally altering the economics of software.
+
+### **Software Abundance and Maintenance**
+
+Leadership compares the current state of software to a free puppy. "Software is free, but it has to be maintained." The maintenance burden of code generated by agents remains a significant challenge. However, as the cost of software creation drops, the market is expected to expand, similar to how **YouTube** expanded the video market.
+
+### **Historical Comparison**
+
+The current transformation is likened to the 1960s introduction of mainframes rather than the introduction of the internet. While this shift may be painful for certain roles, it is expected to result in a society that is drastically richer in terms of software utility.
+
+### **Current Professional Tooling Stack**
+
+The following table outlines the current technologies utilized by **Vercel** leadership for high level coding and review tasks.
+
+| Function | Tool |
+| :---- | :---- |
+| Primary Coding Agent | **Claude Opus 4.6 Fast-Mode** |
+| Code Review Agent | **Codex 5.3** |
+| Infrastructure Management | **Terraform** (assisted by agents) |
+
+"Building agents is actually extremely easy and you don't need to buy them, you can just build them yourself."
+
+"In the world of agents you have to be humble, in the sense of like we're just discovering how to build them, and so just because something was best practice, like in the summer of 2025 means quite little today."
+
+"The intuition is that you, kind of you, have to think about, like what was the model trained on, like what is it optimized on, and for now, there's lots of coding tasks."
+
+"The whole idea of any form of professional DevOps, is that I have like somewhat an idea of what's going on, and and so I can't like you, can't really vibe code that like you, so you there has to be there, always has to be some form of platformization of how I run something."
+
+"It's possible to move fast and not break things."
+
+"The job just looks much more like management, than it looks like IC work."
+
+"We are making it cheaper to make software, and that leads to more software."
 
 # 2026-03-11
 
@@ -2085,3 +2428,113 @@ Traditional pull requests, popularized by **Github**, may be replaced by more co
 "If you outsource your thinking you're gonna get garbage."
 
 "You should expect maybe 30 to 50% lift in productivity, is kind of what I see when we go into teams, or you can find the right leverage points where humans can actually spend an hour over here in planning, can save you four hours in implementation."
+
+# 2026-07-21
+
+# **Turbopuffer: Engineering Principles, Infrastructure Scaling, and Vector Search**
+
+## **Executive Summary**
+
+The following document synthesizes the technical and philosophical foundations of **Turbopuffer**, a vector search database founded by [Simon Eskildsen](https://www.linkedin.com/in/sirupsen/). The company originated from [Eskildsen](https://www.linkedin.com/in/sirupsen/)'s extensive background in infrastructure at **Shopify**, where he specialized in database sharding, failure simulation, and low level performance optimization. A central theme of the source context is the concept of napkin math, a methodology of using first principles and fundamental hardware limits to validate engineering decisions and challenge inefficient benchmarks.
+
+Key insights include:
+
+* **Infrastructure Origins:** [Eskildsen](https://www.linkedin.com/in/sirupsen/) developed the Toxiproxy at **Shopify** to simulate database failures, uncovering critical bugs in connection handling and state management.  
+* **The Napkin Math Framework:** This project established mental benchmarks for costs and latencies across DRAM, S3, and NVMe SSDs, directly leading to the realization that vector storage could be significantly more affordable.  
+* **Vector Search Innovation:** **Turbopuffer** provides an S3 based vector search engine that reduces costs by up to 95 percent compared to traditional memory resident solutions.  
+* **Hardware Strategy:** The company prioritizes CPU performance, specifically utilizing AVX-512 and SIMD, while navigating a market where CPUs are becoming increasingly scarce due to reinforcement learning (RL) workloads.  
+* **Venture Philosophy:** Capital is viewed pragmatically as a tool for R\&D and employee liquidity rather than a status symbol, with a focus on simplicity and unit economics.
+
+## **Professional Background and Early Influences**
+
+[Simon Eskildsen](https://www.linkedin.com/in/sirupsen/)'s entry into computing began with non-traditional tools, such as using **Microsoft** PowerPoint to create Turing complete diagrams and experimenting with **Microsoft** FrontPage. His early exposure to the International Olympiad in Informatics (IOI) shifted his focus from web development to algorithmic problem solving, teaching him that deep reading of academic papers and persistence can solve complex engineering challenges.
+
+Instead of pursuing a university degree, [Eskildsen](https://www.linkedin.com/in/sirupsen/) joined **Shopify** in 2013 after a recruiter identified him through an article he wrote about using a **Nokia** brick phone. This article was featured in the **New York Times** and on **Hacker News**, highlighting the effects of smartphones on personal direction.
+
+## **Engineering Leadership at Shopify**
+
+During an eight year tenure at **Shopify**, [Eskildsen](https://www.linkedin.com/in/sirupsen/) observed the rapid scaling of a SaaS company growing at 120 to 140 percent annually. His work focused on the infrastructure layer, specifically the interaction between the application layer and the database layer.
+
+### **Sharding and State Management**
+
+At **Shopify**, scaling challenges were addressed through database sharding, following the principle that writes cannot be cached. [Eskildsen](https://www.linkedin.com/in/sirupsen/)'s team managed the transition to multiple data centers and the decomposition of large, centralized **Redis** instances that stored critical session data.
+
+### **The Toxyroxy Project**
+
+To address the difficulty of predicting failure modes in stateful systems, [Eskildsen](https://www.linkedin.com/in/sirupsen/) created Toxiproxy, a layer 4 and layer 7 proxy. This tool allowed engineers to simulate database latency and failures in CI environments.
+
+| Feature | Description |
+| :---- | :---- |
+| Core Function | Simulates network conditions between applications and databases. |
+| Failure Modes | Includes taking databases down, introducing slowness, and data corruption. |
+| Impact | Uncovered dozens of issues in **MySQL** drivers and the **Rails** framework. |
+| Longevity | Remains a core component of the **Shopify** CI system. |
+
+## **The Napkin Math Project**
+
+The Napkin Math project was a collection of approximately 50 critical performance numbers and a script to generate them. It served as a defense against poor benchmarking and helped [Eskildsen](https://www.linkedin.com/in/sirupsen/) develop an intuition for hardware limits.
+
+"Database A that you're saying takes 10 seconds to do, this should take 10 milliseconds if you do the napkin math."
+
+The project cataloged the following metrics:
+
+* DRAM bandwidth.  
+* S3 roundtrip costs and latencies.  
+* NVMe SSD and EBS volume bandwidth.  
+* Cost per gigabyte for S3 (two cents) versus memory (two dollars).
+
+This focus on fundamental costs led to the investigation of **MySQL** write speeds. [Eskildsen](https://www.linkedin.com/in/sirupsen/) discovered that while an fsync might take one millisecond, databases achieve higher throughput by batching writes, allowing for 10,000 writes per second even on modest hardware.
+
+## **The Founding of Turbopuffer**
+
+**Turbopuffer** was conceived when [Eskildsen](https://www.linkedin.com/in/sirupsen/) noticed the prohibitive costs of vector storage at **Readwise**. A recommendation engine for **Readwise** was projected to cost 30,000 dollars per month, significantly exceeding the company's total infrastructure spend of 5,000 dollars.
+
+### **Technical Implementation**
+
+The initial version of **Turbopuffer** was designed with simplicity and reliability as the primary invariants.
+
+1. **Storage:** Data is committed directly to object storage (S3) for durability.  
+2. **Architecture:** A clustering algorithm organizes vectors into files (clusters) on S3, with a separate file for centroids.  
+3. **Caching:** The original implementation used an **NGINX** reverse proxy with a file based cache to minimize S3 roundtrips.  
+4. **Performance:** By navigating the tree on S3 and minimizing roundtrips, the system optimizes for P99 latency, which is critical at scale where multiple requests are performed in aggregate.
+
+### **First Customer Success: Cursor**
+
+**Cursor** became the first customer of **Turbopuffer** after [Eskildsen](https://www.linkedin.com/in/sirupsen/) demonstrated his database expertise by helping them resolve **AWS** Aurora issues. **Turbopuffer** transitioned **Cursor** from a memory resident vector store to an S3 based model, reducing their bill by 95 percent.
+
+"I told them that I was going to reduce their bill by 95% and I did."
+
+## **Hardware Dynamics and Cloud Constraints**
+
+Despite the industry's heavy focus on GPUs, **Turbopuffer** is primarily a CPU bound business. [Eskildsen](https://www.linkedin.com/in/sirupsen/) advocates for the use of AVX-512 and SIMD (Single Instruction Multiple Data) to optimize search performance.
+
+### **The Shift in CPU Availability**
+
+While GPU shortages are widely publicized, CPUs are also becoming scarce. This scarcity is driven by:
+
+* **Reinforcement Learning (RL):** Large AI labs require massive CPU allocations to run environments where models learn to use tools like Bash or CAD.  
+* **AI Agents:** General-purpose agents require CPUs for various logic based tasks.  
+* **Power Constraints:** Cloud providers like **GCP**, **AWS**, and **Azure** are limited by power availability when deploying new hardware.
+
+**Turbopuffer** mitigates these risks by remaining hardware agnostic, running on various machine types such as C4A and Z4D instances.
+
+## **Capital and Corporate Culture**
+
+[Eskildsen](https://www.linkedin.com/in/sirupsen/) maintains a distinct perspective on venture capital, treating it as a strategic tool rather than an end goal. He identifies six legitimate reasons for raising capital:
+
+1. Funding R\&D.  
+2. Funding growth.  
+3. Founder ego (noted as a dangerous and common reason).  
+4. Rewarding employees through liquidity.  
+5. Strategic partnerships.  
+6. M\&A activities.
+
+**Turbopuffer** raised funds in January to support R\&D and later in December to provide liquidity for employees.
+
+### **Remote Work and Campfires**
+
+The company operates on a distributed model, avoiding the centralized HQ typical of San Francisco startups. To maintain human connection, they use a concept called campfires, where employees congregate ad hoc in cities like New York or San Francisco to meet customers and collaborate.
+
+The company incentivizes community engagement through Turbo Credits. Engineers earn these credits by writing blog posts or speaking at conferences, which they can then use to upgrade flights to business class, facilitating more frequent in-person collaboration.
+
+"The clouds are not infinite as they seem when you're small."
