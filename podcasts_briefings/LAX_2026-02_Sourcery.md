@@ -1365,3 +1365,221 @@ The methodology for scaling businesses is currently undergoing a dramatic shift 
 * **The Law of Threes**: [Venner](https://www.linkedin.com/in/kenvenner) suggests that in manufacturing, it often takes three versions of a facility or a product to reach a rinse and repeat model. The first version establishes the baseline, the second incorporates lessons learned, and the third finalizes the model for replication across different locations.
 
 "I'm looking towards the scalability of the company, and the simplification of it, and the ability to show how a dormant business can literally apply technology, to be a transformational change in this particular industry."
+
+# 2025-07-17
+
+# **SambaNova Systems: Inference Scaling and AI Infrastructure**
+
+## **Executive Summary**
+
+**SambaNova** has reached a valuation of 11 billion, following a 1 billion first close of a recent fundraise, signaling unprecedented interest in the semiconductor industry. As the Artificial Intelligence market transitions from a focus on training to large scale inference, the primary challenge has shifted toward efficiency, power consumption, and latency. **SambaNova** addresses these bottlenecks through hardware that radically reduces the physical and energetic footprint of AI operations. Their SambaRack SN40, for example, operates at 10 kilowatts while outperforming 130 to 140 kilowatt racks from **Nvidia**. This efficiency enables the deployment of trillion parameter models in single, air cooled racks, facilitating a move toward distributed data centers in metropolitan areas. The future of AI is increasingly defined by premium inference, characterized by high accuracy and ultra low latency, which is essential for the emerging world of agentic orchestration. Furthermore, a growing trend toward data sovereignty and on-premise repatriation is driving demand for private, homegrown models and specialized infrastructure that avoids the high costs and privacy risks associated with centralized, commodity cloud providers.
+
+## **Financial and Strategic Growth**
+
+**SambaNova** has established a significant capital position to compete in the global semiconductor race, focusing on scaling its technology to meet the demands of millions of daily users.
+
+* **Fundraising and Valuation:** The company recently completed a 1 billion first close of a fundraise at an 11 billion valuation. This contributes to a total of 2.5 billion raised throughout the history of the company.  
+* **Key Investors:** The recent funding round was led by **General Atlantic**, with participation from significant American investors including **Seligman Ventures**, **T. Rowe Price**, and **Capital Group**.  
+* **Industry Context:** Interest in semiconductors is at a historic high because chips are central to the current technological transformation and the massive buildout of data centers. [Rodrigo Liang](https://www.linkedin.com/in/rodrigo-liang), CEO of **SambaNova**, notes: "I've never seen the interest in semiconductors higher."  
+* **Market Mission:** The strategic focus is on rapid scaling to secure users and customers. "It's all about scaling."
+
+## **Hardware Evolution: From Training to Inference Efficiency**
+
+While **SambaNova** began by focusing on lowering the costs of training models, the industry's evolution has made inference the more significant challenge.
+
+* **Chip Development Lifecycle:** **SambaNova** has taped out six chips in the last seven years, with a seventh planned for next year.  
+* **Transition from Training to Inference:** Early chips like the SN10 and SN20 were focused on training models faster with fewer chips. However, the mass adoption of platforms like those from **Anthropic**, **OpenAI**, and **Google** has shifted the problem to efficiency at scale.  
+* **SN40 Performance:** The SambaRack SN40 significantly reduces infrastructure requirements. While a traditional **Nvidia** GPU rack may require 130 to 140 kilowatts and liquid cooling, the SN40 rack achieves higher performance at 10 kilowatts using standard air cooling.  
+* **Footprint Compression:** **SambaNova** technology can run a trillion parameter model in a single rack, whereas other providers require dozens of racks for the same model.  
+* **SM50 Innovation:** The latest chip, the SM50, is part of the fifth generation of technology shipping this year. It is designed for aggregated inference, allowing for energy efficient deployments ranging from hyperscale clusters to edge data centers.  
+* **Standardization:** To ensure velocity and ease of adoption, **SambaNova** utilizes standard 19 inch racks, standard air cooling, Kubernetes, **Red Hat** Linux, and standard Ethernet networking.
+
+## **Premium Inference and the Agentic Future**
+
+The market is bifurcating into standard and premium inference services, with premium services defined by two main dimensions: accuracy and speed.
+
+* **Accuracy and Model Size:** Accuracy is currently proportional to the size of the model. While early models like Llama 8B or 70B are now considered small, frontier models are heading toward 10 trillion parameters.  
+* **Precision:** Unlike some services that quantize or chop down models to improve speed, **SambaNova** runs the largest models in their original, full precision to maintain maximum accuracy.  
+* **The Latency Bottleneck for Agents:** In an agentic world, where multiple AI agents orchestrate a single task, latency becomes cumulative. If 20 agents communicate to fulfill one prompt, and each has a two second response time, the total wait time is 40 seconds.  
+* **Target Latency:** To meet user expectations of a one to two second total response time, individual agents must respond in approximately 0.1 seconds. [Rodrigo Liang](https://www.linkedin.com/in/rodrigo-liang) states: "Most people over time are going to say No, I want the fastest."  
+* **Value of Speed:** Industries such as code generation, banking, and healthcare prioritize speed as a critical component of their livelihood, making them early adopters of premium, high speed inference.
+
+## **Data Center Evolution and Edge Computing**
+
+The traditional model of massive, multibillion dollar gigawatt data centers is being supplemented by a new wave of distributed, midsized, and edge based infrastructure.
+
+* **Distributed Infrastructure:** Because metropolitan areas like Manhattan or Paris lack the space and power for 100 billion dollar data centers, low latency AI must be deployed in smaller, localized quantums.  
+* **Edge Use Cases:** Through partnerships with companies like **Armada**, **SambaNova** deploys technology in modular, shipping container data centers for critical industries such as oil and gas, mining, and defense.  
+* **Sustainability and Power:** The lower power requirements of **SambaNova** hardware allow these edge clusters to be powered by solar farms or placed in existing data centers without the need for nuclear power plants or expensive liquid cooling retrofits.  
+* **Global Access:** Distributed, lower cost infrastructure is essential for global AI adoption, as many economies cannot afford the capital expenditure of massive centralized hubs.
+
+## **Economic Strategy and Data Sovereignty**
+
+As AI becomes pervasive, enterprises and nations are seeking to differentiate themselves and protect their intellectual property through private infrastructure and specialized models.
+
+* **Coopetition:** **SambaNova** operates in an environment where they collaborate with competitors. By routing inference traffic from **Nvidia** or **AMD** racks to more efficient **SambaNova** racks, data center providers can free up capacity and improve their margins.  
+* **The Land Grab:** Inference providers at the hyperscale, neocloud, and sovereign levels are in a race to secure users. Differentiating through premium services and lower operating costs is the primary path to sustaining margins.  
+* **Sovereign AI:** Countries like Japan and Korea are investing in national models trained from scratch to protect their citizens' data, and ensure they are not dependent on American models.  
+* **Corporate Repatriation:** There is a notable shift toward on-premise infrastructure as companies realize that using commodity models from a centralized cloud offers little differentiation.  
+* **Value Creation:** For the global 2000, AI's goal is not merely saving money but creating new, differentiated services. [Rodrigo Liang](https://www.linkedin.com/in/rodrigo-liang) observes: "There's no point of training a model, if you aren't going to inference it, if you're not going to use it."  
+* **Investment Discipline:** Investors are becoming more focused on ROI and margins. "If you aren't paying attention, it becomes tokenmaxx, just like they just spend."
+
+## **Conclusion on Performance and Resilience**
+
+Building a successful technology company in the semiconductor space requires extreme resilience and a long-term perspective. Business at scale involves significant fluctuations, and success is defined by maintaining conviction in the technology despite economic or political shifts. By focusing on the fundamental problem of how to scale AI efficiently, **SambaNova** aims to provide the infrastructure necessary for the next generation of global, high performance computing services.
+
+# 2025-07-18
+
+# **Emerging Trends and Strategic Shifts in Artificial Intelligence**
+
+## **Executive Summary**
+
+The current landscape of Artificial Intelligence is characterized by a fundamental shift in how humans interact with compute, moving away from traditional graphical user interfaces toward natural language and agentic models. Expert analysis suggests that the era of the keyboard and mouse is ending, replaced by voice driven interactions and autonomous agents that consolidate dozens of applications into a few super apps. There is a notable tension between closed frontier models and open source models, with empirical data indicating a rapid increase in open source adoption for production grade workflows due to cost, latency, and fine-tuning requirements. Hardware requirements are also evolving, with a growing need for balanced CPU to GPU ratios and specialized chips for premium inference. Furthermore, the industry is expanding into physical AI, integrating foundation models directly into edge devices such as automobiles and robotics. Infrastructure for these advancements is scaling through massive capital investments and unconventional solutions, including space based data centers and optimized database platforms.
+
+## **The Evolution of Human-Computer Interaction**
+
+A primary theme across the source context is the obsolescence of traditional input methods in favor of agentic AI.
+
+* **Decline of Legacy Interfaces:** Representatives from **Coatue** suggest that the shift from mainframe to PC, and later to mobile, has always changed interaction models. The current transition is moving away from the mouse and keyboard toward natural language.  
+* **Consolidation of Applications:** The average person currently uses approximately 11 apps daily out of 60 to 80 installed. Agentic AI is expected to reduce this to two or four super apps where other services plug in via APIs or the Model Context Protocol (MCP).  
+* **Voice and Contextual Prompting:** Investors are increasingly using voice to text methods to provide models with better context. "We've always conformed ourselves to computers like with DOS, by inputting specific data with a keyboard and a mouse, and now we're finally entering the era where computers have to conform to us."  
+* **Real-time Interaction:** Future compute interaction will require zero low latency, real time response, and the ability to process images and speech simultaneously.
+
+## **Open Source vs. Closed Frontier Models**
+
+The debate regarding model architecture is shifting from a zero-sum winner-take-all perspective to a nuanced understanding of workload requirements.
+
+### **Production Scale and Efficiency**
+
+* **Workload Distribution:** **Decagon** reports that 90% of their workloads run on open source models because production scale tasks require low latency and fine-tuning, which frontier providers like **OpenAI** and **Anthropic** do not currently offer, for their most advanced models.  
+* **Enterprise Adoption Rates:** Data from **Factory.ai** shows a rapid climb in open source token usage in the enterprise sector. Usage grew from less than 1% at the start of the year to 10% by May. Predictions suggest open source tokens could account for 50% to 90% of token share within 12 months.  
+* **Strategic Routing:** Companies are increasingly using model routing to send simple, repeatable tasks to cheaper open source models while reserving frontier models for discovery and complex use cases.
+
+### **The Role of Open Innovation**
+
+* **Accessibility and Safety:** **Black Forest Labs** argues that open innovation is essential for global AI progress. "Open innovation is good for the world, and I think fearmongering around AI models is only going to lead to them being more close, and that's ultimately going to slow leading, to slow down all AI progress."  
+* **Performance Tiers:** Small, fine-tuned open source models can often outperform or match frontier models for specific, well defined edge cases once those cases have been identified using larger models.
+
+## **Hardware and Infrastructure Advancements**
+
+As agentic workflows take off, the underlying hardware and infrastructure must adapt to new computational demands.
+
+### **Computational Ratios and Specialized Chips**
+
+* **CPU to GPU Balance:** **AMD** observes that agentic workflows require a higher involvement of CPUs, with the ratio of CPU to GPU usage approaching one to one in certain environments.  
+* **Premium Inference:** **SambaNova** recently announced a 1 billion dollar Series F funding round, to scale the supply chain for their SM50 RDU. This chip is designed for premium inference, allowing trillion parameter models to run at full precision, with higher speeds and lower costs, than traditional GPUs.  
+* **In-House Agentic Design:** **AMD** utilizes thousands of subagents to speed up the design process for their next generation of chips.
+
+### **Infrastructure and Data Management**
+
+* **Space Based Compute:** **Starcloud** is developing data centers in space to bypass terrestrial constraints. They are preparing a manufacturing line for vehicles, capable of carrying 10 megawatts of compute capacity, per **SpaceX** Starship launch.  
+* **Database Integration:** High performance AI applications increasingly rely on platforms like **MongoDB** that combine vector search and embeddings within a single system, eliminating the need for separate data pipelines.  
+* **Financial Automation:** Platforms such as **Brex** are integrating AI agents to automate expense reports and policy enforcement, targeting the overhead costs of scaling AI startups.
+
+## **Physical AI and Edge Computing**
+
+The expansion of AI into the physical world, requires a focus on efficiency and substrate specific design.
+
+* **The Three Axis Problem:** **Liquid AI** proposes that foundation model development must move beyond maximizing intelligence alone. It must simultaneously solve for intelligence, efficiency (cost and energy), and substrate (where the model lives).  
+* **Device Agnostic Intelligence:** There is a growing movement to bring foundation models to low power devices like **Raspberry Pi**, smartphones, and aircraft.  
+* **Automotive Integration:** **Mercedes-Benz** is currently integrating foundation models for in-car intelligence, moving AI out of the data center and into consumer hardware.  
+* **Action Oriented Models:** **General Intuition** is training models to predict various physical actions, where text is merely a subset of the output, moving toward a more general approach than current LLMs.
+
+## **Key Industry Metrics and Projections**
+
+The following table summarizes critical data points and projections provided by industry leaders:
+
+| Metric | Source | Data Point / Projection |
+| :---- | :---- | :---- |
+| Enterprise Open Source Token Share | **Factory.ai** | Predicted to cross 50% by end of year |
+| Open Source Token Share (General) | **Factory.ai** | Predicted 90% in the next 12 months |
+| Series F Funding Amount | **SambaNova** | 1 billion dollars |
+| Series F Valuation | **SambaNova** | 11 billion dollars |
+| Space Compute Capacity | **Starcloud** | 10 megawatts per Starship launch |
+| Clipping Service Cost | **Good Future Media** | 200 dollars per clip minimum |
+| Daily App Usage | **Coatue** | 11 apps on average per person |
+
+## **The Global AI Landscape**
+
+The RAISE Summit (in Paris) highlights a significant shift in the geographic distribution of AI innovation, particularly in Europe.
+
+* **European Emergence:** Leaders note an increasing sense of urgency in the European tech sector, with major events being held in France and Germany. **Liquid AI** notes that European enterprises are waking up to the need to understand and deploy AI solutions.  
+* **Open Source Leadership:** European firms like **Black Forest Labs** and **Liquid AI** are positioning themselves at the forefront of the open source and physical AI movements.  
+* **Talent and Research:** The Summit featured high profile involvement from French leaders and researchers, underscoring the continent's role in the global AI ecosystem.
+
+## **Insights on Data and Content**
+
+Despite the focus on models, the underlying data, and the human element in content remain critical.
+
+* **Data Supremacy:** **General Intuition** argues that model quality is secondary to data quality. "Most of AI is just glorified data science."  
+* **Human Psychology in Media:** In the social media space, **Good Future Media** emphasizes that while AI can generate clips, human psychology is required to create hooks that go viral. The first three seconds of a clip are vital for grabbing viewer attention in an increasingly crowded digital environment. "Good models mostly are downstream from good data and simple things."
+
+# 2025-07-19
+
+# **RAISE Summit: AI Insights and Market Trends**
+
+## **Executive Summary**
+
+The RAISE Summit in Paris serves as a focal point for the current state of Artificial Intelligence, marking a transition from speculative excitement to industrial and enterprise reconciliation. A primary theme across discussions is the shift in enterprise sentiment toward cost consciousness and Return on Investment (ROI). While the previous year was characterized by broad experimentation, current leaders at **Applied Intuition**, **Glean**, and **Legora**, highlight a movement toward budget scrutiny and consumption based pricing models.
+
+Infrastructure remains a critical bottleneck, with significant concerns regarding power availability in Europe and the potential for wasted capital expenditure due to suboptimal hardware and software codesign. The rise of Physical AI represents a major frontier, as companies like **Applied Intuition** work to integrate intelligence into cars, ships, and heavy machinery. Furthermore, the debate between open source and closed source models continues, with conflicting views, on whether open source will dominate the inference market, or be restricted by licensing agreements from major labs.
+
+## **Enterprise Evolution and Economic Reconciliation**
+
+The enterprise AI sector is entering a phase of reconciliation, where budgets and performance are being balanced against the initial hype.
+
+* **Cost Consciousness:** Leaders report a shift from unlimited experimentation to strict budget management. **Applied Intuition** notes that enterprise customers are now asking for specific value propositions and cost structures, rather than taking every available product.  
+* **ROI Measurement:** **Glean** identifies a growing demand for tools that help businesses measure the value of AI and reduce token usage. This is achieved through picking the right models for specific tasks, and utilizing context graphs to make workloads more efficient.  
+* **Pricing Model Shifts:** **Legora** has moved to consumption based pricing in the legal AI space to align value with cost, predicting that other industries will follow to avoid gross margin issues caused by flat rate subscriptions, versus high token costs.  
+* **The Geography Focus:** **Wonderful AI** argues that geographic expansion is more critical than vertical specialization. By focusing on international markets outside the United States, companies can apply a horizontal AI playbook to diverse labor markets.
+
+## **Infrastructure, Hardware, and Data Centers**
+
+The physical and technical infrastructure supporting AI is facing logistical and strategic challenges.
+
+* **Power and Regulation:** In France, the push to build data centers is met with resistance from neighboring countries like Germany and Spain, which rely on French nuclear power to stabilize their own grids.  
+* **The Risk of Over-Optimization:** **SemiAnalysis** warns that many organizations are building three year infrastructure plans based on six month old lab data. This lack of flexibility may lead to wasted expenditure, if the infrastructure is not general purpose enough to handle future model developments.  
+* **Hardware Inflation:** Memory costs are rising, and next generation hardware is seeing price increases even before production begins. These costs are expected to be passed down to customers, slowing the decline of token pricing.  
+* **Portfolio Strategies:** **Nebius** advocates for a broad, diversified portfolio approach to data centers to mitigate risks associated with local regulatory and power challenges, rather than being single threaded on individual projects.
+
+## **The Landscape of Physical AI and Machines**
+
+Physical AI is distinguished from large language models by its focus on safety, linear growth, and real world application.
+
+* **Integration with Machinery:** **Applied Intuition** aims to put intelligence on a billion machines, including cars, trucks, defense ships, and equipment in quarries and mines. This requires collecting specific data and training models that can perform on many different types of hardware.  
+* **Safety and Linearity:** Unlike the software based AI world, Physical AI does not experience massive spikes and crashes, because it is safety oriented, and tied to the physical constraints of machines.  
+* **Long-term Outlook:** There is a consensus among speakers that the integration of AI into the physical world will be the more significant story over the next 25 years, comparable to the long term impact of the internet on delivery and mobile communication.
+
+## **Data Management, Search, and Integration**
+
+Data is described as the foundational layer that determines the success of AI applications.
+
+* **The Data Layer:** **MongoDB** emphasizes that an AI application is only as good as its data layer. Effective applications require real time reasoning and search over data without separate, complex pipelines.  
+* **Search Economics:** **Turbopuffer** notes that search for AI workloads is currently an order of magnitude too expensive. By utilizing object storage with advanced caching, they aim to lower costs, enabling products that are currently non viable due to search margins.  
+* **Context and Agents:** For agentic applications to work, they require the same context and information that humans use. **Glean** focuses on context graphs to provide this data in a single shot, reducing the time models spend assembling raw materials.  
+* **Security and Sovereignty:** **Merge** highlights that integration is the point where models become dangerous. Organizations are increasingly seeking AI sovereignty, wanting control over their systems and the flexibility to host in-house to prevent data leakage.
+
+## **Global Dynamics and Industry Perspectives**
+
+The Summit reflects a broader cultural and competitive landscape within the AI industry.
+
+* **The Four Seasons of AI:** **Altimeter** suggests that enterprises should plan for a multi-model world, viewing **OpenAI**, **Anthropic**, **SpaceX**, and **Google** as different seasons. The goal is to build an evergreen climate that includes both open source for high volume workloads and frontier models for discovery.  
+* **Open Source Debate:** There is a fundamental disagreement on the future of open models. While **Glean** predicts open source will dominate inference within two years, **SemiAnalysis** suggests that major labs may stop releasing open weights in favor of licensing models.  
+* **Workplace Productivity:** Despite fears of job displacement, speakers like those from **Applied Intuition** and **Merge** argue that AI will change jobs rather than eliminate them. The focus is on reducing cycle times and iterating faster.  
+* **Human Centric AI:** **Navan** emphasizes that in complex industries like travel, human support remains essential to prevent hallucinations and errors, that can lead to significant customer dissatisfaction.
+
+## **Important Quotes and Key Assertions**
+
+| Source Entity | Quoted Assertion |
+| :---- | :---- |
+| **Applied Intuition** | "I think the physical world and AI going into that is, I think when we look back, I think that's going to be the bigger story, as look back 25 years from now." |
+| **SemiAnalysis** | "A lot of people are trying to build all these optimized solutions for data centers, and they're just looking at, like a backward look view." |
+| **Glean** | "The big trend in my opinion is open source, and how that is fundamentally changing, like the full AI stack." |
+| **MongoDB** | "You cannot create an AI application without a great data layer, and your AI application is as good as your data." |
+| **Altimeter** | "If you're a CIO, if you're a CEO, if you're about to make a multimillion, billion dollar decision, of which lab to build your intelligence on, plan for the climate, not for the weather." |
+| **Wonderful AI** | "I believe geographies will be even bigger than verticals, when it comes to AI." |
+| **Legora** | "If you want to build the biggest companies in the world, you need to look past that, and you need to understand that you're competing with the US, you're competing with China, and if you want to win globally, you need to work as hard as they do." |
+| **Turbopuffer** | "I think search is still too expensive and **Turbopuffer** was founded because we thought search was an order of magnitude too expensive at the time." |
+| **Nebius** | "Actually being able to drive that enterprise adoption, that's the critical next stage for the entire industry." |
+| **Navan** | "You cannot have any fuckups, hallucination is a huge huge huge fuck up." |
+
