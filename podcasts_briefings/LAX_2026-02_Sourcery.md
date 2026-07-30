@@ -491,7 +491,7 @@ The concept of life at the speed of play, serves as a foundational principle for
 
 * **Agility and Action:** Taking ideas and putting them into the world immediately, similar to how [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) operates with companies like **X**, formerly known as **Twitter**.  
 * **Emotional Resonance:** Identifying opportunities based on deep seated emotional charges or frustrations, such as the inefficiencies of checking into luxury hotels like **The Peninsula**.  
-* **Real Time Feedback:** Using platforms like **X** as testing grounds for market research, where immediate engagement serves as a proxy for identifying broken aspects of the human experience.  
+* **Real-Time Feedback:** Using platforms like **X** as testing grounds for market research, where immediate engagement serves as a proxy for identifying broken aspects of the human experience.  
 * **Authentic Voice:** Maintaining a personal, quirky voice in creative endeavors rather than conforming to formal or dry professional standards.
 
 "I think the only place that we actually can experience life at the speed of play is posting something on **X** (**Twitter**), because you can take 30 seconds, and take an idea, and put it out there, and then it can resonate with people."
@@ -1182,7 +1182,7 @@ The long term value of AI is measured by its ability to address major human chal
 
 "We've been screwing this up for 2,000 years, and now we can bring it to every child."
 
-# 2025-07-15
+# 2026-07-15
 
 # **Senra Systems: Addressing the Critical Bottleneck in Aerospace and Defense**
 
@@ -1284,7 +1284,7 @@ While **Senra Systems** vertically integrates its software and training, it rema
 
 "You can like constrain a company by putting too much process in too early, and stunt the growth, so you always have to assume, smart people stupid systems, let the right people do the right thing in the moment, but track them how they're doing it, what they're doing, and make sure they're accountable for the actions they're taking."
 
-# 2025-07-16
+# 2026-07-16
 
 # **Ken Venner on Scaling and Industrial Transformation**
 
@@ -1292,7 +1292,7 @@ While **Senra Systems** vertically integrates its software and training, it rema
 
 This document synthesizes key insights from [Ken Venner](https://www.linkedin.com/in/kenvenner), former Chief Information Officer (CIO) of **Broadcom** and **SpaceX**, regarding the mechanics of scaling high growth technology and manufacturing firms. [Venner](https://www.linkedin.com/in/kenvenner) identifies a consistent playbook for organizational growth: defining a reliable process, replicating it, and continuously improving it, through automation and data visibility.
 
-The analysis highlights the evolution of leadership and systems, across different stages of company growth, noting that processes must adapt as an organization moves from 10 to 10,000 employees. A central theme is the integration of custom software, termed a digital nervous system, to provide real time information and ensure accountability. [Venner](https://www.linkedin.com/in/kenvenner) also contrasts leadership styles at **Broadcom** and **SpaceX**, specifically the partnership between vision driven leaders and operational anchors. Finally, the document examines the current shift in industrial scaling, where Artificial Intelligence (AI) and automation allow significantly smaller teams to achieve the same output, as massive departments of the past.
+The analysis highlights the evolution of leadership and systems, across different stages of company growth, noting that processes must adapt as an organization moves from 10 to 10,000 employees. A central theme is the integration of custom software, termed a digital nervous system, to provide real-time information and ensure accountability. [Venner](https://www.linkedin.com/in/kenvenner) also contrasts leadership styles at **Broadcom** and **SpaceX**, specifically the partnership between vision driven leaders and operational anchors. Finally, the document examines the current shift in industrial scaling, where Artificial Intelligence (AI) and automation allow significantly smaller teams to achieve the same output, as massive departments of the past.
 
 ## **Professional Trajectory and Motivations**
 
@@ -1366,7 +1366,7 @@ The methodology for scaling businesses is currently undergoing a dramatic shift 
 
 "I'm looking towards the scalability of the company, and the simplification of it, and the ability to show how a dormant business can literally apply technology, to be a transformational change in this particular industry."
 
-# 2025-07-17
+# 2026-07-17
 
 # **SambaNova Systems: Inference Scaling and AI Infrastructure**
 
@@ -1424,11 +1424,11 @@ As AI becomes pervasive, enterprises and nations are seeking to differentiate th
 * **Value Creation:** For the global 2000, AI's goal is not merely saving money but creating new, differentiated services. [Rodrigo Liang](https://www.linkedin.com/in/rodrigo-liang) observes: "There's no point of training a model, if you aren't going to inference it, if you're not going to use it."  
 * **Investment Discipline:** Investors are becoming more focused on ROI and margins. "If you aren't paying attention, it becomes tokenmaxx, just like they just spend."
 
-## **Conclusion on Performance and Resilience**
+## **Conclusion**
 
 Building a successful technology company in the semiconductor space requires extreme resilience and a long-term perspective. Business at scale involves significant fluctuations, and success is defined by maintaining conviction in the technology despite economic or political shifts. By focusing on the fundamental problem of how to scale AI efficiently, **SambaNova** aims to provide the infrastructure necessary for the next generation of global, high performance computing services.
 
-# 2025-07-18
+# 2026-07-18
 
 # **Emerging Trends and Strategic Shifts in Artificial Intelligence**
 
@@ -1443,7 +1443,7 @@ A primary theme across the source context is the obsolescence of traditional inp
 * **Decline of Legacy Interfaces:** Representatives from **Coatue** suggest that the shift from mainframe to PC, and later to mobile, has always changed interaction models. The current transition is moving away from the mouse and keyboard toward natural language.  
 * **Consolidation of Applications:** The average person currently uses approximately 11 apps daily out of 60 to 80 installed. Agentic AI is expected to reduce this to two or four super apps where other services plug in via APIs or the Model Context Protocol (MCP).  
 * **Voice and Contextual Prompting:** Investors are increasingly using voice to text methods to provide models with better context. "We've always conformed ourselves to computers like with DOS, by inputting specific data with a keyboard and a mouse, and now we're finally entering the era where computers have to conform to us."  
-* **Real-time Interaction:** Future compute interaction will require zero low latency, real time response, and the ability to process images and speech simultaneously.
+* **Real-time Interaction:** Future compute interaction will require zero low latency, real-time response, and the ability to process images and speech simultaneously.
 
 ## **Open Source vs. Closed Frontier Models**
 
@@ -1514,7 +1514,7 @@ Despite the focus on models, the underlying data, and the human element in conte
 * **Data Supremacy:** **General Intuition** argues that model quality is secondary to data quality. "Most of AI is just glorified data science."  
 * **Human Psychology in Media:** In the social media space, **Good Future Media** emphasizes that while AI can generate clips, human psychology is required to create hooks that go viral. The first three seconds of a clip are vital for grabbing viewer attention in an increasingly crowded digital environment. "Good models mostly are downstream from good data and simple things."
 
-# 2025-07-19
+# 2026-07-19
 
 # **RAISE Summit: AI Insights and Market Trends**
 
@@ -1554,7 +1554,7 @@ Physical AI is distinguished from large language models by its focus on safety, 
 
 Data is described as the foundational layer that determines the success of AI applications.
 
-* **The Data Layer:** **MongoDB** emphasizes that an AI application is only as good as its data layer. Effective applications require real time reasoning and search over data without separate, complex pipelines.  
+* **The Data Layer:** **MongoDB** emphasizes that an AI application is only as good as its data layer. Effective applications require real-time reasoning and search over data without separate, complex pipelines.  
 * **Search Economics:** **Turbopuffer** notes that search for AI workloads is currently an order of magnitude too expensive. By utilizing object storage with advanced caching, they aim to lower costs, enabling products that are currently non viable due to search margins.  
 * **Context and Agents:** For agentic applications to work, they require the same context and information that humans use. **Glean** focuses on context graphs to provide this data in a single shot, reducing the time models spend assembling raw materials.  
 * **Security and Sovereignty:** **Merge** highlights that integration is the point where models become dangerous. Organizations are increasingly seeking AI sovereignty, wanting control over their systems and the flexibility to host in-house to prevent data leakage.
@@ -1583,3 +1583,362 @@ The Summit reflects a broader cultural and competitive landscape within the AI i
 | **Nebius** | "Actually being able to drive that enterprise adoption, that's the critical next stage for the entire industry." |
 | **Navan** | "You cannot have any fuckups, hallucination is a huge huge huge fuck up." |
 
+# 2026-07-20
+
+# **CJ Desai on AI Capacity, Data Infrastructure, and the Agentic Economy**
+
+## **Executive Summary**
+
+The current landscape of Artificial Intelligence is defined by an unprecedented pace of innovation and significant infrastructure shifts. A primary finding from current industry observations is that major hyperscalers are facing critical capacity constraints, which is driving a resurgence in on-premise data center utilization and sovereign AI initiatives. **MongoDB** positions itself as a central player in this transition, serving as a real-time operational data layer for agentic applications. The data layer is identified as the unsung hero of the AI era, as the effectiveness of AI models and agents is fundamentally tied to the quality and accessibility of underlying data. Organizations are moving toward complex, multimodel architectures that prioritize real-time data processing, resiliency across multiple clouds, and, increasingly, deterministic outcomes in regulated environments.
+
+## **Hyperscaler Capacity Constraints and the Resurgence of On-Premise Data Centers**
+
+A significant shift is occurring in how large scale enterprises and AI native firms manage their infrastructure. While the previous decade was characterized by a push toward the public cloud, current trends indicate a return to on-premise solutions and private data centers.
+
+### **Capacity Limitations and Multicloud Strategies**
+
+Hyperscalers, including providers such as **AWS** and **GCP**, are in some instances unable to meet the capacity demands of their largest customers.
+
+* One Fortune 100 customer based in Texas was denied additional capacity for cloud and AI workloads by a hyperscaler, despite being one of that provider's top 50 customers.  
+* A major telecommunications company in the United States was forced to sign with a second hyperscaler, after their primary provider refused to grant additional regional capacity.  
+* These constraints are forcing companies to adopt multicloud strategies to ensure resiliency and manage their application real estate, despite the added complexity.
+
+### **The Rise of Sovereign AI and On-Premise Infrastructure**
+
+Data sovereignty and regulatory requirements are driving the demand for on-premise environments, particularly in Europe.
+
+* In France, large customers are opting to run workloads on-premise rather than moving to the public cloud to comply with local data sovereignty regulations.  
+* The decommissioning of data centers has slowed or reversed, with enterprises choosing to maintain proprietary data within their own premises to ensure privacy.  
+* This trend is not limited to regulated industries, as even non regulated large firms are returning to on-premise setups to guarantee they can run necessary AI workloads without capacity interruptions.
+
+## **The Role of MongoDB in the AI Super Cycle**
+
+**MongoDB**, an operational database founded in 2007, is designed to handle the humongous amounts of unstructured data generated in the AI era.
+
+### **Technical Differentiation**
+
+The database landscape is divided between operational and analytical layers.
+
+* Online Transaction Processing (OLTP): **MongoDB** functions as a real-time, operational database used for tasks such as credit card transactions and live agentic memory.  
+* Online Analytical Processing (OLAP): This category includes companies like **Snowflake** and **Databricks**, which focus on internal business analysis and non real-time queries.  
+* **MongoDB** utilizes a document based, scale out architecture that supports unstructured data, making it compatible with the diverse data types produced by AI agents and robotics.
+
+### **Data as the Foundation for AI Agents**
+
+There is a growing recognition that models alone are insufficient for creating effective AI applications. "Data is the unsung hero and data is that."
+
+* The growth of the agentic economy is creating a massive influx of data, leading to the conclusion that "Big data is big data."  
+* AI agents require a memory layer to act efficiently in real time, a role filled by operational databases that can store and retrieve embeddings and vector data within a single system.
+
+## **Customer Categories and Use Cases**
+
+The adoption of AI and modern data infrastructure is segmented into three distinct classes of customers.
+
+| Customer Class | Characteristics and Use Cases |
+| :---- | :---- |
+| Frontier Labs | Includes a handful of leading labs using **MongoDB** for inference, voice products, and video/image creation. These organizations experience nonlinear, vertical growth in weekly active users. |
+| AI Native Startups | Companies such as **ElevenLabs**, **Emergent**, **Base44**, and **metal.ai** build products entirely on modern data layers. **ElevenLabs** currently runs north of 50 million agents on **MongoDB**. |
+| Enterprises | Global 2000 companies, including banks and airlines, currently in the prototyping phase of agentic workloads. These firms focus on ROI and moving from experiments to production scale applications. |
+
+### **Physical AI and Robotics**
+
+The physical AI sector, specifically robotics, is emerging as a significant data generator. Every robot senses and acts upon its environment, generating continuous data streams that require storage and processing in real time. **MongoDB** is currently being utilized by robotics companies to manage this influx of physical world data.
+
+## **Evolution of AI Architecture and Deployment**
+
+The architecture required to support AI agents is becoming increasingly complex, moving away from simple prototypes toward robust enterprise systems.
+
+### **Agentic Architecture Complexity**
+
+Enterprise agentic architectures have grown significantly in complexity over the last year. A typical architecture for a large bank may now include over 55 distinct components, including:
+
+* Multiple Large Language Models (LLMs).  
+* Multiple Small Language Models (SLMs).  
+* Frameworks and runtimes for agents.  
+* Vector databases and embedding tools.  
+* Observability, security, and guardrail layers.  
+* Evaluation and production movement tools.
+
+### **Model Standardization and Open Source**
+
+The industry remains in a mixed state regarding model types. There is no clear pivot toward either entirely open source or entirely proprietary models.
+
+* Enterprises may use a closed model from **OpenAI** or **Anthropic** for general tasks while employing domain specific or open source models from **Hugging Face** for specialized use cases.  
+* Coding agents often lean toward proprietary models.  
+* In regulated industries, such as insurance, the focus is on achieving deterministic outcomes and maintaining a human in the loop, to avoid bias and meet state level regulations.
+
+## **Leadership and Innovation Strategy**
+
+The rapid pace of AI development has changed the traditional software development lifecycle and leadership requirements.
+
+### **Customer-Driven Innovation**
+
+Success in the current era requires an intense focus on customer pain points rather than speculative building.
+
+* Leading organizations maintain high levels of customer engagement, often conducting 10 to 12 individual customer meetings per week to understand scaling issues.  
+* The role of the database administrator is evolving toward machine based administration, as AI companies lack the time to hire expensive human specialists to manage infrastructure.  
+* Innovation is being driven by the fact that software is now writing software, which reduces the incremental cost and time required for experimentation.
+
+### **Future Perspectives**
+
+The constraint for AI development is shifting from physical space to energy. This has led to serious academic and industrial consideration of data centers in space.
+
+* Physics suggests that placing data centers closer to the sun, as an energy source is possible.  
+* Companies like **SpaceX** are exploring capacity solutions that could eventually support labs like **Anthropic**.  
+* The primary objective for the next phase of the AI transition, is ensuring a foundational data layer that provides clear ROI and peace of mind for enterprises, as they scale from millions to billions of vectors.
+
+# 2026-07-22
+
+# **David Friedberg on America’s Economic Crisis and Policy Reform Proposals**
+
+## **Executive Summary**
+
+This briefing document synthesizes the economic analysis and policy recommendations provided by [David Friedberg](https://www.linkedin.com/in/davidfriedberg) during an interview on Sourcery with Molly O’Shea. It examines the structural failures of the United States economy over the last half century, the resulting wealth inequality, and the specific legislative reforms proposed to restore economic mobility.
+
+The United States is currently facing a profound economic crisis characterized by the runaway cost of essential services and a significant wealth gap for the bottom 50 percent of citizens. While the total net worth of Americans is 183 trillion dollars, the bottom half of the population holds only 4 trillion dollars, while billionaires hold 8 trillion dollars. The middle class holds the vast majority of the remaining 170 trillion dollars.
+
+The current instability is attributed to a series of policy missteps in the mid 20th century, specifically regarding Social Security, tax policy, and government intervention in education, healthcare, and housing. A primary driver of this crisis is the inversion of tax rates where labor is taxed at 40 percent while capital gains are taxed at 15 to 20 percent. Furthermore, the Social Security trust fund has lost an estimated 37 trillion dollars in potential value since 1982 due to being restricted to low yield treasury bonds rather than the S\&P 500\.
+
+The proposed solution focuses on converting labor to capital, specifically aiming for a Key Performance Indicator (KPI) of transitioning 2 percent of Americans from labor to capital ownership annually. Critical reforms include raising capital gains taxes to 40 percent, eliminating income tax for the bottom 50 percent of earners, and converting social safety nets into asset based 401k style accounts.
+
+## **Wealth Distribution and the Compounding Advantage**
+
+The economic landscape is defined by the principle of compounding, where accumulated capital grows without additional labor. This advantage has led to a state where the cost of living has outpaced the income of most Americans.
+
+### **Net Worth Statistics**
+
+The following data from the **Federal Reserve** illustrates the current distribution of wealth in the United States:
+
+| Group | Net Worth (USD) |
+| :---- | :---- |
+| Total American Net Worth | 183 Trillion |
+| Middle Class | 170 Trillion |
+| Billionaires | 8 Trillion |
+| Bottom 50 Percent of Americans | 4 Trillion |
+
+While the ultrarich possess significant assets, the data indicates that the middle class has been the primary winner of the last half century, but the bottom 50 percent has been entirely left behind. This disparity drives the current socialist movement, as things have become fundamentally unaffordable for a majority of citizens.
+
+## **Systematic Policy Failures**
+
+The document identifies five core areas where government policy has negatively impacted the economy and individual net worth.
+
+### **1\. Social Security and the Treasury Bond Misstep**
+
+In 1982, the rules for the Social Security trust fund were changed to mandate that all assets be invested in US treasury bonds, which have averaged a 3.5 percent annual return. "If you had put all the extra money that was put into Social Security since 1982 into the S\&P 500, the Social Security trust fund would have an extra $37 trillion in assets sitting in it today." Today, the fund contains 2.7 trillion dollars in treasury notes, money that the government has already spent, leading to its description as a Ponzi scheme. The **Congressional Budget Office** (CBO) indicates Social Security will be bankrupt in 5 years.
+
+### **2\. Education and Student Loan Debt**
+
+The cost of education has escalated, because the federal student loan program provides unlimited capital regardless of price, degree type, or student performance.
+
+* Administrative staff at educational institutions has grown by 6 times over the last 30 years, while student populations remained flat.  
+* 45 million Americans have graduated in the last decade, with student loan debt they cannot afford to repay.
+
+### **3\. Healthcare and Housing**
+
+* **Healthcare:** When the federal government acts as a single payer, prices rise as providers take advantage of the system, making healthcare unaffordable for the general population.  
+* **Housing:** A 20th century policy goal to make everyone a homeowner forced citizens to put their entire net worth into a single asset. To protect middle class wealth, government policies have intentionally driven home prices up every year, making them inaccessible to younger generations.
+
+### **4\. Pension Disparities**
+
+There is a stark divide between private and public sector retirement security:
+
+* In 1980, 40 percent of private sector workers had pension plans, today, less than 8 percent have them, having mostly transitioned to 401ks.  
+* In 1980, 90 percent of government workers had pension plans, today, 90 percent of government workers still have them.  
+* Pension plans are often underfunded and risk bankrupting states, whereas 401ks allowed the middle class to build 170 trillion dollars in net worth by owning productive equities.
+
+## **Proposed Economic Reforms**
+
+To avoid a socialist death spiral, several practical policy changes are suggested to realign the American system with its founding principles of private property and capital ownership.
+
+### **Tax Code Overhaul**
+
+The tax system must be simplified and made more equitable between labor and capital.
+
+* **Income Tax:** Eliminate income tax for the bottom 50 percent of earners, defined as those making roughly 75,000 dollars a year or less. This would only account for 3 percent of total tax revenue.  
+* **Capital Gains:** Increase capital gains tax to 40 percent to match labor tax rates.  
+* **Unrealized Gains:** Mandate that if individuals borrow against unrealized capital gains, they must pay capital gains tax at the time of the loan.  
+* **Closing Loopholes:** Eliminate tax free transfers of assets and the step up in basis for inherited assets.  
+  "Capital gains tax should be 40%, not 15%, or 18%, or 20%, they should pay the same as in, as labor, in fact labor should pay less income tax, should be much lower capital gain, should be much higher that would be a fair tax policy."
+
+### **Transitioning Labor to Capital**
+
+The primary goal for the United States should be economic mobility, defined as the ability for a citizen to live off accumulated capital rather than hourly labor.
+
+* **KPI:** Convert 2 percent of Americans from labor to capital every year.  
+* **Social Security 2.0:** Immediately flip Social Security into a 401k style system, where the 2.7 trillion dollars in treasuries are sold to buy the S\&P 500\. Every citizen would have an individual account owning stocks.  
+* **Trump Accounts / Invest America Accounts:** Establish 401k style accounts for children to start compounding wealth from birth.  
+* **Government Pensions:** Transition all public employees from defined benefit pension plans to 401k accounts.
+
+## **The Threat of Socialism and the Role of Private Property**
+
+The current surge in socialism is viewed as a rational response to economic pain, but a catastrophic policy solution.
+
+### **The Nature of the Socialist Movement**
+
+* Socialism is described as being like a virus, or a multi-level marketing scheme, that relies on spectacle and viral moments to recruit people who are hurting.  
+* "The United States was started on this really important principle of private property rights because everyone that came to the United States, came from a place where you didn't have private property rights, because tyrannical governments could take whatever the fuck they wanted from you, whenever they wanted to take it."  
+* A wealth tax is viewed as an asset seizure that violates the founding principle articulated by [John Adams](https://en.wikipedia.org/wiki/John_Adams): "Property must be secured or liberty cannot exist."
+
+### **Productivity and Technology**
+
+Contrary to socialist fearmongering, AI is not viewed as a threat to jobs.
+
+* Historical precedents in 1963 (mainframes) and the 1980s (desktops) show that technology increases human productivity and growth rather than deleting net jobs.  
+* The K-shaped economy is a divergence of wealth and spending, not necessarily a divergence of jobs.  
+* Companies like **Meta**, **Amazon**, **SpaceX**, **Senra Systems**, and **Hadrian** are already implementing training programs to transition unskilled laborers into high paying roles in as little as four weeks.
+
+## **Conclusion**
+
+The document concludes that the American political class has lied for decades, and failed to address the root causes of economic dissatisfaction. To preserve the republic, leaders must admit that policy missteps regarding the cost of housing, education, healthcare, and the tax code have left half the country behind. By fixing these five specific areas and ensuring every American has the opportunity to own capital, the nation can ensure another century of prosperity. "The key metric for America should be to convert 2% of Americans from labor to capital each year, if that would be the KPI from America for the next 250 years, we would fucking crush it."
+
+# 2026-07-24
+
+# **AI Era: Structural Shifts in Compute, Data Centers, and Global Technology Markets**
+
+## **Executive Summary**
+
+The transition into the AI era, described as the shift from the Before AI era to the AI era, has fundamentally restructured the global technology landscape. This evolution marks a departure from a software centric world to a compute centric world, where the primacy of hardware and the physical layer of the AI stack dictates value creation. Key takeaways include a systematic transformation in market capitalization, now heavily favoring chips and hardware over traditional software and services, and a radical redesign of data center infrastructure driven by the laws of physics. The emergence of specialized memory requirements, the rise of robotics, and the convergence of frontier technologies toward a 2030 horizon, define the current offensive investment strategy.
+
+## **The Structural Transition**
+
+The global technology market has undergone a complete rebuild since 2023\. This shift is characterized by a massive escalation in the base layer of compute and a total rethink of infrastructure.
+
+* The cost of the base compute unit has increased dramatically, with a standard $10,000 server evolving into a million dollar server.  
+* The base layer of compute has increased by approximately 10,000x, changing the fundamental economics of the cloud.  
+* In the cloud era spanning 2000 to 2020, data centers were built to resell CPUs and hard drives as platform services, treating compute as a low cost commodity.  
+* The current era requires a move from asset light, high margin software models to asset heavy, compute intensive models where margins are redistributed across the stack.
+
+## **Market Capitalization and the Primacy of Compute**
+
+A systematic transformation in value has occurred over the last four years, resulting in a market that is now compute and hardware centric.
+
+* The global stock market contains approximately 10 trillion dollars in market cap for software, services, and internet companies.  
+* The Magnificent 7 companies, including **Microsoft**, represent roughly 22 to 23 trillion dollars in market capitalization.  
+* Chips and hardware now account for over 30 trillion dollars in market capitalization, a reversal of the pre AI era distribution.  
+* Foundation models are consuming market cap from software and services (SaaS), as intelligence becomes a function of the compute stack.  
+  "Intelligence for compute equals basically revenue."
+
+## **The Redesign of Data Center Infrastructure**
+
+The shift to AI has necessitated a complete redesign of the data center, moving away from classic architectures, toward an alien data center model.
+
+* Data center power requirements are scaling from megawatts to gigawatts.  
+* The laws of physics are driving design, as the need for compute density requires packing more bits into smaller footprints.  
+* Logarithmic effects on bandwidth, power, and heat are forcing a reduction in data transmission distances from kilometers to millimeters.  
+* Investment is shifting toward the energy layer, including the grid, 800 volt power architectures, and solid state transformers.  
+* Infrastructure is moving from a regime of copper to a regime of light, to address the limits of power density.
+
+## **Memory and the Human Brain Analogy**
+
+The symbiotic relationship between compute and models is evolving toward more memory intensive architectures that mirror the human brain.
+
+* The industry is experiencing a RAM apocalypse, a significant shortage driven by the skyrocketing memory intensity of modern models.  
+* While early AI models focused on parallelism and compute, future agentic models require significant memory to store institutional context and personal behavior.  
+* Chip architectures are now focused on arbitrating memory through methods like HBM (High Bandwidth Memory), SRAM, and stacked DRAM.  
+* A critical duration mismatch exists in the market, as it takes three to four years to build a memory fab while current demand is immediate.
+
+## **The Physical Layer: Robotics and Global Competition**
+
+The physical embodiment of AI in robotics represents a significant new market, with a distinct divide between Western and Eastern development strengths.
+
+* China currently leads in the robotics hardware pipeline, with 130 to 140 robotics companies and a projected 30 to 40 IPOs this year.  
+* The United States remains a leader in model development and the robotic brain, while Asian manufacturing centers like Japan, Korea, and China dominate the physical body and motion layers.  
+* **Hyundai**, which owns **Boston Dynamics**, and other Asian firms leverage existing EV platforms for mass manufacturing scale.  
+* There is a significant market opportunity for social robots designed for elderly care and companionship, to address global demographic cliffs and loneliness.  
+  "The physical world is, this is the next unlock that AI will do."
+
+## **Enterprise Transformation and Token Flow**
+
+The future enterprise is being redesigned around the flow of tokens, and the integration of proprietary data into a context layer.
+
+* Enterprises are building an ontology or context layer, to embody the cumulative knowledge and secrets of the company.  
+* Agents will interact with this data foundation through tokens, creating a new framework for business workflow.  
+* Companies that are not part of this token flow, either by creating, serving, or repackaging tokens, face significant defensibility risks.  
+* New business models are emerging where firms abstract the entire stack to sell full solutions, such as claims processing, rather than individual software products.  
+* Traditional industries may be disrupted by smaller, AI native companies that can generate the same revenue as incumbents with a fraction of the staff.
+
+## **The 2030 Horizon and Frontier Technologies**
+
+Long dated technology investments are converging around the year 2030 as a critical milestone for utility scale applications.
+
+* Quantum computing is projected to reach utility scale with logically error corrected, million cubit computers by 2030\.  
+* Small modular reactors (SMRs) and new power generation sources are targeting regulatory approval and scaling by 2030\.  
+* Orbital data centers, supported by companies like **SpaceX**, aim to move the burden of terrestrial compute into space by 2030\.  
+  "All roads converge to 2030."
+
+## **Strategic Investment Philosophy**
+
+Investment strategies must prioritize offense and agility over traditional notions of moats, which are increasingly vulnerable.
+
+* Capital allocation is split between the now (a three year window of forecastable growth) and the frontier (ten year bets on nonlinear potential).  
+* The revenge of the nerds describes the return of pricing power to the semiconductor industry, where consolidation has created behemoths with high margins.  
+* Successful offensive strategies require betting on whether a company will still be relevant five to ten years in the future, as growth rates and multiples can decelerate rapidly.  
+  "Moats are always though breached, aren't they?"
+
+# 2026-07-27
+
+# **Scott Wu on Cognition and the Autonomous AI Engineering Market**
+
+## **Executive Summary**
+
+**Cognition** has emerged as a dominant force in the AI software engineering sector, reaching a valuation of 26 billion dollars and generating 500 million dollars in revenue in less than three years. The company's primary product, Devin, represents a shift from simple code completion to autonomous agents capable of handling complex engineering tasks. **Cognition** maintains a stance of corporate independence and model neutrality, working with providers like **OpenAI**, **Anthropic**, and **Google** while building its own integrated ecosystem. A pivotal acquisition of **Windsurf** has allowed the company to bridge the gap between local Integrated Development Environments (IDE) and remote autonomous agents. The leadership views the current trajectory not merely as an increase in efficiency, but as the beginning of an era of abundance, where AI capacity fundamentally reshapes software creation and organizational processes.
+
+## **Financial Performance and Market Position**
+
+**Cognition** has demonstrated unprecedented growth for a software company, scaling its revenue and valuation through significant capital raises and enterprise adoption.
+
+* **Valuation and Funding:** The company has raised over 2.5 billion dollars to date. Its most recent valuation stands at 26 billion dollars.  
+* **Revenue Growth:** **Cognition** achieved a revenue run rate of 500 million dollars in less than three years. At the time of its major acquisition roughly eleven months ago, the run rate was between 70 million and 80 million dollars, indicating a rapid acceleration in the last year.  
+* **Customer Adoption:** Enterprise usage of Devin has grown between 11x and 12x over the last six months.  
+* **Strategic Partnerships:** The company services high profile clients across finance, automotive, and government sectors, including:  
+  * **Goldman Sachs**  
+  * **Mercedes-Benz**  
+  * **Citi**  
+  * **Dell**  
+  * **Santander**  
+  * **NASA**  
+  * **US Navy**  
+  * **US Army**
+
+## **The Devin Product Paradigm**
+
+Devin is framed not as a tool for completion, but as an AI software engineer. The internal development of Devin relies heavily on the agent itself.
+
+* **Self Evolution:** "We almost exclusively use Devin to build Devin, at this point like 95% of the code or something is written by Devin."  
+* **Output Metrics:** The volume of code shipped by the **Cognition** team has increased 7x in the last six months due to Devin's leverage.  
+* **Productivity Measurement:** **Cognition** rejects the use of token counts as a measure of productivity, referring to the early part of 2026 as the end of the tokenmaxx era. Instead, productivity is measured by outcomes and the actual delivery of products to users.  
+* **The Aha Moment:** The feasibility of Devin was first realized when the agent autonomously diagnosed and fixed a complex **MongoDB** setup error that a human founder could not resolve. "That was like the very first moment that we believed it was possible."
+
+## **Strategic M\&A: The Windsurf Acquisition**
+
+Roughly eleven months ago, **Cognition** executed a rapid acquisition of **Windsurf**, a company specialized in Integrated Development Environments (IDEs).
+
+| Feature | Details |
+| :---- | :---- |
+| **Context** | **Windsurf** researchers were being hired by **Google**, leaving behind a ready to market team and platform. |
+| **Timeline** | The deal was initiated on a Friday evening and finalized by Monday morning. |
+| **Synergy** | Combined the local coding experience of an IDE with the remote delegation capabilities of an autonomous agent. |
+| **Integration** | Rather than a forced merger, the products were allowed to converge naturally, leading to Devin Cloud and Devin Desktop. |
+| **Human Capital** | **Windsurf** brought approximately 200 employees to **Cognition**, which had only 35 to 40 people at the time. |
+
+## **Corporate Independence and Policy**
+
+**Cognition** intentionally avoids exclusive partnerships or acquisition by major AI labs to maintain its role as an independent value provider.
+
+* **Model Neutrality:** The company works across different providers, including **OpenAI**, **Anthropic**, and **Google**.  
+* **Third-Party Appeal:** Enterprises prefer third-party providers to avoid being locked into a single model suite that might become obsolete. "It's just hard to know what's going to happen in the long term."  
+* **Public Sector Strategy:** **Cognition** is actively engaging with Washington DC to address the need for modern software in government, and to influence AI policy.  
+* **Vision for AGI:** Leadership expresses concern over a future where a single entity controls AGI. "Once you've solved AGI you just take over the entire world, and then there's just one entity that rules the world, I just don't think that's the right future for us."
+
+## **Theoretical Framework: Efficiency vs. Capacity**
+
+The leadership of **Cognition** posits that the true impact of AI is the transition from doing things faster, to doing things that were previously impossible.
+
+* **Intelligence Capabilities:** "There is nothing that humans do, that AIs can't do."  
+* **The Abundance Era:** This era is characterized by capacity rather than just efficiency. It suggests a future where software can be generated on the fly for single uses or self-driving purposes.  
+* **Organizational Hurdles:** While intelligence is scaling, practical problems remain, such as organizational change, hardware constraints, and the difficulty of defining success for amorphous, long term tasks.  
+* **The Singularity:** While acknowledging a potential event horizon where AI intelligence surpasses human reasoning, **Cognition** focuses on making reasonable decisions and building products in the present. "I think the abundance era is real and I think we'll be soon."
+
+## **Historical Context and Methodology**
+
+The company culture is rooted in a first principles approach, with a significant portion of the early team being former founders. This entrepreneurial background facilitated the high stakes, rapid decision making seen during the **Windsurf** acquisition. The company's origins involved creating AI versions of the founders themselves in **Slack**, before consolidating those ideas into Devin. The goal remains to create a world where AI handles the logistical details of life and work, allowing humans to focus on their core passions and expressions.
