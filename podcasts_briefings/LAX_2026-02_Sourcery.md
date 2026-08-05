@@ -2102,3 +2102,68 @@ As voice agents become more prevalent, the industry faces challenges regarding t
 "Voice is going to be another dimension, but it's going to be an additional dimension."
 
 "I think that over the next year we'll see a lot of, a lot more consumer applications, hardware and software where voice is a core dimension."
+
+# 2026-08-03
+
+# **Justin Lopas on Base Power Market Expansion and Manufacturing**
+
+## **Executive Summary**
+
+**Base Power** has secured a $1 billion Series D funding round, bringing its total capital raised to over $2.5 billion and its valuation to $13 billion within ten months of its Series C. The company is transitioning from a power service provider to a vertically integrated manufacturer with the launch of the Base Core, a 40 kWh home battery system designed for whole home backup and grid support. By manufacturing its own hardware and software in its Austin, Texas facility, **Base Power** aims to reduce costs, shorten lead times, and scale production to 4,000 units per week by the end of 2026\. The company operates across different regulatory environments, acting as a retail electricity provider in choice markets, and partnering with utilities in non choice markets to manage grid stability.
+
+## **Financial and Corporate Growth**
+
+The recent Series D funding round was led by **Ribbit**, **Addition**, **Valor Equity Partners**, and **JPMorganChase**. This infusion of capital follows a $1 billion Series C raised in October 2025, reflecting a rapid escalation in valuation and investor confidence.
+
+* **Valuation:** $13 billion post valuation.  
+* **Total Funding:** Exceeds $2.5 billion.  
+* **Workforce Expansion:** The company currently employs approximately 100 people at its Austin production facility, and more than 100 personnel in the field for installations and logistics. Hiring is ongoing across all roles.  
+* **Infrastructure:** The company operates out of a multifunctional facility in Austin, Texas, which includes R\&D labs, a major production floor, and a large warehouse. Plans are underway for a second factory located near the airport.
+
+## **Product Specifications: The Base Core**
+
+The Base Core is a standalone home battery system that provides backup power during grid outages and supports the grid during periods of peak demand.
+
+* **Capacity and Power:** The system features a 40 kWh battery and a 20 kW inverter, which is approximately three times larger than traditional home batteries.  
+* **Whole Home Backup:** Unlike many competitors that require homeowners to select specific circuits for backup, the Base Core is designed to power the entire home, including high draw appliances like washing machines.  
+* **Grid Support:** When the grid is active, the batteries provide support during periods of tightness, such as extreme weather events when air conditioning or heating usage is high.  
+* **Extended Outage Capability:** The system includes a feature allowing homeowners to top off the battery using a small, pull start generator during long duration outages lasting several days or a week.  
+* **Durability:** Units are tested in thermal chambers at 85 degrees Celsius and 85 percent humidity to simulate extreme environments. The battery modules are sealed using friction stir welding, making them water resistant and capable of withstanding floods.
+
+## **Manufacturing and Vertical Integration**
+
+**Base Power** has adopted a vertical integration thesis to control costs and accelerate hardware iterations.
+
+* **Production Speed:** The facility currently installs over 100 units per day. The goal is to reach a production rate of 4,000 units per week by the end of the year, which equates to one unit every few minutes.  
+* **Automation Strategy:** The production line uses a mix of manual labor and robotic automation. Robots are used for tasks like applying glue and placing battery cells into enclosures, while humans perform high dexterity tasks such as installing connectors and small screws on printed circuit boards.  
+* **Proprietary Software:** The company developed its own Manufacturing Execution System (MES) to control robots, ensure traceability, and manage production metrics like units per hour and equipment utilization.  
+* **Module Construction:** Each 40 kWh system contains four battery modules. These modules consist of groups of cells stacked with fire breaks, banded, and compressed into a single block.
+
+## **Installation and User Experience**
+
+The installation process is designed to be faster and less expensive than traditional solar paired battery systems by using a Quick Connect design.
+
+* **Electrical Setup:** A licensed electrician installs a custom designed disconnect box, which handles telemetry, data collection, and system control. This step typically takes one to three hours.  
+* **Physical Installation:** Following the electrical work, delivery drivers stack the heavy battery modules and the inverter. Because of the Quick Connect system, no manual wiring or conduit fishing is required during this phase. This process takes 15 to 30 minutes.  
+* **Operational Transition:** The system is designed to flip over to battery power during a grid outage so quickly that the homeowner often does not notice an interruption.
+
+## **Market Strategy and Business Models**
+
+**Base Power** operates under two distinct business models depending on the regulatory structure of the local electricity market.
+
+| Market Type | Geographic Examples | Business Model |
+| :---- | :---- | :---- |
+| **Retail Choice Markets** | Houston, Dallas, Chicago | **Base Power** acts as the retail electricity provider, selling power directly to members and using the distributed battery network to lower energy costs. |
+| **Non Retail Choice Markets** | California, El Paso | **Base Power** partners with the local utility (e.g., **PG\&E**). **Base Power** retains ownership of the battery, but the utility controls it for grid support and pays the company for access. |
+
+The company differentiates itself from competitors by focusing on grid scale impact through distributed residential assets rather than selling high cost, solar paired units exclusively to wealthy consumers. [Justin Lopas](https://www.linkedin.com/in/justinlopas) stated, "This is a totally different play on grid batteries, instead of big shipping container batteries we chopped it up into a bunch of little pieces, we put it at the edge of the grid, that's what this is, this is a grid focused battery."
+
+## **Direct Quotes Regarding Operations**
+
+"The production line really only got started, started getting built in February or March of this year, so like where we're standing right here, all of this is, you know, less than six months old."
+
+"We're not there yet, but we'll be able to produce about 4,000 of these units per week towards the end of the year, that's like one every few minutes, which is very very quick."
+
+"It's a vertical integration thesis right, we can cut down cost, we can reduce lead time, we can change the hardware much more quickly, because we can change, we can have the engineer drive the golf cart, or or run over here and go change something on the line."
+
+"We want to bring manufacturing back to the US, is something I'm very passionate about, and we're able to, we're able to do it with a big factory like this."
