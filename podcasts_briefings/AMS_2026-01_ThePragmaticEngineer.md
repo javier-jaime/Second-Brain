@@ -3371,3 +3371,91 @@ There is concern that software engineering may lose its magical and precious sta
 * Loss of Privilege: Software engineering has enjoyed massive privilege compared to other engineering fields, such as extensive vacation and remote work flexibility. As the field ossifies, these benefits may equalize with other professional roles.
 
 "Automation comes for all of us, even us automators." This reality necessitates a shift in how engineers view their value, moving from mere code production to high level system design and rigorous verification.
+
+# 2026-08-12
+
+# **Charity Majors on Engineering Leadership and the Industrialization of AI**
+
+## **Executive Summary**
+
+The software engineering industry is currently bifurcated into two distinct camps regarding the adoption of AI, those focused on the speed and competitive advantages of AI-pilled adoption, and those grappling with the operational slop and reliability degradation it causes. This briefing examines the shift from a code writing paradigm to one focused on validation, the necessity of treating code as a disposable cache, and the critical need for advanced observability in non deterministic systems. Key takeaways include the requirement for engineering leaders to prioritize business outcomes and technical agency, the evolution of middle management toward hands-on individual contribution, and the emerging standard of using spans and traces as the primary artifacts for system understanding.
+
+## **The AI Schism: Enthusiasts Versus Skeptics**
+
+Current industry trends reveal a widening gap between two camps of engineers. Neither side is making it up, as both are observing valid but conflicting data points.
+
+* **The AI Enthusiasts:** This group focuses on the unprecedented speed of technological change and the fear of being leapfrogged by competitors. They advocate for pushing beyond comfort zones to leverage AI for rapid code generation and rewrites.  
+* **The Operational Skeptics:** Often comprised of on-call engineers and Site Reliability Engineers (SREs), this group observes melting mental models and a rise in system incidents. They see the cost of AI as a reduction in reliability and an increase in carelessness.
+
+Evidence from **Meta** supports the skeptics' concerns. **Instagram** and **WhatsApp** have recently experienced a flurry of SEV0 incidents, the highest severity of outages. These issues coincide with the removal of reliability and trust, and safety personnel, confirming that while AI increases output, it can simultaneously degrade system stability if not managed with high discipline.
+
+## **Redefining the Engineering Lifecycle**
+
+The fundamental nature of engineering is shifting from writing and understanding every line of code, to proving that software written by unreliable agents, whether humans or AI, works correctly in production.
+
+### **Code as Cache and Immutable Infrastructure**
+
+Drawing on the Phoenix Architecture concepts, the industry is moving toward a premise where code is treated as a cache.
+
+* **Replacement over Mutation:** Traditionally, engineers edited code in place, which accumulated entropy. AI makes code generation so cheap that replacing entire functions or services is becoming more efficient than editing them.  
+* **Economic Shifts:** It is now possible to generate 10,000 variants of a function faster than a human could write it once. This necessitates a shift toward automated evaluations and conformance testing, rather than manual line by line reviews.
+
+### **The Evolution of Code Review**
+
+The term code review is currently overloaded, encompassing everything from syntax checking to architectural mentoring.
+
+* **Human Strengths:** Humans should focus on high level decisions, such as whether a feature belongs in the product or if the mental model remains coherent.  
+* **AI Validation:** Companies like **Intercom** have implemented AI-validated Pull Requests. This ensures a high bar for every diff, using the wisdom of senior engineers to automate nitpicking and syntax checks, allowing humans to focus on strategic direction.
+
+## **Observability in Non Deterministic Systems**
+
+The transition from deterministic to non deterministic systems, such as those powered by Large Language Models (LLMs), requires more engineering discipline, not less.
+
+### **The Challenge of Nondeterminism**
+
+A recent study of an open source application tracking system (ATS) using **Google**'s Gemma model illustrated the risks of non determinism. The system scored the same resume anywhere from 66 to 99 points across 100 runs. This variability demonstrates that AI is not a universal tool and can be a liability for processes requiring absolute consistency.
+
+### **Modern Observability Primitives**
+
+As systems become more complex and agent driven, traditional metrics and logs are insufficient.
+
+* **Spans and Traces:** The industry is moving toward spans as the primary building block. A trace provides a structured log with connective tissue that allows engineers to see relationships between data points.  
+* **The Timeline Primitive:** **Honeycomb** has introduced a timeline primitive to manage agentic workflows. Because AI agents may call multiple APIs and subagents over hours, engineers need to zoom out to visualize the entire conversation as a trace of traces.  
+* **Trust Refills:** If trust is debited from the creation of code because AI wrote it, that trust must be refilled through testing, evaluations, and rigorous observability in production.
+
+## **Leadership and Career Strategies in the AI Era**
+
+Engineering leadership is undergoing a transformation that rewards business efficiency and hands-on technical capability.
+
+### **Management and Business Operations**
+
+The most effective leaders are those who combine human care with skilled business operations. The example of X (formerly **Twitter**) demonstrates that a business can continue to function with 20 percent of its original staff if the leadership prioritizes efficiency. Leaders must win at the business level to maintain the authority to set ethical and cultural tones.
+
+### **Career Tactics for Managers and Directors**
+
+The role of the middle manager as a pure bureaucrat is disappearing.
+
+* **Return to Individual Contribution:** Middle managers should consider returning to Individual Contributor (IC) roles to stay relevant.  
+* **AI on the Resume:** It is a massive career risk to work in an environment that does not offer AI skill development. Managers and directors must have AI experience, to avoid being filtered out of future job markets.  
+* **Owning the Loop:** There is no human in the loop, rather, the human owns the loop. Leaders must take responsibility for the output of their agents, and ensure that AI is used to think more deeply, not just as a shortcut to avoid thinking.
+
+### **Advice for Junior Engineers**
+
+Despite fears that AI will replace entry-level roles, junior engineers are often the most adept at using new tools to build innovative projects.
+
+* **Hiring Urgency:** Companies must continue to hire juniors to ensure the long term health of the profession.  
+* **Apprenticeship via AI:** AI can serve as a coaching opportunity, filling in the cracks where guardrails have not yet been built.
+
+## **Cultural and Ethical Considerations**
+
+The proliferation of AI generated content, or slop, is viewed as a sign of disrespect toward the recipient's time and attention.
+
+| Concept | Description |
+| :---- | :---- |
+| **Writing as Thinking** | Writing is the process of thinking on paper. Outsourcing this to AI is a shortcut that can degrade core job functions and personal growth. |
+| **Respecting Attention** | Sending unread, AI generated text to colleagues is disrespectful. The goal should be to use AI to think more rigorously, not to produce more content. |
+| **Agency over Anxiety** | The physiological response to anxiety and excitement is similar. The difference is agency. Engineers should run toward the change and propose experiments rather than waiting for top-down permission. |
+
+"The question is not if we will stop reading code written by AI but when, and we should take lessons from Ops and QA on how they prove that software that others wrote works in Prod."
+
+"As any Ops engineer or SRE will tell you, that's how software has always been written, by unreliable agents from their point of view, that is software engineers like me, your colleagues or you."
