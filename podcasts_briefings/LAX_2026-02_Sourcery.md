@@ -2256,3 +2256,257 @@ A primary challenge for **Neros** and the broader domestic drone industry is the
 
 "It's impossible to do everything domestically, and so we want to bring that even further by starting up manufacturing capacity in other countries."
 
+# 2026-08-12
+
+# **Inside the Neros Millennium 1 Production Facility for Drone Manufacturing**
+
+## **Executive Summary**
+
+**Neros** has recently transitioned operations to its Millennium 1 facility, a 250,000 square foot factory designed to achieve an annual production capacity of one million drones. The move marks a significant scale up from the previous 15,000 square foot site where 100 employees managed manufacturing and engineering in a constrained environment. The company currently produces over 250 drones per day and is prioritizing the development of high speed interceptors, specifically the Bandit Interceptor, which currently reaches speeds of 300 km/h with an ultimate target of 400 km/h to counter jet powered threats. **Neros** utilizes a manufacturing philosophy that favors large, centralized facilities and vertical integration over distributed methods like 3D printing. This approach emphasizes rapid iteration through the physical proximity of engineering and production teams, manual assembly lines tracked by proprietary software, and 100 percent flight testing of all units.
+
+## **Facility and Operational Scale**
+
+The Millennium 1 facility represents the central pillar of the **Neros** strategy for mass manufacturing in the defense sector.
+
+* **Physical Capacity:** The 250,000 square foot facility is sized to support the production of one million drones per year. This expansion was intended to eliminate the need for multiple sites or further moves for the foreseeable future.  
+* **Workforce Integration:** Engineering labs are located immediately adjacent to production lines. This proximity allows mechanical engineers, manufacturing engineers, and supply chain teams to collaborate throughout the full life cycle of the product, preventing the disconnect that occurs when designs are passed to separate production facilities.  
+* **Current Output:** The factory is currently producing more than 250 drones per day.  
+* **Vertical Integration:** The facility includes massive open spaces designated for in-house component manufacturing. The goal is to bring the production of core components under one roof to streamline the supply chain and reach high volume targets.
+
+## **Product Development and Technical Specifications**
+
+**Neros** focuses on quadcopter systems and AI driven drones, prioritizing speed and cost effectiveness for defense applications.
+
+* **Bandit Interceptor:** The newest prototype of the Bandit Interceptor has achieved speeds of 300 km/h, which is 40 km/h faster than previous versions. The company aims for 400 km/h to effectively intercept jet powered Shahed drones. Speed increases are achieved through larger motors, higher battery capacity, and improved aerodynamics.  
+* **Archer AI:** This product is currently in the New Product Introduction (NPI) phase. It is being developed on a dedicated line before moving to the main production area later this year.  
+* **Material Science:** Unlike the metal bodies used by companies such as **Anduril**, **Neros** utilizes carbon plates for airframes due to their strength and light weight. To address heat dissipation, the drones use a flat aluminum bottom plate that acts as a heat sink, contacting the motherboard and radios via thermal interface material. This 2D cut plate design is cited as being cheaper for mass manufacturing than cast or CNC machined components.
+
+## **Manufacturing Philosophy and Methodology**
+
+The leadership at **Neros** advocates for a specific approach to defense technology production that emphasizes scale and consistency.
+
+* **Centralization vs. 3D Printing:** The company rejects the idea of 3D printing drones on the battlefield for mass production. While 3D printing is useful for airframes or payload adapters, it does not solve the supply chain issues for core components like circuit boards, motors, and radios. "Generally factories are really efficient when they are large and centralized, and 3D printers can be very useful for adapting drones to various mission sets, but you'd only be 3D printing like the airframe or a payload adapter."  
+* **Manual Assembly and Data Tracking:** Current assembly lines are manually operated to allow for rapid iteration. However, the company uses manufacturing software to track serial numbers of critical components and station times. This data identifies bottlenecks and informs future automation efforts. "It really gets to an automated line if it takes a pretty significant redesign of the product itself."  
+* **Testing Protocols:** **Neros** maintains a flight test team of ten people who test products daily in desert conditions two hours away from the facility. Every production drone currently undergoes a 100 percent manual flight test, where it is stressed with a simulated mass payload. The company is collecting data from automated test stations to eventually move toward sample testing, once failure rates are sufficiently low.  
+* **Design for Manufacturability:** The company utilizes a New Product Introduction (NPI) line, to figure out assembly processes before moving any product to the main production line, a luxury afforded by the increased square footage of the new facility.
+
+## **Industry Critique and Strategic Outlook**
+
+The growth of **Neros** is occurring alongside a broader expansion in the defense and technology sectors, supported by various infrastructure and finance partners.
+
+* **Sponsorship and Ecosystem:** The scaling of technology firms is supported by financial platforms like **Brex**, **Fundrise**, and **Public**, while companies like **Turing** provide infrastructure for AI training. Large technology firms such as **Nvidia**, **Anthropic**, **Salesforce**, **Gemini**, **Vercel**, **OpenAI**, **Granola**, and **Deepgram** are noted as part of the broader ecosystem of companies building next generation hardware and software.  
+* **Critique of Defense Startups:** There is a stated skepticism regarding the current state of defense technology startups. "I think the one that would maybe upset a lot of people is what we talked in the long form interview, but I would say yeah maybe, my hottest take is that a lot of the defense tech, maybe the majority of defense tech products that are being put out right now by startups, are are not very effective, and maybe even like completely useless."  
+* **Recruitment:** **Neros** is actively hiring across all departments, with a specific focus on hardware engineers and full system responsible engineers, who can manage high levels of accountability.
+
+# 2026-08-14
+
+# **Inside AppLovin’s $100B Ad Engine**
+
+## **Executive Summary**
+
+**AppLovin** transitioned from a $5.5 billion company to a $100 billion valuation primarily through the rearchitecting of its core advertising engine, known as Axon 2\. This shift replaced outdated tree based machine learning models with advanced semantic embeddings and neural networks optimized for modern GPU architecture. The company maintains an exceptionally lean organizational structure, employing approximately 100 engineers and nearly no product managers to run its entire operations. This efficiency is achieved by requiring engineers to possess high business context and by positioning them on top of AI tools to multiply their productivity. Despite a 92% decline in stock price within 18 months of going public, **AppLovin** recovered by focusing on technological innovation, expanding its performance based advertising model from mobile gaming into broader consumer and e-commerce verticals, and executing aggressive share buybacks when the market undervalued its growth prospects.
+
+## **The Technological Evolution: Axon 1 to Axon 2**
+
+The core engine of **AppLovin** underwent a complete overhaul to improve prediction accuracy and operational efficiency.
+
+### **Limitations of Axon 1**
+
+* **Structure:** Written on outdated machine learning techniques, it utilized tree based models consisting of hundreds of thousands of if-else branches.  
+* **Rigidity:** These models struggled to adapt to dynamic real world changes, such as weather, holidays, or promotional events, which alter user item relationships.  
+* **Infrastructure:** Selection trees were difficult to optimize on GPU machines, leading to higher infrastructure costs.
+
+### **Advancements in Axon 2**
+
+* **Semantic Embeddings:** Axon 2 utilizes learnable embedding tables to encode user and item IDs into semantically meaningful data points.  
+* **Neural Networks:** Information passes through deep neural networks, allowing the system to study complicated interactions and extrapolate patterns to unseen data.  
+* **Efficiency:** The model relies on general matrix multiplication (GMM), for which **Nvidia** GPUs are highly optimized, making the system both more powerful and cheaper to run.  
+* **Impact:** More accurate predictions result in better returns for advertisers, which directly fuels the growth of the **AppLovin** business.
+
+## **Organizational Philosophy and Team Dynamics**
+
+**AppLovin** operates with a culture defined by leanness, individual contribution, and a lack of traditional corporate processes.
+
+### **Lean Engineering Structure**
+
+The engineering team consists of roughly 100 people, the same size as it was three years prior, despite the massive growth in business scale.
+
+* **No Product Managers:** There are fewer than five product managers in the organization. Engineers are expected to understand business problems and write their own architecture to solve them without formal specs.  
+* **Bias Toward Action:** The company avoids traditional frameworks like one on ones, excessive meetings, and lengthy onboarding processes.  
+* **Rapid Deployment:** New hires, including interns, are encouraged to push code within their first week to experience an immediate real world feedback loop.
+
+### **Talent Requirements**
+
+The company prioritizes specific traits when hiring for its lean environment:
+
+* **High Intelligence:** Individuals must be smart, learn fast, and maintain high standards.  
+* **Low Ego:** Low ego is considered essential for growth, as it allows high performers to listen, take feedback, and question their own decisions.  
+* **Humility Toward Tech:** The leadership believes in throwing away legacy code if newer technology offers a faster or more innovative path.
+
+| Cultural Element | Description |
+| :---- | :---- |
+| **Communication** | Focused on code rather than meetings, exemplified by the CTO and former CTO canceling one on ones in favor of direct collaboration. |
+| **Business Context** | Engineers are given full visibility into how their work impacts business metrics like revenue and return on ad spend. |
+| **Accountability** | Humans are held entirely accountable for the decisions made by AI tools they utilize. |
+
+## **AI Integration and Productivity**
+
+**AppLovin** views AI not as a replacement for human talent but as a multiplier of individual output.
+
+* **On Top of AI:** The leadership wants engineers to sit on top of AI rather than next to it. As AI handles lower level tasks like syntax correction and paragraph completion, humans focus on long horizon planning and architectural judgment.  
+* **Maintaining Alpha:** To stay ahead of competitors, **AppLovin** avoids out of the box AI solutions that might lead to identical technology across the industry. They focus on creating variance through smart human direction of AI tools.  
+* **Proactive vs. Reactive:** While many companies are reacting to AI by rebuilding, **AppLovin** is building on top of its existing infrastructure, leveraging AI to tackle more sophisticated problems with the same team size.
+
+## **Business Strategy and Vertical Expansion**
+
+**AppLovin** has historically specialized in mobile gaming but is now aggressively moving into other categories.
+
+### **From Gaming to E-commerce**
+
+* **User Understanding:** The company realized that mobile gamers, often 30 to 50 year old heads of households, are high value consumers for non-gaming products.  
+* **Data Portability:** By using pixels on advertiser websites, **AppLovin** collects data that Axon 2 can interpret to make recommendations across different verticals.  
+* **Performance Based Model:** The business is predicated on delivering profit to advertisers. If an advertiser sees a positive return on ad spend, they scale their investment automatically.
+
+### **Advertising Dynamics**
+
+* **Engagement Duration:** Unlike social platforms like **TikTok** or **Instagram** where advertisers have three seconds to capture attention, **AppLovin** ads in games often last 60 seconds.  
+* **Top of Funnel Discovery:** The platform focuses on discovery, showing users items they did not know they wanted, rather than bottom of funnel search based advertising.  
+* **Connected TV:** The company views connected TV as a fragmented, non-duopoly space that offers a significant opportunity for the expansion of its discovery based advertising model.
+
+## **Financial Resilience and the Path to a Trillion Dollars**
+
+The company’s leadership maintains a long term vision focused on cash flow and terminal value.
+
+* **Post IPO Recovery:** After dropping 92% in value, **AppLovin** stopped focused investor relations for over a year to concentrate on rebuilding technology. They used their cash flow to buy back shares, acting as their own best investor.  
+* **The Trillion Dollar Goal:** To reach a $1 trillion valuation, the company estimates it must generate $30 billion or more in annual cash flow.  
+* **Strategic Focus:** Success is attributed as much to what the company chooses not to do as to what it does, avoiding the mistake of copying larger competitors with more resources.
+
+## **Significant Quotes**
+
+"Our team was elevated by AI."
+
+"I don't want our engineer to see it next to AI, I want our engineer to see it on top of AI."
+
+"Technology moves really fast and you got to be humble about what you have, and know that if technology goes faster than what you've developed, you got to throw away what you have, rearchitect and rebuild it."
+
+"I would attribute the success of Axon largely to what we decide not to do, not actually what we did."
+
+"Once we are able to make predictions more accurately, advertisers see better returns and our business grows."
+
+"We're just going to buy our own shares, we're going to become our best investor."
+
+"AI really helps, helps us to solve the problem, but actually doesn't change the problem we have to solve."
+
+# 2026-08-17
+
+# **How Nikesh Arora rebuilt Palo Alto Networks from $18B to $300B**
+
+## **Executive Summary**
+
+The cybersecurity landscape is undergoing a fundamental transformation driven by the rapid advancement of Artificial Intelligence. [Nikesh Arora](https://www.linkedin.com/in/nikesh-arora-02894670), CEO of **Palo Alto Networks**, identifies this period as the beginning of a long term trend rather than a temporary moment. Under [Arora](https://www.linkedin.com/in/nikesh-arora-02894670)'s leadership, **Palo Alto Networks** has seen its market valuation increase from $18 billion to approximately $300 billion, a growth trajectory fueled by a strategy of aggressive innovation, over 40 acquisitions in eight years, and a shift toward platformization.
+
+The core challenge in modern security is the compression of time. While the industry average to fix a zero day vulnerability has historically been 55 days, AI powered attackers can now identify and exploit vulnerabilities within minutes. To counter this, **Palo Alto Networks** has introduced capabilities to deliver and deploy patches in four hours. Looking forward, the software industry is expected to be entirely rewritten over the next decade as deterministic software is replaced by AI driven applications that possess an opinion and agency.
+
+## **The Transformation of Cybersecurity through AI**
+
+The current environment is characterized by AI labs demonstrating models capable of rapidly attacking infrastructure by identifying and daisy chaining vulnerabilities. This creates a significant imbalance between the ease of attack and the difficulty of defense.
+
+### **Time Compression and Defensive Modernization**
+
+The transition from discovery to attack is shrinking, necessitating a shift in defensive posture.
+
+* **Patching Efficiency:** The industry standard of 55 days for patching is no longer viable when attacks occur in minutes.  
+* **Rapid Deployment:** **Palo Alto Networks** recently launched a capability to deliver patches to all customers within four hours.  
+* **Infrastructure Requirements:** To survive this compression, customers must modernize their infrastructure and embed AI into their defensive deployments.  
+* **The Role of Anomalies:** More anomalies and rogue agents are expected to emerge, requiring security infrastructure that acts as a harness around evolving AI trends.
+
+### **The Shift to Opinionated Software**
+
+[Arora](https://www.linkedin.com/in/nikesh-arora-02894670) argues that software of the last 20 years was designed for deterministic tasks and lacked an inherent opinion.
+
+* **Rewriting the Industry:** The entire software industry will be rewritten in the next 10 years to include intelligence and context.  
+* **Decision Making:** Future AI software, such as an AI doctor, will provide specific opinions based on contextual training and edge case understanding.  
+* **Market Judgments:** The market is currently determining which legacy software companies will survive this transition and which native AI capabilities will render existing packages obsolete.
+
+## **Strategic Leadership and Organizational Growth**
+
+The growth of **Palo Alto Networks** from $18 billion to $300 billion is attributed to a combination of strategic execution and managing market expectations. [Arora](https://www.linkedin.com/in/nikesh-arora-02894670) defines market cap as the sum total of global expectations regarding a company's strategy, execution, and potential.
+
+### **Leadership Philosophy and the Belief Document**
+
+Upon joining the company, [Arora](https://www.linkedin.com/in/nikesh-arora-02894670) faced a communication gap with his team, which he resolved by creating a belief document.
+
+* **Defining the Why:** The document outlines why he makes certain decisions and how he expects the organization to act.  
+* **Senior Hiring:** A high degree of rigor is applied to senior hires, as the wrong leader can lead hundreds of employees in the wrong direction.  
+* **Architects, Builders, and Maintenance:** [Arora](https://www.linkedin.com/in/nikesh-arora-02894670) categorizes leaders into three types: architects (design/aesthetics), builders (execution), and maintenance (operations). He focuses on building teams that balance these capabilities, often coupling architects with strong builders.
+
+### **Cultivating AI Native Talent**
+
+To stay ahead of technological shifts, the company has adapted its recruitment and training processes.
+
+* **Hackathon Hiring:** About nine months ago, the company began hiring through hackathons to find individuals who are curious and experimental with new tools like **Azure** Foundry or **Anthropic**.  
+* **Internal Knowledge Sharing:** [Arora](https://www.linkedin.com/in/nikesh-arora-02894670) conducts AI IO meetings twice a week with the top 24 technical employees to walk through new developments and foster cross-functional learning.  
+* **Cultural Self-Selection:** By infusing teams with AI native talent, the company encourages a change in behavior, allowing those who do not adapt to self-select out of the organization.
+
+## **Mergers, Acquisitions, and Innovation**
+
+Innovation in cybersecurity is driven by the need to anticipate bad actors who are constantly finding new ways to break into infrastructure. Because innovation can come from anywhere, **Palo Alto Networks** utilizes an aggressive M\&A strategy.
+
+### **M\&A Playbook and Humility**
+
+The company has acquired over 40 companies in the last eight years to fill product gaps or anticipate market shifts.
+
+* **The Imperialistic Pitfall:** [Arora](https://www.linkedin.com/in/nikesh-arora-02894670) warns against the mistake of underestimating the intelligence of acquired teams.  
+* **Integration Approach:** The preferred method is to allow acquired founders to run their categories, providing them with more resources and scale rather than forcing them into a rigid corporate structure.  
+* **Buy vs. Build:** The decision to acquire is based on whether a team is ahead in a category or if the technology is too complicated to build and integrate internally.
+
+### **Market Intelligence via Social Media**
+
+[Arora](https://www.linkedin.com/in/nikesh-arora-02894670) actively uses **LinkedIn** and X to monitor competitors and identify talent.
+
+* **Recruitment:** He has hired key executives, including the General Counsel, through **LinkedIn**.  
+* **Pattern Recognition:** By following a person's posts over several years, he believes he can understand their intelligence and personality more effectively than through a traditional interview.
+
+## **Industry Influences and Economic Outlook**
+
+[Arora](https://www.linkedin.com/in/nikesh-arora-02894670)'s perspective is shaped by his previous roles at **Google** and **SoftBank**, as well as observations of other industry leaders.
+
+### **Lessons from Institutional Leaders**
+
+* **Google** ([Larry Page](https://en.wikipedia.org/wiki/Larry_Page)): Taught the value of being product obsessed and building great products with the belief that monetization will follow.  
+* **SoftBank** ([Masayoshi Son](https://en.wikipedia.org/wiki/Masayoshi_Son)): Provided insights on risk appetite and the importance of doubling down on winners rather than spending excessive effort trying to fix broken investments.  
+* [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk): Serves as an inspiration for taking on massive, seemingly impossible problems that others avoid.
+
+### **Macro Trends and Capacity Demand**
+
+The demand for AI is viewed as infinite, which will lead to a long term build phase in the industry.
+
+* **Compute Constraints:** There is a current global constraint on compute as AI models for video, voice, and enterprise intelligence require massive capacity.  
+* **Investment Shifts:** It is possible that 10% to 20% of corporate operating spend will shift further toward technology in the coming decade.  
+* **The Agency Journey:** For AI to be fully adopted, it must reach a point of safety and trust similar to **Waymo**, where humans are comfortable giving AI agency over life or death decisions.
+
+### **Performance and Market Metrics**
+
+| Metric | Context/Value |
+| :---- | :---- |
+| Market Valuation Growth | From 18 Billion to \~300 Billion |
+| Acquisition Volume | 40+ companies in 8 years |
+| Patch Deployment Goal | Reduction from 55 days to 4 hours |
+| Strategic Horizon | Planning 2 to 5 years out; 2 years is highly visible |
+| AI Adoption | Mainstream in coding, experimental in agents |
+
+## **Direct Quotes**
+
+"If you believe the demand is infinite, then a lot of things have to fall into place for this to be successful, and one of them clearly is cyber security."
+
+"The hottest take right now is, this is the beginning, this is not a moment."
+
+"None of the software written the last 20 years came with an opinion, so the entire software industry will get rewritten in the next 10 years."
+
+"I prefer that characterization as opposed to super aggressive, I am going to get it done."
+
+"The market cap is the sum total of the expectations of the world about the strategy, execution, and the potential for your business."
+
+"You have to live in this industry with humility, to understand that you may not always have all the answers."
+
+"Double down on your winners, they are going to be way more interesting for you than the ones that are going to not make money."
