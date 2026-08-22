@@ -2510,3 +2510,112 @@ The demand for AI is viewed as infinite, which will lead to a long term build ph
 "You have to live in this industry with humility, to understand that you may not always have all the answers."
 
 "Double down on your winners, they are going to be way more interesting for you than the ones that are going to not make money."
+
+# 2026-08-20
+
+# **Colossal Biosciences and the Future of Genetic Engineering**
+
+## **Executive Summary**
+
+**Colossal Biosciences** is a genetic engineering and technology company focused on addressing the global biodiversity crisis, which forecasts a 50% loss of all biodiversity within the next 25 years. The organization operates on a systems model of de-extinction, utilizing a toolkit that includes multiplex gene editing, full DNA synthesis, and artificial wombs. Notable achievements include the creation of Gen 2 woolly mice through a 30 day end-to-end pipeline and the vertical integration of cloning technologies via the acquisition of **Viagen**. **Colossal Biosciences** defines its work as civilization tech, referring to technologies with ripple effects that benefit humanity beyond immediate market products. The company has raised $635 million to date, with its most recent round being oversubscribed at $400 million. Strategic interests include invasive species management, human healthcare applications, and the creation of a digital twin of nature through AI convergence.
+
+## **Organizational Philosophy and Strategic Vision**
+
+**Colossal Biosciences** positions itself as a product and technology company rather than a traditional biotech or academic lab. The organizational structure and brand identity are built on several core pillars.
+
+### **The Civilization Tech Category**
+
+The company identifies with a new category termed civilization tech, which represents the evolution of the moonshot category.
+
+* These are technologies with applications broader than their immediate services, intended to have significant ripple effects on humanity.  
+* Core capabilities include genome engineering at scale, full DNA synthesis, and large scale artificial womb technology.  
+* The vision involves the ability to preserve, engineer, and direct life on a planetary scale across all species.
+
+### **Brand Identity: Harvard meets MTV**
+
+The company employs a distinctive aesthetic to make science engaging and accessible to a broader audience.
+
+* The internal directive is "Harvard meets MTV", which aims to combine rigorous scientific standards with high energy, popular culture inspired communication.  
+* The 55,000 square foot facility in Texas features animatronic direwolves, cinematic lab designs, and murals to inspire staff and visitors.  
+* The organization prioritizes three values in decision-making: value creation, impact, and inspiration.
+
+### **Systems and Vertical Integration**
+
+**Colossal Biosciences** adopts a first principles, vertically integrated approach to genetic engineering.
+
+* The company aims to own the entire technical stack, from ancient DNA extraction to animal operations.  
+* **Colossal Biosciences** acquired **Viagen**, a leader in animal cloning with 80% efficiency rates, compared to the industry standard of 2%.  
+* The organization utilizes traditional software management tools like Jira and Smart Sheets to coordinate scientific workflows, a practice described as reprogramming scientists to work in systems models.
+
+## **Scientific Breakthroughs and Technical Milestones**
+
+The company has moved beyond theoretical research into production level genetic editing and biological engineering.
+
+### **The Woolly Mouse Project**
+
+The woolly mouse serves as a proof of concept for the eventual revival of the woolly mammoth.
+
+* **Colossal Biosciences** produced Gen 2 woolly mice, which are the second most genetically modified multicellular organisms on the planet, following the company's direwolves.  
+* The project successfully utilized a 30 day pipeline to deliver the most multiplex edits at one time in history, resulting in 100% healthy mice with predicted phenotypes.  
+* The mice serve as a proxy for testing mammoth traits, as their 21 day gestation period allows for significantly faster iteration than the 22 month gestation of an elephant.
+
+### **AI and the Digital Twin of Nature**
+
+A central thesis of the company is the convergence of AI and biotechnology to understand ecological systems.
+
+* The goal is to build a digital twin of nature to predict the consequences of human decisions, such as data center construction or river diversion, on ecosystem health, food security, and water purity.  
+* AI is used for ancestral state reconstruction of genomes and comparative genomics models.  
+* The company spun out **Astromech**, a $3.8 billion company using focused AI models to analyze evolutionary trends.  
+* **Astromech** tracks conserved regions of the genome in species like elephants, which have high cancer resistance (2% to 3% rate) compared to humans (24% to 25% rate), to inform new drug and therapeutic designs.
+
+### **Advanced Laboratory Infrastructure**
+
+* The facility includes a core open lab, production labs, and an 8,000 square foot vivarium.  
+* Automated embryology systems are being developed using computer vision and screen capture to track cloning efficiencies and DNA extraction.  
+* The company maintains an avian facility for pigeon colonies and related research.
+
+## **Economic Applications and Revenue Streams**
+
+While de-extinction is the primary mission, the underlying technology has vast commercial and governmental applications.
+
+| Opportunity Area | Description |
+| :---- | :---- |
+| **Invasive Species Management** | Using gene drives to create sterile populations for biocontrol. This addresses a half trillion dollar global problem, including rats on islands and screwworms affecting the cattle industry. |
+| **Human Healthcare** | Development of artificial womb components for IVF and embryo health, and germline editing to remove genetic disease states. |
+| **Materials Science** | Production of ethically harvested animal materials. **Colossal Biosciences** is working on a solution to increase the supply of a specific fabric fiber by 6x through cloning or lab-grown hair follicles. |
+| **Conservation Services** | Potential government use cases for preserving life and productionizing endangered species. |
+
+## **Conservation and Public Policy**
+
+**Colossal Biosciences** views its de-extinction toolkit as a supplement to, not a replacement for, modern conservation.
+
+### **Relationship with the Conservation Community**
+
+* The company open sources its technologies for free use by conservationists.  
+* Since the inception of **Colossal Biosciences**, funding for elephant conservation partners has reportedly increased.  
+* The organization advocates for a global distributed biovault network to back up species data as a contingency plan for mass extinction events.
+
+### **Ethical Boundaries and Governance**
+
+* The company explicitly refuses to work on human primates or Neanderthal revival.  
+* The no-go list includes no human primates and giant apes like Gigantopithecus.  
+* Reintroduction of species into the wild requires the support of governments, indigenous groups, and private landowners.  
+* The organization maintains a Youth Advisory Board to gather feedback from the generation that will inherit the long term effects of these biological solutions.
+
+## **Financial and Operational Data**
+
+The company’s growth is supported by substantial capital and a large network of expertise.
+
+* **Total Funding:** $635 million.  
+* **Last Funding Round:** Oversubscribed at $400 million, despite an initial target of $200 million.  
+* **Workforce:** 260+ employees.  
+* **Partnerships:** 17 academic partners and 80 funded researchers in external academic labs.  
+* **Advisors:** 95 advisors across scientific, indigenous, executive, and youth boards.
+
+"I think that we are one of the most undervalued companies in the world."
+
+"We had 100% healthy mice born with exactly the predicted phenotypes, with the most multiplex edited delivered at one time ever, and we did it in 30 days"
+
+"I think AI is going to converge and we are going to build a digital twin of nature, and just like we have prediction models for everything, from missile defense to tsunamis and earthquakes, we're going to have that for nature"
+
+"Harvard meets MTV was like our thesis from day one"
