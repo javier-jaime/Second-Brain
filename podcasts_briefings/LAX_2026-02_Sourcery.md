@@ -1566,9 +1566,9 @@ The Summit reflects a broader cultural and competitive landscape within the AI i
 * **The Four Seasons of AI:** **Altimeter** suggests that enterprises should plan for a multi-model world, viewing **OpenAI**, **Anthropic**, **SpaceX**, and **Google** as different seasons. The goal is to build an evergreen climate that includes both open source for high volume workloads and frontier models for discovery.  
 * **Open Source Debate:** There is a fundamental disagreement on the future of open models. While **Glean** predicts open source will dominate inference within two years, **SemiAnalysis** suggests that major labs may stop releasing open weights in favor of licensing models.  
 * **Workplace Productivity:** Despite fears of job displacement, speakers like those from **Applied Intuition** and **Merge** argue that AI will change jobs rather than eliminate them. The focus is on reducing cycle times and iterating faster.  
-* **Human Centric AI:** **Navan** emphasizes that in complex industries like travel, human support remains essential to prevent hallucinations and errors, that can lead to significant customer dissatisfaction.
+* **Human Centric AI:** **Navan** emphasizes that in complex industries like travel, human support remains essential to prevent hallucinations and errors that can lead to significant customer dissatisfaction.
 
-## **Important Quotes and Key Assertions**
+## **Important Quotes**
 
 | Source Entity | Quoted Assertion |
 | :---- | :---- |
@@ -1693,7 +1693,7 @@ The constraint for AI development is shifting from physical space to energy. Thi
 
 ## **Executive Summary**
 
-This briefing document synthesizes the economic analysis and policy recommendations provided by [David Friedberg](https://www.linkedin.com/in/davidfriedberg) during an interview on Sourcery with Molly O’Shea. It examines the structural failures of the United States economy over the last half century, the resulting wealth inequality, and the specific legislative reforms proposed to restore economic mobility.
+This document synthesizes the economic analysis and policy recommendations provided by [David Friedberg](https://www.linkedin.com/in/davidfriedberg) during an interview on Sourcery with Molly O’Shea. It examines the structural failures of the United States economy over the last half century, the resulting wealth inequality, and the specific legislative reforms proposed to restore economic mobility.
 
 The United States is currently facing a profound economic crisis characterized by the runaway cost of essential services and a significant wealth gap for the bottom 50 percent of citizens. While the total net worth of Americans is 183 trillion dollars, the bottom half of the population holds only 4 trillion dollars, while billionaires hold 8 trillion dollars. The middle class holds the vast majority of the remaining 170 trillion dollars.
 
@@ -2021,7 +2021,7 @@ The reach of optical technology extends beyond traditional data centers, touchin
 
 # 2026-07-31
 
-# **2026-07-31 Operational Scale and Strategic Outlook for AssemblyAI**
+# **Operational Scale and Strategic Outlook for AssemblyAI**
 
 ## **Executive Summary**
 
