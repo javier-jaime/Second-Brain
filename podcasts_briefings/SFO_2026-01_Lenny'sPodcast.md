@@ -3828,3 +3828,107 @@ The most effective enterprise salespeople are often those who are not traditiona
 "The fastest way to commoditize yourself is to go into some sales script."
 
 Success in the enterprise depends on mirroring the buyer's process rather than forcing the buyer into a CRM defined pipeline.
+
+# 2026-08-30
+
+# **AI’s Third Era: The Rise of Persistent AI Coworkers**
+
+## **Executive Summary**
+
+The transition from AI as a conversational interface to AI as a persistent coworker marks the third era of Artificial Intelligence. This shift necessitates a fundamental change in product development, moving away from long term strategic cycles toward a rapid, 2 to 3 month building window to keep pace with model evolution. Product management has transitioned from academic theory to empirical testing, prioritizing the speed of user feedback over polished reasoning documents. As AI takes on more rowing tasks, the human role centers on steering through intuition, artistic expression, and accountability. Successful implementation requires an elevation of ambition, pushing the boundaries of what is possible within unreasonably short timeframes, while deeply integrating AI tools into daily workflows.
+
+## **The Evolution of AI Interaction**
+
+The development of AI products is categorized into three distinct phases. Each phase represents a deeper level of integration into human productivity and collaboration.
+
+| Era | Primary Interface | Characteristics |
+| :---- | :---- | :---- |
+| First Era | Chat | Interactive, conversational exchanges. |
+| Second Era | Agents | Task-oriented systems that work on specific objectives. |
+| Third Era | Persistent Coworkers | Continuous, collaborative partners that get things done alongside users. |
+
+"if you think about the first era of AI products as chat, the second era of these products working with agents, that third era that might come soon, is how do you work with a persistent coworker who is able to get things done with you"
+
+## **Strategic Product Development at the Frontier**
+
+Building products at a frontier lab like **OpenAI** requires navigating a high growth, high intensity environment where the distance between the builder and the market is thin.
+
+### **The 2 to 3 Month Building Rule**
+
+Traditional planning cycles of one year are considered ineffective, due to the exponential growth of model capabilities. Developers must target a specific window of 2 to 3 months for product relevance.
+
+"you fail if you build for where the models are now, you fail if you build for where you think the models will be in a year, both outcomes are equally wrong only way to build is 2 to 3 months"
+
+### **Product Marketing Fit**
+
+Insights from **Sutter Hill Ventures** suggest that product-marketing fit can be as transformative as product-market fit. This involves refining the narrative and positioning of a product through extensive testing, before finalizing the product shape.
+
+## **The Changing Role of the Product Manager**
+
+The role of the Product Manager (PM) has shifted from managing execution and writing academic strategy documents, to defining sharp hypotheses and running rapid empirical tests.
+
+* **Empirical over Theoretical:** Being prolific and testing with users quickly is more valuable than writing reasoning documents or PhD style theses.  
+* **Hypothesis Definition:** The core job remains identifying the most essential question that determines a product’s success or failure and feeding results back into a loop of refinement.  
+* **Elevating Ambition:** A critical part of the PM role is reminding teams of the high possibility ceiling, and pushing for more ambitious scales or faster timelines.
+
+"being prolific and empirical is way more important than being academic or theoretical"
+
+"rather than writing out some long reasoning doc, instead it's like, how do I get to something I can try out and test with users as fast as possible"
+
+## **Internal Culture and Operating Principles**
+
+Culture at **OpenAI** is described as founder-led, meaning individuals act with high autonomy and limited top-down direction.
+
+### **Key Internal Memes and Cultural Values**
+
+* **Maximally Accelerated:** A commitment to moving as fast as possible on progress.  
+* **Mainlining:** Using the product all day, every day to find flaws and improve the experience, an evolution of the traditional dogfooding concept.  
+* **Feeling the AGI:** Staying conscious of the mission to ensure Artificial General Intelligence is beneficial for humanity.
+
+"the level of top-down direction at OpenAI is extremely limited, relative to places I've worked for prior"
+
+## **Human-AI Collaboration: Steering vs. Rowing**
+
+As AI agents handle more tactical execution, or rowing, the human role evolves into steering the ship.
+
+* **Direction and Opinion:** Humans provide the high-level steering, making opinionated calls based on intuition and a desire for how the world should look.  
+* **Artistry and Expression:** Software is compared to filmmaking rather than real estate, it requires an auteur statement or artistic opinion to be successful.  
+* **Accountability:** Humans remain the entities of accountability, particularly in regulated industries or roles requiring direct human interface.
+
+"I think increasingly the future of work will look more like steering than rowing, in the sense that there will be agents that you'll be able to work with that do a lot of the rowingk and your role increasingly becomes steering the ship in the right direction"
+
+## **Knowledge Work vs. Software Engineering**
+
+Distinct differences exist in how AI supports different domains of professional work.
+
+| Feature | Coding | Knowledge Work |
+| :---- | :---- | :---- |
+| Focus | Output oriented | Process and reasoning oriented |
+| Validation | Verified via tests and execution | Verified via citations, inputs, and collaboration |
+| Product Context | Technical detail and chain of thought | Collaborative journey and proof of work |
+
+For knowledge work, the product must act as a collaborator, showing citations and in progress work to ensure the user can trust the final output.
+
+## **Emerging Product Capabilities**
+
+New tools are transforming knowledge workers into jack of all trades, allowing individuals to realize visions to higher fidelity, without needing a large team.
+
+### **Sites and Malleable Software**
+
+The emergence of sites as a product allows users to create personal, malleable software with a single prompt. These serve as dynamic alternatives to static documents or slide decks, capable of hosting databases and metrics.
+
+### **Advanced Data Visualization**
+
+Features like visualize in **Codex** allow for the instant creation of charts and data stories, simplifying the presentation of complex information.
+
+## **Disciplined Thinking and Writing**
+
+Despite the availability of AI for reporting, maintaining human discipline in thinking remains essential.
+
+* **Writing as Thinking:** Writing a brief from scratch is a tool for refining ideas. This process should not be automated, as it is crucial for aligning thoughts.  
+* **Writing as Reporting:** Summarization and status reports are ideal tasks to outsource to models.  
+* **The 70 Percent Rule:** Taking a document to 70 percent completion and then seeking feedback, allows others to help polish and buy into the idea, preventing the bounce-off effect of perfectly polished finishes.
+
+"whatever the work is do it well, not for the boss, but for yourself"
+
+"you are not the work you do, you are the person that you are"
