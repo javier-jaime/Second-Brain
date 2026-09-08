@@ -3932,3 +3932,84 @@ Despite the availability of AI for reporting, maintaining human discipline in th
 "whatever the work is do it well, not for the boss, but for yourself"
 
 "you are not the work you do, you are the person that you are"
+
+# 2026-09-06
+
+# **Anish Acharya on Why Companies are Becoming a Series of Loops** 
+
+## **Executive Summary**
+
+The emergence of AI marks a transition from a centralized mobile era to a decentralized landscape where technology serves as an amplifier of human agency and ambition. Rather than creating a permanent underclass, AI is unbundling skill from desire, allowing individuals to execute complex tasks regardless of their technical background. For organizations, the future lies in transforming into a series of interconnected loops where AI agents handle verifiable, repetitive tasks, while humans provide the intuition necessary to navigate toward new strategic goals. The most significant untapped opportunity remains in the consumer sector, shifting focus from pure productivity to products that fulfill emotional and social needs, essentially using technology to extend the human soul rather than just the intellect.
+
+## **The Myth of the Permanent Underclass**
+
+There is a pervasive fear within Silicon Valley that those who fail to master AI tools will fall into a permanent underclass, yet empirical data and market trends suggest the opposite.
+
+* **Decentralization of Power:** Unlike the mobile era, which was characterized by winner-take-all network effects and extreme centralization, the current AI stack is highly distributed. There are dozens of relevant players at every level, from foundation model labs to open weight variations and coding agents.  
+* **Empirical Labor Data:** Predictions that specific professions like radiologists or programmers would be eliminated have not materialized, job postings for these roles remain at historic highs.  
+* **Slow Economic Diffusion:** The rate of change is tempered by slow economic diffusion. Real-world supply chains and service industries, such as **Domino's Pizza** or **FedEx**, are limited by physical constraints rather than just intelligence, suggesting a slow takeoff rather than an unmanageable explosion of Superintelligence.  
+* **Autocatalytic vs. Recursive Improvement:** While AI is used to improve processes, it is currently autocatalytic, meaning it improves the process through human-in-the-loop iteration, rather than truly recursive self-improvement that would lead to a runaway winner.
+
+## **The Transformation of Company Building into Loops**
+
+The structural design of modern companies is evolving into a cascading set of loops, where agents equipped with tools, memory, and skill files manage increasingly large portions of the business.
+
+### **The Mechanism of the Loop**
+
+Loops operate by taking an input, such as a bug report or a sales lead, and moving it through an automated cycle of reproduction, fix, review, and deployment. This model is currently most advanced in engineering but is expanding to other functions.
+
+* **Engineering Loops:** Automated handling of bug reports, reproduction, and low risk shipping to production.  
+* **Growth and Marketing Loops:** Every variant of an experiment is generated and measured automatically, the system converges and ships the high performing variant based on statistical significance.  
+* **Business Unit Loops:** The output of individual functional loops (coding, sales, legal) informs a broader business loop that can suggest changes to strategy or business models.
+
+### **The Human Element in Local Maxima**
+
+While AI loops are efficient at optimization, they are limited by their inability to engage in out of distribution thinking.
+
+* **Hill Climbing:** AI agents help a company climb to a local maxima, a point of peak efficiency within a specific framework.  
+* **Plateaus:** Once a loop reaches a plateau, it requires human intuition to identify the next hill to climb.  
+* **Exceptions and Strategy:** Humans remain critical for handling exceptions, coaching agents when they get stuck, and defining the qualitative direction of the company.
+
+"The loop will help you climb to the local maxima, but then it plateaus, you need human intuition, you need somebody to actually help you land at the base of the next hill."
+
+## **Strategic Organizational Splits**
+
+Organizations are beginning to see a divide in how they deploy intelligence, based on the nature of the problem being solved and the potential upside.
+
+| Function Type | Model Preference | Rationale |
+| :---- | :---- | :---- |
+| **High Upside** (Drug Discovery, Research, Sales) | Frontier Models (**OpenAI**, **Anthropic**) | Rational to pay high prices for even a small increase in intelligence if the potential outcome is a trillion dollar discovery. |
+| **Bounded Upside** (Accounting, Legal, Support) | Mid IQ / Open weight Models | Requires Pareto efficiency, paying a rational amount for performance in tasks where you can only be so much better than the standard. |
+
+"I think we're going to see a split between job functions that demand, kind of mid IQ intelligence, and those will often be open weight, sort of biased with reinforcement learning."
+
+## **The Consumer Opportunity: Soul over Intellect**
+
+A significant product design failure in the current AI landscape is the over indexing on productivity. Most consumers do not want to save time, as much as they want to spend time in fulfilling ways.
+
+* **The Spiritual Hunger:** As traditional cultural institutions decline, there is a gap in how people feel connected, loved, and entertained.  
+* **Beyond the Spreadsheet:** Technology has historically been used to build better spreadsheets, AI offers the chance to build products that extend human connection and happiness.  
+* **Interface Evolution:** The ideal consumer interface likely sits between, the high agency chat interface, and the passive consumption of **TikTok**.  
+* **Unbundling Skill from Desire:** AI allows individuals to be creators (musicians, programmers, artists) by removing the technical barriers to entry, thereby amplifying individual identity.
+
+"We believe that people want to be more productive, but they don't. I think more people want to spend time, than save time."
+
+## **Durability and Moats in the AI Era**
+
+In a world where software can be generated rapidly, traditional moats and the concept of craft have become more important.
+
+* **Discovered Moats:** Moats are often discovered through shipping rather than being designed in a business plan. Companies like **Cursor** built a moat by capturing reasoning traces and training custom models after gaining initial traction.  
+* **Classic Advantages:** Brand effects, network effects, scale advantages, and cornered resources remain the gold standard for durability.  
+* **The Power of Craft:** High quality user experience and craft, seen in products like **Granola**, serve as significant differentiators in a crowded market.  
+* **Building as the New Reading:** The act of building is becoming a primary way to learn and build intuition. Shipping small, even unimportant, projects is the most effective way to understand the changing shapes of different models.
+
+"Moats are most often discovered, not designed."
+
+## **Lessons for Founders and Leaders**
+
+* **Amplify Ambition:** In the current environment, an idea that is too small is a greater risk than one that is too ambitious. VCs like **a16z** are increasingly interested in projects that aim for massive, foundational changes.  
+* **Avoid the Platform Trap:** Founders should avoid trying to build a product and a platform simultaneously, as the complexity of being both a studio and a platform often leads to failure.  
+* **Stewardship:** There is an industry obligation to use technology to address massive deflationary opportunities in healthcare and education, which have historically only become more expensive.  
+* **Positive Sum Mindset:** The Silicon Valley ecosystem rewards vulnerability, and building on the ideas of others.
+
+"This is a technology that really amplifies our agency, it kind of unbundles skill from desire, not only can we dramatically drive productivity, we can dramatically drive ambition."
