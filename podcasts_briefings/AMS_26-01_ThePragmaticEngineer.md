@@ -3635,3 +3635,110 @@ To become a great software engineer, Muratori emphasizes curiosity and the rejec
 ### **Continuous Learning via Research**
 
 [Muratori](https://en.wikipedia.org/wiki/Casey_Muratori) recommends that programmers move beyond books, and start reading academic papers to stay informed about the historical record and new techniques. "Read a paper, I'm trying to get more people to just read papers because I realized I read a ton of papers, like I am constantly reading papers on things that I am interested in." Searching **Google** Scholar and following references, is cited as a superior method for gaining deep knowledge in any programming domain.
+
+# 2026-09-09
+
+# **Building Codex with Tibo Sottiaux**
+
+## **Executive Summary**
+
+The transition of software engineering from traditional manual processes to an agent-led paradigm is exemplified by the development and evolution of Codex, an internal coding agent at **OpenAI**. This briefing document outlines the technical and philosophical foundations of Codex, including its unconventional build in Rust, its commitment to open source, and its eventual integration into the **ChatGPT** ecosystem. Key takeaways include the shifting role of the software engineer from a logic verifier to a curator of intent, the drastic reduction in maintenance and rearchitecting costs due to AI automation, and the emergence of unified cloud-based development environments that surpass local compute capabilities. The analysis demonstrates that while fundamental engineering principles like abstraction remain vital, the speed of the development lifecycle has accelerated to a degree where agents now manage significant portions of the coding, review, and documentation processes.
+
+## **Origin and Philosophy of Codex**
+
+Codex originated as a research project within **OpenAI** to improve internal infrastructure and research efficiency. Its development was influenced by earlier efforts at **DeepMind** and **Google** to explore large language models as a path toward General Intelligence.
+
+### **The Decision for Rust and Security**
+
+Despite many AI coding harnesses being built in Python or TypeScript, the Codex team chose Rust for its core agent infrastructure. This decision was based on several strategic factors:
+
+* **Robustness and Efficiency:** Rust provided a level of performance and memory safety necessary for scaling to large data centers.  
+* **Statically Verified Agents:** Statically verified code at compile time was deemed beneficial for the reliability of agents.  
+* **Architectural Discipline:** Using Rust created a clear boundary between the agent and the product interface, preventing the codebase from becoming sloppy or intertwined.
+
+### **The Open Source Strategy**
+
+**OpenAI** took the unique step of making the Codex CLI, SDK, and app server open source. This decision was driven by the belief that the developer community should be part of the evolution of coding agents.
+
+* **Merit Based Competition:** The team deliberately allowed Codex to be used with models from other providers, forcing **OpenAI** to compete on the quality of its models and harnesses rather than vendor lock-in.  
+* **Community and Recruitment:** Open source availability has streamlined onboarding, as new hires are often already familiar with the repository.  
+* **Drawbacks:** The team acknowledges downsides, such as the tax of managing low quality contributions and the risk of competitors copying features before their official release.
+
+## **Technical Architecture and the Merge**
+
+The Merge represents the strategic integration of the local Codex agent into the cloud-based **ChatGPT** stack. This project addressed significant engineering challenges related to scale and environment parity.
+
+### **Local vs. Cloud Execution**
+
+Initially, Codex operated entirely locally, using sandboxed environments on a user's machine. However, the shift toward cloud execution offers several advantages:
+
+* **Scalability:** Cloud-based VMs, such as those used in the **ChatGPT** work toggle, allow agents to leverage compute resources far beyond the limits of a local laptop.  
+* **Persistence:** Cloud environments allow agents to continue tasks after a user closes their laptop, enabling long running goal execution.  
+* **Environment Parity:** Agents are increasingly capable of automatically configuring cloud dev boxes to match local setups, reducing the maintenance burden of cloud development environments.
+
+### **Unified Capabilities**
+
+The goal of the Merge was to create a unified system where users access the same intelligence regardless of the interface. This involved merging plugin architectures and libraries to ensure consistency between **ChatGPT** and Codex. During this process, Codex itself acted as a journalist, documenting internal debates, naming decisions, and architectural shifts by monitoring **Slack** and internal documents.
+
+## **Transforming the Software Development Lifecycle**
+
+The integration of agents like Codex is fundamentally altering how software is planned, reviewed, and maintained.
+
+### **The Shifting Role of Code Review**
+
+The traditional human-led code review is being superseded by superhuman models capable of deep verification.
+
+* **Automated Logic Verification:** Models can now identify logic errors, multiple levels deep into dependencies that would take humans hours to find.  
+* **Security Enforcement:** **OpenAI** mandates automated security reviews for all pull requests, blocking merges that contain vulnerabilities.  
+* **Focus on Intent:** As correctness and security become automated, the human role in code review shifts toward discussing the intent and the high level contract of the code.
+
+### **Maintenance and Rearchitecting**
+
+The cost of maintaining software, described as a tax on engineering time, is decreasing due to automation.
+
+* **Dependency Management:** Upgrading third-party libraries and applying security patches can now be fully automated by agents.  
+* **Cheap Rearchitecting:** Tasks that previously took years, such as complete system rearchitecting, are accelerated because agents can handle the bulk of the refactoring work.  
+* **Importance of Abstraction:** Strong abstractions and modular design are more critical than ever, they allow agents to iterate within defined boundaries without disrupting the broader system.
+
+| Lifecycle Phase | Traditional Approach | Agentic Approach |
+| :---- | :---- | :---- |
+| **Onboarding** | Manual reading of docs and setup | Asking Codex for context and automated setup |
+| **Coding** | Manual logic and syntax writing | Expression of intent, agent-led generation |
+| **Review** | Peer review for logic/correctness | Automated superhuman logic and security check |
+| **Maintenance** | Manual dependency and patch updates | Fully automated updates and refactoring |
+| **Rearchitecting** | Multiyear, high cost projects | Rapid, agent facilitated restructuring |
+
+## **Operational Culture and Engineering Excellence**
+
+The culture within the Codex team at **OpenAI** emphasizes high autonomy and the intensive use of their own tools.
+
+### **Internal Agent Usage**
+
+"Have you asked Codex?" is the standard response to technical or project related questions within the team. Agents have access to:
+
+* **Slack** communication channels.  
+* Internal documentation in **Notion** and **Google** Docs.  
+* The entire Python codebase of **OpenAI**.  
+* Production logs and sentiment analysis.
+
+This transparency allows for a journalism of the codebase, where the history and reasoning behind every decision are instantly retrievable by any team member.
+
+### **Principles for the AI Era**
+
+For engineers looking to succeed in this new environment, the focus has shifted from manual coding proficiency to higher order skills:
+
+* **Curiosity and Rapid Grokking:** The ability to understand new systems and codebases quickly remains a core requirement.  
+* **Clarity of Intent:** Engineers must be able to explain exactly what they are trying to achieve and why, as the agent handles the how.  
+* **Deep User Empathy:** Having the taste to understand user needs and product coherence is vital when agents can generate code at massive scales.
+
+## **Infrastructure and Ecosystem Support**
+
+The success of AI products is supported by a new class of engineering tools designed for the agentic era.
+
+* **Data Connectivity:** Tools like **Turbopuffer** provide scalable, high performance search engines that allow agents to connect to massive amounts of unstructured data, using object storage, and memory caching.  
+* **Testing and Reliability:** **Antithesis** provides deterministic simulation environments to find bugs in agent generated code before it reaches production, a necessity when the volume of code exceeds human review capacity.  
+* **Version Control for Agents:** **Entire** addresses the bottlenecks of traditional Git hosting by providing high speed pushing capabilities and capturing the prompt history behind every generated code change.
+
+## **Conclusion**
+
+The evolution of Codex indicates that the future of software engineering is not the obsolescence of the Engineer, but the elevation of the Craft. By automating the mundane tasks of maintenance, logic verification, and boilerplate generation, agents allow engineers to focus on architecture, intent, and solving complex mathematical and scientific breakthroughs. As [Tibo Sottiaux](https://www.linkedin.com/in/thibault-sottiaux-27195366) notes, "A lot of it is just going to be automated, so you still have the concept of code review, the role of code review is changing." This shift demands a focus on clarity of thought and a deep curiosity for how systems function, within an increasingly fast paced development cycle.
