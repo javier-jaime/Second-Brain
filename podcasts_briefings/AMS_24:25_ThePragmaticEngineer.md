@@ -1,4 +1,4 @@
-# 2024:25 The Pragmatic Engineer
+# 24:25 The Pragmatic Engineer
 
 | Company | Product / Platform | Key Engineering Challenges | Engineering Culture and Values | Internal Tools and Tech Stack | Performance Management System | Compensation and Hiring Model | AI and LLM Integration |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
