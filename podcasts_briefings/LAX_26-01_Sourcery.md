@@ -1,4 +1,4 @@
-# 2026-01 Sourcery
+# 26-01 Sourcery
 
 | Company | Interviewees | Key Metrics or Revenue | Core AI or Tech Strategy | Market Vertical | Primary Headquarters / Office Locations | Notable Partnerships |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
