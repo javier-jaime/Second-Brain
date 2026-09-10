@@ -1,4 +1,4 @@
-# 2025-02 Lenny's Podcast
+# 25-02 Lenny's Podcast
 
 | Expert Name | Current Role | Key Discussion Topics | Core Advice or Philosophy | Featured Products or Tools |
 | :---- | :---- | :---- | :---- | :---- |
