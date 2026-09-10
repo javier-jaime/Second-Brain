@@ -2910,3 +2910,81 @@ The rise of **Saronic** is framed against a ship building crisis in the United S
 ## **Corporate Ecosystem and Partnerships**
 
 The document references a broader ecosystem of technology and finance companies supporting modern industrial and AI development. **Saronic** utilizes **Brex** for financial management, alongside other high growth firms like **Vercel**, **OpenAI**, **Anthropic**, **Granola**, and **Deepgram**. AI training and infrastructure are supported by companies such as **Turing**, which partners with **Nvidia**, **Anthropic**, **Salesforce**, and **Gemini**. Additional infrastructure and investment support are provided by **Zone**, **Fundrise**, **Public**, and **Deel**. High precision manufacturing needs are met by **Applied Aerospace & Defense**. Early software development for **Saronic** included components purchased from **Amazon**, and software integration concepts analogous to the hardware-software ecosystems of **Apple**.
+
+# 2026-09-08
+
+# **Dino Mavrookas on Marine Autonomy and why America Needs to Build Ships Again**
+
+## **Executive Summary**
+
+The United States faces a significant industrial disparity in maritime production, with China currently outbuilding the US at a ratio of 230 to 1\. While the US naval fleet is shrinking, the demand for both manned and unmanned vessels is increasing to meet national security requirements. **Saronic**, a defense technology company valued at over $9 billion, is addressing this crisis by prioritizing autonomous ship manufacturing and private capital investment. Through the development of vessels such as Corsair, Marauder, and the large scale Port Alpha project, **Saronic** aims to restore American industrial capacity. The company demonstrates that autonomy allows for simplified ship designs and scalable production that can save taxpayers hundreds of billions of dollars. By integrating commercial and defense strategies, **Saronic** is building a resilient supply chain capable of supporting global logistics and naval power.
+
+## **The Shipbuilding Crisis and Global Disparity**
+
+The current state of American shipbuilding is characterized by a widening gap between US production and the capacity of global competitors, particularly China. The following data points highlight the scale of this challenge:
+
+| Metric | United States | China |
+| :---- | :---- | :---- |
+| Overall Shipbuilding Ratio | 1 | 230 |
+| Commercial Ships Built (2024) | 5 | 1,000+ |
+| Military Warship Production | 5 to 10 | Approximately 30 |
+| Global Shipbuilding Capacity | Negligible | 57% |
+
+The US naval fleet currently consists of approximately 290 ships, which is below the statutory minimum of 355 ships set by Congress in 2018\. Recent naval assessments have increased the required fleet size to 381 manned ships. However, the existing infrastructure is unable to support this growth.
+
+"The ship building infrastructure that we have in this country today, just won't support that."
+
+## **Autonomy as a Strategic Solution**
+
+**Saronic** focuses on autonomy as the central pillar for the future of the maritime industry. Autonomous systems offer several strategic advantages over traditional manned vessels:
+
+* **Design Simplification:** Removing the requirement for human crew members allows for simpler, more efficient ship designs.  
+* **Cost Reduction:** Simplified designs lead to lower production costs and faster manufacturing cycles.  
+* **Scalability:** Autonomous platforms can be produced at a higher volume than exquisite, manned systems like aircraft carriers, which now cost up to $19 billion and take over a decade to complete.  
+* **Operational Capability:** **Saronic** is currently working with **Castelion** to launch a hypersonic missile from the Marauder, an autonomous ship. This test is expected to occur before the Navy completes a similar test from a manned vessel.
+
+## **Investment and Bureaucratic Reform**
+
+The defense sector is undergoing a shift toward rapid acquisition and private capital investment. **Saronic** has raised $2.6 billion to invest in technology ahead of formal government demand, a model encouraged by the Secretary of War.
+
+### **The Shift to Private Capital**
+
+Historically, the government relied on cost plus contracting and large, established primes. To break through current bureaucracy, companies like **Saronic**, **Palantir**, and **SpaceX** are demonstrating that private investment can deliver capabilities faster.
+
+"Everything we're building here, is because we're investing private capital ahead of demand, ahead of need, building to scale to make sure that our war fighters get the best capability in their hands, as fast as possible."
+
+### **Industry Consolidation and New Primes**
+
+Since 1993, the number of defense primes has consolidated from approximately 60 down to five. Current trends suggest a reversal of this consolidation, with expectations that 5 to 10 new, impactful companies, will scale into prime contractors over the next decade.
+
+### **Budgetary Allocation**
+
+While the president's budget request has reached $1.5 trillion, only 1% of the 2026 budget is allocated toward autonomy. This highlights a significant gap between the stated need for scalable technology and the current allocation of resources.
+
+## **Dual Use Commercial Strategy**
+
+A robust commercial shipbuilding industry is essential for national security, as it sustains the necessary supply chain and workforce. **Saronic** employs a dual use strategy where autonomous technology serves both defense and commercial logistics.
+
+* **Supply Chain Resilience:** Commercial shipbuilding builds the industrial base required to take advantage of economies of scale.  
+* **Logistics and Resupply:** In a conflict scenario, the US requires tankers and roll-on/roll-off (Ro-Ro) vessels to resupply forces.  
+  "If we don't have tankers, if we don't have roll-on/roll-off vessels, it means we actually don't have the ships to resupply our force, if we're actually in a conflict, or a war."  
+* **Market Expansion:** **Saronic** is looking to bring autonomy to container ships and tankers through the Port Alpha initiative, which aims to create a $160 billion economic impact in Brownsville, Texas.
+
+## **Saronic Company Profile and Future Outlook**
+
+Founded in 2022 through the **8VC** build program, **Saronic** has grown to 1,800 employees in four years. The company's name is derived from the **Saronic** Gulf, the site of the Battle of Salamis, where smaller, more maneuverable Greek ships defeated a larger Persian fleet.
+
+### **Key Projects and Assets**
+
+* **Corsair:** A smaller autonomous vessel with a multi hundred million dollar Navy contract.  
+* **Mirage:** A defense focused platform.  
+* **Marauder:** An autonomous ship designed for larger payloads and logistics.  
+* **Port Alpha:** A $3 billion industrial initiative focused on large scale autonomous shipping and job creation.
+
+### **Organizational Culture**
+
+The company emphasizes a team first, mission oriented culture. By focusing on the highest and best use of time for the team, **Saronic** maintains the speed of execution necessary to compete with global adversaries.
+
+"It is you, all that makes this company successful."
+
+The future of the entire maritime industry, according to **Saronic** leadership, is centered entirely around autonomy.
