@@ -3060,3 +3060,90 @@ The success of autonomous naval power depends on rebuilding the domestic industr
 | **8VC** | Early investor and facilitator of the founder residence program. |
 | **Senra Systems** | Collaboration on automated wire harnessing and training programs. |
 
+# 2026-09-14
+
+# **Bending Spoons: Organizational Culture, Acquisitions, and Operational Excellence**
+
+## **Executive Summary**
+
+**Bending Spoons** is a global technology platform based in Milan, Italy, that specializes in the acquisition and revitalization of prominent digital products. With a portfolio including **AOL**, **Airtable**, **Miro**, and **WeTransfer**, the company has developed a distinct operational model known as Startup Mode, which focuses on lean team structures, extreme ownership, and high talent density. Unlike traditional private equity firms, **Bending Spoons** positions itself as a forever owner, offering founders an immediate exit upon closing while committing to long term product investment. The company recently transitioned to a public entity, a milestone marked by an unconventional listing ceremony at **NASDAQ** that prioritized the recognition of the broader workforce over executive visibility.
+
+## **Strategic Acquisition Framework**
+
+**Bending Spoons** utilizes a highly effective integration platform to generate value from acquired businesses, allowing them to often offer higher prices than competitors. The acquisition strategy is vertical agnostic, focusing instead on a company’s potential for value unlock through the **Bending Spoons** platform.
+
+### **Key Acquisition Data**
+
+| Target Company | Acquisition Value | Strategic Significance |
+| :---- | :---- | :---- |
+| **AOL** | $1.5 Billion | High user engagement with millions of active users in mail and news. |
+| **Miro** | $1.3 Billion | Strategic expansion into collaborative software. |
+| **Airtable** | $1.25 Billion | Major entry into the B2B and enterprise productivity space. |
+| **Eventbrite** | $500 Million | Expansion into event management and ticketing. |
+| **Tractive** | Undisclosed | First hardware enabled digital business acquisition. |
+| **Mosaic Group** | Undisclosed | Suite of over 80 mobile applications. |
+
+### **Competitive Advantages for Sellers**
+
+The company identifies two primary reasons why it is an attractive acquirer for founders, as opposed to institutional investors:
+
+* **Immediate Exit:** While private equity typically requires founders to remain involved for three to five years, **Bending Spoons** takes full control from the closing date.  
+* **Legacy Preservation:** Founders value the engineering led mindset and the commitment that **Bending Spoons** does not sell the companies it acquires.  
+  "We don't sell the companies, we buy so they know that with us, the company has a private owner, and they've seen how much we can invest in the product."
+
+## **Operational Methodology: Startup Mode**
+
+A core tenet of the **Bending Spoons** philosophy is the reversal of corporification through a process called startup mode. This approach addresses the common criticism that acquisitions lead to headcount reduction and product deterioration.
+
+### **The Principles of Startup Mode**
+
+The company argues that team size and product quality have only a mild correlation. By reducing headcount and restructuring teams, **Bending Spoons** aims to achieve:
+
+* **Holistic Responsibility:** Removing the fragmentation of subteams and management layers that slow down decision making.  
+* **Direct Interaction:** Reducing intermediaries between customers and product managers.  
+  "We try to bring back the sense of ownership, we try to make sure that whenever somebody has an idea, that idea can be pursued very quickly, without having to involve four different teams."  
+* **Scientific Decision-Making:** All changes are subjected to rigorous AB testing. The company rejects reliance on opinions or hunches, prioritizing data-driven key performance indicators (KPIs) to validate product evolution.
+
+### **Case Study: AOL Integration**
+
+The acquisition of **AOL** from **Yahoo** involved a complex carve-out and replatforming onto the **Bending Spoons** infrastructure. Despite perceptions of the brand as a zombie company, it maintains a highly retaining mail product and a news portal, with an engaged user base interested in AI exploration.
+
+## **Organizational Culture and Talent Management**
+
+The **Bending Spoons** culture is built on the pursuit of talent density, and the principle of meritocracy.
+
+### **Recruitment and Ownership**
+
+The company seeks employees who are smart and care, defining care as a desire for extreme ownership.
+
+* **Selection Process:** The hiring process is extremely selective, often requiring multiple attempts from candidates. [Vale](https://www.linkedin.com/in/valentina-jerusalmi/), the GM of **AOL**, was rejected twice before being hired on her third application.  
+* **Compensation and Tenders:** Team members decide their split between cash and equity. To provide liquidity, the company has historically run yearly secondary transaction tenders, allowing employees to realize the value of their shares, while the company was still private.  
+* **Vesting Policy:** **Bending Spoons** does not use traditional vesting schedules or variable components. Equity is vested on day one to ensure incentives remain simple and straightforward.
+
+### **Extreme Meritocracy**
+
+The organization operates with a flat hierarchy where positions are awarded based on the ability to create value, regardless of tenure or age.
+
+* **Founder Accountability:** CEO [Luca Ferrari](https://it.linkedin.com/in/luca-ferrari-12418318) maintains a system where he annually asks trusted colleagues via a Google form, if they believe someone else could perform his role better.  
+* **Leadership Evolution:** High leverage roles, including those managing billion dollar products, are frequently held by individuals in their early 30s.  
+* **Voluntary Transitions:** The commitment to meritocracy is demonstrated by founders stepping down from executive roles when they identify more capable subordinates. [Matteo](https://it.linkedin.com/in/matteodanieli), a co-founder, stepped down as Chief Product Officer to allow a high performing product manager to take the lead.  
+  "I believe that it's one of the highest ROI things that you could do in terms of optimizing an organization, or one of the toughest, but was also one of the highest ROI."
+
+## **Financial Evolution and Market Status**
+
+**Bending Spoons** has transitioned from a small, debt reliant startup to a major public player.
+
+### **Funding and Public Listing**
+
+* **Historical Financing:** The company relied on amortized bank loans starting in 2017, gradually building a track record to unlock larger US term loans in 2025\.  
+* **Equity Rounds:** The first major institutional round occurred in 2023, involving **Baillie Gifford**, **Cox Enterprises**, and **Durable Capital Partners**.  
+* **The NASDAQ Listing:** During the IPO, [Luca Ferrari](https://it.linkedin.com/in/luca-ferrari-12418318) chose to stand in Times Square with the workforce rather than on the podium. The bell was rung by a finance colleague, [Laura](https://www.linkedin.com/in/laurazucchinali/), to recognize her contributions to the listing process.  
+  "We figured that it would be a nice gesture if I didn't take one, take up one spot, in you know at NASDAQ, on the stage so to say, but rather enjoyed the moment with the hundreds of colleagues from the street."
+
+### **Strategic Failures as Learning Opportunities**
+
+The company cites the attempted acquisition of **Grindr** in 2019 as a pivotal moment. Although the deal was lost to a competitor with a better proposal, the process forced **Bending Spoons** to learn how to raise massive amounts of debt and equity quickly, which facilitated future billion dollar acquisitions.
+
+"While being a failure because we didn't acquire it, I think we had so much compressed learning into those nine months, because I mean, I mean basically we raised half a billion dollars without actually raising it, but it was fully committed, and so that was very valuable for what then came."
+
+* 
