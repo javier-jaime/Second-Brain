@@ -3742,3 +3742,88 @@ The success of AI products is supported by a new class of engineering tools desi
 ## **Conclusion**
 
 The evolution of Codex indicates that the future of software engineering is not the obsolescence of the Engineer, but the elevation of the Craft. By automating the mundane tasks of maintenance, logic verification, and boilerplate generation, agents allow engineers to focus on architecture, intent, and solving complex mathematical and scientific breakthroughs. As [Tibo Sottiaux](https://www.linkedin.com/in/thibault-sottiaux-27195366) notes, "A lot of it is just going to be automated, so you still have the concept of code review, the role of code review is changing." This shift demands a focus on clarity of thought and a deep curiosity for how systems function, within an increasingly fast paced development cycle.
+
+# 2026-09-17
+
+# **AI Skills with Matt Pocock**
+
+## **Executive Summary**
+
+The emergence of AI agents in Software Engineering has not rendered traditional programming fundamentals obsolete, instead, it has intensified their importance. As AI handles the tactical execution of code, the human role has shifted toward strategic programming, architectural oversight, and maintaining codebase health against software entropy. Key insights from the analysis include the effectiveness of using leading words or jargon from classic literature to guide AI behavior, the necessity of managing context within the 150,000 token smart zone, and the transition from local development to remote, collaborative agentic environments. The document emphasizes that senior level wisdom, such as Domain Driven Design and strategic decision making, remains the primary lever for high quality software production in the age of AI.
+
+## **Strategic vs. Tactical Programming**
+
+The distinction between tactical and strategic programming is central to understanding the impact of AI on Software Engineering. AI has largely automated tactical programming, which involves the immediate writing of syntax and implementation of localized logic.
+
+* **Tactical Programming:** This involves the daily grind of writing lines of code, bug fixing, and syntax implementation.  
+  "AI has largely eaten tactical programming in my view, and it's up to us to handle the strategic."  
+* **Strategic Programming:** This involves long term thinking, architectural decisions, and understanding the why behind technical choices. It remains difficult to learn because the feedback loops are long, often taking months for strategic mistakes to manifest.  
+* **The Leverage of Wisdom:** While knowledge of syntax has become cheap and easily accessible through AI, wisdom, the ability to apply knowledge strategically, has not become easier to acquire.
+
+## **AI Interaction and Leading Words**
+
+Effective interaction with AI agents requires overcoming a communication gap. Engineers must communicate their values and hierarchy of priorities to the agent to avoid the production of misaligned code or slop.
+
+### **Leading Words and Jargon**
+
+Using specific terminology from established Software Engineering literature can invoke high quality behaviors in models. This technique utilizes the fact that models were trained on classic texts like The Pragmatic Programmer and Philosophy of Software Design.
+
+* **Definition:** A leading word is a simple phrase repeated in a prompt to change an agent's behavior by triggering its prior training data.  
+* **Tracer Bullets:** This concept encourages the agent to implement a thin, end-to-end path through all layers of an application to get immediate feedback.  
+  "I just started using these phrases in my prompts when I was talking to the agent, and I started noticing that it was saying those phrases back to me."  
+* **Vertical Slices:** Instead of building horizontal layers (database, then API, then UI) in isolation, agents are directed to build functional vertical features to ensure integration layers work early.  
+* **Ubiquitous Language:** Derived from Domain Driven Design, establishing a common language between the human and the agent reduces verbosity and ensures the agent can navigate the codebase more effectively.
+
+## **Core AI Skills and Frameworks**
+
+Several specific skills or loops have been developed to structure how agents perform complex tasks.
+
+| Skill Name | Purpose | Key Mechanism |
+| :---- | :---- | :---- |
+| Grill Me | Alignment and Planning | The agent relentlessly interviews the user to uncover requirements and edge cases. "It's annoying how, damn it bro, everyone's got a grill me story, it just has this weird emergent behavior where the models start thinking a little bit outside the box, and they start throwing ideas at you." |
+| Wayfinder | Large Scale Planning | Manages projects too large for a single context window by using a map and fog of war metaphor to track milestones. |
+| Ralph Loops | Iterative Implementation | Designed to make the most of the smart zone by performing the smallest possible change toward a goal and then clearing context. |
+| Spec to Ticket | Deconstruction | Converts a high level specification into individual, actionable tickets that can be handled in separate agent sessions. |
+
+## **Context Engineering and the Smart Zone**
+
+A critical constraint in working with frontier models is the degradation of performance as the context window fills up.
+
+* **The Smart Zone:** Frontier models perform best within the first 150,000 tokens, regardless of their total advertised context window size.  
+  "Every token is shouting for attention, and the more voices you put into that room, the harder it is to hear the important ones."  
+* **Context Management:** Beyond 150,000 tokens, models begin to lose connections between data points and make mistakes. Effective workflows involve partitioning work across multiple sessions and clearing context frequently to keep the agent in the smart zone.  
+* **State Management:** When context is cleared, state must be maintained in the file system or environmental logs, rather than within the model's active memory.
+
+## **Software Entropy and the Gardener Metaphor**
+
+AI agents can produce software entropy, a state of increasing disorder, at a much higher rate than human developers.
+
+* **The Need for Gardening:** Every codebase requires a gardener to monitor the stream of changes, notice code smells, and prevent weeds from engulfing the project.  
+  "I'd argue the only thing your team needs are gardeners."  
+* **Optimizing for New Starters:** Because an agent essentially starts fresh every session without long term memory of past decisions, the codebase must be optimized for someone with no prior context. This leads to cleaner, more modular, and better documented code.  
+* **Automated Review:** Implementing secondary agents to act as automated reviewers can help maintain coding standards and prevent the introduction of technical debt in tiny, localized changes.
+
+## **Evolution of Development Environments**
+
+There is a notable shift away from local development setups toward remote, cloud-based environments to better facilitate agentic workflows and collaboration.
+
+* **Collaboration:** Moving to the cloud allows for collaborative sessions where multiple humans and agents can interact in a shared space like **Slack**, **Discord**, or **Linear**.  
+* **Compute Efficiency:** Utilizing remote boxes allows for scheduled tasks, such as morning standups where an agent prepares the day's work, without relying on local hardware.  
+* **Context Access:** Tools like **Linear** serve as an ideal context layer for agents, providing them with history, customer requests, and specifications needed to perform work. **OpenAI**, **Coinbase**, and **Ramp** have utilized such tools to centralize planning and building.
+
+## **Infrastructure and Tooling for Agents**
+
+The source highlights the necessity of specialized infrastructure to support agentic memory and authorization.
+
+* **Agent Memory:** **Turbopuffer** provides an object storage native architecture that allows agents to search their entire chat history economically. This is more efficient than relying on Git history alone.  
+* **Access Control:** **WorkOS** has introduced Airlock, an intent-based access control (IBAC) system that allows teams to write rules in plain English to govern what an agent can and cannot do, such as preventing pushes to main or requiring sign-offs for billing changes.  
+* **Speed and Low Friction:** **Linear** is cited as a preferred tool for managing work due to its performance and ability to consolidate planning and building into a single context layer for agents.
+
+## **Conclusion on the Future of Engineering**
+
+The role of the Software Engineer is evolving from a tactical coder to an introspective strategist and process architect.
+
+* **Introspection:** The most valuable skill for a modern Engineer is the ability to analyze their own process and encode that process into words that an AI can follow.  
+* **Rapid Learning:** For junior developers, AI provides a way to speed up the acquisition of experience by allowing them to ship more projects, and see the consequences of strategic mistakes faster.  
+* **Fidelity to Fundamentals:** Success in the AI era is defined by a return to classic principles.  
+  "Software fundamentals have been saying, we've been trying to do that for the entire time."
