@@ -3146,4 +3146,160 @@ The company cites the attempted acquisition of **Grindr** in 2019 as a pivotal m
 
 "While being a failure because we didn't acquire it, I think we had so much compressed learning into those nine months, because I mean, I mean basically we raised half a billion dollars without actually raising it, but it was fully committed, and so that was very valuable for what then came."
 
-* 
+# 2026-09-16
+
+# **The $100 Heart Scan Brad Gerstner Says Could Save Your Life**
+
+## **Executive Summary**
+
+Heart disease remains the leading cause of death globally, claiming 800,000 lives annually in the United States. Current medical standards, which rely heavily on cholesterol tracking and EKGs, often fail to identify individuals at high risk for sudden cardiac events. [Brad Gerstner](https://www.linkedin.com/in/bradgerstner) and other advocates are promoting the Calcium CT (CAC) scan as a preventative moonshot, seeking to transform it into the mammogram for the heart. By increasing annual screenings from one million to 40 million, proponents estimate that 50,000 lives could be saved each year and the government could save $20 billion in healthcare costs. The CAC scan is a non-invasive, ten minute procedure costing $100 that provides a definitive look at calcium buildup in the arteries, a primary precursor to heart attacks.
+
+## **The Critical Gap in Heart Disease Screening**
+
+The current standard of care for heart health is described as insufficient and occasionally misleading. Data indicates a significant disconnect between traditional health markers and actual cardiac risk.
+
+* **Failure of Traditional Metrics:** Approximately 50 percent of people who suffer heart attacks have cholesterol levels within the normal range.  
+* **Inaccuracy of EKGs:** Stress tests and EKGs can provide a false sense of security. One case study noted a patient who passed a running EKG just five months before dying of undiagnosed heart disease.  
+* **Regulatory Capture:** It is suggested that 50 years ago, the medical industry prioritized the development of stents over preventative scanning due to lobbying efforts, leading to a system that favors reactive treatment over early detection.  
+* **Standard of Care Limitations:** General practitioners often discourage CAC scans for patients who appear healthy or fall within the green zone for cholesterol, despite the underlying presence of arterial plaque.
+
+## **The Calcium CT (CAC) Scan Solution**
+
+The CAC scan is presented as the highest ROI (Return on Investment) tool in healthcare due to its speed, low cost, and efficacy.
+
+### **Technical and Procedural Details**
+
+The procedure uses established technology, specifically **Siemens** equipment, to identify calcified plaque.
+
+| Feature | CAC Scan Details |
+| :---- | :---- |
+| **Cost** | $100 out of pocket |
+| **Time** | 5 to 10 minutes in the scanner, 2 minutes in the tube |
+| **Invasiveness** | Non-invasive, no dyes or needles required |
+| **Availability** | Mobile units and traditional imaging centers |
+| **Results** | Provides a score indicating the presence and quantity of calcified plaque |
+
+### **Comparison to Alternative Screenings**
+
+The CAC scan occupies a middle ground between basic lab work and more intensive diagnostic tools.
+
+* **Angiograms:** These cost over $2,000 and require the injection of dye to see soft plaques and stenosis. They are considered too invasive for mass screening but are recommended as a follow-up for those with nonzero CAC scores.  
+* **Prenuvo Scans:** While comprehensive, these are described as time consuming and noisy, whereas a CAC scan is quiet and rapid.  
+* **AI Integration:** Services such as **Clearly** now provide AI driven radiologist readings to offer more refined analysis of the scan data.
+
+## **Strategic Missions for Heart Attack Prevention**
+
+The initiative to scale CAC scans is managed through the **Center for Heart Attack Prevention**, which focuses on three primary pillars.
+
+1. **Awareness:** Utilizing mobile trailers at high profile events, such as the All-In Summit, to educate the public and provide immediate testing.  
+   "If we turn the calcium CT scan into the mammogram for the heart, we will save 50,000 lives a year."  
+2. **Accessibility:** Reforming the standard of care to make the scan a routine preventative measure. This includes efforts to have the scan covered by **Medicaid** and **Medicare** by the end of 2026\.  
+3. **Policy and Action:** Working with officials on Capitol Hill to demonstrate the life saving potential of the technology. Proponents have already facilitated scans for 40 to 50 members of the House and Senate.
+
+## **Clinical Recommendations and Biohacking**
+
+While some medical professionals remain conservative, leading experts in preventative cardiology at institutions such as **Stanford**, **Harvard**, and **Columbia** reportedly follow more aggressive preventative protocols for their own families.
+
+* **Age for Initial Screening:** Proponents suggest getting a baseline scan at age 35, or earlier if there is a family history of heart disease.  
+* **Aggressive Lipid Management:** If a patient has a nonzero CAC score, experts recommend using statins or other medications to drive LDL levels below 40, which is significantly lower than the traditional target of 80 to 120\.  
+* **The Power of Data:** Unlike terminal illnesses, heart disease is almost entirely preventable once identified. A high calcium score allows for interventions like statins or stents that can eliminate 80 to 90 percent of heart attack risk.
+
+## **Corporate and Community Outreach**
+
+To bypass the slow pace of insurance reform, a buy one give one model is being deployed within the private sector.
+
+* **Corporate Partnerships:** Large companies, including **Salesforce**, have been approached to provide free scans for employees while funding additional scans for underserved communities such as East Palo Alto.  
+* **Mobile Units:** The use of mobile trailers allows for high throughput screening, with the capacity to perform over 30 scans in a single nine hour window.  
+* **Public Figures:** Efforts are underway to involve major organizations like the **NFL** to increase the visibility and social acceptance of routine cardiac scanning.  
+  "Data is power, if you get information and you can't do anything about it, that's a real bummer, this you can totally do anything about."
+
+# 2026-09-18
+
+# **Bending Spoons: A New Model for Digital Business Acquisition and Operations**
+
+## **Executive Summary**
+
+**Bending Spoons** has established itself as a dominant force in the technology sector by operating at an unprecedented level of efficiency and scale. Managing a portfolio that serves half a billion monthly active users, the company generates approximately $4 million in revenue per core employee, a fourfold increase from just three years prior. This success is underpinned by a proprietary operating system consisting of over 50 technologies that automate and optimize nearly every facet of running a digital business. Unlike traditional private equity firms, **Bending Spoons** acquires companies to hold them indefinitely, integrating them deeply into a centralized platform and deploying high density talent to revitalize established brands. A significant portion of the company's technical output is driven by Artificial Intelligence, with 95% of its code currently written by AI.
+
+## **Operational Efficiency and Performance Metrics**
+
+The financial and operational performance of **Bending Spoons** is defined by a focus on lean, high output teams. The company distinguishes between its core team, known as spooners, and the broader workforce including acquired teams.
+
+| Metric | Value |
+| :---- | :---- |
+| Monthly Active Users | 500,000,000 |
+| Revenue per Core Employee | $4,000,000 |
+| Total Core Team Size | Approximately 1,000 |
+| Total Headcount (including acquired teams) | Over 2,000 |
+| 2025 Job Applications | 800,000 |
+| 2025 Hires | Fewer than 300 |
+| Unwanted Churn (Core Team) | 0.6% |
+
+"we hired fewer than 300 people" out of 800,000 applications, highlighting a recruitment strategy that prioritizes extreme talent density. This selectivity allows the company to maintain high performance while avoiding the red tape and inefficiencies common in larger tech organizations.
+
+## **The Shared Operating System**
+
+Central to the company strategy is a proprietary technological platform developed over the last decade. This operating system includes over 50 distinct technologies covering data storage, processing, AB testing, payment management, recruiting, and credentials management.
+
+### **Key Features of the Platform**
+
+* Natively Integrated Tools: Unlike third-party software, these in-house tools are designed to communicate with one another seamlessly, creating significant operational effectiveness.  
+* Cost Efficiency: Building these tools internally saves the company an estimated $100 million per year compared to purchasing mass market enterprise solutions.  
+* Internal Open Source Model: Improvements made by one business unit are propagated across the entire portfolio, allowing for rapid iteration and shared benefits.  
+* Fluid Resource Deployment: The core R\&D and marketing teams can be deployed rapidly across different businesses to pursue the most exciting opportunities.
+
+"we buy these companies and then we install them on this shared operating system" to ensure they operate at maximum efficiency. This centralized infrastructure provides a scale advantage that standalone companies cannot achieve independently.
+
+## **Acquisition Philosophy and Value Creation**
+
+**Bending Spoons** describes itself as a very active acquirer, looking at hundreds of companies annually and engaging in dialogue with dozens. The company focuses primarily on digital businesses, including consumer internet and SaaS, though it has recently expanded into hardware with the acquisition of **Tractive**.
+
+### **Criteria for Acquisition**
+
+1. Predictability: The company must be able to plot the trajectory of the business at least five years into the future.  
+2. Value Addition: There must be a clear path to improving the product, technology, monetization, or organization.  
+3. Hold Forever Mindset: **Bending Spoons** does not buy to sell, they have never sold a material business and intend to operate their acquisitions indefinitely.
+
+### **Contrast with Private Equity**
+
+The **Bending Spoons** model differs from traditional private equity in three major ways. First, they are not a fund and do not have five year exit mandates. Second, they perform deep transformations of the underlying technology and product rather than just making financial adjustments. Third, they integrate acquisitions into a shared platform rather than keeping them as separate entities.
+
+The acquisition of **Airtable** at a $1.3 billion enterprise value serves as a significant example of this strategy. While Silicon Valley often prioritizes growth at all costs, **Bending Spoons** focuses on real economics and sustainable cash flows. "valuation at which Airtable exited was very much in line with the SaaS businesses of comparable quality on the public market" according to the company leadership.
+
+## **AI Integration and the AltSpooner Agent**
+
+Artificial Intelligence is not merely a tool for **Bending Spoons**, it is fundamental to their operations. Approximately 95% of the company code is written by AI, and they use internal AI orchestration to manage operations and improve products.
+
+### **AltSpooner Capabilities**
+
+The company utilizes an internal AI agent called **Alt-Spooner**, which interacts with employees via **Slack**. This agent has the same access permissions as the human user it assists.
+
+* Rapid Bug Fixing: In one instance at **Evernote**, a general manager identified a bug, and **Alt-Spooner** checked its prevalence, identified the root cause in the codebase, and coded a fix in minutes.  
+* Data Analysis: The agent can perform complex data analysis and generate plots in minutes, tasks that would typically take data scientists hours or days.  
+* Vendor Independence: **Bending Spoons** uses its own orchestration algorithms to select the most appropriate AI models, drawing mostly from open weight models that they self-host. This avoids dependency on any single vendor like **OpenAI** or **Anthropic** and keeps token costs negligible.
+
+"we achieved much better effectiveness, because it can do a lot for you in a very efficient way" without the high costs and lock-in risks of third-party AI assistants.
+
+## **Corporate Culture and Talent Density**
+
+The culture at **Bending Spoons** is built on principles of extreme ownership and scientific rationality. The company views itself as a learning machine, running thousands of quantitative experiments annually to refine its understanding of the market.
+
+"we have developed a culture of extreme rationality, almost a scientific approach to running businesses" where unpopular choices are made if they benefit the long term health of the company. This includes taking established companies like **AOL**, **Vimeo**, or **Evernote** and returning them to a startup mode characterized by small, talent dense teams and the removal of red tape.
+
+### **Employee Retention and Mobility**
+
+The core team experiences exceptionally low churn. This is attributed to the ability of employees to rotate across different businesses and technologies. If an employee becomes less excited about a specific product, such as **Evernote**, they can move to a platform team or a different brand like **AOL**. This keeps the work fresh and provides continuous learning opportunities.
+
+## **Perspectives on Industry Trends and AI Safety**
+
+The leadership at **Bending Spoons** holds nuanced views on the current state of the technology industry and the future of AI.
+
+### **Silicon Valley and Hype Cycles**
+
+While acknowledging that Silicon Valley gets almost everything right, the company notes that perverse incentives sometimes lead to hype cycles. "when returns are primarily delivered through exits where all that matters is the multiple, not actually the cash that the business will generate in the long run" then valuations can become irrational, as seen in 2021\.
+
+### **AI Risk and Safety**
+
+There is significant concern regarding the existential risks of AI. The speed of development is viewed as dangerous because the smarter an AI becomes, the easier it is for it to conceal its true capabilities. "AIs don't strike me as they are likely to boast, so that our perception of their capabilities tends to exceed their capabilities, I think they'll probably only show us what we asked them to show us" which creates a risk of underestimating the technology until a catastrophe occurs.
+
+The company critiques current regulatory attempts, such as the EU AI Act, for failing to address real existential threats while potentially harming the industry. The leadership argues that a country failing to embrace AI is destined for irrelevance, yet they remain deeply concerned about the potential for AI to be used for immense damage, or to create scenarios that could wipe out humanity.
