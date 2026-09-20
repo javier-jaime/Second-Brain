@@ -4106,3 +4106,128 @@ Key areas for future development include:
 * **Applied Model Training:** **SpaceXAI** continues to train models with an applied mindset, focusing on building useful AI rather than chasing vague aspirational ideals.
 
 The team remains committed to the principle of doing the thing, a culture that values agency and the ability to reinvent the product every six months, to match the rapidly advancing capabilities of underlying AI models. This agility is viewed as the primary defense against larger competitors like **Microsoft**, **OpenAI**, and **Anthropic**.
+
+# 2026-09-20
+
+# **Peter Sellis on Product Leadership**
+
+## **Executive Summary**
+
+The following document provides a detailed analysis of product management and organizational strategy based on the experiences of [Peter Sellis](https://www.linkedin.com/in/disgruntled), a former product leader at **Snap** and **Discord**. The core findings emphasize a counterintuitive approach to team design, talent management, and business growth. Key takeaways include:
+
+* Organizational Design: High growth teams should be structured like terrorist organizations, prioritizing a shared ideological culture and clear decision making autonomy over high cost collaboration.  
+* Talent Density: Management should focus on riding top-tier performers into the ground rather than attempting to improve average employees, as the median product manager is often a net negative to an organization.  
+* Business Viability: **Snap** faces structural monetization challenges due to its camera first, creation oriented format and young user base, which are inherently difficult to monetize via traditional advertising.  
+* Strategic Focus: Growth most effectively comes from the core of a business. **Discord** achieved a growth renaissance by double-downing on its core gaming audience rather than expanding into non-core niches.  
+* Leadership Traits: Great product managers must embody three paradoxes, including high confidence paired with humility, organization paired with an affinity for ambiguity, and long term vision paired with extreme urgency.
+
+## **Organizational Design and Team Structure**
+
+A primary theme is the intentional design of product teams to minimize the coordination costs inherent in collaboration. High growth companies are often slowed down by the slowest node in a system, making the internalization of collaboration costs essential.
+
+### **The Terrorist Organization Model**
+
+The source outlines a framework for designing teams like a terrorist organization to ensure efficiency and alignment. This model rests on two pillars:
+
+* Ideological Culture: The team must possess a religious level of commitment to the strategy and goals, ensuring every member understands the underlying mission.  
+* Structural Autonomy: There must be a clear organizational structure defining who is trusted with specific decisions, allowing individuals to act autonomously even if leadership is unavailable.
+
+"A good terrorist organization essentially has two things, one is it has this ideological culture that everyone understands why they are doing what they're doing, and then, it has a very very clear organizational structure of who can be trusted with which decision."
+
+### **Role of the Head of Product**
+
+In companies where founders are still in charge, the head of product serves as a vessel for the founder’s vision. This requires absorbing that vision and distilling it into shortcuts, or small phrases, that the entire team can repeat and internalize.
+
+## **The Crisis of Product Management Talent**
+
+A critical perspective presented is that the median product manager is probably bad and often provides a net negative value. This is attributed to a mathematical power distribution within the profession.
+
+### **The Power Distribution of Skill**
+
+Product management skills are not normally distributed but follow a power distribution.
+
+* The top performers often exit the system to become founders or executives.  
+* The remaining population is heavily weighted toward those who are trying to stay in the role because it is a lucrative career for non-technical individuals.  
+  "The median product manager is actually probably pretty bad."
+
+### **Management of Spiky Talent**
+
+Handling highly specialized or difficult talent, referred to as spiky talent, is a requirement for successful product organizations. Using the example of [Nikita Bier](https://www.linkedin.com/in/nikitabier) at **Discord**, [Sellis](https://www.linkedin.com/in/disgruntled) compares managing such talent to handling a specialist with a very special set of skills.
+
+* Spiky PMs are like musical bands, they may occasionally release a dud album, but leadership should remain committed if they believe in the artist's underlying taste.  
+* Leaders like [Phil Jackson](https://en.wikipedia.org/wiki/Phil_Jackson) of the **Bulls** and **Lakers** are cited as models for meshing disparate talent types to create winning teams.
+
+### **Focus on High Performers**
+
+A counterintuitive leadership lesson shared is the preference for riding the best people into the ground, rather than focusing on the improvement of average employees.
+
+* If an employee is strong and successful, they should be loaded with more decisions until they reach their breaking point.  
+* Management should spend time with winners and ride their racehorses.  
+  "I'm just handing them more and more rope to hang themselves with."
+
+## **Strategic Analysis of Snap and Discord**
+
+The source examines the specific product and business trajectories of **Snap** and **Discord**, highlighting why certain strategies succeeded while others failed.
+
+| Company | Core Strategic Insight | Primary Challenge |
+| :---- | :---- | :---- |
+| **Snap** | Camera first creation utility. | Hostile environment for ads due to lack of feed-based consumption. |
+| **Discord** | Voice centric gaming utility. | Penetration concerns in the gaming niche (eventually solved by focusing on the core). |
+
+### **Snap’s Monetization Hurdles**
+
+Despite having a billion monthly active users, **Snap** has struggled to reach the scale of **Facebook**. Three factors inhibit its advertising business:
+
+* Demographics: A very young user base (Gen Z and Gen Alpha) faces measurement and tracking constraints, especially for users under 17, which drives lower ROI.  
+* Product Format: **Snap** opens to the camera, which is a creation oriented flow rather than a consumption oriented feed. There is no logical place for ads in the core flow of taking and sending a snap.  
+* Utility Nature: Messaging apps generally have lower dollars per time spent ratios compared to content consumption products.
+
+### **Discord’s Core Growth Renaissance**
+
+In 2024, **Discord** pivoted back to its core gaming audience after experimenting with broader niches like **Midjourney**.
+
+* Growth comes from moving the DAU/MAU ratio (daily active use over monthly active use) rather than just acquiring new monthly users.  
+* By focusing on intentional multiplayer gamers, **Discord** improved performance and addressed small bugs, leading to significant growth even in a market where they appeared to have 100% penetration.
+
+## **Innovation, Taste, and AI**
+
+Innovation is described as the ability to exercise restraint and curation. This is increasingly relevant as AI technology becomes a standard part of product development.
+
+### **The Museum Curator Approach**
+
+Great product leaders act as curators for the founder’s vision. Taste is exercised not just by what is shipped, but by what is intentionally held back.
+
+* Restraint is a muscle of taste.  
+  "If a museum has all of their collection on the walls, then the curator hasn't done anything."  
+* PMs must now push back on ideas that AI adds to products, focusing on what should be removed to maintain quality.
+
+### **AI and Advertising**
+
+**OpenAI** is currently speedrunning the development of advertising infrastructure, benefiting from the last mover advantage by adopting the proven models of **Meta**.
+
+* The future of AI ads lies in trust maximization rather than just bidding.  
+* In a chat environment, an auction mechanism must factor in the organic value or trust of an ad to ensure user retention.  
+* There is a significant opportunity for the creation of new ad formats within the **OpenAI** ecosystem, particularly in voice or chat.
+
+### **Lessons from SpaceX**
+
+**SpaceX** is highlighted as a company that successfully avoids the innovator’s dilemma by being willing to compete against itself.
+
+* The decision to sunset the Falcon 9 in favor of Starship is an example of burning the ships to focus on a more ambitious future.  
+* **SpaceX** and **Tesla** use 10 year plans as product roadmaps, demonstrating a level of ambition that forces the world to follow their lead.
+
+## **The Three Oxymorons of a Great Product Manager**
+
+The analysis concludes by identifying three sets of conflicting traits that define high-tier product managers.
+
+1. Confidence vs. Humility: A PM must be arrogant enough to lead with conviction but humble enough to give all credit to designers and engineers.  
+2. Organization vs. Ambiguity: They must be process driven and organized but entirely comfortable with throwing out the process when faced with ambiguity.  
+3. Long term Thinking vs. Urgency: They must maintain a two year vision while possessing a bias for action that borders on annoying to set the pace for the company.
+
+## **Common Phrases**
+
+Several recurring frameworks were utilized at **Snap** and **Discord** to align teams:
+
+* Long term Greedy: This phrase was used in the context of ads to justify prioritizing advertiser ROI today at the expense of short term revenue to ensure long term compounding growth.  
+* Core Product Value (CPV): A definition that combines a conceptual mission with specific metrics. At **Snap**, this was the fastest way to share a moment with the people you care about. At **Discord**, it was the best way to talk and hang out with friends before, during, and after playing games.  
+* There is Always Money in the Banana Stand: A reminder to return to core users and refine the core product market fit when seeking growth.
