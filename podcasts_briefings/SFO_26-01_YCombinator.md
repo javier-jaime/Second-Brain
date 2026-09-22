@@ -2639,3 +2639,157 @@ A joint scaling recipe was proposed to maximize performance under these constrai
 4. **Self-Distillation:** Distilling a model into a fresh version of itself can unexpectedly improve loss, even beating the performance of heavily regularized models.
 
 This joint recipe offers a 5x data efficiency win, which remains constant even when scaled to trillions of tokens. Experiments in continued pre-training showed that these techniques could match the performance of a model trained on 73 billion tokens using only 4 billion tokens, representing a 17x win in specific math-related contexts.
+
+# 2026-05-29
+
+# **Varun Vummadi on the Strategic Evolution and Operational Philosophy of GigaML**
+
+## **Executive Summary**
+
+**GigaML** is an Artificial Intelligence startup specializing in high performance customer support agents, founded by two engineers from the **Indian Institute of Technology** (**IIT**). The company journey is defined by significant strategic pivots, beginning with an Edtech concept that was rejected during the **Y Combinator** interview process before transitioning into model fine-tuning and eventually automated enterprise support. The founders notably declined high compensation roles at New York quant firms, valued at approximately $550,000, to pursue the venture. By prioritizing technical arbitrage over large sales teams, **GigaML** successfully secured major enterprise contracts with companies such as **DoorDash** and **Zepto** while maintaining a lean staff of eight employees. The company maintains an internal culture of extreme automation, claiming that AI tools allow their engineering team to operate at six to seven times the capacity of traditional organizations.
+
+## **Founding Origins and the Y Combinator Pivot**
+
+The founders of **GigaML** possess high caliber technical backgrounds, with one serving as a prominent hacker and **Kaggle** competitor while the other ranked third in his entire university class. Their entry into the startup ecosystem was marked by a disregard for traditional career paths in favor of high-risk entrepreneurship.
+
+* **Rejection of Conventional Success:** The founders turned down job offers from leading quant firms in New York and India. One offer was valued at $550,000, a decision that led to significant familial friction.  
+* **The Y Combinator Interaction:** During their interview with **Y Combinator** partner [Harj](https://www.linkedin.com/in/harjtaggar), their initial Edtech idea was dismissed. "[Harj](https://www.linkedin.com/in/harjtaggar) told us you guys are really good Engineers just pick something else and work on it"  
+* **Model Fine-Tuning Phase:** After entering **Y Combinator**, the team focused on fine-tuning large language models to reduce costs and increase speed. They achieved technical prominence by topping **Hugging Face** benchmarks and subsequently raised a $4 million seed round.  
+* **Identifying the Market Gap:** The founders realized that selling fine-tuning services was a sales intensive process rather than an Engineering one, which was incompatible with their strengths. They observed that their only growing use cases were in customer support and coding.
+
+## **Product Capabilities and Market Performance**
+
+**GigaML** has transitioned into a provider of AI agents that deliver human-like support experiences. The technology focuses on improving key business KPIs, specifically resolution rates and customer satisfaction.
+
+| Feature | Traditional Support (IVR/Bot) | GigaML AI Agents |
+| :---- | :---- | :---- |
+| Deflection Rates | 10% to 15% | 60% to 70% |
+| Target Deflection | N/A | 90% to 95% |
+| Customer Experience | On-hold wait times | Instant issue resolution |
+| Iteration Method | Manual policy updates | Markdown based KPI iteration |
+
+The company emphasizes that their success against well-funded competitors is due to product quality.
+
+"We have like eight people going against this 400% well-funded company and we won it against them, and as you know **DoorDash** is one of the massive support logos"
+
+## **Strategic Enterprise Adoption**
+
+A critical milestone for **GigaML** was securing a contract with **DoorDash**, a move that validated the ability of a small startup to serve massive public companies.
+
+* **Meritocratic Selection:** Despite their small size, **DoorDash** selected **GigaML** based on performance metrics during a three month pilot.  
+* **The YC Network:** The initial introduction to the **DoorDash** leadership was facilitated through **Y Combinator** partner [Garry](https://www.linkedin.com/in/garrytan), leveraging the trust inherent in the network.  
+* **Customer Expansion:** Following the **DoorDash** deployment, the company has expanded to work with one of the largest crypto exchanges in the United States, top three telecom providers, and various Fortune 500 companies.  
+* **Internal Support Use Cases:** Beyond external customer service, enterprises are beginning to pilot **GigaML** for internal functions such as compliance, IT Service Management (ITSM), and IT Asset Management (ITAM).
+
+## **Internal Operations and Engineering Culture**
+
+**GigaML** operates with a core value of automate, automate, automate. This philosophy extends from their product to their internal workflows.
+
+* **Engineering Efficiency:** The use of AI coding agents allows the company to maintain a very small Engineering team. The founder estimates that without these tools, they would require six to seven times more Engineers to achieve the same output.  
+* **Hiring Standards:** The company looks for extraordinary ability and spikiness in candidates. Their interview process involves vibe coding with AI tools, followed by a test where AI access is removed to ensure the candidate understands the underlying code.  
+* **Product-Led Growth:** The founders believe that in the AI era, product quality outweighs sales team size.  
+  "If you take a look at all the successful AI companies is product, none of them are succeeding, I mean nobody uses **Anthropic** for the best sales team"
+
+## **Founder Philosophy and Advice**
+
+The growth of **GigaML** is rooted in a philosophy of market validation and total commitment.
+
+* **Burning the Boats:** The founders advocate for full immersion in a startup, noting that the pressure of having rejected lucrative jobs forced them to succeed.  
+  "It is only like really valuable, and things get really real, if you burn the boats"  
+* **Monetization as Validation:** A core tenet of their strategy is charging for products early to distinguish between real and fake problems.  
+  "If the problem is important enough, people should be willing to pay, either with money or with time"  
+* **Geographic Strategy:** While the company has roots in India, the founders maintain that San Francisco remains the essential hub for generative AI innovation, due to the concentration of researchers and innovation.  
+* **Future Development:** The company is currently developing an AI Forward Deployed Engineer to eliminate the bottleneck of manual configuration in enterprise deployments. This agent will participate in **Slack** and **Google** Meet sessions to automatically implement policy changes.
+
+# 2026-06-03
+
+# **Building AI Native Services Companies**
+
+## **Executive Summary**
+
+The landscape of technology startups is shifting from providing software tools to providing complete service outcomes. AI native service companies represent a multitrillion dollar opportunity by rebuilding traditional industries, such as law, tax, and insurance, from the ground up using Artificial Intelligence to perform the majority of the work. Unlike traditional software businesses that sell licenses or seats, these entities sell the final result to the customer, displacing existing vendors rather than changing internal customer behavior. Success in this sector requires a unique combination of domain expertise, model fluency, and intense operational rigor. The ultimate goal is to achieve software like profit margins, exceeding 50 percent, in markets traditionally dominated by low margin human labor.
+
+## **The Concept of AI Native Services**
+
+AI native services represent a departure from the copilot model where software assists a human user. Instead, the company itself acts as the service provider, utilizing AI to scale human capabilities nonlinearly.
+
+* Business Model Shift: These companies provide the outcome to the customer rather than building a tool for the customer to use internally.  
+  "Some of the biggest companies of the next decade won't be software businesses at all, they'll be services companies, like insurance carriers and law firms, rebuilt from scratch, with AI doing most of the work."  
+* Market Opportunity: The potential spans trillions of dollars in sectors including tax, audit, insurance, law, healthcare, and logistics.
+
+## **Market Selection and Evaluation**
+
+Choosing the correct market is critical for long term viability, as these businesses typically require a decade or more to mature. **YC** identifies four unique traits for ideal AI service markets.
+
+### **Critical Market Traits**
+
+1. Low Trust: The work is already frequently outsourced, and the customer is primarily concerned with the final product rather than the process used to achieve it.  
+2. Low Judgment at Task Level: The workflow must be breakable into pieces where most steps are automatable, with human judgment reserved for specific, high value points in the loop.  
+3. High Intelligence Threshold: "The overall work has to be hard enough that models plus humans are needed, to actually deliver an outcome the customer accepts."  
+4. Regulatory Moats: High legal accountability and regulation can serve as a barrier to entry, protecting founders who successfully navigate these requirements.
+
+### **The Sam Altman Test**
+
+Founders must evaluate whether improving AI models will strengthen their service or commoditize it. A viable AI native service becomes more robust as underlying models advance, rather than being replaced by the models themselves. Founders should be cautious of markets involving significant equipment or on-site labor, as these do not benefit from software style margin leverage.
+
+## **Attributes of the Founding Team**
+
+Building an AI native service requires a specific set of skills that differ from traditional software engineering.
+
+* Domain Fluency: Founders must have direct or deeply learned experience in their chosen sector to establish credibility with skeptical buyers in regulated spaces.  
+* Model Fluency: There is no substitute for technical expertise regarding what frontier models can achieve and how to design products that evolve with the technology.  
+* Operational Rigor: Founders must embrace the metrics of an operation, such as variance, throughput, and standard operating procedures.
+
+**General Legal** serves as an example of this mix, as the founders combine experience from **Cooley**, **Fenwick** and **Casetext** with a focus on shift work and cycle times to reduce legal service delivery times.
+
+## **Product Development and Operations**
+
+In an AI native services company, the product is the process itself. The human staff member often serves as the interface for the customer, while the internal software facilitates nonlinear scaling.
+
+### **Operational Metrics as Product Metrics**
+
+* Bottleneck Identification: Product development must focus on identifying and automating bottlenecks to improve throughput.  
+* Variance Control: "Customers will fire you for variance, faster than they will fire you for being a bit slower or a bit more expensive than the incumbents." Consistency is required to maintain trust and prevent churn.  
+* Scaling: While doing things that do not scale is acceptable in the early stages, the ultimate goal is to ensure that revenue does not grow in a one to one ratio with headcount.  
+  "Automating the process is the product."
+
+## **Sales, Pricing, and Growth Strategies**
+
+The approach to sales and pricing must reflect the outcome-based nature of the business.
+
+### **The Early Demand Trap**
+
+Founders are cautioned against signing too many pilot customers initially. High demand can overwhelm a small team, forcing them to rely on human labor, rather than building the automation necessary to scale.
+
+"The pilot is the product for the first handful of customers, don't try to standardize too early."
+
+### **Pricing Models**
+
+| Pricing Type | Description |
+| :---- | :---- |
+| Per-Unit Pricing | Charges per return, per claim, or per loan. This is the clearest and easiest to explain. |
+| Outcome-Based | Aligns incentives with the customer, though it can make internal forecasting more difficult. |
+| Value-Based | Pricing based on the value delivered rather than the time spent. |
+
+Founders should avoid cost-plus pricing, which caps upside, and straightline undercutting, which may signal low quality. **Panacea**, for example, prices based on completed regulatory studies rather than the hourly rates common in the industry.
+
+## **Financial Structures and the P\&L**
+
+The Profit and Loss statement is the primary metric by which these companies are judged. The core thesis is that AI operating leverage will drive higher margins than traditional service firms.
+
+### **Components of the P\&L**
+
+* Revenue: Contract-based income that may be spiky in early months but should smooth out as processes mature.  
+* Cost of Goods Sold (COGS): Includes model costs, hosting costs, and humans in the loop. These must be tracked rigorously from day one.  
+* Operating Income: Calculated as Revenue minus COGS and Operating Expenses (Opex). These businesses are judged on operating income sooner than traditional software startups.
+
+Traditional services firms usually peak at 30 percent margins, whereas AI native services aim for 50 percent or higher. This trajectory must be believable to investors and stakeholders.
+
+## **The Build vs. Buy Debate**
+
+There is a frequent temptation to purchase an existing legacy service business and attempt to integrate AI. **YC** advises against this, as it is nearly impossible to acquire product-market fit. Legacy businesses come with established expectations regarding hiring, performance, and metrics that are difficult to change. Building from scratch is almost always the superior path, unless a specific regulatory license or moat is required immediately.
+
+## **Conclusion**
+
+The transition to AI native services represents a fundamental shift in how startups are built and how markets are served. By focusing on the process as the product and maintaining high operational rigor, founders can build generational companies in some of the largest markets in the world. Success requires avoiding the trap of human-led scaling and instead focusing on the AI operating leverage that allows for software like margins on a massive scale.
+
