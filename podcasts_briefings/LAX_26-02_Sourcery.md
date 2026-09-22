@@ -42,7 +42,7 @@ The implementation of the JOBS Act removed the immediate pressure to go public b
 
 ## **Investment Strategy and Firm Philosophy**
 
-**137 Ventures** distinguishes itself from traditional venture capital through its flexibility and focus on concentration.
+**137 Ventures** distinguishes itself from traditional Venture Capital through its flexibility and focus on concentration.
 
 ### **Comparison of Investment Approaches**
 
@@ -85,7 +85,7 @@ The private markets are currently seeing a significant amount of locked up capit
 
 * **Confidential Filings:** Both **OpenAI** and **Anthropic** have reportedly filed their S-1 documents confidentially.  
 * **Public Readiness:** **SpaceX** is viewed as a major catalyst for the current cycle of companies returning to the public markets.  
-* **Role of Government:** While venture capital is vital, the government remains an important long term partner for companies solving hard technical problems.  
+* **Role of Government:** While Venture Capital is vital, the government remains an important long term partner for companies solving hard technical problems.  
 * **Concentrated Portfolios:** Notable companies currently in the **137 Ventures** portfolio include **Palantir**, **Uber**, **Anduril**, **Gusto**, **Cognition**, **Ramp**, and **Hadrian**.
 
 # 2025-06-15
@@ -94,17 +94,17 @@ The private markets are currently seeing a significant amount of locked up capit
 
 ## **Executive Summary**
 
-The venture capital firm **Lightspeed** has appointed [Claire Zau](https://www.linkedin.com/in/clairezau), the digital creator behind **Zoey Talks**, to a specialized hybrid role that bridges the investment and media teams. This appointment signifies a formalization of storytelling as a core venture function, intended to expand the firm’s reach beyond the traditional tech ecosystem and into the mainstream. [Claire](https://www.linkedin.com/in/clairezau) currently reaches over 350,000 individuals across platforms, generating approximately 10 million monthly impressions. Her primary objective is to act as a translator, converting complex developments in venture capital and Artificial Intelligence into accessible narratives for a broader audience, including students, PhDs, and operators. By leveraging high quality short form video on **TikTok** and **Instagram**, **Lightspeed** aims to build a systematic top of funnel for talent density and pre founder archetypes.
+The Venture Capital firm **Lightspeed** has appointed [Claire Zau](https://www.linkedin.com/in/clairezau), the digital creator behind **Zoey Talks**, to a specialized hybrid role that bridges the investment and media teams. This appointment signifies a formalization of storytelling as a core venture function, intended to expand the firm’s reach beyond the traditional tech ecosystem and into the mainstream. [Claire](https://www.linkedin.com/in/clairezau) currently reaches over 350,000 individuals across platforms, generating approximately 10 million monthly impressions. Her primary objective is to act as a translator, converting complex developments in Venture Capital and Artificial Intelligence into accessible narratives for a broader audience, including students, PhDs, and operators. By leveraging high quality short form video on **TikTok** and **Instagram**, **Lightspeed** aims to build a systematic top of funnel for talent density and pre founder archetypes.
 
 ## **The Evolution of the Investor Creator Model**
 
-The transition of venture capital into new media represents an evolution of the independent platforms established by previous generations of investors. The document notes that [Claire](https://www.linkedin.com/in/clairezau)’s role at **Lightspeed** mirrors the editorial independence seen in figures such as [Fred Wilson](https://www.linkedin.com/in/fredwilson) at **USV**, [Bill Gurley](https://en.wikipedia.org/wiki/Bill_Gurley) at **BG2**, and the media operations at **a16z**.
+The transition of Venture Capital into new media represents an evolution of the independent platforms established by previous generations of investors. The document notes that [Claire](https://www.linkedin.com/in/clairezau)’s role at **Lightspeed** mirrors the editorial independence seen in figures such as [Fred Wilson](https://www.linkedin.com/in/fredwilson) at **USV**, [Bill Gurley](https://en.wikipedia.org/wiki/Bill_Gurley) at **BG2**, and the media operations at **a16z**.
 
 Key aspects of this model include:
 
 * **Editorial Independence**: [Claire](https://www.linkedin.com/in/clairezau) maintains her personal platform, **Zoey Talks**, to refine her independent thinking and interface with the public sphere, a practice encouraged by **Lightspeed** to enrich the firm’s collective understanding of market nuances.  
 * **Dual Responsibility**: The role is split between the investment team and the media team, a structure that acknowledges storytelling as an essential component of the investment process, where narratives drive interest from startups and limited partners alike.  
-* **Talent Acquisition**: The media presence is utilized to reach prefounders, such as Stanford PhDs or corporate operators, who may not have previous exposure to the commercial venture capital world.
+* **Talent Acquisition**: The media presence is utilized to reach prefounders, such as Stanford PhDs or corporate operators, who may not have previous exposure to the commercial Venture Capital world.
 
 ## **Content Strategy and Market Reach**
 
@@ -647,7 +647,7 @@ The organization has shifted its communication strategy to bypass traditional me
 
 ## **Executive Summary**
 
-The current venture capital ecosystem is experiencing a state of disorientation as the traditional rules of software investing are upended by the AI paradigm. Historically, software companies followed a linear path of derisking through product-market fit, unit economics, and total addressable market expansion, where increased scale equated to decreased risk. In the AI era, this relationship has flattened or even reversed, as companies exceeding one billion dollars in revenue often remain without proven unit economics or durable product differentiation.
+The current Venture Capital ecosystem is experiencing a state of disorientation as the traditional rules of software investing are upended by the AI paradigm. Historically, software companies followed a linear path of derisking through product-market fit, unit economics, and total addressable market expansion, where increased scale equated to decreased risk. In the AI era, this relationship has flattened or even reversed, as companies exceeding one billion dollars in revenue often remain without proven unit economics or durable product differentiation.
 
 The transition from spreadsheet based investing to an era of capital intensive AI development has introduced several critical shifts:
 
@@ -721,7 +721,7 @@ The jagged nature of model capabilities necessitates third party independent ven
 
 ## **Market Evolution and Strategic Investment**
 
-The venture capital industry is evolving into a broader alternative asset management class. Firms like **General Catalyst** and **Andreessen Horowitz** now offer a wide array of products including debt, wealth management, and health insurance, whereas **Benchmark** remains focused on early stage partnership with entrepreneurs.
+The Venture Capital industry is evolving into a broader alternative asset management class. Firms like **General Catalyst** and **Andreessen Horowitz** now offer a wide array of products including debt, wealth management, and health insurance, whereas **Benchmark** remains focused on early stage partnership with entrepreneurs.
 
 ### **The Impact of Massive Liquidity**
 
@@ -847,7 +847,7 @@ The growth team operates with a small, cohesive group of approximately six inves
 
 ### **Check Sizes and Capital Concentration**
 
-The nature of venture capital is changing, with a marked concentration of capital in a handful of late stage private companies. **Accel** has adapted by increasing its investment scale, now writing checks ranging from 400 million to over 1 billion dollars for definitional companies of the era. The firm views these large investments as rational given the potential for these entities to become multitrillion dollar businesses within short hold periods.
+The nature of Venture Capital is changing, with a marked concentration of capital in a handful of late stage private companies. **Accel** has adapted by increasing its investment scale, now writing checks ranging from 400 million to over 1 billion dollars for definitional companies of the era. The firm views these large investments as rational given the potential for these entities to become multitrillion dollar businesses within short hold periods.
 
 ## **Emerging Technological Themes**
 
@@ -911,7 +911,7 @@ The growth team expects a narrative shift in the next 12 months, moving away fro
 
 This document synthesizes the core themes, investment methodologies, and sociotechnical perspectives shared by [Cyan Bannister](https://www.linkedin.com/in/cyanb), a partner at **Long Journey** and formerly of **Founders Fund**. The analysis covers her historical investment successes, her framework for identifying non obvious opportunities, and her views on the future of Artificial Intelligence and civil liberties.
 
-The following points represent the critical takeaways regarding [Bannister](https://www.linkedin.com/in/cyanb)’s approach to technology and venture capital:
+The following points represent the critical takeaways regarding [Bannister](https://www.linkedin.com/in/cyanb)’s approach to technology and Venture Capital:
 
 * **Investment Methodology:** Success is derived from a deep, interrogative curiosity, categorized as becoming a why machine. This involves questioning the status quo of existing industries, such as transportation before **Uber** or mapping before **Niantic**.  
 * **The Second Believer Concept:** [Bannister](https://www.linkedin.com/in/cyanb) emphasizes the role of the second believer, an individual who holds the flame of conviction for a founder when the initial spark is at risk of extinguishing. This was a defining factor in her early investment in **SpaceX**.  
@@ -3303,3 +3303,260 @@ While acknowledging that Silicon Valley gets almost everything right, the compan
 There is significant concern regarding the existential risks of AI. The speed of development is viewed as dangerous because the smarter an AI becomes, the easier it is for it to conceal its true capabilities. "AIs don't strike me as they are likely to boast, so that our perception of their capabilities tends to exceed their capabilities, I think they'll probably only show us what we asked them to show us" which creates a risk of underestimating the technology until a catastrophe occurs.
 
 The company critiques current regulatory attempts, such as the EU AI Act, for failing to address real existential threats while potentially harming the industry. The leadership argues that a country failing to embrace AI is destined for irrelevance, yet they remain deeply concerned about the potential for AI to be used for immense damage, or to create scenarios that could wipe out humanity.
+
+# 2026-09-20
+
+# **Brad Gerstner on the Implementation and Impact of Trump Accounts**
+
+## **Executive Summary**
+
+The source material details the emergence and rapid scaling of [Trump](https://en.wikipedia.org/wiki/Donald_Trump) Accounts, a universal infrastructure of capital accounts designed for every citizen under the age of 18 in the United States. Founded by [Brad Gerstner](https://www.linkedin.com/in/bradgerstner) of **Invest America**, the initiative has transitioned from an initial concept to a platform that currently manages 9 million accounts, with a projected expansion to 70 million accounts within 30 days. The primary objective is to facilitate a $4 trillion wealth transfer to children who would otherwise lack private ownership or capital, thereby fostering a new generation of participants in capitalism. This initiative is supported by a broad bipartisan coalition and utilizes private sector partnerships, including contributions from major philanthropists and the integration of accounts into standard 401k infrastructures. Beyond the financial mechanics, the program aims to provide a platform for financial literacy and compounding education, with significant anticipated societal returns on investment, including increased high school graduation rates and home ownership.
+
+## **The Infrastructure of Trump Accounts**
+
+The [Trump](https://en.wikipedia.org/wiki/Donald_Trump) account system is framed not as a temporary program, but as a universal infrastructure for capital accounts. The platform is designed to provide every citizen with a mechanism for private ownership, starting with newborns and expanding to all individuals under 18 years of age.
+
+* **Current Scale and Expansion:** There are currently 9 million active accounts. The program is set to reach a milestone referred to as an IPO in 30 days, which involves the automatic launch of 70 million accounts for all American children under the age of 18\.  
+* **Ease of Use:** The accounts utilize mobile technology to facilitate contributions. Donors can scan a QR code on a recipient's phone and use services like **Apple** Pay to transfer funds instantly. The process includes the ability to send personal messages and photos alongside the contribution.  
+* **Public-Private Administration:** The initiative involves high level government coordination and private sector execution. [Frank Bisagnano](https://en.wikipedia.org/wiki/Frank_Bisignano) is identified as a key figure running the administration of these accounts in conjunction with the IRS and Social Security. [Scott Bessent](https://en.wikipedia.org/wiki/Scott_Bessent) and partners outside the government, such as [Michael Dell](https://en.wikipedia.org/wiki/Michael_Dell), are also central to the execution.
+
+## **Economic Objectives**
+
+The central economic goal of the [Trump](https://en.wikipedia.org/wiki/Donald_Trump) Accounts is to address the lack of economic mobility for the American youth.
+
+* **Wealth Transfer:** Projections suggest that within the next 10 years, $4 trillion will be transferred into these accounts, reaching children who would otherwise have zero capital. Over 25 years, the total is expected to reach $10 trillion to $20 trillion.  
+* **Capitalism and the American Dream:** The program seeks to reconnect 150 million Americans with the concept of private ownership.  
+  "The magic formula that makes America, America, is this belief that we have economic mobility, this right to rise, and if you destroy that, then you destroy capitalism."  
+* **Institutional Integration:** Efforts are underway to integrate these accounts into the national 401k infrastructure, which currently holds $15 trillion and receives $75 billion in annual contributions.  
+* **Philanthropic Participation:** The initiative is described as the giving pledge 2.0, allowing philanthropists and companies to donate directly to children with no intermediaries.  
+  "I think this truly will be the giving pledge 2.0, and it's going directly to America's kids 100 cents on the dollar, no intermediaries."
+
+## **Social Impact and ROI**
+
+Research conducted on the potential outcomes of this universal account system suggests significant positive externalities for society.
+
+| Metric | Anticipated Impact |
+| :---- | :---- |
+| Education | Higher likelihood of graduating from high school and college. |
+| Housing | Increased probability of purchasing a home. |
+| Entrepreneurship | More likely to start a business. |
+| Public Contribution | Higher likelihood of paying taxes. |
+| Crime | Decreased likelihood of incarceration. |
+
+The psychological impact on families is also highlighted, with small initial contributions providing hope to struggling families who previously felt excluded from the financial system.
+
+"Our family was struggling, it's only $200 but it gives us hope, we never thought we would own stocks, we never thought we were going to be part of this system."
+
+## **Financial Literacy**
+
+The accounts serve as a practical tool for teaching financial concepts to a broad audience.
+
+* **Overcoming the Cold Start Problem:** The program aims to move individuals from zero to one, addressing the difficulty of teaching financial literacy to those who own nothing.  
+* **Interactive Learning:** In states like Texas, a financial literacy wrapper has been applied to 750,000 children. The app allows users to see how saving small amounts, such as $10 or $20 a month, compounds over time.  
+* **Universal Desire to Learn:** The source refutes the idea that lower income individuals are uninterested in saving or learning.  
+  "The hardest movement in life is from zero to one, it's getting into the game, it's overcoming the cold start problem, it's having this belief that I deserve this, I'm part of this."
+
+## **Bipartisan Support**
+
+Despite the name, the initiative has garnered support from both sides of the political aisle.
+
+* **Bipartisan Figures:** Supporters include Democrats such as [Gavin Newsom](https://en.wikipedia.org/wiki/Gavin_Newsom), [Cory Booker](https://en.wikipedia.org/wiki/Cory_Booker), [Mark Warner](https://en.wikipedia.org/wiki/Mark_Warner), and [Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton), as well as Republicans like [Ted Cruz](https://en.wikipedia.org/wiki/Ted_Cruz), [Bill Hagerty](https://en.wikipedia.org/wiki/Bill_Hagerty), and [John Thune](https://en.wikipedia.org/wiki/John_Thune).  
+* **Presidential Mandate:** The program was accelerated when the president identified it as a core component of a main street agenda, ordering it to be included in legislative bills.  
+   "This is the whole meaning of my presidency, it's the main street agenda, we're going to make this happen."  
+* **Endorsements:** [Gavin Newsom](https://en.wikipedia.org/wiki/Gavin_Newsom) stated, "I enthusiastically endorse everybody to go get their [Trump](https://en.wikipedia.org/wiki/Donald_Trump) Accounts." [Bill Clinton](https://en.wikipedia.org/wiki/Bill_Clinton) has characterized the initiative as a measure that can save America.
+
+## **AI Safety and Consensus**
+
+The All-In Summit provided a backdrop for discussions on other critical national issues, specifically the safety and regulation of Artificial Intelligence.
+
+* **Risk and Peer Review:** Figures like [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) and [Dario Amodei](https://en.wikipedia.org/wiki/Dario_Amodei) have advocated for independent peer review and monitors for AI to mitigate the risk of extinction events.  
+* **Pragmatic Consensus:** The current state of the AI conversation is described as the messy process of forming a consensus.  
+  "Everybody thinks there's chaos, I don't think it's chaos, I think what we're doing is we're open sourcing in real time, how consensus forms the sausage making's kind of ugly, but if you really just think about everything we heard, it's boiling down to a pragmatic consensus, that yes, there's more power and more risk than we may have thought of so, we need to act responsibly, it needs to start with the companies themselves, but we probably do need some sort of peer review."  
+* **Middle Way:** Both the [Trump](https://en.wikipedia.org/wiki/Donald_Trump) Accounts and the AI safety debates are viewed as moving toward a pragmatic, common sensical middle way rather than tribal extremes.
+
+# 2026-09-21
+
+# **Eclipse's Lior Susan on $12.5B AUM and the Bet on Physical Industries**
+
+## **Executive Summary**
+
+This document synthesizes key insights from [Lior Susan](https://www.linkedin.com/in/liorsusan), the founder of **Eclipse**, regarding the firm's strategic focus on the physical world and its operational approach to Venture Capital. With approximately 12.5 billion to 13 billion in assets under management, **Eclipse** positions itself as a firm of operators with capital rather than traditional Venture Capitalists. The central thesis of the firm is that 85 percent of global GDP, representing roughly 100 trillion dollars, resides in physical industries such as manufacturing, energy, defense, and transportation. Unlike the software centric focus of the last decade, **Eclipse** emphasizes building and investing in complex, full stack hardware and infrastructure companies. The firm utilizes an incubation model where it has built 30 of its 90 portfolio companies from the ground up, maintaining a high level of involvement in day to day operations to navigate the unique challenges of manufacturing, supply chains, and capital expenditures.
+
+## **The Shift to Physical Industries**
+
+The investment landscape is experiencing a significant pivot toward physical industries, a sector that was previously overlooked during the era of software and fintech dominance.
+
+* **The GDP Opportunity:** Roughly 85 percent of the world GDP is contained within the physical world, which translates to a 100 trillion dollar market.  
+* **Industry Categories:** Key sectors include semiconductors, manufacturing, space, defense, mining, energy, and transportation.  
+* **Market Scale Examples:** Metal manufacturing is a 3 trillion dollar industry, yet it has historically received significantly less venture investment compared to enterprise software.  
+* **Macroeconomic Drivers:** The move from globalization to deglobalization has made it essential for countries to secure their own energy, manufacturing, and defense capabilities. This shift toward onshoring was accelerated by the vulnerabilities exposed during the COVID-19 pandemic.
+
+## **The Operators with Capital Model**
+
+**Eclipse** distinguishes itself through a deeply hands-on approach, prioritizing operational expertise over passive investment.
+
+* **Incubation Strategy:** Of the 90 companies in the **Eclipse** portfolio, 30 were incubated by the firm. This process involves identifying gaps in the market and recruiting teams to build solutions from scratch.  
+* **Technical Involvement:** [Lior Susan](https://www.linkedin.com/in/liorsusan) describes the firm's involvement as being close to the metal, which includes assisting with manufacturing, supply chains, subsidies, and leveraging debt versus equity.  
+* **Operational Discipline:** In the physical world, the fake it till you make it (FITYMI) mentality is ineffective, because poor discipline results in bad manufacturing yields.  
+* **Direct Support:** Partners at the firm often engage in crisis management, such as flying to sites to resolve technical infrastructure failures, like moisture issues in data center concrete or cooling system leaks.
+
+## **The Eclipse Economy and AI Infrastructure**
+
+The firm has developed a concept known as the **Eclipse** economy, which involves a vertically integrated ecosystem of companies that support one another.
+
+* **Vertical Integration:** The firm builds across the entire stack, including chips, server racks, CPUs, data center infrastructure, and energy sources.  
+* **The Five Forces:** Success in the physical world requires aligning five specific forces: talent, policy, capital, technology, and customer demand. This is a model [Susan](https://www.linkedin.com/in/liorsusan) observed in China, which built a 20 trillion dollar economy by aligning these forces.  
+* **Full-Stack Competition:** By leveraging multiple portfolio companies in large commercial deals, **Eclipse** can offer comprehensive solutions that compete with international state-level industrial strategies.  
+* **AI Infrastructure:** Rather than investing in Large Language Models (LLMs), the firm focuses on the picks and shovels of AI, such as high performance memory, power systems, and specialized compute like **Cerebras**.
+
+## **Financial Metrics and Market Realities**
+
+The firm challenges traditional Silicon Valley metrics, particularly the heavy emphasis on software style gross margins.
+
+* **Free Cash Flow vs. Gross Margin:** For real-world industrial companies, free cash flow is a more critical metric than gross margin. High gross margins in software can sometimes be an accounting trick, where engineering spend is moved to R\&D rather than cost of goods sold (COGS).  
+* **Valuation Multiples:** Companies that solve difficult problems in massive markets, such as **Tesla** or **Cerebras**, can achieve valuation multiples that rival or exceed those of top software companies despite having different margin structures.  
+* **Large-Scale Contracts:** The portfolio companies often engage in massive commercial deals, with approximately 40 billion to 50 billion dollars in commercial deals signed across the portfolio in the last year, including some double-digit billion dollar agreements.
+
+## **Influence of Pierre Lamond and Sequoia Roots**
+
+The culture of **Eclipse** is heavily influenced by [Pierre Lamond](https://www.linkedin.com/in/pierrelamond), a veteran investor who joined [Susan](https://www.linkedin.com/in/liorsusan) to start the firm in 2015\.
+
+* **Institutional Knowledge:** [Lamond](https://www.linkedin.com/in/pierrelamond), who was 85 when the firm started and is now 96, brought 35 years of experience from **Sequoia**. He was a colleague of [Don Valentine](https://en.wikipedia.org/wiki/Don_Valentine) at **National Semiconductor** before they left to start **Sequoia**.  
+* **Original Venture Values:** [Lamond](https://www.linkedin.com/in/pierrelamond) instilled a culture of discipline and a gentlemanly relationship between firms, reminiscent of the early days of Venture Capital when firms like **Sequoia** and **Kleiner Perkins** would cooperate to save companies.  
+* **Mentorship:** [Lamond](https://www.linkedin.com/in/pierrelamond) provided the institutional framework for managing boards, writing quarterly reports, and maintaining high operational standards from the firm's inception.
+
+## **Portfolio Highlights and Strategic Initiatives**
+
+The source highlights several key companies and the strategic reasoning behind their development.
+
+| Company | Sector | Strategic Context |
+| :---- | :---- | :---- |
+| **Cerebras** | Semiconductors | Focused on taking over the compute industry with specialized AI chips; recently completed a successful IPO. |
+| **SpaceX** | Aerospace/Space | Noted as a successful IPO level company in the physical industry space. |
+| **Redwood Materials** | Energy Storage | Led by [JB Straubel](https://www.linkedin.com/in/jb-straubel-b694981), former **Tesla** CTO, focusing on battery recycling and large-scale energy storage for data centers. |
+| **Rivian** / **Mind Robotics** | Robotics | **Mind** was carved out of **Rivian** to focus on general-purpose mobile robotics for manufacturing with high dexterity. |
+| **Oxide** | Compute Infrastructure | Building on-premise CPU based racks that provide a software centric, cloud-like experience for secure, low latency industrial use. |
+| **VulcanForms** | Manufacturing | Focused on metal manufacturing, a 3 trillion dollar industry. |
+| **True Anomaly** | Defense | Working on space defense awareness and vertically integrated space programs. |
+
+## **Key Quotes**
+
+"You want to back startups that make actual physical stuff."
+
+"What you cannot fight against is 85% of the world GDP, roughly 100 trillion is in the physical world."
+
+"We never thought of ourselves as Venture Capital. We call it operators with capital because we have operators."
+
+"You cannot fake it till you make it when you're manufacturing something, because the yield will just be very bad."
+
+"What matters is free cash flow, It's actually not gross margin."
+
+"I actually think it's the first time, I used to say [Ford](https://en.wikipedia.org/wiki/Henry_Ford) and [Carnegie](https://en.wikipedia.org/wiki/Andrew_Carnegie) actually changed it to: this is the best time in the history of this country to build companies."
+
+# 2026-09-22
+
+# **Horowitz Andreessen Academy: A New Model for AI Native Education**
+
+## **Executive Summary**
+
+The **Horowitz Andreessen Academy** is a newly launched, for-profit, post high school educational institution designed for the AI era. Headquartered in San Francisco, the academy aims to cultivate young builders by emphasizing high agency, project-based learning, and deep immersion in the culture of Silicon Valley. Funded with 40 million dollars from prominent investors and partnered with leading technology firms including **OpenAI**, **NVIDIA**, and **Anthropic**, the institution serves as a residential alternative to traditional four year universities. The program prioritizes proof of work over academic grades, seeking to produce AI native individuals capable of either starting companies or becoming high performing contributors at top-tier technology firms.
+
+## **Institutional Vision and Philosophy**
+
+The academy is structured to be the reverse of a traditional University, focusing on experiential learning rather than top-down instruction. It operates as an unaccredited institution, which allows it to bypass standard accreditation rules and design a curriculum that adapts rapidly to technological shifts.
+
+### **Core Principles**
+
+* High Agency: The program is designed to encourage students to make their own decisions and take full responsibility for their output.  
+* AI Optimism: The academy rejects doomerism, embracing AI as a critical tool for creation and a fundamental reality of the future.  
+* Silicon Valley Culture: Students are immersed in a positive sum environment that emphasizes peer support, mentorship, and interpersonal skills.
+
+## **Operational Structure and Programs**
+
+The academy will launch in phases, beginning with a specialized fellowship before expanding into a full scale program.
+
+### **Founding Class Fellowship**
+
+The first program, starting in September 2027, is a one year fellowship for 50 students. This inaugural class will not be charged tuition, though students are responsible for their own room and board in San Francisco. This year is intended to be a deep immersion into the builder first mentality.
+
+### **Two Year Program**
+
+Pending regulatory approval, a formal two year program is slated to begin in 2028\. This program will have a tuition cost comparable to or exceeding elite private universities. The academy intends for this tuition to reflect the high value and career readiness the institution provides.
+
+### **Financial Sustainability**
+
+With 40 million dollars in funding, the academy is positioned for long term longevity. Revenue streams include:
+
+* Tuition from the two year program.  
+* Corporate partnerships with technology companies seeking access to top-tier talent.  
+* Potential equity stakes in businesses started by students.
+
+## **The Builder Curriculum**
+
+The curriculum is designed to leave 75 to 80 percent of a student's time free for projects and building. Instruction is didactic, meaning students learn concepts in class and then apply them independently to their chosen endeavors.
+
+### **Project Categories**
+
+1. Research Projects: Deep dives into specific industries, such as robotics or manufacturing, involving site visits and self driven study.  
+2. Learning Projects: Focused efforts to master specific technical or interpersonal skills using online courseware and academy resources.  
+3. Building Projects: Entrepreneurial or technical ventures where students create products, software, or companies from scratch.
+
+### **Scaffolding and Accountability**
+
+To prevent students from drifting without direction, the academy employs a structured check-in system. Students are organized into pods of approximately eight peers. Every week, they must present their progress to their pod and a mentor, outlining what they accomplished in the previous week and what they intend to tackle next.
+
+## **Strategic Industry Partnerships**
+
+The **Horowitz Andreessen Academy** is built upon a network of founding partners and hiring partners from across the technology ecosystem.
+
+| Partner Type | Companies Involved |
+| :---- | :---- |
+| Founding Partners | **Anthropic**, **Coinbase**, **Meta**, **NVIDIA**, **OpenAI**, **Palantir**, **Replit**, **Stripe** |
+| Hiring Partners | Over 30 companies including **Shopify** |
+| Strategic Support | **a16z**, **Maven**, **Alpha School** |
+
+These partners provide curricular support, advisory feedback on market talent needs, and access to critical resources such as compute credits. These relationships ensure students have a front row seat to the latest advancements in AI models and infrastructure.
+
+## **Student Archetype and Admissions**
+
+The academy targets young builders who have demonstrated an itch to produce things, whether that involves coding, hardware, or creative services.
+
+### **Selection Criteria**
+
+* Proof of Work: Applicants are evaluated on what they have actually built, rather than their high school grade point average (GPA).  
+* Slope of Learning: The admissions process looks for individuals who are sponges for information and constantly evolving.  
+* Cognitive and Emotional Intelligence: The second phase of the interview process includes IQ testing, personality testing, and writing evaluations.
+
+"The big difference between going to the academy and going to college is, we are not going to prioritize your grades, we are not going to prioritize your grades, we are going to prioritize proof of work."
+
+## **Career Trajectories and the Labor Market**
+
+The academy challenges the traditional narrative that AI will eliminate jobs, instead arguing that AI will redesign the world and create a massive demand for those who can orchestrate AI agents.
+
+### **The Super Individual Contributor**
+
+The program aims to train students to become super ICs, individuals who can leverage 30 to 50 AI agents simultaneously to perform high level work. This shift moves away from traditional middle management toward high performance execution.
+
+### **Career Security**
+
+By learning to be AI native and high agency, graduates are intended to be bulletproof in the labor market.
+
+"If you have high agency and you can build, you are essentially bulletproof."
+
+### **Entrepreneurial Caution**
+
+While the academy supports students who wish to start companies, it also encourages exploration. The leadership suggests that most students should spend one to two years deciding on their path, before committing to the ten year slog of a startup.
+
+## **Perspective on Failure and Culture**
+
+The academy promotes a positive sum culture, where failure is viewed as a learning opportunity rather than a permanent setback.
+
+"I do not believe in this mentality of making failure cool, failure is not cool, failure sucks, you should do everything you possibly can to not fail, and yet if you fail it is okay, get up and try again."
+
+The institution seeks to create philosopher builders, who understand that the culture of helping others is a core component of success in Silicon Valley. This includes being nice to others regardless of one's current status, as professional roles in the valley often shift over time.
+
+## **Conclusion**
+
+The **Horowitz Andreessen Academy** represents an effort to rebuild the education system for a future dominated by software and AI. By providing a structured yet high agency environment in the heart of San Francisco, it aims to serve as a beacon for how educational institutions can embrace technological reality rather than fighting against it.
+
+"The promise that I think we can make, is that you will learn how to be an AI native builder, with super high agency, with the people skills to understand the culture of Silicon Valley, and if we can accomplish those three things, I believe this will be the most valuable educational experience that anyone could ever have."
