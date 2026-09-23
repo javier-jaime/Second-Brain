@@ -3827,3 +3827,78 @@ The role of the Software Engineer is evolving from a tactical coder to an intros
 * **Rapid Learning:** For junior developers, AI provides a way to speed up the acquisition of experience by allowing them to ship more projects, and see the consequences of strategic mistakes faster.  
 * **Fidelity to Fundamentals:** Success in the AI era is defined by a return to classic principles.  
   "Software fundamentals have been saying, we've been trying to do that for the entire time."
+
+# 2026-09-23
+
+# **Design Engineering with Maggie Appleton**
+
+## **Executive Summary**
+
+The following document synthesizes key insights from a discussion on the evolving landscape of Design Engineering, the role of Artificial Intelligence in software creation, and the persistent value of analog methodologies. Design Engineering is defined as a discipline where the designer deeply engages with technical architecture and implementation, moving beyond static visual mockups to live, malleable prototypes. While AI agents significantly accelerate implementation and enable new forms of dynamic experimentation, they currently lack the spatial reasoning and cultural nuance required for high-level design. Consequently, physical tools like notebooks remain essential for initial brainstorming and externalizing non-linguistic thoughts. The future of the field points toward collaborative, multiplayer agent environments and the rise of barefoot developers, individuals who use AI to create home cooked software for local or personal needs.
+
+## **The Definition and Scope of Design Engineering**
+
+Design Engineering is characterized as a hybrid role that bridges the traditional gap between Product Design and Software Engineering. It requires a deep understanding of the materials used in construction, whether those materials are visual elements or technical infrastructures.
+
+* **Software Design as Engineering:** Product Design in the technology sector is essentially Software Design, which is a form of Engineering. While designers focus on space, weight, color, and motion, they must also understand database structures, API capabilities, and data flow to create viable solutions.  
+* **The Nouns and Verbs of Product:** Designers are responsible for defining the system of nouns (the entities or containers of data) and verbs (the actions users can take) that make a product coherent. This is particularly challenging in developer tools where concepts like agents, MCPs, and skills are still being defined.  
+* **Technical Literacy:** A Design Engineer is a designer who understands how the product works on a technical level. This involvement reduces tension with engineers, as the designer can account for performance limitations, race conditions, and backend constraints during the design phase.  
+* **Front-End Implementation:** Many design engineers, including [Maggie Appleton](https://uk.linkedin.com/in/maggieappleton), perform their own front-end work. This allows them to handle CSS and visual logic, freeing other engineers to focus on complex backend systems and data syncing.
+
+## **The Role of Artificial Intelligence in the Design Process**
+
+Artificial intelligence has transformed the speed of prototyping and implementation, though it introduces new challenges such as capability gaslighting.
+
+* **Acceleration of Implementation:** AI agents allow for the rapid transition from a specification to a pull request. Once a design is well-defined, agents can handle the grunt work of building sidebars or React components, allowing humans to focus on the higher-level logic and Review.  
+* **Dynamic Prototyping with Jigs:** AI enables the creation of custom design tools or jigs. These are live prototypes featuring sliders and variables that allow a designer to tweak elements like animation speed, color contrast, or physics live in the browser rather than in a static tool like **Figma**.  
+* **Capability Gaslighting:** This phenomenon occurs when a model performs exceptionally well on one task but fails unexpectedly on another.  
+  "It is such an inconsistent experience, and it is like it is so different to working with a human."  
+* **Limitations of Agentic Design:** Models often struggle with spatial reasoning and nuance. They tend to follow universal design principles too strictly, such as overlabeling interfaces with text rather than using intuitive icons, resulting in cluttered and poor user experiences.
+
+## **The Persistence of Analog Tools**
+
+Despite the advancement of digital and agentic tools, physical mediums like notebooks and pens remain critical to the creative process.
+
+* **Externalizing Thoughts:** Drawing by hand is a faster way to externalize non-linguistic ideas than typing text prompts for an agent.  
+  "You need something that is like quick feedback, and very loose in the early stages, to figure out the shape of something, before you can put into words what you want an agent to do."  
+* **Persistence and Feedback:** A physical sketch on a desk provides a persistent visual cue that does not disappear when a screen is cleared. It allows for a direct connection between the hand and the idea, which is often more satisfying and effective for initial problem solving.  
+* **Visual vs. Linguistic Input:** Agents primarily accept text as input, but design is a visual and spatial discipline. Explaining complex visual ideas in text is challenging and often ineffective, making manual sketching the superior method for defining the physical shape of a feature.
+
+## **Collaborative Engineering and Multi-Agent Environments**
+
+As Software Development shifts from individual efforts to team based, agent supported workflows, new tools are required to ensure alignment.
+
+* **The Alignment Problem:** Current agentic tools are often private and local to a single developer's machine, creating a gap in team alignment.  
+  "We are now working with these agents locally on machines, and it speeds up each individual person, us alone with the agent we can go really fast, the software is always built on a team."  
+* **Multiplayer Workspace Prototypes:** The **GitHub** Next team experimented with ACE (Agent Collaboration Environment), a prototype combining **Slack**\-like communication with shared cloud compute and sandboxes. This allows teams to code and collaborate in real-time.  
+* **Decision First Primitives:** Future tools may treat decisions as first-class primitives. This would include an audit trail of who made a decision and why, providing necessary context for both humans and agents before implementation begins.  
+* **Proactive Agents:** Research is ongoing into how background agents can contribute to a project without becoming annoying or invasive. The goal is to find ways for humans to consume agent output without being overwhelmed.
+
+## **Anthropology and the Social Context of Software**
+
+Applying cultural anthropology to Software Development provides a unique lens for understanding user needs and the social impact of technology.
+
+* **Cultural Worldviews:** Anthropology highlights how varied human understandings of time, color, and society can be. Designing for a global audience requires acknowledging that Western assumptions, such as time flowing from left to right, are not universal.  
+* **Home Cooked Software:** This concept refers to software created for personal or family use, similar to a home cooked meal. It is not intended for a mass market or data monetization but to solve a specific, local need.  
+* **Barefoot Developers:** Inspired by the barefoot doctors of China, this concept envisions a new class of power users who use AI to build low cost software for their communities.  
+  "There is a whole bunch of people now coming in as vibe coders, or whatever, building apps without looking at the code."  
+* **Local First Philosophy:** To support barefoot developers, software should ideally be local first, ensuring data sovereignty and security without the need for complex cloud infrastructures.
+
+## **Industry Observations and Future Trends**
+
+The discourse highlights several shifting paradigms in how software is perceived and consumed.
+
+| Concept | Description |
+| :---- | :---- |
+| **Aesthetic Tapping** | The tendency for AI generated designs to look identical, often mimicking the minimalist styles of **Linear** or **Vercel**. |
+| **The Jagged Frontier** | The unpredictable boundary of what AI models can and cannot do. |
+| **Digital Gardens** | A method of public writing where posts are grown over time, moving from seedlings to evergreen status, rather than being published only when finished. |
+| **Craft vs. Automation** | The tension between using agents for efficiency and the human desire to remain connected to the fine details of the work. |
+
+## **Sponsor Innovations in Software Verification and Search**
+
+The source notes several companies pushing the boundaries of software tools:
+
+* **Antithesis:** Provides a system for correctness verification by running software in a hostile simulation to find bugs. Their UI includes casualty analysis and a multiverse debugger that allows developers to go back in time and inject commands without affecting playback.  
+* **Turbopuffer:** A search engine built for AI infrastructure, emphasizing scalability and performance. Their brand is described as hardcore and whimsical, utilizing hand drawn ASCII diagrams to communicate technical concepts.  
+* **Entire:** Founded by a former **GitHub** CEO, this platform provides git hosting designed for agent heavy development. It allows for high frequency parallel pushes and captures the full prompt history of agent interactions within the repository.
