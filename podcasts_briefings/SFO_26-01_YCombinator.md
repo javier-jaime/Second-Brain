@@ -4,7 +4,7 @@
 
 ## **Executive Summary**
 
-**Stoke Space** is developing a fully and rapidly reusable rocket system designed to achieve aircraft-like operational frequency. While current industry leaders have mastered the reuse of first stage boosters, **Stoke Space** focuses on the second stage capsule, which is historically discarded due to the extreme thermal and mechanical stresses of atmospheric reentry. By utilizing a novel heat shield cooled by liquid hydrogen and maintaining total vertical integration of manufacturing, the company aims to drastically lower launch costs and increase flight availability. To date, the company has raised $90 million and is preparing for its first orbital launch.
+**Stoke Space** is developing a fully and rapidly reusable rocket system designed to achieve aircraft-like operational frequency. While current industry leaders have mastered the reuse of first stage boosters, **Stoke Space** focuses on the second stage capsule, which is historically discarded due to the extreme thermal and mechanical stresses of atmospheric reentry. By utilizing a novel heat shield cooled by liquid hydrogen and maintaining total vertical integration of manufacturing, the company aims to drastically lower launch costs and increase flight availability. To date, the company has raised \$90 million and is preparing for its first orbital launch.
 
 ## **The Mission of Stoke Space**
 
@@ -48,7 +48,7 @@ The company was founded in September 2019 by two former **Blue Origin** propulsi
 
 * **Early Prototyping:** Initial rocket engine testing was conducted in a shipping container located in a residential backyard. The founders built a pressure fed gaseous hydrogen and liquid oxygen thruster to demonstrate hardware capability to early investors.  
 * **Y Combinator (YC):** The founders joined **YC** to overcome a lack of fundraising connections and to learn how to navigate the venture capital environment, particularly as a hardware company in a market often geared toward software.  
-* **Funding:** The company has raised $90 million to date, maintaining high capital efficiency compared to industry peers.
+* **Funding:** The company has raised \$90 million to date, maintaining high capital efficiency compared to industry peers.
 
 ### **Key Milestones**
 
@@ -122,7 +122,7 @@ The financial context of the target user significantly impacts the viability of 
 
 | Market Segment | Characteristics |
 | :---- | :---- |
-| **Personal Software Spend** | Low average budget, approximately $150 per month. New apps must compete for a small remaining portion of this budget. |
+| **Personal Software Spend** | Low average budget, approximately \$150 per month. New apps must compete for a small remaining portion of this budget. |
 | **Corporate Software Spend** | Significantly higher budget. A single tool on a corporate card can cost more than an individual's entire monthly personal software spend. |
 | **AI Considerations** | Advertising revenue often fails to cover the high infrastructure costs of AI, making subscriptions necessary. |
 
@@ -784,7 +784,7 @@ A primary challenge for AI startups is the Bitter Lesson: the tendency for massi
 
 | Feature | Traditional Fine-Tuning | Poetiq Meta-system |
 | :---- | :---- | :---- |
-| **Cost** | Hundreds of millions of dollars | Less than $100,000 for optimization |
+| **Cost** | Hundreds of millions of dollars | Less than \$100,000 for optimization |
 | **Time Investment** | Months of effort | Rapid automated generation |
 | **Data Requirements** | Tens of thousands of specialized examples | Automated data analysis and example generation |
 | **Longevity** | Obsolete when a new frontier model debuts | Fully compatible with new model releases |
@@ -802,8 +802,8 @@ Fine-tuning a model on top of an older version (e.g., GPT-3.5) is often rendered
 
 The ARC-AGI-2 benchmark tests high level reasoning. **Poetiq** surpassed **Google**’s results shortly after their release.
 
-* **Google Gemini 1.5 Pro (DeepThink):** 45% accuracy at approximately $70+ per problem.  
-* **Poetiq (on Gemini 1.5 Pro):** 54% accuracy at approximately $32 per problem.  
+* **Google Gemini 1.5 Pro (DeepThink):** 45% accuracy at approximately \$70+ per problem.  
+* **Poetiq (on Gemini 1.5 Pro):** 54% accuracy at approximately \$32 per problem.  
 * **Outcome:** **Poetiq** achieved a 9 percentage point improvement at less than half the cost of the baseline system.
 
 ### **Humanity's Last Exam Results**
@@ -812,7 +812,7 @@ This benchmark consists of 2,500 questions written by experts across various dom
 
 * **Anthropic (Claude 3.5 Opus):** 53.1% accuracy.  
 * **Poetiq:** 55% accuracy (New SOTA).  
-* **Optimization Cost:** **Poetiq** achieved this result with an optimization run costing less than $100,000, managed by a team of only seven researchers.
+* **Optimization Cost:** **Poetiq** achieved this result with an optimization run costing less than \$100,000, managed by a team of only seven researchers.
 
 ## **Technical Methodology: Beyond Prompt Engineering**
 
@@ -1045,7 +1045,7 @@ The platform facilitates the creation of personal software and niche business ap
 
 * **Equestrian Psychology:** A clinical psychologist in Alaska built Equine, an app marrying psychology with horse riding coaching, after being quoted prohibitive prices by traditional dev shops.  
 * **Legal CRM:** A business developer in Norway built a specialized CRM for lawyers to replace spreadsheets.  
-* **SMB Automation:** Small business owners are replacing manual **WhatsApp** / spreadsheet workflows with custom apps for approximately $5,000, down from the $500,000 a traditional developer might charge.
+* **SMB Automation:** Small business owners are replacing manual **WhatsApp** / spreadsheet workflows with custom apps for approximately \$5,000, down from the \$500,000 a traditional developer might charge.
 
 ## **Economic Implications and Labor Trends**
 
@@ -1242,7 +1242,7 @@ Drawing from the success of **Keras**, [François Chollet](https://www.linkedin.
 
 ## **Executive Summary**
 
-The startup **Variance** has officially emerged from a three year stealth period, announcing a $21 million Series A funding round. Founded by former **Apple** fraud engineers, the company specializes in purpose-built AI agents designed for risk and compliance automation. **Variance** serves high profile clients, including **GoFundMe**, **Medium**, **Redbubble**, and various **Fortune** 500 companies, by automating complex tasks such as identity verification (KYC/KYB), content review, and fraud detection.
+The startup **Variance** has officially emerged from a three year stealth period, announcing a \$21 million Series A funding round. Founded by former **Apple** fraud engineers, the company specializes in purpose-built AI agents designed for risk and compliance automation. **Variance** serves high profile clients, including **GoFundMe**, **Medium**, **Redbubble**, and various **Fortune** 500 companies, by automating complex tasks such as identity verification (KYC/KYB), content review, and fraud detection.
 
 The core technological shift introduced by **Variance** is the move from deterministic, rule-based systems and specialized classifiers to self-healing agentic systems. These agents can reason across unstructured data, interact with legacy user interfaces, and conduct investigations that previously required human analysts. Despite its significant impact and processing of petabytes of data, the company maintains a lean team of 12 people, leveraging AI coding tools to maximize software output.
 
@@ -1567,7 +1567,7 @@ The traditional method of software development, which often required large teams
 
 * **Team Based Framework:** Software construction is most effective when agents are organized with specific roles and rigorous processes, mimicking the way human engineering teams have historically functioned.  
 * **Productivity Gains:** Modern agentic tools allow a single individual to build products in weeks that previously required years of work, millions of dollars in funding, and teams of ten or more engineers.  
-  "I've essentially built all of my startup **Posterous**, which took 2 years, $10 million, and 10 engineers to build"  
+  "I've essentially built all of my startup **Posterous**, which took 2 years, \$10 million, and 10 engineers to build"  
 * **The Model Bottleneck:** The primary limitation in AI driven development is not the intelligence of the models themselves, but rather how they are scaffolded. Without proper structure, models may guess at data and produce code that appears functional but contains silent errors.  
   "GStack is my implementation of the thin harness fat skills approach"
 
@@ -1999,7 +1999,7 @@ The synthesis of recursion and massive scaling is expected to define the next er
 
 ## **Executive Summary**
 
-The following document provides a detailed examination of the founding, scaling, and strategic philosophy of **Razorpay**, as articulated by its co-founder, [Harshil Mathur](https://in.linkedin.com/in/harshilmathur). Originally the first Indian company to receive investment from **Y Combinator**, **Razorpay** has grown into India's largest payments platform, processing approximately $180 billion in transaction volume. This analysis covers the company's transition from a small side project to a generational B2B entity, highlighting key themes such as the strategic utility of regulatory hurdles, the prioritization of human-centric trust in financial services, and the necessity of founder-led product vision. A critical takeaway is the company's ability to capitalize on market shifts, such as the launch of the Unified Payments Interface (UPI), and its proactive approach to integrating Artificial Intelligence to avoid the incumbent fallacy.
+The following document provides a detailed examination of the founding, scaling, and strategic philosophy of **Razorpay**, as articulated by its co-founder, [Harshil Mathur](https://in.linkedin.com/in/harshilmathur). Originally the first Indian company to receive investment from **Y Combinator**, **Razorpay** has grown into India's largest payments platform, processing approximately \$180 billion in transaction volume. This analysis covers the company's transition from a small side project to a generational B2B entity, highlighting key themes such as the strategic utility of regulatory hurdles, the prioritization of human-centric trust in financial services, and the necessity of founder-led product vision. A critical takeaway is the company's ability to capitalize on market shifts, such as the launch of the Unified Payments Interface (UPI), and its proactive approach to integrating Artificial Intelligence to avoid the incumbent fallacy.
 
 ## **The Genesis of Razorpay and Strategic Pivoting**
 
@@ -2033,10 +2033,10 @@ A defining moment for **Razorpay** occurred shortly after its launch when a part
 
 | Metric | Detail |
 | :---- | :---- |
-| **Series A Funding** | Approximately $10 to $11 million |
-| **Monthly Burn Rate** | Less than $200,000 |
+| **Series A Funding** | Approximately \$10 to \$11 million |
+| **Monthly Burn Rate** | Less than \$200,000 |
 | **Profitability Status** | Profitable early via interest on deposits exceeding burn |
-| **Market Growth** | Expanded from a $60 billion market in 2014 to processing $180 billion currently |
+| **Market Growth** | Expanded from a \$60 billion market in 2014 to processing \$180 billion currently |
 
 * **Logical B2B Growth:** Unlike B2C models that require heavy spending on customer acquisition and engagement, B2B growth is driven by logical value addition. If a product adds value, businesses pay for it, making high burn rates unnecessary for scaling.  
 * **Capital Preservation:** During the Series A phase, **Razorpay** placed its funding into fixed deposits. The interest generated covered the company's entire burn, a situation that initially frustrated investors who expected more aggressive spending.
@@ -2515,7 +2515,7 @@ The technical implementation of AI agents is insufficient without a correspondin
 
 Organizations can effectively leapfrog competitors by viewing AI token costs as an investment in a time warp.
 
-* **Cost Projection:** Spending $100,000 annually on tokens now allows a company to operate with the capabilities that will be commonplace and inexpensive by 2028\.  
+* **Cost Projection:** Spending \$100,000 annually on tokens now allows a company to operate with the capabilities that will be commonplace and inexpensive by 2028\.  
 * **Incumbent Inertia:** Many large companies, such as **Google**, often lock down context and restrict prompt access due to safety concerns, creating a competitive opening for AI native startups.
 
 ## **The Future of Software: From Deterministic to Just In Time**
@@ -2646,15 +2646,15 @@ This joint recipe offers a 5x data efficiency win, which remains constant even w
 
 ## **Executive Summary**
 
-**GigaML** is an Artificial Intelligence startup specializing in high performance customer support agents, founded by two engineers from the **Indian Institute of Technology** (**IIT**). The company journey is defined by significant strategic pivots, beginning with an Edtech concept that was rejected during the **Y Combinator** interview process before transitioning into model fine-tuning and eventually automated enterprise support. The founders notably declined high compensation roles at New York quant firms, valued at approximately $550,000, to pursue the venture. By prioritizing technical arbitrage over large sales teams, **GigaML** successfully secured major enterprise contracts with companies such as **DoorDash** and **Zepto** while maintaining a lean staff of eight employees. The company maintains an internal culture of extreme automation, claiming that AI tools allow their engineering team to operate at six to seven times the capacity of traditional organizations.
+**GigaML** is an Artificial Intelligence startup specializing in high performance customer support agents, founded by two engineers from the **Indian Institute of Technology** (**IIT**). The company journey is defined by significant strategic pivots, beginning with an Edtech concept that was rejected during the **Y Combinator** interview process before transitioning into model fine-tuning and eventually automated enterprise support. The founders notably declined high compensation roles at New York quant firms, valued at approximately \$550,000, to pursue the venture. By prioritizing technical arbitrage over large sales teams, **GigaML** successfully secured major enterprise contracts with companies such as **DoorDash** and **Zepto** while maintaining a lean staff of eight employees. The company maintains an internal culture of extreme automation, claiming that AI tools allow their engineering team to operate at six to seven times the capacity of traditional organizations.
 
 ## **Founding Origins and the Y Combinator Pivot**
 
 The founders of **GigaML** possess high caliber technical backgrounds, with one serving as a prominent hacker and **Kaggle** competitor while the other ranked third in his entire university class. Their entry into the startup ecosystem was marked by a disregard for traditional career paths in favor of high-risk entrepreneurship.
 
-* **Rejection of Conventional Success:** The founders turned down job offers from leading quant firms in New York and India. One offer was valued at $550,000, a decision that led to significant familial friction.  
+* **Rejection of Conventional Success:** The founders turned down job offers from leading quant firms in New York and India. One offer was valued at \$550,000, a decision that led to significant familial friction.  
 * **The Y Combinator Interaction:** During their interview with **Y Combinator** partner [Harj](https://www.linkedin.com/in/harjtaggar), their initial Edtech idea was dismissed. "[Harj](https://www.linkedin.com/in/harjtaggar) told us you guys are really good Engineers just pick something else and work on it"  
-* **Model Fine-Tuning Phase:** After entering **Y Combinator**, the team focused on fine-tuning large language models to reduce costs and increase speed. They achieved technical prominence by topping **Hugging Face** benchmarks and subsequently raised a $4 million seed round.  
+* **Model Fine-Tuning Phase:** After entering **Y Combinator**, the team focused on fine-tuning large language models to reduce costs and increase speed. They achieved technical prominence by topping **Hugging Face** benchmarks and subsequently raised a \$4 million seed round.  
 * **Identifying the Market Gap:** The founders realized that selling fine-tuning services was a sales intensive process rather than an Engineering one, which was incompatible with their strengths. They observed that their only growing use cases were in customer support and coding.
 
 ## **Product Capabilities and Market Performance**
@@ -2793,3 +2793,749 @@ There is a frequent temptation to purchase an existing legacy service business a
 
 The transition to AI native services represents a fundamental shift in how startups are built and how markets are served. By focusing on the process as the product and maintaining high operational rigor, founders can build generational companies in some of the largest markets in the world. Success requires avoiding the trap of human-led scaling and instead focusing on the AI operating leverage that allows for software like margins on a massive scale.
 
+# 2026-06-04
+
+# **AI Orchestration and the Future of Agentic Development**
+
+## **Executive Summary**
+
+This document analyzes the development philosophy and operational setup of [Charlie Holtz](https://www.linkedin.com/in/charlieholtz), Co-founder of **Conductor**, a **YC** Summer 24 company. The source examines the shift from traditional manual coding to agent orchestration, the technical stack supporting this transition, and the conceptual frameworks defining the next generation of software development.
+
+The transition toward AI native software development is characterized by a shift in the role of the engineer from a writer of code to a conductor of agents. Under this model, code is viewed as a transient byproduct, or sawdust, while the primary intellectual assets are the prompts and architectural intent. **Conductor** facilitates this by allowing developers to manage multiple concurrent workspaces and agents through a unified interface. Key strategies include the use of voice to code interfaces, high spend tokenmaxxing to accelerate experimentation, and the enforcement of slot free zones to preserve human written core infrastructure. This approach prioritizes gut feel and user experience over traditional metrics like lines of code or A/B testing.
+
+## **The Role of the Developer as Orchestrator**
+
+The central metaphor for modern development is the leader of an orchestra who directs various instruments to play in unison. This represents a departure from the terminal centric workflow of previous decades.
+
+* **Spatial and Visual Interfaces:** Humans are described as spatial and visual creatures who benefit from graphical user interfaces (GUIs) over command-line interfaces (CLIs). The **Conductor** interface organizes chats, review panels, and application previews into a unified layout to support this visual cognitive preference.  
+* **Agent Management:** Developers manage multiple agents across different workspaces simultaneously. This allows for rapid experimentation where many ideas are tested in parallel, though many may never be merged into the main codebase.  
+* **Voice Integration:** The use of hardware such as \$20 gooseneck microphones from **Amazon** encourages talking to computers. This allows developers to whisper commands to models like Claude to perform tasks such as merging pull requests or adjusting UI elements without disrupting an open floor plan office.
+
+## **Code as Sawdust and Slot Free Zones**
+
+A significant shift in perspective regarding the value of code is presented, distinguishing between the structure of a program and its implementation.
+
+* **Code as Sawdust:** In this framework, code is no longer the primary structure being crafted but is instead a byproduct of the descriptive process.  
+  "Code is almost like sawdust now, it used to be that code was the thing you were building, it was like the structure you were putting time into, like crafting the code, and now you're putting time into describing what you want and how you want it to be built, and the code is almost just like sawdust that comes out of that process, and like that, leads to a lot interesting conclusions."  
+* **Prompt Primacy:** Because code is ephemeral, the prompt becomes the durable asset. Future model generations can simply rerun existing prompts to generate superior code, rendering the original code secondary.  
+* **Slot Free Zones:** To prevent the AI from entering a vicious cycle of observing and producing poor code, certain areas of the codebase are designated as human only.  
+  "I think something that's really important to us, is having clear boundaries between, what we call slot free zones, and having like parts of the code base, or like parts of the documentation, that we like to know are written by a human."  
+* **Malleable Software:** Software is envisioned as being modifiable by users, similar to video game mods. While the core skeleton remains crafted by humans, users should be able to build in their own workflows and skins.
+
+## **Technical Architecture and Development Stack**
+
+The technical foundation of **Conductor** prioritizes performance and a native feel while utilizing a mix of modern languages.
+
+| Component | Technology |
+| :---- | :---- |
+| Desktop Application Framework | Tauri |
+| Backend Core | Rust |
+| Primary Development Language | TypeScript (90-95% of the desktop app) |
+| Web Application Framework | Elixir (Phoenix app) |
+| Web Renderer | Safari native renderer |
+
+### **Hardware and Model Configuration**
+
+* **Hardware:** Development is conducted on high specification hardware with 128GB of RAM to run local models such as Parakeet for text-to-speech. However, there is a deliberate effort to test on low end hardware, such as a base model MacBook from **Apple**, to ensure optimization.  
+* **Model Selection:** Claude is utilized as a creative partner for building new features, while Codex is treated as a workhorse for debugging and intense tool calling tasks.  
+* **Operational Settings:** The development environment defaults to dangerously accepting all permissions for Claude and utilizes fast mode to maximize token throughput.
+
+## **Workflow and Operational Insights**
+
+The development process at **Conductor** is opinionated and ignores traditional analytics in favor of direct usage and intuition.
+
+* **Tokenmaxxing:** High expenditure on tokens is viewed as a necessary investment for speed. During the early stages of **Conductor**, monthly token spend reached \$22,000.  
+* **Workspaces and PRs:** The app enforces a workflow where every task must exist as a workspace (abstraction of a work tree), which then becomes a pull request on **GitHub** for review. Direct file editing is discouraged, a mode referred to as caveman mode.  
+* **Human in the Loop:** Despite high AI involvement, humans must act as the architects. AI is discouraged from making UI or architectural decisions to ensure the product feels crafted rather than generic.  
+* **Gary Mode:** A specific operational mode created for power users that keeps all AI tool calls uncollapsed, providing full transparency into the agent's actions.
+
+## **Future Projections for AI Agents**
+
+The source identifies several emerging trends that will redefine how agents interact with the physical and digital world.
+
+* **Long Running Agents:** There is a projected shift toward agents that run for significantly longer durations and are not constrained by the local CPU of a laptop.  
+* **Multiplayer Collaboration:** Future exploration includes collaboration between humans and multiple subagents, as well as multiplayer chats where several humans work with AI on the same project.  
+* **Mobile Orchestration:** The ability to conduct agents on the go via mobile devices, allowing developers to trigger complex coding tasks through simple voice commands while away from their primary workstation.
+
+# 2026-06-05
+
+# **Max Junestrand on the Rapid Growth and Strategic Evolution of Legora**
+
+## **Executive Summary**
+
+The following document details the trajectory of **Legora**, a legal technology company that scaled from its inception to 100 million dollars in Annual Recurring Revenue (ARR) within 18 months. The analysis covers the organization's marketing strategies, its experience within **Y Combinator**, its product development philosophy, and its long term vision for the legal industry.
+
+**Legora** represents a significant case study in rapid enterprise scaling and market disruption. After participating in the **Y Combinator** Winter 2023 batch, the company accelerated from 1 million dollars in ARR to over 100 million dollars. Key drivers of this growth include a high profile marketing campaign featuring actor [Jude Law](https://en.wikipedia.org/wiki/Jude_Law), an aggressive sales culture, and a product strategy that has evolved from augmenting individual tasks to deploying proactive agents for complex legal transactions. The organization maintains a workforce where 15 percent of engineering and product staff are former **YC** founders, fostering a culture of high autonomy and speed.
+
+## **Strategic Marketing and Brand Differentiation**
+
+**Legora** deliberately sought to break the traditional, bland aesthetic of legal technology marketing to create a brand that commands attention.
+
+* **The Jude Law Campaign:** The company spent six months pursuing actor [Jude Law](https://en.wikipedia.org/wiki/Jude_Law) to serve as the face of their brand. Despite initial resistance from [Law](https://en.wikipedia.org/wiki/Jude_Law) regarding AI backed companies, the founders secured his involvement by demonstrating the human impact of the product through customer testimonials.  
+* **Production Quality:** [Law](https://en.wikipedia.org/wiki/Jude_Law) insisted on high production standards, bringing in a screenwriter from Saturday Night Live and the cinematographer from the film [Oppenheimer](https://en.wikipedia.org/wiki/J._Robert_Oppenheimer). The resulting campaign aimed to establish a new phase of law, moving away from typical AI powered slogans.  
+* **Omnichannel Impact:** The campaign utilized 17 distinct touchpoints. This high frequency exposure led to significant market penetration, with leads originating from unconventional sources such as the family members of legal professionals who recognized the brand.
+
+## **Y Combinator and Early Stage Development**
+
+The company's experience in **Y Combinator** was characterized by high existing revenue and an intense work ethic.
+
+* **Entry Status:** Unlike many startups in the batch that were still searching for a product-market fit, **Legora** entered with 1 million dollars in ARR and a team of 10 people. The founders experienced a mix of confidence and imposter syndrome when compared to peers from **MIT** or **Google**.  
+* **Operational Intensity:** During the batch, the team lived together in an **Airbnb**, conducting sales calls between 1:00 a.m. and 10:00 a.m. to accommodate different time zones while shipping code and attending program events.  
+* **Fundraising and Signaling:** The program provided critical signaling value for first-time founders with limited networks. After a period of investor inbound, the founders scheduled 80 meetings in a single week. This led to a partnership with **Benchmark**, a venture capital firm, following a successful pitch to partners Peter Fenton and Chetan Puttagunta.
+
+## **Sales Philosophy and Market Entry**
+
+The initial growth of **Legora** was driven by a direct, high energy sales approach that leveraged competitive pressure within the legal sector.
+
+* **The Briefcase Method:** The CEO personally conducted sales rounds in Stockholm, presenting the technology with a level of enthusiasm that was previously unseen in the legal tech market.  
+* **Tactical FOMO:** Sales tactics included informing law firms that their competitors were already using the platform, effectively framing the adoption of **Legora** as a necessity for maintaining professional standing.  
+* **Expansion Metrics:** The company grew from 40 employees to nearly 500 in one year. Operations now span global hubs including San Francisco, Chicago, New York, London, Stockholm, India, and Australia.
+
+## **Product Evolution and Technical Strategy**
+
+The **Legora** product suite has expanded from simple tools to a comprehensive ecosystem of agents.
+
+### **Core Product Pillars**
+
+The company's initial strategy involved bundling three core features to outperform specialized competitors.
+
+| Feature | Description | Competitive Context |
+| :---- | :---- | :---- |
+| Chat Agent/Assistant | A conversational AI interface for legal queries. | Positioned against general tools like ChatGPT. |
+| Tabular Review | A system for analyzing data in table formats. | Surpassed a competitor that had 50 times **Legora**'s revenue. |
+| Word Add-in | Integration within the primary legal drafting environment. | Focused on being the best tool within the document editor. |
+
+### **From Augmentation to Proactive Agents**
+
+The company identifies a shift in AI capabilities following the intelligence step change observed in late 2023\.
+
+* **Task Augmentation:** Early versions focused on helping lawyers with individual tasks.  
+* **Proactive Agents:** Current development focuses on agents that can access document repositories and emails to perform work on behalf of a partner.  
+* **End-to-End Transactions:** In large M\&A transactions, the AI can now restructure unstructured data rooms and execute due diligence based on specific templates. This process allows legal professionals to provide broad instructions while agents work in parallel.
+
+## **Organizational Culture and Future Vision**
+
+**Legora** is structured to operate in founder mode, with a heavy emphasis on autonomy and long term ambition.
+
+* **Founder Density:** By hiring former founders and CEOs to lead product departments, the company ensures that different units move at high speed without constant top-down oversight.  
+  "The only thing we need is the ambition, and at **Legora** we actually did the math. 15% of our entire engineering and product organization are **YC** founders."  
+* **Global Ambition:** The founders aim to create the largest tech company in Europe, seeking to surpass the scale of **SAP**. They view AI as a democratizing force that allows smaller law firms to compete with larger entities.  
+* **Defensibility Against Platform Giants:** When facing competition from **OpenAI**, **Anthropic**, or **Google**, **Legora** focuses on proprietary data, integrated workflow moats, and training specific user behaviors that are not natural for generalist platforms to replicate.
+
+## **Key Perspectives and Observations**
+
+The following quotes provide direct insight into the company's internal logic and the founders' mindset.
+
+"Has anybody ever looked at advertisement or marketing for a legal technology company and said, that's fucking sexy."
+
+"I use **Legora** to review a thousand agreements in one day, and I got home to see my family in time for the weekend."
+
+"The guy is perfect the only problem is that he's from fucking Sweden."
+
+"If you're ranked number 150 in the US, AI is your fucking ticket to go from 150 to 10."
+
+"In order to get anyone else to be confident that you're going to succeed, you have to be confident yourself."
+
+# 2026-06-06
+
+# **Emergent and the Evolution of AI Native Startups**
+
+## **Executive Summary**
+
+**Emergent** represents a significant shift in the software landscape, having achieved a \$100 million annualized run rate within nine months of its current product launch. The platform aims to democratize software development by enabling individuals without programming expertise to build, deploy, and monetize applications through AI agents. Originally founded as a research lab, **Emergent** established its technical credibility by ranking first on the SWE-bench coding agent benchmark. The company follows a global first strategy, operating out of Bangalore with a presence in San Francisco, and serving users in 190 countries. The success of **Emergent** is attributed to its focus on shipping functional, end to end software rather than mere prototypes, a technical philosophy described as living at the edge of AI capabilities, and operational rigor inherited from the founder's previous experience at **Dunzo**.
+
+## **Organizational Profile and Market Scale**
+
+**Emergent** has demonstrated unprecedented growth for an AI native startup coming out of India. The company focuses on the latent demand for software creation among entrepreneurs and individuals who lack technical teams.
+
+| Metric | Data Point |
+| :---- | :---- |
+| Annualized Revenue Run Rate (ARR) | Over \$100 million |
+| User Base | 8.5 million people |
+| Total Applications Built | Over 10 million |
+| Global Reach | 190 countries |
+| Primary Revenue Sources | United States and Europe (India accounts for 10%) |
+| Product Age | 9 months since current version launch |
+
+## **Technical Foundation and Innovation**
+
+The technical architecture of **Emergent** distinguishes it from traditional copilots by focusing on autonomous agents capable of completing complex engineering tasks.
+
+### **Multi-Agent Orchestration**
+
+The platform utilizes a system of coordinated agents, including specialized agents for automated testing and design. These agents communicate through a large memory system that learns from every application built on the platform. This self-learning mechanism ensures that the platform improves its efficiency and accuracy as the user base grows.
+
+### **Infrastructure Development**
+
+Because existing technology was insufficient for their goals, **Emergent** developed proprietary infrastructure, particularly in deep container technology.
+
+* The team invented disk and memory snapshotting to preserve state across multiple parallel agents.  
+* The system is designed to be model agnostic, having been rewritten three times in nine months to accommodate new classes of models.  
+* The company avoided temporary fixes for minor technical hurdles, such as JSON parsing, under the assumption that future model iterations would solve those specific issues, which allowed them to focus on core agentic behavior.
+
+### **Benchmark Performance**
+
+Before finalizing the product concept, the team focused on the SWE-bench, the primary benchmark for coding agents.
+
+"It took us 3 months to sort of crack that benchmark, became world number one on that benchmark, but that's really set us the foundation for **Emergent**, where we were able to build the world's best coding agent."
+
+## **Operational Philosophy and Living at the Edge**
+
+The development of **Emergent** was characterized by a period of six months of tinkering without a specific objective. This phase allowed the founders to identify the sparks of capability in early models like GPT-4.
+
+### **The Second Mover Advantage**
+
+While other AI website builders existed, **Emergent** identified a gap in the market regarding the quality of the final product. "What we realized was that users are actually going to want real software to be shipped." Most competitors focused on front end demos or prototypes, whereas **Emergent** prioritized back end functionality, database attachment, and hosting.
+
+### **Strategic Pivot and Focus**
+
+During their time at **Y Combinator**, the team considered various ideas, including an AI version of **Zapier**, before committing to autonomous Software Engineering. The founders argue that starting with a harder, more ambitious problem is often easier because it inspires more stakeholders and attracts high quality talent.
+
+## **Lessons from Dunzo**
+
+[Mukund](https://www.linkedin.com/in/mukund-jha-a1596413), the founder of **Emergent**, previously founded **Dunzo**, a major quick commerce and logistics company in India. This experience provided critical insights that were transitioned into the AI space.
+
+* **Solving Hard Problems:** In the early days of **Dunzo**, the company competed with 87 similar startups by focusing on the difficult logistics of the last mile, rather than just the user interface.  
+* **Operational Rigor:** **Emergent** employs a monitoring system similar to the watchtower room used at **Dunzo** to track and flag any breaks in the software building process.  
+* **Customer Obsession:** At **Dunzo**, engineers would stop their work to handle customer chats during traffic spikes, a culture of deep customer care that persists in the current venture.  
+* **The Necessity of Focus:** A key takeaway from **Dunzo** was the importance of doubling down on what works.  
+  "I think for us, the Dark Store was really working, and working really well, but at that point we were doing like 10 other things."
+
+## **Global Strategy and Future Outlook**
+
+The leadership at **Emergent** advocates for a global day zero mindset, for startups originating in India.
+
+* **Global Scaling:** The effort required to build a local company is viewed as equal to that of building a global company, making the latter more efficient for long term gains.  
+* **Talent and Location:** While 95% of the team is based in Bangalore, the company maintains an office in San Francisco to stay connected to the global tech ecosystem.  
+* **The Power of Software:** The mission is rooted in the observation that most global economic gains over the last 30 years have come from software.  
+  "If you remove all the software companies from, you know, NASDAQ and S\&P you'll see, it's been just a flat line."  
+* **Ambitious Growth:** Founders are encouraged to 10x or 100x their initial ambitions, because AI has shifted the focus from attacking the floor to attacking the ceiling.  
+  "I think starting a harder idea is easier, because you can inspire a lot more people to go after a harder problem."
+
+# 2026-06-10
+
+# **The CEO as Chief AI Officer**
+
+## **Executive Summary**
+
+The transition into an AI driven economy requires a fundamental shift in leadership, where the CEO must function as the Chief AI Officer to understand the boundaries of the technology and redefine the company's self-identity. Current AI development is likened to the invention of electricity, specifically the period six months after its introduction when ROI was unclear and most users still relied on traditional methods. Success in this environment is defined by token maxing, which refers to the aggressive consumption of AI inference, and a shift from rigid engineering harnesses to autonomous agentic loops. Organizations must address security at the network layer rather than through restricted model access, using tools such as the **Brex** open sourced CrabTrap proxy. Ultimately, the competitive advantage for founders lies in identifying signals not found in training data, such as deep customer empathy, while using AI to compress the surface area of the product.
+
+## **The Mandate for Leadership**
+
+The integration of AI is not merely a task for engineering or product teams, it requires the highest level of executive involvement. The CEO must possess a deeper understanding of the technology's limitations and possibilities than anyone else in the organization.
+
+* **Refounding the Company:** Leaders must approach their organizations as if they were being founded today with current AI capabilities. This involves a total redesign of functions rather than simply attaching AI to existing processes.  
+* **The Power of the CEO:** Only the CEO has the authority to break organizational glass and bypass the social cohesion that often prevents radical change. In larger, non-native companies, this process is equivalent to a turnaround.  
+* **Active Engagement:** Leadership must spend time on tasks that only humans can perform while delegating the rest to models.  
+  "I think the CEO needs to be the chief AI officer, like it's not an engineering team thing, it's not like a product team thing, it's like you have to understand the bounds of a technology better than anyone."
+
+## **From Factories to Agentic Loops**
+
+The prevailing method of Software Engineering is shifting from rigid, controlled environments to fluid, agentic systems that use tools and reason through problems.
+
+* **Moving Beyond the Foxconn Model:** Many engineers treat Large Language Models (LLMs) as expensive, precious resources that must be tightly controlled with complex if-statements. This is referred to as the **Foxconn** factory approach.  
+* **The Eselin Institute Approach:** Effective AI products are built as agentic loops where the model is given skills, tools, and the freedom to operate within a context.  
+* **Self-Bootstrapping Capabilities:** Modern AI harnesses, such as **OpenClaw**, allow agents to bootstrap their own capabilities through markdowns and environment configuration without manual coding.  
+  "It's funny, because I feel like every single good AI product you've used, is an agent loop with tools, that's it."
+
+## **Security and Network Layer Infrastructure**
+
+Security remains a primary barrier to AI adoption in the enterprise. **Brex** addressed this by shifting focus from the model's internal logic to the network boundary.
+
+### **The Crab Trap System**
+
+**Brex** developed and open sourced a tool called CrabTrap to manage agent security in production environments.
+
+| Feature | Description |
+| :---- | :---- |
+| **Network Proxy** | Analyzes the entire HTTP network boundary of an agent. |
+| **Auditable Traffic** | Every request made by an agent is recorded and searchable. |
+| **LLM as a Judge** | Uses a separate model to analyze traffic against a set policy to approve or deny requests. |
+| **Automated Policies** | After recording an agent's traffic for a day, the system creates a policy that can automatically approve approximately 98% of requests. |
+
+"The basic premise is you analyze your HTTP proxy, the entire network boundary of an agent and the idea is, when a request goes through that becomes auditable, and you basically can use another agent to analyze the traffic, and create a policy to let traffic go through or not."
+
+## **Organizational Adoption and Token Economics**
+
+Adoption within companies typically follows a tiered structure based on how intimately employees interact with the technology.
+
+* **Tier 1: Tokenmaxxers:** Power users, often engineers, who live inside coding harnesses and push large amounts of code.  
+* **Tier 2: Average Engineers:** Those building basic tools with significantly lower productivity gains than tokenmaxxers.  
+* **Tier 3: Search Mode Users:** The rest of the company, interacting with AI primarily through chatbots or search-like interfaces.
+
+### **Token Spend Management**
+
+As AI becomes a primary company expense, tracking and attributing spend is critical. **Brex** utilizes an internal tool called Magpie to attribute token costs to specific products, internal tools, or individual employees. This allows the company to understand the ROI of its AI investments, and manage a cost center that is expected to eventually represent a major portion of corporate budgets.
+
+"I think it will be the biggest expense in a company, easily."
+
+## **Strategic Startup Frameworks**
+
+For new companies, AI provides the opportunity to build with a different fabric from day one.
+
+* **Minimal Surface Area:** Successful companies like **Stripe**, **Airbnb**, and **DoorDash** succeeded by focusing on a very small set of customer interactions. AI should be used to compress problems into smaller, more manageable surface areas.  
+* **Identifying Out of Distribution Signals:** The primary value for a founder is finding information that is not in the model's training data. This is typically found through direct customer interaction and unspoken signals.  
+* **The AI Pill Test:** Individuals and companies are considered AI pilled when their default reaction to any problem is to solve it with AI first, even if the initial attempt is suboptimal.  
+  "I think the AI pill test in my opinion is whatever problem shows up in your life, do you default to AI first or not?"
+
+## **Product, Operations, and Corporate**
+
+A comprehensive AI strategy must address three distinct areas of the business:
+
+1. **Product AI:** Features and capabilities shipped directly to the customers.  
+2. **Operational AI:** Systems that improve the ability to serve customers at scale, including risk management, onboarding, and customer success.  
+3. **Corporate AI:** Internal systems that change how employees work, such as virtual employees that can join meetings, take notes, and manage workflows.
+
+## **Conclusion**
+
+The current state of AI is frequently compared to the early days of electricity. In the beginning, electricity was expensive, unreliable, and had poor ROI compared to established steam powered systems. However, those who focused on the long term possibilities rather than immediate cost savings, were positioned to lead the subsequent industrial transformation.
+
+"It wasn't the cost savings, it was just because people were curious about it, and I think it's, I think the point of like why, you know, I was yesterday until 2 a.m playing with slash workflows and Opus 4.8 model, and all that, is because I think, I would be doing the exact same thing if I wasn't making any money, because you just see the possibilities."
+
+# 2026-06-11
+
+# **Vidit Aatrey on the Evolution and Operations of Meesho**
+
+## **Executive Summary**
+
+**Meesho** has established itself as the leading shopping application on the Android Play Store in India, maintaining the number one position daily since July 2021\. As of 2026, the platform serves 250 million unique annual consumers and facilitates approximately 2.5 billion orders per year from a network of one million sellers. The company originated from a mission to democratize internet commerce for the Indian mass market, specifically targeting the billion people living outside Tier 1 cities. Its success is attributed to a series of five distinct product iterations, a rigid commitment to solving core consumer problems, and the agility to execute radical pivots in response to shifting technological paradigms, such as the collapse of data costs and the rise of Artificial Intelligence.
+
+## **Organizational Scale and Core Mission**
+
+The primary objective of **Meesho** is to bring every business and consumer in India into the digital ecosystem. The company focuses on the mass market, prioritizing value for money and accessibility for users who have traditionally been excluded from e-commerce.
+
+* Current User Base: 250 million unique buyers in the last 12 months, with a year over year growth rate of over 30 percent.  
+* Market Opportunity: Out of a population of 1.5 billion, only 350 to 400 million Indians currently shop online, leaving a significant untapped market.  
+* Seller Network: Approximately one million sellers currently utilize the platform.  
+* Order Volume: The platform processes 2.5 billion orders annually, averaging 10 purchases per consumer.
+
+## **The Five Versions of Meesho**
+
+The history of **Meesho** is defined by constant evolution. The founders, [Vidit Aatrey](https://in.linkedin.com/in/vidit-aatrey-a3639120) and [Sanjeev Barnwal](https://in.linkedin.com/in/sanjeev-barnwal-4099341b), shifted the business model five times to find and maintain product-market fit.
+
+### **Version 1: FashionNear**
+
+Launched in 2015, this was a hyperlocal fashion platform. It allowed local shops to list inventory for nearby customers. It was shut down after three months because the founders realized they had only spoken to sellers and ignored consumer needs. Consumers found the selection too limited compared to traditional e-commerce and disliked that they could not touch or feel products as they would in a physical mall.
+
+### **Version 2: Meesho (Meri Shop)**
+
+The second iteration was a software toolkit designed to help small businesses sell through **WhatsApp**. The founders observed that many small shops were already using **WhatsApp** groups to share product updates with customers. **Meesho** provided a shop format to manage inventory and payments. This version was taken to the **Y Combinator** Summer 2016 batch.
+
+### **Version 3: Meesho Supply (The Reselling Era)**
+
+While the **WhatsApp** toolkit had hundreds of thousands of users, small businesses were unwilling to pay for software. However, a segment of power users emerged, these were online native resellers, primarily homemakers, who used the app for drop shipping. **Meesho** pivoted to become a supplier for these resellers, providing them with a business in a box. This model achieved high retention and organic growth without marketing spend.
+
+### **Version 4: The Consumer App**
+
+In 2021, the company recognized a paradigm shift. Data costs in India plummeted and the pandemic forced a broader demographic to learn online shopping. **Meesho** decided to pivot from a reseller centric model to a direct to consumer app. Despite the risk of alienating 10 million resellers, the company launched the consumer app on July 5, 2021, and reached the number one spot on the Play Store within two days.
+
+### **Version 5: AI Driven Accessibility**
+
+The current iteration focuses on using Artificial Intelligence to reach the next 750 million users. This involves creating invisible software interfaces, such as voice agents, to remove barriers for users who are not tech savvy or find traditional app navigation overwhelming.
+
+## **Strategic Pivots and Paradigm Shifts**
+
+**Meesho** has demonstrated a unique ability to abandon successful business models when underlying market assumptions change.
+
+* Data Cost Impact: In 2016, high data costs made image heavy shopping apps difficult for rural users, giving **WhatsApp** a distribution advantage. When data costs fell toward zero, the advantage shifted back to dedicated apps.  
+* Consumer Proximity: The founders maintain that the ability to pivot successfully stems from being closer to the consumer than the competition. This proximity allows for contrarian bets that others may find too risky.  
+* Reseller Conflict: Moving to a direct to consumer model was highly controversial because it intermediated the 10 million resellers who were the core of the business. The leadership determined that a long term view was necessary to avoid obsolescence.
+
+## **AI and the Accessibility Axis**
+
+The company views the current rise of Artificial Intelligence as a moment equivalent to the mobile internet wave of 2015-2016. Innovation at **Meesho** is categorized into two axes:
+
+1. Affordability: Utilizing different logistics models and e-commerce structures to provide products at lower price points for budget conscious consumers.  
+2. Accessibility: Using AI to bridge the gap for users in rural areas who struggle with reading, typing, or understanding digital concepts like ratings and add to cart buttons.
+
+A core project in this area is Vaani, a voice AI product. The goal is an experience where a consumer never has to read, type, or click a button. Instead, users interact via voice and images to browse and transact, making the software effectively invisible.
+
+## **Direct Quotes**
+
+"We basically built it for mass India from day one, we really started with a very simple mission of how do we democratize internet commerce for a billion consumers, each and every business in India, and that's what we've been at last 12 months, we had about 250 million consumers buying from us, close to a million sellers"
+
+"I think the the journey has been this right, like you sometimes have a cool learning and sometimes you have these stupid learnings, but you keep evolving your product, I feel good about one thing, that we did not spend a year or two on that idea, we basically shut it down in 3 months"
+
+"Unless you see product-market fit, you never know what product-market fit, can you tell us a little bit about what that felt like"
+
+"It's hard to kill your existing business and start a new one, we did it and I remember it was mid of 2021, so on July 5th 2021 we launched our app, we went number one in the shopping section of Android Play Store in India"
+
+"Be problem first, be very rigid with your problem, and be very flexible with your solution, and I think our journey has been the same thing"
+
+"You have to let go of the past baggage, what you have to, it doesn't matter, you have to take a long term view and do the right thing, even if it is disruptive in the short term, you do it"
+
+# 2026-06-12
+
+# **Frontier AI Research: Biology, Self-Play, Verified Systems, and Agentic Workflows**
+
+## **Executive Summary**
+
+This document summarizes a series of presentations hosted by **Y Combinator** regarding the current trajectory of Artificial Intelligence research. The source covers five primary domains, AI for biology, selfplay mechanisms for large language models, real-time voice agents, verified mathematics through Lean (programming language), and agentic software engineering.
+
+A central theme across these presentations is the application of the bitter lesson, which posits that general methods leveraging scale and compute eventually outperform hand-engineered domain expertise. This is evidenced by new protein language models from **Biohub** that achieve structural prediction accuracy comparable to specialized systems like AlphaFold. Furthermore, research into selfplay demonstrates that models can generate their own training signal to surpass human-level performance, provided that the synthetic data is governed by a guide to prevent the accumulation of low quality or artificially complex tasks.
+
+In the realm of applied development, the transition toward voice AI necessitates new architectures like streaming RAG to minimize latency. Simultaneously, the rise of verified intelligence via the Lean language suggests a future where code and scientific proofs are mathematically guaranteed. Finally, the shift toward agentic workflows is reframing software engineering as a high speed, parallelized activity analogous to real-time strategy games, where the primary constraint is human cognitive bandwidth rather than individual coding speed.
+
+## **The Bitter Lesson in Protein Biology**
+
+Research presented by [Yasa Baig](https://www.linkedin.com/in/yasab), a PhD student at **Stanford** and researcher at **Biohub**, explores how scaling laws apply to biological problems, specifically protein structural biology. The core objective is to determine if the large language model recipe of scaling compute and data translates to the biological domain.
+
+### **ESM Cambrian and Scaling Laws**
+
+The ESM (Evolutionary Scale Modeling) series of models, originally developed at **Meta** and continued at **Biohub**, utilizes a masked language modeling objective on protein sequences.
+
+* **Data Scaling:** Previous models like ESM2 experienced a plateau in performance. The latest iteration, ESMC (ESM Cambrian), overcame this by expanding the dataset from 50 million to 2.8 billion samples, including metagenomic data from diverse environments.  
+* **Emergent Structure:** By training purely on sequence data, the model learns to predict long distance protein contacts without explicit structural training. This follows a log-linear scaling curve similar to that seen in natural language processing.  
+* **Comparison to Specialized Systems:** ESMFold2 achieves structural prediction accuracy near that of AlphaFold 3 on general protein complexes without requiring multiple sequence alignments (MSAs). For certain tasks, such as antibody design, the sequence only approach performs comparably or better due to the limited sequence variation in known antibody structures.
+
+### **Mechanistic Interpretability in Biology**
+
+Using sparse autoencoders, similar to research conducted by **Anthropic**, researchers have identified monosemantic features within protein models.
+
+* **Feature Hierarchy:** The models organize their latent space into a hierarchy ranging from individual amino acids to structural motifs and full protein functional roles.  
+* **Nucleophilic Elbow:** The model independently identified this specific catalytic domain, which has evolved multiple times in unrelated proteins, indicating a deep learning of biological intuition rather than mere memorization.
+
+## **Scaling Self-Play with Self-Guidance**
+
+[Luke Bailey](https://www.linkedin.com/in/luke-bailey-0a978a1a0/) from the Tatsu Lab presented work on Scaling Self-Play with Self-guidance (SGS), focusing on moving beyond the limitations of human-generated training data.
+
+### **The Self-Play Architecture**
+
+Traditional Reinforcement Learning (RL) relies on predefined tasks, which can lead to performance plateaus once a model masters the available environments. Self-Play involves a model acting as both a conjecturer (generating tasks) and a solver (attempting them).
+
+* **The Plateau Problem:** Vanilla self-play often fails because the conjecturer learns to produce messy, artificially complex, and useless problems simply to reduce the solver's success rate.  
+* **Self-Guided Self-Play (SGS):** To solve this, a third role called a guide is introduced. The guide ensures that synthetic tasks remain related to high-quality target problems and are not overly complex.  
+* **Performance Gains:** Using SGS, a 7 billion parameter model was able to reach the performance levels of a 70 billion parameter model after eight times the compute investment in selfplay.
+
+## **Real-Time Interaction via Stream RAG**
+
+[Arnab Maiti](https://www.linkedin.com/in/arnab-maiti-ab9446203), a researcher at **Giga**, addressed the latency challenges inherent in voice-based AI agents.
+
+### **Minimizing Latency in Voice AI**
+
+Standard Retrieval-Augmented Generation (RAG) is often too slow for natural conversation, as it typically waits for a user to finish speaking before initiating a search.
+
+* **Fixed Interval Streaming RAG:** This method divides audio into blocks and runs retrieval on each block as it arrives.  
+* **Trigger-Based RAG:** A more efficient approach involves fine-tuning a model to decide when a specific chunk of audio contains enough critical information to trigger a retrieval query.  
+* **Results:** Implementing these streaming techniques can reduce latency by 0.5 to 1.5 seconds while maintaining accuracy levels comparable to post-query RAG.
+
+## **Verified Intelligence and the Lean Ecosystem**
+
+[Robert George](https://www.linkedin.com/in/robertljg) from Caltech presented on the use of Lean, a functional programming language and interactive theorem prover (ITP or proof assistant) to create verified intelligence.
+
+### **The Shift to Verifiable Coding**
+
+As AI generates more code, the cost of bugs increases. There is a proposed shift from wide coding, focused on volume, to very coding, focused on formal verification.
+
+* **Lean and Mathlib:** Lean is supported by Mathlib, a massive library of formalized mathematics. Recent breakthroughs by **OpenAI** and **DeepMind** in solving International Mathematical Olympiad (IMO) and Erdős problems have utilized formal verification to ensure correctness.  
+* **TorchLean:** This project provides a framework for writing neural networks natively in Lean, allowing for the verification of properties like permutation invariance in attention mechanisms and floating-point arithmetic.  
+* **Software Verification:** Researchers have used Lean to prove that specific hardware nondeterminism and floating-point errors can flip the final output of an LLM, highlighting the importance of kernel level verification.
+
+## **Agentic Programming as a Real-Time Strategy**
+
+[Luke Orthwine](https://www.linkedin.com/in/lborthwein), CEO of **Channel AI**, outlined a philosophy for Software Engineering that treats the use of AI agents as a real-time strategy (RTS) game.
+
+### **The RTS Paradigm for Engineering**
+
+Modern programming with agents like **Claude** requires a shift from linear, thoughtful design to high parallelism and rapid feedback loops.
+
+* **Macro over Micro:** Prioritizing the spawning of many agents to handle multiple tickets simultaneously. Even if agents make mistakes, the cost of human course correction is lower than the cost of waiting for a single agent to be perfect.  
+* **High APM (Actions Per Minute):** Success is correlated with the number of tool calls and decisions made per minute. Engineers at **Channel AI** track their APM to ensure they are maximizing their cognitive capacity.  
+* **Environmental Cues:** The use of audio cues, such as sound effects from Warcraft or Starcraft, helps engineers monitor multiple parallel agent sessions without constant visual auditing.  
+* **Results:** By adopting these agentic workflows, **Channel AI** reported a 3.5x increase in pull requests (PRs) per engineer.
+
+## **Key Data Points**
+
+### **Comparative Performance Table**
+
+| Model / Method | Context / Metric | Performance Detail |
+| :---- | :---- | :---- |
+| ESMC (ESM Cambrian) | Protein Structure Prediction | Near par with AlphaFold 3 on complexes; beats it on antibodies. |
+| SGS (7B Model) | Math Problem Solving | Reaches 70B model performance levels with 8x selfplay compute. |
+| Stream RAG | Latency Reduction | Reduces voice agent response time by up to 1.5 seconds. |
+| **Channel AI** Workflow | Engineering Throughput | 3.5x increase in PRs per engineer per month. |
+
+### **Notable Quotes**
+
+"Knowledge systems win at first, but then eventually, sort of these, like big large dumber models, will win in the long run."
+
+"I think that AlphaZero, unbiased by humans meandering, is the way we'll get to much more intelligent systems, maybe even dare to say AGI."
+
+"The answer is like, do these models learn with scale and this data, at least suggests that the answer is, like yes."
+
+"In principle nothing bounds learning."
+
+"The code is often like a really expensive source of truth for the agents to pull context out of, and it's actually really cheap, especially when you have all the context loaded in memory to aggressively document things, in a way that benefits future agents."
+
+"Satisficing is a word from economics, is like do things, satisfy like enough but not perfect, really, really key principle for like everything."
+
+# 2026-06-15
+
+# **Lalit Keshre on the Growth and Operational Philosophy of Groww**
+
+## **Executive Summary**
+
+The growth of **Groww**, a generational consumer fintech company in India, is defined by a transition from initial product failure to a dominant market position through extreme customer transparency and organic word of mouth. Originally launched as a robo-advisory service in 2016, the company pivoted after realizing Indian customers prioritized selection and transparency over automated advice. **Groww** has achieved significant scale, including a public listing in November 2023, by adhering to a core philosophy of customer obsession, playing strictly within regulated zones, and maintaining a zero commission model for its first four years. Key takeaways include the necessity of founders being power users of their own products, the value of reducing business risks to a single question mark, and the importance of alignment in founder value systems.
+
+## **Origins and Iterative Development**
+
+The founding of **Groww** was preceded by multiple failures, including student startups and an initial iteration as a robo-advisor. The transition to the current format was driven by observing customer behavior and identifying a gap in the Indian investment market.
+
+### **From Failure to Product-Market Fit**
+
+* **Initial Concept Failure:** In 2016, **Groww** attempted to replicate the success of US based robo-advisors like **Wealthfront** and **Betterment**. Despite the large population of potential investors in India, the model did not gain traction.  
+* **The Pivot to Selection:** Customer feedback indicated a desire for transparency and choice rather than managed portfolios. This led to a model inspired by **Flipkart**, focusing on full transparency and a wide selection of products.  
+* **Achieving Product-Market Fit:** The revamped product launched in May 2017\. While the founders hoped for 100 customers in the first month, they acquired 600, signaling strong product-market fit (PMF).  
+* **Organic Growth:** Early growth was nearly 100 percent organic. Even at its current scale, **Groww** relies primarily on word of mouth and referrals rather than paid acquisition.
+
+## **Customer-Centric Product Philosophy**
+
+The operational ethos of **Groww** is centered on high engagement customer feedback loops and a commitment to design.
+
+### **Deep Customer Engagement**
+
+Founders engaged in unscalable activities to gather signals, including:
+
+* Creating personal **WhatsApp** groups for every user who signed up.  
+* Engaging with potential users on platforms like **Quora**.  
+* Physically visiting locations such as movie theaters to talk to people.
+
+"Most of the time, you would not build what the customer is directly asking, but you read between the lines."
+
+### **The Power User Mandate**
+
+A central commandment at **Groww** is for founders and employees to be power users.
+
+* The CEO spends approximately two hours a day using the product, and another two hours talking to customers.  
+* Product quality is judged by the strength of the user's reaction.  
+  "Some people should say, oh this is just awesome, I love it, or they should say, this is terrible, I hate it, right, both of these are okay, if it is, don't care that is the problem, right, because then it means that customers does not care about what you launched."
+
+## **Strategic Choices and Monetization**
+
+**Groww** made counterintuitive decisions regarding regulation and revenue that eventually facilitated long term stability.
+
+### **Regulatory and Strategic Variables**
+
+The company opted to operate exclusively in regulated zones to remove variables and simplify execution. This involved obtaining necessary licenses early, rather than operating in grey areas of the law.
+
+### **The Monetization Lever**
+
+**Groww** operated as a zero revenue company for its first four years. The decision to move from commission based mutual funds to zero commission direct mutual funds was driven by power users.
+
+* **CAC and Retention:** The bet was based on the premise that a product with zero customer acquisition cost (CAC), high retention, and high engagement would eventually find a path to profitability.  
+* **Stock Trading:** The introduction of stocks, requested by the customer base, served as the primary monetization lever.  
+  "If a product has very low CAC which is like almost organic zero CAC, you can say if it has very high retention, if it has very high engagement, and very high customer love, and other thing is if you are moving lot of money, it is kind of very hard to find a company that does not make money."
+
+## **Technology and the Impact of AI**
+
+The barrier to building consumer experiences is shifting due to advancements in technology and AI tools.
+
+| Aspect | Traditional Model | AI Enabled Model |
+| :---- | :---- | :---- |
+| **Team Size** | Requires 10 to 15 people (Engineers, PMs, Designers, Ops). | A single person can handle multiple functions. |
+| **Execution** | Heavy focus on housekeeping and specialized roles. | The barrier to doing something has gone down significantly. |
+| **Focus** | Management of overhead and specialized tasks. | Direct focus on understanding customer needs and wants. |
+
+The use of coding tools has allowed leadership to stay closer to the ground, enabling them to imagine new possibilities without being distanced by layers of management.
+
+## **Governance and Founder Alignment**
+
+**Groww** is managed by four co-founders who maintain high urgency and consensus through a structured relationship.
+
+### **Values vs. Strategy**
+
+The founding team differentiated between permanent values and flexible strategies.
+
+* **Value Systems:** These are considered permanent and were written in a detailed document at the start.  
+  "The value system is like something written with a pen, and then the Strategy can continue changing year on year, like it is like something written in pencil."  
+* **Ownership:** Each founder has clear accountability for specific domains (e.g., tech, finance, product), even if they performed all roles in the early stages.  
+* **Conflict Resolution:** Macro decisions have a designated owner to resolve potential stalemates.
+
+## **Wealth Management**
+
+As the customer base ages and accumulates capital, **Groww** is evolving its product suite to match.
+
+* **Wealth Evolution:** Customers who joined at 25 are now 35 with significantly more wealth and different financial needs.  
+* **Product Journey:** The company is focusing on wealth management to ensure that smart, prudent investors do not move to alternative products as their portfolios grow.  
+* **Engagement with Youth:** **Groww** remains focused on being the preferred choice for new investors entering the market at age 18\.
+
+# 2026-06-17
+
+# **Selecting and Committing to Startup Ideas**
+
+## **Executive Summary**
+
+The process of building a successful startup begins with a transition from abstract ideation to concrete commitment. Analysis of founder performance at **Y Combinator** suggests that the most significant obstacle to progress is overthinking, which often manifests as a search for a perfect idea or a perceived lack of founder market fit. To generate high quality data and move forward, founders must commit to a single idea, burn other boats, and immerse themselves deeply in a specific domain. In the current technological landscape, particularly within AI, high potential ideas are characterized by verticalization, extreme ambition, and a focus on solving structural bottlenecks at the edge of model capabilities. Even if an initial idea fails, the process of going deep provides the unambiguous data and structural insights necessary to identify more viable opportunities underneath the surface.
+
+## **The Pitfalls of Overthinking**
+
+Founders frequently struggle to commit to a single concept, often believing they should wait for an ideal opportunity or that they lack the necessary domain experience. These impulses, while common, represent failure modes that prevent meaningful progress.
+
+### **The Myth of the Perfect Idea**
+
+It is impossible to identify a perfect startup idea through abstract contemplation. Progress is only achieved by making contact with reality and soliciting direct customer feedback. Waiting for a perfect idea often results in stagnation.
+
+### **Redefining Founder Market Fit**
+
+Founders often weaponize the concept of founder market fit against themselves, assuming they need decades of experience before starting. However, deep knowledge can be developed rapidly through intensive customer engagement and curiosity.
+
+[Blake Scholl](https://www.linkedin.com/in/blakescholl), CEO of **Boom Supersonic**, transitioned from adtech roles at **Amazon** and **Groupon** to commercializing supersonic flight. Curiosity and deep dives into a subject can outweigh a lack of formal background.
+
+### **The Danger of Parallel Ideation**
+
+Juggling multiple ideas simultaneously is a common strategy used to hedge bets, but it consistently produces bad data. Without deep focus, founders receive weak signals, which may lead to prematurely abandoning good ideas or continuing with bad ones.
+
+## **The Methodology of Going Deep**
+
+Success requires a total commitment to one direction, a process described as burning the other boats. This single minded focus, allows a founder to gain the domain expertise necessary to build a viable business.
+
+### **Total Commitment and Identity**
+
+Going deep involves explicitly foreclosing other options and signaling this change to customers. The transition should involve a complete change in internal and external narratives, including company names, websites, and mission statements.
+
+**GovDash**, a company helping customers win government contracts, pivoted five times. During each pivot, the founders changed their company name and email addresses to reflect their new mission. This level of commitment allowed them to become experts in government procurement, eventually leading to a successful Series B funding round.
+
+### **Benchmarks for Domain Expertise**
+
+To determine if they have gone deep enough, founders should ask if they could run their customer's business. This requires knowing:
+
+* Daily crises and top five operational problems.  
+* The specific financial impact of missed opportunities, such as unanswered phone calls.  
+* The exact price a customer would pay to solve a specific pain point.  
+* Whether they could teach a class on the problem they are solving.
+
+### **The Product Feedback Loop**
+
+Founders should not wait to talk to hundreds of customers before writing code. Instead, they should operate in a tight loop:
+
+1. Develop a deep understanding of customer needs.  
+2. Deliver a product.  
+3. Use concrete data from product usage to gain a deeper understanding.  
+4. Improve product delivery based on that understanding.
+
+## **Qualities of High Potential Ideas**
+
+In the current era, the cost of producing software is decreasing, shifting value toward customer trust, regulatory permissions, and outcome ownership.
+
+| Quality | Description |
+| :---- | :---- |
+| Edge of Capabilities | The product should sit at the edge of what current models can do, improving as frontier models advance. |
+| Verticalization | Founders should sell outcomes, such as insurance or medical care, rather than just software. |
+| Extreme Ambition | Pursuing a wildly ambitious idea costs roughly the same in time and effort as a modest one, but offers better protection and talent attraction. |
+
+### **Case Study: Corgi Insurance**
+
+**Corgi Insurance**, a company from the **Y Combinator** Summer 24 batch, exemplifies verticalization and ambition.
+
+* They aimed to own the entire commercial insurance stack, from underwriting to customer service.  
+* During their batch, they took the unprecedented step of acquiring an insurance carrier.  
+* By being a full stack insurer rather than just a software provider, they own all economics and can offer better pricing with fewer employees.
+
+## **Validating Failure and Finding the Pivot**
+
+The objective of going deep is not only to validate a specific idea, but to find the best possible idea in a given space.
+
+### **Generating Unambiguous Data**
+
+Even if an idea fails, the founder gains real conviction based on actual customer data. This prevents them from spinning their wheels, or dabbling in ideas that lack a hair on fire problem.
+
+### **Finding Structural Problems**
+
+Surface level pain points are rarely the basis for the best companies. By working at the forefront of technology and pushing into a domain, founders identify deeper structural problems, gaps in development tools, or bottlenecks that reveal the actual company to be built.
+
+"Going deep isn't primarily a process for validating the idea you started with, it's a way to find the better idea underneath."
+
+## **Conclusion**
+
+The primary failure mode for early stage founders is the inability to make a decision. Walking fast in one direction, even if it is not the final destination, generates more information per unit of time than cautious sampling of multiple ideas.
+
+"The worst failure mode isn't being wrong, it's not making a decision, spinning your wheels, dabbling between ideas and never going deep enough on any one of them to learn anything."
+
+# 2026-06-19
+
+# **The Rise of the Experienced Solo Founder and the Ploy Marketing Platform**
+
+## **Executive Summary**
+
+The emergence of advanced Artificial Intelligence has facilitated a significant shift in the startup landscape, leading to what is described as the age of the 40 year old solo founder. This era is defined by experienced professionals leveraging AI to perform the work of entire departments, essentially replicating their expertise at scale. A primary example of this shift is **Ploy**, a new startup founded by [Bryant Cho](https://www.linkedin.com/in/bryantchou), the co-founder and former CTO of **Webflow**. **Ploy** is an AI driven marketing platform designed to automate website creation, brand design, and growth operations. By imbuing the platform with deep industry knowledge, **Ploy** aims to democratize marketing for small businesses and startups, allowing them to compete with larger organizations by putting their marketing on autopilot.
+
+## **The Ploy Platform and Technical Innovations**
+
+**Ploy** is positioned as more than a simple website builder, it is described as a company brain for marketing that integrates web design with data-driven growth strategies.
+
+### **The Ploy Slurper and Design Consistency**
+
+One of the core technical achievements of the platform is the **Ploy** Slurper, a tool developed using approximately \$750,000 worth of tokens.
+
+* The Slurper is a deterministic method used to take an existing website and extract a complete design system, including all components.  
+* This ensures that subsequent AI generations remain on-brand with consistent fonts, buttons, and layouts, preventing the design drift often seen in other AI coding tools.  
+* The system is capable of recreating a modern, responsive website from an old URL in approximately 75 seconds, performing the equivalent work of a team of three to five engineers.
+
+### **Integrations and Automated Operations**
+
+**Ploy** functions as a centralized hub by connecting to various systems of record and creative tools.
+
+* It features integrations with over 50 tools, including **GitHub**, **Figma**, analytics platforms, CRMs, and spreadsheets.  
+* The platform can automatically generate product pages from screenshots or project management specifications.  
+* It operates autonomously while the user is away, checking **Google** Search Console and pipeline data nightly to offer suggestions or identify active target accounts engaging with the site.
+
+### **The Anti-Slop Approach to Design**
+
+To avoid the common aesthetic failures of AI generated content, often referred to as AI slop, **Ploy** utilizes a curated lookbook.
+
+* The platform contains a collection of 3,500 prompts for web designs that reflect the frontier of the industry.  
+* By providing the AI with high quality context and specific guardrails, **Ploy** eliminates typical AI tells, such as the overuse of specific layout rules and rounded corners.  
+  "These models are essentially the factories for human creativity, and that is essentially what I want to be able to deliver for digital marketing."
+
+## **The Evolution of the Founder Role**
+
+The transition from the traditional startup model to AI, native development has fundamentally changed how founders build and scale companies.
+
+### **The Value of Lived Experience**
+
+While the previous wave of AI adoption focused heavily on young founders, the current environment benefits those with extensive industry backgrounds.
+
+* Experienced founders possess the taste and judgment required to steer boundless intelligence toward world-class outcomes.  
+* Expertise allows a founder to skip the trial and error phase of the idea maze because they already understand customer buying patterns and regulatory hurdles.  
+  "I think this is where folks with experience, folks that have spent, you know, decade plus in this industry, they know how to create something like this, because they can leverage the model's underlying capability to create something that is just world-class."
+
+### **AI as a Force Multiplier**
+
+AI allows a single founder to replicate themselves hundreds of times over.
+
+* In previous eras, a second time founder like [Parker Conrad](https://www.linkedin.com/in/parkerconrad) of **Rippling** (and formerly **Zenefits**) had to hire a large team and spend years in development before a major launch.  
+* In the current era, a solo founder can generate millions of lines of logical code, achieving in days what would typically take an engineer a year.  
+* This capability allows for a level of abundance where founders can focus on high level thinking while agents handle transcription, CRM updates, and email follow-ups.
+
+## **Strategic Market Positioning**
+
+**Ploy** is designed to address the unmet opportunities of small business owners and founders who struggle with the technicalities of growth.
+
+### **Target Audience and Pain Points**
+
+Instead of targeting software engineers who frequently change tools, **Ploy** focuses on small businesses and startups with critical pain points.
+
+* Many founders are great technologists but struggle to tell their story or manage SEO and marketing.  
+* **Ploy** demystifies growth by automating arduous tasks such as creating structured schema markups, FAQ sections, and bot accessible content.  
+* The platform aims to make it easier for businesses to be found not just by humans, but by AI agents through AI Engine Optimization (AEO).
+
+### **Comparison of Business Models**
+
+The following table contrasts the development of **Webflow** with the development of **Ploy** to illustrate the shift in the industry.
+
+| Feature | Webflow (2013) | Ploy (2025/2026) |
+| :---- | :---- | :---- |
+| **Primary Goal** | Democratize web design/development | Democratize marketing and growth |
+| **Core User** | Professional freelance designers | Tens of millions of small business owners |
+| **Creation Method** | Manual visual coding of CSS/HTML | AI intent and context, driven generation |
+| **Scaling** | Required hiring hundreds of employees | AI, native operations with minimal staff |
+| **Market State** | Competitive with \~8 major builders | Focused on AI primitives and outcomes |
+
+## **Future Outlook**
+
+The trajectory of the web suggests a move toward a high volume of small, efficient businesses rather than a few massive dominant companies. In this future, entrepreneurship becomes a more vital part of the economy.
+
+* **Agentic Discovery:** A significant future development for **Ploy** is making the platform accessible to AI agents, allowing them to sign up and use the tool directly.  
+* **Outcome-Based Software:** The industry is moving away from general-purpose models toward opinionated purpose-built solutions that guarantee specific business outcomes.  
+* **The Power of Focus:** Experienced founders can now use their background to focus AI's capabilities like a magnifying glass.  
+  "It takes a while for a startup to catch fire, but I feel like I am standing outside with the magnifying glass under the blazing sun, and I am able to focus it, and I am able to focus all my experience, background, knowledge of the customer base, knowledge of their buying patterns, knowledge of these cycles, and just catch something with fire."
