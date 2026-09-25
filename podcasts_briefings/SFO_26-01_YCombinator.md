@@ -3166,7 +3166,7 @@ A core project in this area is Vaani, a voice AI product. The goal is an experie
 
 # 2026-06-12
 
-# **Frontier AI Research: Biology, Self-Play, Verified Systems, and Agentic Workflows**
+# **YC Paper Club: Biology, Self-Play, Verified Systems, and Agentic Workflows**
 
 ## **Executive Summary**
 
@@ -3539,3 +3539,323 @@ The trajectory of the web suggests a move toward a high volume of small, efficie
 * **Outcome-Based Software:** The industry is moving away from general-purpose models toward opinionated purpose-built solutions that guarantee specific business outcomes.  
 * **The Power of Focus:** Experienced founders can now use their background to focus AI's capabilities like a magnifying glass.  
   "It takes a while for a startup to catch fire, but I feel like I am standing outside with the magnifying glass under the blazing sun, and I am able to focus it, and I am able to focus all my experience, background, knowledge of the customer base, knowledge of their buying patterns, knowledge of these cycles, and just catch something with fire."
+
+# 2026-06-22
+
+# **Acquiring the First Ten Customers**
+
+## **Executive Summary**
+
+The acquisition of the first ten customers for a startup requires a transition from automated, scalable strategies to highly manual, unscalable tactics driven personally by the founders. Successful early stage sales are divided into distinct phases based on the level of existing trust and the nature of the outreach. The first three customers almost exclusively originate from a founder, personal network, including friends, former colleagues, and classmates. Customers four through ten are typically secured through intensive, manual efforts such as in-person visits, participation in niche online communities like **Reddit**, and hosting micro events.
+
+The core of early customer acquisition is not the mastery of sales tools but the willingness to engage in activities that do not scale. Foundational success depends on identifying exactly where target buyers spend their time, which often lies outside of traditional digital channels like email or **LinkedIn**. Founders are advised to prioritize relationship building through requests for advice or mentorship rather than direct sales pitches. High volume automation tools such as **Apollo** or **Clay** should generally be reserved for the stage when a company has already secured 10 to 20 quality customers and refined its value proposition.
+
+## **Customer Acquisition Phases**
+
+The process of finding early adopters follows a predictable pattern based on the degree of separation between the founder and the prospect.
+
+| Phase | Customer Count | Primary Source/Tactic |
+| :---- | :---- | :---- |
+| Personal Network | 1 to 3 | Friends, former colleagues, and classmates. |
+| The Messy Middle | 4 to 10 | Unscalable manual work, including in-person visits, **Reddit** DMs, and micro events. |
+| Scaling | 10 to 50 | High volume outreach tools, refined pitches, and case studies. |
+
+"Customers one through three almost always come from your personal network, again friends, former colleagues, people one intro away, in my founder survey there were basically no counter examples to this pattern, of how people found their first few customers."
+
+## **Tactical Channel Identification**
+
+Before selecting tools or channels, founders must determine where their target customers actually spend their time. Defaulting to cold email and **LinkedIn** is a common mistake because these channels are easy to automate from a laptop, yet they are ineffective if the buyer does not prioritize their inbox or professional social media.
+
+* **Legacy Industries:** Buyers such as school administrators, property managers, or truck dispatchers often do not spend their day on a computer. For these segments, traditional digital outreach may result in poor open and reply rates.  
+* **The Trade Show Advantage:** In-person industry events can be significantly more effective than digital outreach. One founder in a legacy industry closed more business in three days at a trade show, than in three months of sending emails.  
+* **Customer Profiling:** Founders should spend an hour answering concrete questions about a buyer's average day, including their conference attendance, their use of **Reddit** or **LinkedIn**, and their reliance on peer recommendations or industry newsletters.
+
+## **Leveraging the Warm Network**
+
+The first few sales are rooted in trust rather than product quality alone. Early adopters take a bet on the person building the product.
+
+* **Hierarchy of Outreach:** Founders should first contact personal connections, then move to second degree connections on **LinkedIn**.  
+* **Intros and Search Tools:** Specificity is required when asking for introductions. Tools like **Happenstance**, a **Y Combinator** company, allow founders to search their extended network using natural language to find relevant prospects.  
+* **The Efficiency of Intros:** One founder reported closing half of her customers during a **Y Combinator** batch through **LinkedIn** introductions.  
+* **Avoiding Premature Automation:** "If you haven't worked your network you're skipping the lowest hanging fruit."
+
+## **Physical Presence and Micro Events**
+
+Showing up in person is described as a tactic that works better than almost anything else, despite being slow, expensive, and potentially awkward.
+
+* **Direct Sales Visits:** Success often requires extreme persistence, such as flying to meet a buyer multiple weeks in a row or visiting offices uninvited.  
+  "For the first 10 customers, there really is no tool that can replace being in the same room as your buyer."  
+* **Small Conferences:** Industry specific conferences offer higher conversion rates than cold emails. A mini playbook for these events involves obtaining the attendee list, emailing them to fill back to back 15 minute meeting slots, and following up during the event.  
+* **Micro Events:** Small, founder-led dinners or happy hours for six to ten ideal prospects are highly effective. These events, often costing \$50 to \$100 per head, create a personal connection that makes it difficult for prospects to ignore future communications.
+
+## **Community Engagement and Problem Forums**
+
+For consumer products or small business tools, founders should find online spaces where potential customers complain about the problems the product solves.
+
+* **Reddit and Facebook:** Founders can find old threads where users express pain and message commenters individually. While this carries a risk of being shadowbanned from subreddits, it can serve as a primary source for the first ten customers.  
+* **Public Pain Points:** Beyond **Reddit**, founders should monitor **Discord**, **YouTube** comments, and industry specific message boards.  
+* **Long-Term Value:** Postings in these communities often persist in **Google** search results, providing value for years.
+
+## **Outbound Tools and Framing**
+
+Once the warm network and manual community work are exhausted, founders must transition to outbound efforts.
+
+### **Core Tooling**
+
+* **Apollo:** A common starting point that functions as a lead database with email finding and sequencing capabilities.  
+* **Clay:** Used for advanced research and enrichment, such as qualifying leads based on specific software usage or recent **LinkedIn** activity.  
+* **LinkedIn Premium:** A significant source of fresh data. A successful strategy involves sending a connection request without a message, followed by a DM once accepted.
+
+### **Engagement Framing**
+
+Effective early outreach is often framed as a request for advice, mentorship, or a product review rather than a sales pitch.
+
+* **Mentorship:** Contacting industry CEOs for advice can lead to long term customer relationships.  
+* **User Research:** Conducting extensive interviews to test hypotheses can build a pipeline of prospects who have already articulated their needs.  
+* **Paid Feedback:** In markets with high contract values, paying professionals, such as lawyers, their hourly fee for product feedback can yield high conversion rates.  
+* **Free Consulting:** Offering whiteboarding sessions or architecture reviews can naturally lead to the implementation of the founder, product.
+
+## **Outreach Copy and Communication Best Practices**
+
+The specific copy of an email is often less important than the brevity and the clarity of the request.
+
+* **Length and Tone:** Emails should be under 75 words to avoid looking like they were generated by an LLM. Founders should read their emails out loud to a friend to ensure they sound like something a human would actually say.  
+* **Call to Action:** Every message must have one clear request, such as a 15 minute demo or a specific reply, to prevent the prospect from assuming the meeting will be a waste of time.  
+* **Value First Approach:** High converting outreach often provides value before asking for anything. This can include performing a vulnerability scan, conducting a mobile app walk through, or preparing a specific audit note for the prospect.  
+* **Persistence:** Following up three to four times over a two week period is considered the ideal frequency.
+
+"The first 10 customers will likely not come from a tool, they're going to come from you manually tapping into your network and showing up."
+
+# 2026-06-25
+
+# **Mark Pincus on Consumer Product Strategy and the AI Innovation Frontier**
+
+## **Executive Summary**
+
+The following document provides a comprehensive synthesis of the strategic insights shared by [Mark Pincus](https://www.linkedin.com/in/markpincus), founder of **Zynga**, regarding the current state of consumer product development, the application of the Proven, Better, New Framework, and the transformative potential of Artificial Intelligence.
+
+The current Venture Capital landscape perceives consumer products as largely uninvestable, yet the emergence of Agentic AI presents a significant opportunity to reinvent generic services into new internet treasures. Historically, investors are often 180 degrees off from first principles, frequently favoring enterprise pivots when consumer potential is at its highest. Success in this era requires a Full Stack approach, combining first principles of Product Management with a commitment to Founder Mode, where leaders maintain high altitude vision while remaining deeply involved in tactical details. A critical methodology for this development is the Proven, Better, New framework, which balances the legal copying of established mechanics with rigorous testing of novel instincts. While high compute costs currently limit AI applications to prosumer or enterprise tiers, a consumer revolution is anticipated by 2029 as the cost of intelligence drops, eventually enabling free, unlimited AI integration across all digital services.
+
+## **The Evolution of Social and Consumer Eras**
+
+The history of the internet is defined by distinct waves of connectivity and intelligence. Understanding these cycles allows founders to identify where the next major shift will occur.
+
+* **The Dawn of the People Web:** The beginning of social networking can be traced to **Napster**, which provided the first experience of a decentralized, peer to peer network where users looked through the network at each other rather than connecting to a central corporation.  
+* **Trust as a Success Variable:** Early failures in the social space, such as the company **Tribe.net**, often stemmed from a failure to establish a proper container of trust. **Facebook** succeeded by utilizing the .edu environment to build this essential trust component.  
+* **The AI Transition:** The current moment is characterized as a shift from a world without integrated intelligence to one where AI is everywhere. This is viewed as the third major era, following the initial web wave of 1995 and the subsequent social and mobile wave.
+
+## **The Proven, Better, New (PBN) Framework**
+
+The PBN framework is a systematic approach to Product Management that minimizes unnecessary risk while maximizing the impact of innovation.
+
+### **Proven**
+
+* Founders should legally copy the mechanics of successful products that they are not actively innovating upon.  
+  "Everything that they're doing, that we're not innovating on, we're going to legally copy, we're just going to not even question it."  
+* Utilizing proven mechanics saves time and provides a stable base for the product.
+
+### **Better**
+
+* A feature is considered better only if 10 out of 10 existing users would agree it is an improvement.  
+* Improvements typically manifest as products being faster, cheaper, or having significantly less friction.  
+* AI is currently highly effective at identifying what is proven and suggesting incremental improvements.
+
+### **New**
+
+* The new element is the novel instinct or innovation zone that the founder wants to test.  
+* Founders must isolate this instinct and assume it is probably wrong, to avoid becoming emotionally attached to a failing variant.  
+* While the new feature provides the hook that gets someone to try a product, it is rarely the reason they return.
+
+## **Founder Mode and Organizational Leadership**
+
+The concept of Founder Mode involves a rejection of traditional management styles that prioritize absence over presence.
+
+* **Presence vs. Absence:** Management tools should only exist to ensure people do the right thing when the leader is not in the room, but the primary strategy should be to stay in the room as much as possible.  
+* **The Star Player Role:** Founders often contort themselves to please investors or boards, eventually building a company they no longer want to live in. Founder Mode encourages leaders to bet on themselves and remain the Star Player of their own organization.  
+* **Altitude and Context:** Leaders must create a culture where they have permission to change their minds based on new learnings. This requires intellectual honesty and the ability to communicate at different altitudes, from 100,000 feet missions to 5,000 feet tactics.  
+* **The Signal of Success:** When a product hits the mark, it creates a lightning in a bottle moment where metrics become secondary to the obvious momentum.  
+  "When the fish are running, you're up all night throwing nets, and it's great."
+
+## **The Economic Reality of AI Integration**
+
+The transition to AI native consumer products is currently hindered by the high cost of tokens and compute, creating a gap between technological possibility and consumer viability.
+
+* **Tokenmaxxing:** Some developers are currently spending over one million dollars per month on tokens to push the frontiers of what software can do. This allows a single person to perform the work of a thousand, though the output does not always scale linearly.  
+* **The Skill Issue:** Approximately 90% of enterprises investing in AI have yet to see significant benefits. This is attributed to a skill issue where organizations use outdated models or fail to change how they build products.  
+* **The Coding Shift:** Modern software development is moving away from writing code that calls Large Language Models (LLMs) toward writing markdown that teaches LLMs to write the necessary code. This results in significantly less but more customizable code.
+
+## **Future Projections for the Consumer Market**
+
+While the current market for consumer AI feels limited, the trajectory of compute costs suggests a massive expansion is imminent.
+
+* **The 2029 Revolution:** Because the latest high performance models are currently expensive and require significant compute, the true consumer revolution is likely three orders of magnitude away, placing the expected boom around 2029\.  
+* **The Power of Free:** Historically, any service that can be free on the internet eventually will be free. **Zynga** disrupted the 60 dollar box model of the game industry by offering high quality games for free. The next generation of trillion dollar companies will likely offer unlimited AI integration for free.  
+* **Internet Treasures:** There are very few services that users cannot imagine life without. Most current mobile apps are viewed as generic. The opportunity exists to use AI agents to reinvent categories like camera, weather, or travel into essential digital treasures.  
+* **The Abyss:** Founders often experience the abyss, a period between passionate product pursuits where they are unsure if they will find a new inspiration. This time should be used to expand taste zones, and identify the next primitive that will become affordable as cost curves drop.
+
+# 2026-06-27
+
+# **The Future of AI Entrepreneurship and the Indian Startup Ecosystem**
+
+## **Executive Summary**
+
+The current technological landscape presents a unique opportunity for India to lead the global Artificial Intelligence sector. Unlike previous waves of innovation, such as the mobile revolution which relied on hyperlocal network effects, the AI revolution is global in nature. This shift allows technical talent in India to build world-class companies without the traditional requirements of local market presence or warm connections in Silicon Valley. The core advantage in this era is technical depth, specifically living at the edge of technology and understanding it ten times better than the competition. Key success factors for modern founders include high agency, customer obsession, and a commitment to tinkering through projects rather than following traditional, safe career paths.
+
+## **The Global Shift in AI Opportunity**
+
+The transition from mobile-centric startups to AI-centric startups has fundamentally altered the go to market strategy for Indian entrepreneurs.
+
+* **Global Reach vs. Hyperlocal Networks:** Previous startup waves in India, represented by companies like **Swiggy**, **Supr Daily**, and **Zepto**, utilized mobile technology to tokenize labor and create hyperlocal delivery networks. In contrast, AI products are not bound by local geography.  
+* **Removal of Geographical Barriers:** Historically, building a global software as a service (SaaS) company required physical presence in San Francisco or extensive networking. Today, Indian founders can sell directly to United States insurance companies via cold outreach.  
+  "What a time to be alive, and so I think it's just we have to get rid of our preconceived notions that we need warm connections."  
+* **Meritocratic Solutions:** International companies are increasingly open to solutions based on outcomes rather than location or existing relationships. The focus has shifted to whose solution is better and can drive better results.
+
+## **Founder Traits and the AI Native Advantage**
+
+The AI ecosystem is increasingly defined by a new generation of builders who are not constrained by the logic of prior technological eras.
+
+### **The Risk of the Safe Path**
+
+Traditional educational and career advice, which suggests pursuing prestigious roles in banking, consulting, or medicine, may be becoming obsolete. In a world being reshaped by AI, these historically safe paths may now be the riskiest options. The most insulated individuals are owners and entrepreneurs who can build their own tools.
+
+### **High Agency and Learning Speed**
+
+Success in the current environment is less about being an established expert, and more about the pace of learning.
+
+* **AI Leveling the Playing Field:** Younger founders are no longer limited by their ability to build, but by how quickly they can gain insights.  
+* **Relentless Resourcefulness:** Effective founders do not let world conditions happen to them, they instead will things to happen.  
+* **Independent Point of View:** Founders are encouraged to surround themselves with AI native peers to avoid the cookie cutter advice of those not actively building at the frontier.
+
+## **Tinkering as a Methodology for Discovery**
+
+A consistent theme among successful startups is that the final, successful idea is rarely the first idea.
+
+* **The Pivot Journey:** Most founders go through a series of pivots. Being in the field building something, allows a founder to notice the really good ideas that are not obvious on a whiteboard.  
+* **Defining a Project:** A project is characterized by two people building something not assigned to them, and getting someone to use it. This differs from standard computer science education where tasks are often assigned or done solo.  
+* **Leverage of Coding Agents:** Tools like coding agents allow college students to find extremely good ideas quickly during nights and weekends, bypassing traditional development timelines.
+
+## **Technical Leverage and the Second Mover Advantage**
+
+Modern AI tools provide a significant advantage to small, technically proficient teams over large, established incumbents.
+
+### **The Second Mover Effect**
+
+A strong technical team can produce a superior product and win contracts against companies with hundreds of employees. "I would, I'm not exactly saying this is my advice, but like a kind of reasonable way to compete right now, is like find something that's kind of working, and then do it better than them, and then beat them."
+
+### **Tokenmaxxing and the Frontier**
+
+Pushing models to their absolute limits, often referred to as letting the tokens rip, allows founders to see the future of what technology will be capable of as compute costs decrease.
+
+* **Beyond Bandwidth Constraints:** High usage of advanced models from companies like **Anthropic** can reveal insights that are hidden at lower usage tiers.  
+* **Robustness Through Volume:** Founders can use AI to write 10,000 unit tests or extensive documentation, creating higher quality code than was previously possible for small teams.  
+* **Open Source Alternatives:** While frontier models are necessary for certain tasks, open source models, such as those used by **OpenCode**, are becoming increasingly viable for bringing services like voice AI shopping to a broader population at a lower price point.
+
+## **Insights for Y Combinator Applicants**
+
+When evaluating founders, **Y Combinator** prioritizes specific qualities over the initial business idea.
+
+| Quality | Description |
+| :---- | :---- |
+| **Clarity** | The ability to clearly explain what is being built, without unnecessary complexity. |
+| **Taste** | Building with intention, where design choices are backed by customer insights. |
+| **Agency** | Being relentlessly resourceful and exacting one's will upon the world. |
+| **Customer Obsession** | An intuitive and centric focus on the customer's needs and feedback. |
+
+## **Organizational Support and Resources**
+
+Major Indian startups and AI firms are actively seeking new talent. Companies including **Giga**, **Emergent**, **Meesho**, **Zepto**, **Swiggy**, and **Supr Daily** have historical or current ties to this ecosystem of innovation. To foster further growth, resources such as compute credits are being provided to founders to ensure they are not capital constrained while experimenting at the technological frontier. The document emphasizes that working at an exceptional company is one of the most effective ways to learn the skills required to eventually become a successful founder.
+
+# 2026-07-08
+
+# **Eddie Kim on the Development and Strategy of Gusto Cofounder**
+
+## **Executive Summary**
+
+This briefing document details the development and launch of **Gusto** Cofounder, an AI driven product designed to automate business processes for small enterprises. **Gusto**, a company in the **Y Combinator** portfolio, serves over 500,000 small businesses and recently surpassed one billion dollars in annual revenue. The new product, **Gusto** Cofounder, represents a shift from generative AI as a search tool toward agentic AI that autonomously manages recurring tasks such as payroll, compliance, and customer communication.
+
+The product was initially prototyped by co-founder [Eddie Kim](https://www.linkedin.com/in/edawerd) during a five hour flight layover using Claude Code. It was subsequently built by a small, five person team in ten weeks, utilizing a non-traditional development process that bypassed standard documentation and project management frameworks in favor of rapid iteration and continuous coding. Early customer feedback highlights the high value of interacting with business systems through simple interfaces like SMS and **Slack**. Future expansion plans include adding more vertical specific connectors and opening the platform to individuals who have not yet officially incorporated their businesses.
+
+## **Product Overview and Core Functionality**
+
+**Gusto** Cofounder is an automation platform aimed at small business owners who lack the technical sophistication of enterprise customers, but face significant time constraints from recurring administrative tasks.
+
+### **Primary Capabilities**
+
+* **Workflow Automation:** The system automates end to end processes that users previously performed manually on **Gusto**, such as running payroll, approving time off requests, and reminding employees to submit time sheets.  
+* **External Integrations:** It can perform tasks outside the core **Gusto** ecosystem. For example, a tour guide business can set an automation to check weather reports and automatically email customers to bring umbrellas if rain is forecasted.  
+* **Communication Interface:** Unlike traditional software that requires logging into a web portal, **Gusto** Cofounder operates primarily through chat interfaces like SMS and **Slack**, with plans to expand to **Telegram** and **WhatsApp**.
+
+### **The Problem of the Blank Canvas**
+
+The source notes that most people use AI as a glorified search engine or for simple summarization. **Gusto** Cofounder attempts to solve the blank canvas problem, where users do not know what to ask an AI, by proactively suggesting automations based on the data **Gusto** already holds, regarding a company's industry, and existing business habits.
+
+## **The Evolution of the Prototype**
+
+The product transitioned from a technical experiment to a core business offering following a specific set of development milestones.
+
+### **Conceptual Origins**
+
+The idea was sparked when [Eddie Kim](https://www.linkedin.com/in/edawerd) set up an open source agentic tool called **OpenClaw**. Despite the technical difficulty of the setup, the experience of interacting with an AI via **Telegram** proved more effective than a browser based interface. [Kim](https://www.linkedin.com/in/edawerd) observed that there was a gap between reading about AI capabilities and experiencing them hands-on.
+
+### **The London Prototype**
+
+While stuck in an airport lounge in London due to a missed flight, [Kim](https://www.linkedin.com/in/edawerd) used Claude Code to build a prototype in five hours.
+
+* **Initial Design:** The first version was a CRUD (Create, Read, Update, Delete) web app builder.  
+* **User Intent:** Customers could prompt the system to build specific applications, such as a CRM or a survey tool, which would then be rendered using the **Gusto** design system to look like official software.  
+* **Strategic Pivot:** The team eventually moved away from building custom web apps toward building automated workflows that leverage **Gusto**'s existing system of record data.
+
+## **Internal Development Methodology**
+
+The creation of **Gusto** Cofounder utilized a high velocity approach referred to as vibe coding, which differs significantly from standard corporate Software Engineering.
+
+### **Team Composition and Speed**
+
+The product was completed in ten weeks by a team of five people, including four engineers and one designer. The source indicates that this speed was only possible through the use of AI tools.
+
+* **Role Blending:** Boundaries between design and engineering became fluid. The designer wrote production-grade code, and engineers participated in design tasks without waiting for perfect **Figma** mockups.  
+* **Elimination of Overhead:** The team deliberately avoided traditional processes to maintain momentum.
+
+| Process Element | Action Taken |
+| :---- | :---- |
+| Documentation | No text specs or PRDs (Product Requirement Documents) were written. |
+| Project Management | No **Jira** boards, sprint planning, or retrospectives were used. |
+| Meetings | Traditional meetings were replaced by a 24/7 **Zoom** room for immediate collaboration. |
+| Prototyping | No initial **Figma** designs, ideas were tested by opening pull requests immediately. |
+
+### **Technical Architecture**
+
+The system is built on a heartbeat concept, where a cron job runs a Large Language Model (LLM) at regular intervals to check for triggered actions. While the heartbeat provides flexibility, the team also implemented deterministic triggers for tasks like payroll that require exact timing and reliability.
+
+## **Business Impact and Customer Insights**
+
+**Gusto** Cofounder is positioned to act as a proactive partner rather than a passive tool, offering insights that small business owners might otherwise miss.
+
+### **Proactive Business Support**
+
+The tool identifies opportunities for business optimization that owners may not be aware of:
+
+* **Tax Credits:** The system can identify eligibility for government incentives.  
+  "we actually found them \$50,000 in R\&D tax credit, they didn't really know that that was possible"  
+* **Market Intelligence:** It can generate weekly reports on competitor activities and suggest strategic adjustments.  
+* **Compliance:** It proactively alerts owners to new compliance tasks or changes in HR rules.
+
+### **Small Business Sentiment**
+
+Unlike enterprise environments where AI might face resistance due to job displacement concerns, small business owners view automation as an essential tool for growth. These owners are often performing the work of several roles, and value any tool that allows them to do more with less. The feedback from a 20 customer council showed that the ability to run payroll via text message, was a significant breakthrough in accessibility.
+
+## **Future Roadmap**
+
+The development of **Gusto** Cofounder is ongoing, with several strategic expansions planned:
+
+* **Channel Expansion:** Adding **WhatsApp** and **Telegram** to accommodate global business communication preferences.  
+* **Vertical Connectors:** Developing hundreds of specific integrations for different industries, such as **Curve Dental** for dental practices.  
+* **Pre-incorporation Access:** Opening the tool to side hustles and individuals who do not yet have an EIN (Employer Identification Number), allowing them to use AI to automate their growth before they officially become employers.  
+* **Integration Growth:** Expanding existing connections with tools like **QuickBooks**, **Notion**, and **Google** Workspace.
+
+[Kim](https://www.linkedin.com/in/edawerd) concludes that the democratization of software creation through AI marks a step function in the ease of starting a business.
+
+"you can literally, like automate many of these things, and focus on what business owners want to do, most which is like, just really focus on, building their products, getting more customers, growing growing their business"
+
+# 2026-07-09
+
