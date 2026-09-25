@@ -2987,13 +2987,13 @@ National and regional regulatory bodies display divergent approaches toward mand
 The traditional model of digital advertising, centered on static search index results and social media content feeds, is shifting toward direct conversational interfaces. **OpenAI** has initiated testing of sponsored agents that enable direct interactions between consumers and commercial entities within chat workflows.
 
 \[User Chat Workflow\]   
-        │  
+       │  
        ▼  
 \[Standard Model Response\]   
-        │  
+       │  
        ▼  
 \[Sponsored Brand Ad\] ────(User Click)────► \[Dedicated Brand Agent Dialogue\]  
-                                                      │  
+                                                     │  
                                                      ▼  
                                        \[Personalized Recommendations\]
 
