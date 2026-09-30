@@ -1,4 +1,4 @@
-## Prompts Used in Second Brain
+## Prompts Used for the Second Brain
 
 ### Slide Deck
 
