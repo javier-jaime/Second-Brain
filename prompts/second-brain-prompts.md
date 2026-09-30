@@ -2,11 +2,11 @@
 
 ### Slide Deck
 
-Create a Slide Deck from the selected sources information using the brand-guideline.md and place the sources [logo.png] on the first and last page. Start with the NODLE Workflow and include the CT_Loop.png. Do not include the PARA Method.
+Create a Slide Deck from the selected sources information using the brand-guideline.md and place the sources [logo.png] on the first and last page.
 
 ### Infographic
 
-Create an infographic from the selected sources in a professional style using the brand-guideline.md and reserve space for a square logo at the top right corner. Start with the NODLE Workflow and include the CT_Loop.png. Do not mention the PARA Method.
+Create an infographic from the selected sources in a professional style using the brand-guideline.md and reserve space for a square logo at the top right corner.
 
 ### Blog Post
 
