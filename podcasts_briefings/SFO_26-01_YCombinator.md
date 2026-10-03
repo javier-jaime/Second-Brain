@@ -1,4 +1,4 @@
-# 26-01 Y Combinator
+
 
 | Expert Name | Company/Organization | Core Technology or Methodology | Major Project or Product | Key Scientific/Design Philosophy | Future Predictions |
 | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -72,8 +72,6 @@
 | [Nico Laqua](https://www.linkedin.com/in/nico-laqua-302b17233) & [Emily Yuan](https://www.linkedin.com/in/emilyyuan96) | **Corgi Insurance** | AI-powered verticalization | Commercial Insurance Carrier | Owning the entire stack from underwriting to customer service to own all economics. | AI-powered companies will underwrite insurance lines with a fraction of the headcount of traditional carriers. |
 | [Timothy Goltser](https://www.linkedin.com/in/timothy-goltser-951549287), [Sean Doherty](https://www.linkedin.com/in/sean-m-doherty/) & [Curtis Mason](https://www.linkedin.com/in/curtis-mason-729376156/) | **GovDash** | Domain expertise in procurement | GovDash | Iterative pivoting and deep immersion in customer pain points until a structural problem is solved. | Not in source |
 
-# 2026-01-08
-
 # **Inside The Startup Building Reusable Rockets**
 
 ## **Executive Summary**
@@ -142,8 +140,6 @@ The company was founded in September 2019 by two former **Blue Origin** propulsi
 "If we are successful, we are flying this thing every day."
 
 "I got to the level of conviction in the idea that I said, we owe it to the world to try this idea whether or not it succeeds, this idea is good enough it has to be tried."
-
-# 2026-01-14
 
 # **Ankit Gupta on Early User Acquisition and Product Evolution**
 
@@ -218,8 +214,6 @@ The development of **Tesla** illustrates how early adopters influence the final 
 * **Early Adopter Influence:** The people willing to buy the Roadster valued technology and acceleration over traditional automotive virtues, like comfort and suspension.  
 * **The Mass Market Result:** Because early users prioritized performance, the mass market Model Y features a 0 to 60 time comparable to a **Lamborghini**, but has suspension and comfort levels that may be inferior to a **Toyota**.  
 * **Conclusion:** If the original buyers had demanded a slow, plush vehicle, the current **Tesla** lineup would look entirely different. The evolution of the product is inextricably linked to the preferences of those who first supported it.
-
-# 2026-01-22
 
 # **Diffusion in Machine Learning and Artificial Intelligence**
 
@@ -304,8 +298,6 @@ The rapid improvement of diffusion models over the last five years suggests that
 "I think it's going to redefine the entire economy."
 
 This sentiment reflects the view that the core mathematical simplicity of diffusion, combined with its broad applicability and scalability, positions it as the primary engine for the next wave of AI development.
-
-# 2026-01-29
 
 # **Startup Website Design and Conversion Strategies**
 
@@ -402,8 +394,6 @@ To maximize conversion, startups must bridge the gap between marketing claims an
 
 "The more specific the better."
 
-# 2026-01-30
-
 # **The Y Combinator Website Redesign**
 
 ## **Executive Summary**
@@ -470,8 +460,6 @@ The site utilizes interactivity and animation not for decoration, but to communi
 The redesign reflects a broader shift in web and product design, away from static images and text. The creators anticipate an evolution toward using interactivity and animation, as primary communication tools. By focusing on high level storytelling and leveraging AI to handle basic coding tasks, designers can dedicate more bandwidth to how a site communicates its essential message.
 
 "One thing that we wanted to show on industry design, is that YC is also fun and playful, going through YC is fun, and we don't take ourselves too seriously and so, using all these pictures of like the early days, of part of partners who were going through YC, or some of the top founders, it makes it playful."
-
-# 2026-02-06
 
 # **AI Coding Agents: Evolution, Architecture, and the Manager Mode**
 
@@ -544,8 +532,6 @@ To maximize productivity with current coding agents, the following strategies ar
 * **Use Code Review Bots:** Supplement coding agents with dedicated code review bots (e.g., **Greptile** or specialized bug bots) to ensure architectural correctness.  
 * **Focus on Fundamentals:** Even with AI, understanding systems (Git, HTTP, databases, message queues) remains critical for directing agents effectively.
 
-# 2026-02-07
-
 # **OpenClaw and the Future of AI Agents**
 
 ## **Executive Summary**
@@ -602,8 +588,6 @@ As agents become more integrated into personal lives, the management of data and
 * **Public Stress Testing:** To test security, the agent was placed in a public **Discord** channel with instructions to respond to everyone, but only take orders from the owner. Despite prompt injection attempts, the agent maintained its core identity and security protocols.
 
 "Just by being able to search a whole computer it can surprise you, it's also, you also give it all the data, right so, it can surprise you in many ways."
-
-# 2026-02-14
 
 # **The Rise of the 20x Company: Internal AI Automation in Modern Startups**
 
@@ -662,8 +646,6 @@ The adoption of 20x company principles results in a new paradigm for startup sca
 | **Internal Tools** | Third-party software for specific functions. | Custom AI agents and integrated sources of truth. |
 
 The transition to this model is characterized by high density teams, where engineers and operations staff utilize AI to double or triple their scope of work. By automating the boilerplate and manual aspects of their roles, employees are freed to focus on high level architecture, product decisions, and customer relationships. The startups that successfully implement these internal automations are establishing record growth rates and defining a new standard for building companies in the AI era.
-
-# 2026-02-17
 
 # **Claude Code Origins, Engineering Philosophy, and AI Assisted Development**
 
@@ -738,8 +720,6 @@ The criteria for elite engineers are shifting away from specialized syntax knowl
 * **Scientific Thinking:** The ability to think from first principles and experiment scientifically is now more valuable than knowing specific tools or languages.  
 * **Out of the Box Automation:** Preferred candidates are those who use AI to automate the development process itself (e.g., creating a tool that writes other tools).  
 * **Bimodal Talent:** Teams currently thrive on a mix of hyperspecialists (e.g., runtime or dev tool experts) and hypergeneralists who span product, design, and research.
-
-# 2026-02-21
 
 # **The AI Agent Economy: Implications for Development and Commerce**
 
@@ -831,8 +811,6 @@ Despite the rapid advancement of agents, several hurdles remain that prevent tot
 
 The guiding principle for new startups, particularly in the DevTool space, is shifting toward agent-centric design. Success in this new economy depends on building products that agents can easily discover, understand, and integrate. As agents move from being colleagues to independent economic actors, the front door of every business will increasingly be its machine readable documentation and API accessibility.
 
-# 2026-02-27
-
 # **Poetiq: Recursive Self-Improvement as the Alternative to LLM Fine-Tuning**
 
 ## **Executive Summary**
@@ -906,8 +884,6 @@ While simple prompt optimization (such as GEPA) provides marginal gains, **Poeti
 
 **Poetiq** is currently in a stealth/early access phase, seeking partnerships with companies facing hard problems that traditional LLM implementations cannot solve reliably.
 
-# 2026-03-06
-
 # **AI Assisted Design Trends and Startup Landing Pages**
 
 ## **Executive Summary**
@@ -980,8 +956,6 @@ To leverage AI design tools effectively, founders must remain the primary decisi
 "You are still responsible to not outsource your thinking to LLMs, and actually just use them as tools to get your brilliant ideas designs out on the web, to dazzle your customers."
 
 By focusing on messaging and originality, builders can use AI to create websites that are both technically impressive and highly effective at converting visitors into customers.
-
-# 2026-03-09
 
 # **The Future of Brain-Computer Interfaces**
 
@@ -1057,8 +1031,6 @@ Success in the BCI field requires a multidisciplinary approach and high agency. 
 "I think that the BCI we're going to come to see is not a specific product."
 
 It is expected that a variety of companies will emerge, each specializing in different applications and probe types, to address the diverse needs of the human brain, and its interface with the world.
-
-# 2026-03-16
 
 # **The Evolution and Impact of Emergent**
 
@@ -1146,8 +1118,6 @@ The next frontier for the platform is the expansion of agent capabilities toward
 * **Autonomy vs. Control:** As models like Claude Opus and Gemini get more powerful, **Emergent** aims to give agents more autonomy while maintaining a verification loop to ensure tasks do not get derailed.  
 * **Commoditization of Models:** The founders view foundational models (**Anthropic**, **Google**, **OpenAI**) as increasingly commoditized. Their competitive moat lies in understanding customer requirements and providing the integration/production layer that foundational models currently lack.
 
-# 2026-03-20
-
 # **Solugen and the Reinvention of Chemical Manufacturing**
 
 ## **Executive Summary**
@@ -1228,8 +1198,6 @@ The transition to full scale manufacturing is embodied in the Bioforge 1, a faci
 
 "Building out lots of factories near customers to keep shipping costs down, is a key part of how **Solugen** has managed to undercut its larger competitors."
 
-# 2026-03-27
-
 # **Artificial General Intelligence and the Future of Symbolic Learning**
 
 ## **Executive Summary**
@@ -1309,8 +1277,6 @@ Drawing from the success of **Keras**, [François Chollet](https://www.linkedin.
 "Science is fundamentally a symbolic compression process where you're looking at a big mess of observations, like the position of planets in the sky or something like that, and you're compressing that down to a very simple symbolic rule", [François Chollet](https://www.linkedin.com/in/fchollet) 
 
 "You want to be in a setup where the system can improve its capabilities with no human in the loop, with no human, don't just do it the way we did it 10 years ago, do it with the idea that recursive self-improvement is baked in at the beginning", [François Chollet](https://www.linkedin.com/in/fchollet) 
-
-# 2026-03-31
 
 # **Variance Launch and Strategic Overview**
 
@@ -1395,8 +1361,6 @@ The founders view their work as a responsibility to apply their rare skill sets 
 
 "[Michael](https://www.linkedin.com/in/michael-lin-2933a013b) and I had a very specific pair of skill sets in fraud, and we understood what the industry looked like, we had a lot of issues with what the industry looked like and how these problems were solved at scale, but I think from the beginning we always felt a really strong sense of duty, to put our very specific and quite rare pair of skill sets to the good of the industry", [Karine Mellata](https://www.linkedin.com/in/karinemellata)
 
-# 2026-04-06
-
 # **Evolution and Impact of BillionToOne in Molecular Diagnostics**
 
 ## **Executive Summary**
@@ -1464,8 +1428,6 @@ In one clinical instance, a patient in their 40s with metastatic colorectal canc
 "We are processing more than 600,000 tests a year, and in terms of the overall market share, we are close to 20% market share there."
 
 "Pressure is a privilege."
-
-# 2026-04-16
 
 # **The GPT Moment for Robotics**
 
@@ -1557,8 +1519,6 @@ The upfront costs of starting a robotics business have decreased significantly. 
 * **The Future of Research:** There is a strong interest in developing an automated robotic research scientist, a model that could analyze failure modes and suggest improvements to the training stack.  
 * **Open Source Commitment:** To accelerate the community, the company has open sourced models such as $\ {π}_{0}$ (Pi-Zero) and $\ {π}_{0.5}$(Pi-Zero-Point-Five), providing the same pre-trained weights used by their internal researchers.
 
-# 2026-04-22
-
 # **Stripe's Website Redesign and Design Philosophy**
 
 ## **Executive Summary**
@@ -1626,8 +1586,6 @@ The team pursues progress over perfection but rejects the standard MVP model in 
 "Don't be wooed by  just how easy that was to achieve, but instead ask yourself like, but is this really great, have I really hit the mark? Is this really going to achieve the goal? Is it really going to feel like it's well-crafted? and put intentionality behind it."
 
 "You have to think about how that composite works together, and you know for **Stripe** for example, we have a number of different business areas, we have our money movement business, we have our revenue business, we have our payments business, and these organizations need to focus, and they need to stay true to their mission, and what they're trying to get done, but if they don't think about how their product intersects with each other, and how a user might go from, well I use subscriptions, and I use payments, and I use tax, how are these things all going to work together, then they're really missing the user experience."
-
-# 2026-04-23
 
 # **GStack and the Agent Era of Software Engineering**
 
@@ -1703,8 +1661,6 @@ The integration of structured agentic workflows through tools like GStack has ef
 
 "the barrier to building just collapsed"
 
-# 2026-04-24
-
 # **Strategies for Building AI Native Companies**
 
 ## **Executive Summary**
@@ -1766,8 +1722,6 @@ Founders should be willing to accept uncomfortably high API bills because they r
 Early stage founders have a significant advantage because they are not burdened by legacy systems, traditional organizational charts, or the need to retrain thousands of employees. They can build the company correctly from the start. Conversely, established companies face the risk of breaking functional core processes, while trying to unwind years of standard operating procedures. While some incumbents, such as **Mutiny**, attempt to innovate by spinning up separate internal teams to build AI native systems from scratch, most large companies will struggle with this transition. Startups can leverage this constraint to operate significantly faster than incumbents.
 
 "You need to develop it yourself by actually sitting with coding agents and using them, until you start to break your own priors about what is now possible to build."
-
-# 2026-04-25
 
 # **The Future of AI-Native Software Development and Corporate Evolution**
 
@@ -1865,8 +1819,6 @@ The success of **Replit** was heavily influenced by the **Y Combinator** philoso
 
 The networking effects of the program were also critical. Following the batch, **Replit** was able to secure investment from **a16z** after an introduction to [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen), a connection that [Masad](https://www.linkedin.com/in/amjadmasad) notes was instrumental in the company's survival and growth. He emphasizes that for startups, being honest about product-market fit is vital, noting that while any user growth is a success, true product-market fit is an explosive, undeniable phenomenon.
 
-# 2026-04-29
-
 # **Demis Hassabis on Artificial General Intelligence and Scientific Discovery**
 
 ## **Executive Summary**
@@ -1961,8 +1913,6 @@ For those developing new technologies, the emergence of AGI must be factored int
 "You have to have an active system that can actively solve problems for you to get to AGI."
 
 This move toward active, agentic problem solving, combined with deep scientific application, represents the current frontier of the field.
-
-# 2026-05-01
 
 # **Recursion as the Next Scaling Law in Artificial Intelligence**
 
@@ -2067,8 +2017,6 @@ The synthesis of recursion and massive scaling is expected to define the next er
 * **Architectural Optimization:** Independent research indicates that the outer refinement loop is the primary driver of success, suggesting that future architectures can be simplified further while maintaining scaling benefits.  
   "If you can make the model really big and you have lots of recursion, and we do something else other than backprop time, then we can get exact all the benefits of this, and all the benefits of the giant LLMs, and then you can get some crazy stuff."
 
-# 2026-05-06
-
 # **The Growth and Strategic Evolution of Razorpay**
 
 ## **Executive Summary**
@@ -2142,8 +2090,6 @@ As the company scaled to over 2,000 employees, [Mathur](https://in.linkedin.com/
 * **Long Term Commitment:** Despite the ease of building with AI, [Mathur](https://in.linkedin.com/in/harshilmathur) advises that successful company building still requires a 10 year commitment. Founders must choose problems they are willing to solve for a decade, rather than chasing temporary trends.
 
 "the only way to survive, is to figure out what the market is going to be and move today, and that's the call we had to take."
-
-# 2026-05-08
 
 # **Tokenmaxxing and the New Era of Agentic Engineering**
 
@@ -2234,8 +2180,6 @@ The claim of 400x productivity is based on logical lines of code analysis. While
 
 "I never want to be entirely out of the loop, I just want the machine to do the stuff that I don't want to do."
 
-# 2026-05-13
-
 # **The Strategic Value of Silicon Valley and the Development of Global Startup Hubs**
 
 ## **Executive Summary**
@@ -2288,8 +2232,6 @@ The position of the Silicon Valley of Europe remains available. Achieving this s
 * The Critical Mass: The transition to a major hub is often invisible until a critical mass is reached. Once that threshold is hit, the growth is rapid and transformative.  
 * Reversing Investor Bias: Local investors often assume local startups are second rate until those startups receive validation from Silicon Valley. This was evidenced when **Dropbox** was ignored by a Boston firm until **Sequoia** showed interest, at which point the Boston firm immediately offered a term sheet with a blank valuation.  
   "As soon as you tell them that you've been accepted by **Y Combinator**, often they suddenly, they're tripping over themselves to try and invest in you, cuz they knew once you go to the big city, that's it."
-
-# 2026-05-19
 
 # **Aadit Palicha on Zepto Operational Strategy and Growth**
 
@@ -2354,8 +2296,6 @@ Despite the massive scale of **Zepto**, the founders emphasize the importance of
 * Expert Mentorship: The founders intentionally surrounded themselves with a management team possessing decades of experience, including a senior CFO, COO, and CTO.  
 * Inquisitive Culture: Growth was facilitated by a willingness to ask basic questions and aggregate information from experts.  
   "surround yourself with people that are smarter than you, and learn from them shamelessly"
-
-# 2026-05-21
 
 # **The Rise of the Self Improving AI Native Company**
 
@@ -2440,8 +2380,6 @@ Human involvement is prioritized for:
 
 "I think middle management is done, I just don’t think you need middle management for this coordination problem, I think AI should be doing it."
 
-# 2026-05-22
-
 # **Eric Ries on the Strategies for Building Incorruptible Companies**
 
 ## **Executive Summary**
@@ -2518,8 +2456,6 @@ The core of an incorruptible company is the belief that the best way to make mon
 "Ethos plus integrity equals Incorruptible."
 
 Founders must reject the idea that all ways of making money are equally good, and instead focus on maximizing human flourishing through their products and services. Companies with industrial foundation structures are six times more likely to survive to their fiftieth year, proving that mission integrity is an economic advantage.
-
-# 2026-05-27
 
 # **Inside Y Combinator's AI Playbook**
 
@@ -2628,8 +2564,6 @@ The ultimate goal of building Superintelligence is not to replace humans, but to
 
 "It's like a shared organizational brain, It's like the closest thing to us being able to like connect our brains."
 
-# 2026-05-28
-
 # **YC Paper Club: Inference, Diffusion, and World Models Analysis**
 
 ## **Executive Summary**
@@ -2714,8 +2648,6 @@ A joint scaling recipe was proposed to maximize performance under these constrai
 
 This joint recipe offers a 5x data efficiency win, which remains constant even when scaled to trillions of tokens. Experiments in continued pre-training showed that these techniques could match the performance of a model trained on 73 billion tokens using only 4 billion tokens, representing a 17x win in specific math-related contexts.
 
-# 2026-05-29
-
 # **Varun Vummadi on the Strategic Evolution and Operational Philosophy of GigaML**
 
 ## **Executive Summary**
@@ -2774,8 +2706,6 @@ The growth of **GigaML** is rooted in a philosophy of market validation and tota
   "If the problem is important enough, people should be willing to pay, either with money or with time"  
 * **Geographic Strategy:** While the company has roots in India, the founders maintain that San Francisco remains the essential hub for generative AI innovation, due to the concentration of researchers and innovation.  
 * **Future Development:** The company is currently developing an AI Forward Deployed Engineer to eliminate the bottleneck of manual configuration in enterprise deployments. This agent will participate in **Slack** and **Google** Meet sessions to automatically implement policy changes.
-
-# 2026-06-03
 
 # **Building AI Native Services Companies**
 
@@ -2867,8 +2797,6 @@ There is a frequent temptation to purchase an existing legacy service business a
 
 The transition to AI native services represents a fundamental shift in how startups are built and how markets are served. By focusing on the process as the product and maintaining high operational rigor, founders can build generational companies in some of the largest markets in the world. Success requires avoiding the trap of human-led scaling and instead focusing on the AI operating leverage that allows for software like margins on a massive scale.
 
-# 2026-06-04
-
 # **AI Orchestration and the Future of Agentic Development**
 
 ## **Executive Summary**
@@ -2930,8 +2858,6 @@ The source identifies several emerging trends that will redefine how agents inte
 * **Long Running Agents:** There is a projected shift toward agents that run for significantly longer durations and are not constrained by the local CPU of a laptop.  
 * **Multiplayer Collaboration:** Future exploration includes collaboration between humans and multiple subagents, as well as multiplayer chats where several humans work with AI on the same project.  
 * **Mobile Orchestration:** The ability to conduct agents on the go via mobile devices, allowing developers to trigger complex coding tasks through simple voice commands while away from their primary workstation.
-
-# 2026-06-05
 
 # **Max Junestrand on the Rapid Growth and Strategic Evolution of Legora**
 
@@ -3010,8 +2936,6 @@ The following quotes provide direct insight into the company's internal logic an
 
 "In order to get anyone else to be confident that you're going to succeed, you have to be confident yourself."
 
-# 2026-06-06
-
 # **Emergent and the Evolution of AI Native Startups**
 
 ## **Executive Summary**
@@ -3085,8 +3009,6 @@ The leadership at **Emergent** advocates for a global day zero mindset, for star
   "If you remove all the software companies from, you know, NASDAQ and S\&P you'll see, it's been just a flat line."  
 * **Ambitious Growth:** Founders are encouraged to 10x or 100x their initial ambitions, because AI has shifted the focus from attacking the floor to attacking the ceiling.  
   "I think starting a harder idea is easier, because you can inspire a lot more people to go after a harder problem."
-
-# 2026-06-10
 
 # **The CEO as Chief AI Officer**
 
@@ -3166,8 +3088,6 @@ The current state of AI is frequently compared to the early days of electricity.
 
 "It wasn't the cost savings, it was just because people were curious about it, and I think it's, I think the point of like why, you know, I was yesterday until 2 a.m playing with slash workflows and Opus 4.8 model, and all that, is because I think, I would be doing the exact same thing if I wasn't making any money, because you just see the possibilities."
 
-# 2026-06-11
-
 # **Vidit Aatrey on the Evolution and Operations of Meesho**
 
 ## **Executive Summary**
@@ -3237,8 +3157,6 @@ A core project in this area is Vaani, a voice AI product. The goal is an experie
 "Be problem first, be very rigid with your problem, and be very flexible with your solution, and I think our journey has been the same thing"
 
 "You have to let go of the past baggage, what you have to, it doesn't matter, you have to take a long term view and do the right thing, even if it is disruptive in the short term, you do it"
-
-# 2026-06-12
 
 # **YC Paper Club: Biology, Self-Play, Verified Systems, and Agentic Workflows**
 
@@ -3343,8 +3261,6 @@ Modern programming with agents like **Claude** requires a shift from linear, tho
 
 "Satisficing is a word from economics, is like do things, satisfy like enough but not perfect, really, really key principle for like everything."
 
-# 2026-06-15
-
 # **Lalit Keshre on the Growth and Operational Philosophy of Groww**
 
 ## **Executive Summary**
@@ -3432,8 +3348,6 @@ As the customer base ages and accumulates capital, **Groww** is evolving its pro
 * **Wealth Evolution:** Customers who joined at 25 are now 35 with significantly more wealth and different financial needs.  
 * **Product Journey:** The company is focusing on wealth management to ensure that smart, prudent investors do not move to alternative products as their portfolios grow.  
 * **Engagement with Youth:** **Groww** remains focused on being the preferred choice for new investors entering the market at age 18\.
-
-# 2026-06-17
 
 # **Selecting and Committing to Startup Ideas**
 
@@ -3525,8 +3439,6 @@ The primary failure mode for early stage founders is the inability to make a dec
 
 "The worst failure mode isn't being wrong, it's not making a decision, spinning your wheels, dabbling between ideas and never going deep enough on any one of them to learn anything."
 
-# 2026-06-19
-
 # **The Rise of the Experienced Solo Founder and the Ploy Marketing Platform**
 
 ## **Executive Summary**
@@ -3614,8 +3526,6 @@ The trajectory of the web suggests a move toward a high volume of small, efficie
 * **The Power of Focus:** Experienced founders can now use their background to focus AI's capabilities like a magnifying glass.  
   "It takes a while for a startup to catch fire, but I feel like I am standing outside with the magnifying glass under the blazing sun, and I am able to focus it, and I am able to focus all my experience, background, knowledge of the customer base, knowledge of their buying patterns, knowledge of these cycles, and just catch something with fire."
 
-# 2026-06-22
-
 # **Acquiring the First Ten Customers**
 
 ## **Executive Summary**
@@ -3700,8 +3610,6 @@ The specific copy of an email is often less important than the brevity and the c
 
 "The first 10 customers will likely not come from a tool, they're going to come from you manually tapping into your network and showing up."
 
-# 2026-06-25
-
 # **Mark Pincus on Consumer Product Strategy and the AI Innovation Frontier**
 
 ## **Executive Summary**
@@ -3766,8 +3674,6 @@ While the current market for consumer AI feels limited, the trajectory of comput
 * **The Power of Free:** Historically, any service that can be free on the internet eventually will be free. **Zynga** disrupted the 60 dollar box model of the game industry by offering high quality games for free. The next generation of trillion dollar companies will likely offer unlimited AI integration for free.  
 * **Internet Treasures:** There are very few services that users cannot imagine life without. Most current mobile apps are viewed as generic. The opportunity exists to use AI agents to reinvent categories like camera, weather, or travel into essential digital treasures.  
 * **The Abyss:** Founders often experience the abyss, a period between passionate product pursuits where they are unsure if they will find a new inspiration. This time should be used to expand taste zones, and identify the next primitive that will become affordable as cost curves drop.
-
-# 2026-06-27
 
 # **The Future of AI Entrepreneurship and the Indian Startup Ecosystem**
 
@@ -3838,8 +3744,6 @@ When evaluating founders, **Y Combinator** prioritizes specific qualities over t
 ## **Organizational Support and Resources**
 
 Major Indian startups and AI firms are actively seeking new talent. Companies including **Giga**, **Emergent**, **Meesho**, **Zepto**, **Swiggy**, and **Supr Daily** have historical or current ties to this ecosystem of innovation. To foster further growth, resources such as compute credits are being provided to founders to ensure they are not capital constrained while experimenting at the technological frontier. The document emphasizes that working at an exceptional company is one of the most effective ways to learn the skills required to eventually become a successful founder.
-
-# 2026-07-08
 
 # **Eddie Kim on the Development and Strategy of Gusto Cofounder**
 
@@ -3931,8 +3835,6 @@ The development of **Gusto** Cofounder is ongoing, with several strategic expans
 
 "you can literally, like automate many of these things, and focus on what business owners want to do, most which is like, just really focus on, building their products, getting more customers, growing growing their business"
 
-# 2026-07-09
-
 # **Dot Plot Methodology for Granular User Analysis**
 
 ### **Executive Summary**
@@ -4009,464 +3911,3 @@ To ensure the dot plot provides actionable insights, founders must avoid two spe
 ### **Conclusion**
 
 Until a product reaches hundreds of users, the dot plot can function as a company's primary dashboard. It requires no complex computations, as it is fundamentally a visualization of logs that can be generated quickly with modern coding tools. By combining dot plots with cohort retention curves, founders gain a comprehensive understanding of both the persistence and the nature of their user engagement.
-
-# Technical Terms and Jargon
-
-| Term | Simplified Definition | Context of Use | First mentioned video |
-| :---- | :---- | :---- | :---- |
-| 20x companies | Startups using automation to allow a small team to perform at a massive scale. | Small teams beating incumbents with 20 times more employees. | 2026-02-14 The New Way To Build A Startup |
-| Accessibility Axis | Strategy focused on removing barriers like language or tech literacy to help users. | A main direction of innovation for developing products. | 2026-06-11 How Meesho Became India’s Biggest Shopping App |
-| Accessioning | Formal process of receiving and recording a sample in a lab. | AI driven projects aim to reduce this file processing time to 60 seconds. | 2026-04-06 BillionToOne Is Solving One of Biotech’s Hardest Problems |
-| Action Chunk | A short sequence of movements predicted by a model that the robot can follow briefly. | A technical method for cloud-hosted AI to control robots in real-time. | 2026-04-16 The GPT Moment for Robotics Is Here |
-| AdTech | Tools and software used to manage and analyze digital advertising campaigns. | Provides insight into how fast mobile internet and startup budgets grow. | 2026-06-11 How Meesho Became India’s Biggest Shopping App |
-| Additive Manufacturing | 3D printing; building parts layer by layer from a material. | Production capability used inside rocket factories. | 2026-01-08 Inside The Startup Building Reusable Rockets |
-| Adversarial Review | AI critically examines work to find failures, privacy issues, or missing features. | Catching and fixing issues in design documents before approval. | 2026-04-23 How to Make Claude Code Your AI Engineering Team |
-| AEO | Answer Engine Optimization; making a site easily found and cited by AI chatbots like Perplexity. | Features that help bots crawl and understand a site out of the box. | 2026-06-19 The Age Of The 40-Year-Old Solo Founder Is Here |
-| Agent architecture | Technical design or framework used to build AI driven autonomous systems. | Founders may offer free consulting on this to get their product in the door. | 2026-06-22 How to Get Your First 10 Customers |
-| Agent Era | New period where AI agents take on roles and perform work as part of a team. | Transition from manual coding to managing a team of AI agents. | 2026-04-23 How to Make Claude Code Your AI Engineering Team |
-| Agent Experience | A metric used to measure how smoothly an agent performs tasks within a specific platform. | Evaluates the platform's design from the perspective of the AI itself. | 2026-03-16 India’s Fastest Growing AI Startup |
-| Agent Loop | A repeating process where an AI observes its environment, thinks, takes an action using tools, and checks the results. | Described as the core infrastructure of every effective AI product, such as systems for financial tasks or database queries. | 2026-06-10 The CEO Must Be the Chief AI Officer |
-| Agent Swarms | Groups of many AI agents (potentially hundreds) collaborating on a single large task. | A future direction where agents collaborate over long time horizons. | 2026-03-16 India’s Fastest Growing AI Startup |
-| Agent Topology | The layout or structure of how multiple AI agents are organized to communicate and work together. | Discusses how specific configurations (like swarms) allow agents to build larger software systems. | 2026-02-17 Inside Claude Code With Its Creator Boris Cherny |
-| Agentic Apps | Applications with AI agents embedded to autonomously handle specific workflows. | Identifies that a significant portion of apps built on certain platforms include autonomous agents. | 2026-03-16 India’s Fastest Growing AI Startup |
-| Agentic Engineering | Designing and managing multiple AI agents to perform complex software development tasks. | The role of a modern developer providing agency while machines do the heavy lifting. | 2026-05-08 Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers |
-| Agentic Intelligence | AI systems that can act independently, make decisions, and use tools as agents to achieve specific goals rather than just predicting text. | Described as the path to AGI where systems transition from passive responders to active problem solvers capable of autonomous multi-step workflows. | 2026-06-12 5 Papers That Show Where AI Research Is Heading Right Now |
-| Agentic Programming | Software development where AI agents independently perform tasks like coding, testing, and creating pull requests. | Described as a workflow similar to real-time strategy games where agents manage the building process. | 2026-06-12 5 Papers That Show Where AI Research Is Heading Right Now |
-| Agentic Retrieval | An AI system that can independently search for, navigate, and gather info across the web. | Recursively crawls the internet to find every tweet or article on a topic. | 2026-05-08 Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers |
-| Agents | AI systems capable of performing multi-step tasks autonomously. | Transition from simple chat assistants to agents handling full workflows like M\&A. | 2026-06-05 How Legora Went From YC to \$100M ARR in 18 Months |
-| Aggregate user metrics | Data combining all users into a single average, like DAUs or MAUs. | Can hide individual user patterns and problems even if the graph goes up. | 2026-07-09 How To Better Understand Your Users |
-| AGI | Artificial General Intelligence; a hypothetical AI that can learn and perform any intellectual task at a human level. | Mentioned as the potential goal of training methods that seek human-level skill acquisition efficiency across arbitrary tasks. | 2026-06-12 5 Papers That Show Where AI Research Is Heading Right Now |
-| Aha moment | The specific point when a new user first understands the value of a product. | Importance of getting users to value quickly rather than blocking them with login screens. | 2026-01-29 Why Your Startup Website Isn't Converting |
-| AI Capex | Capital expenditure spent specifically on AI infrastructure, such as chips and servers. | An example of how AI models are biased toward Silicon Valley terminology. | 2026-06-10 The CEO Must Be the Chief AI Officer |
-| AI integrated source of truth | Centralized system using AI to provide instant access to all company data. | Pulls history and scheduling for operations teams in one interface. | 2026-02-14 The New Way To Build A Startup |
-| AI Loop | Cycle where AI sensors gather data, make decisions, execute actions, and learn. | Described as a self-improving system running overnight without humans. | 2026-05-21 How to Build a Self-Improving Company with AI |
-| AI Native Developers | A new generation of creators who build software primarily using AI tools without deep technical training. | Emerging users who treat AI as the primary building block of development. | 2026-04-25 Replit's CEO On The Only Two Jobs Left In The Company Of The Future |
-| AI Native Service Companies | Businesses rebuilt using AI to perform the majority of professional work. | Startups providing finished outcomes (like insurance) rather than just software tools. | 2026-06-03 How to Build an AI-Native Services Company |
-| AI Slop | Low-quality, generic, or unpolished content produced by AI that lacks human touch or specific context. | Used as a warning to designers and developers not to accept raw AI outputs but to fight for well-crafted solutions. | 2026-04-22 How Stripe Built Their New Website |
-| AI Software Factory | Model where humans provide specs and AI agents iterate on code until tests pass. | Humans define what to build and AI handles the implementation. | 2026-04-24 How To Build A Company With AI From The Ground Up |
-| AI powered law | Marketing concept for legal services using AI to automate tasks. | Original slogan before using celebrity branding to make legal tech exciting. | 2026-06-05 How Legora Went From YC to \$100M ARR in 18 Months |
-| Air Gap | Keeping a system physically isolated from unsecure networks to prevent data loss. | Used to secure personal AI setups to prevent accidental deletions. | 2026-07-08 How A Prototype Built During A Missed Flight Became A New Gusto Product |
-| Amniocentesis | Invasive procedure inserting a needle into the uterus for genetic samples. | Contrasted with new non-invasive blood-based genetic tests. | 2026-04-06 BillionToOne Is Solving One of Biotech’s Hardest Problems |
-| Andromeda | Name for the second stage or upper capsule of a rocket system. | Capsule design that must survive high-speed re-entry heat. | 2026-01-08 Inside The Startup Building Reusable Rockets |
-| APM | Actions Per Minute; a gaming term used here to measure how many tasks an AI agent completes in a minute. | Used as a productivity metric for AI agents in software engineering workflows. | 2026-06-12 5 Papers That Show Where AI Research Is Heading Right Now |
-| Apollo | Database tool used to find lead info and send automated email sequences. | Common starting point for building first lead lists. | 2026-06-22 How to Get Your First 10 Customers |
-| Arbitrage | Taking advantage of a gap in the market, like product quality vs. expensive sales teams. | How small teams beat massive competitors for major contracts. | 2026-05-29 Why Two IIT Engineers Turned Down \$550K Jobs To Build A Startup |
-| ARR | Annual Recurring Revenue; a metric used to measure the yearly value of a company's customer subscriptions. | Used to describe the financial scale and growth milestones (e.g., \$100M ARR) of successful startups. | 2026-06-27 India Can Create The Largest AI Companies |
-| ASI | Artificial Super Intelligence; a hypothetical AI that far surpasses human intelligence in all domains. | Used to describe the future trajectory of BCI or the scaling limits of current coding architectures. | 2026-03-09 The Future Of Brain-Computer Interfaces |
-| ASL4 | AI Safety Level 4; represents models that could be used for dangerous tasks or self-improvement. | Refers to safety protocols followed as models become increasingly capable. | 2026-02-17 Inside Claude Code With Its Creator Boris Cherny |
-| Atlas | Internal AI agent that can navigate browsers and write code to handle customer needs. | Handles boilerplate work for engineers and acts as an AI employee. | 2026-02-14 The New Way To Build A Startup |
-| Auto Plan | Automated workflow running several AI reviews (CEO, Engineering, Design). | Speeds up the process if the user doesn't want back-and-forth communication. | 2026-04-23 How to Make Claude Code Your AI Engineering Team |
-| Auto-regressive LLM | LLM generating text by predicting the next token one at a time based on previous words. | Contrasted with diffusion-based approaches for sequence generation. | 2026-01-22 The ML Technique Every Founder Should Know |
-| Autonomous Revolution | Period where AI models became capable of complex tasks without human help. | Referring to predicted step changes in AI capabilities in late 2025\. | 2026-04-25 Replit's CEO On The Only Two Jobs Left In The Company Of The Future |
-| Avionics | Electronic systems used on spacecraft, like navigation and communications. | Parts of the rocket manufactured and tested in specialized factories. | 2026-01-08 Inside The Startup Building Reusable Rockets |
-| B2B | Business-to-Business; a model where companies sell products or services to other companies. | Discussed in the context of trust-based relationships and how dot plots are useful for tracking high-value contracts. | 2026-05-06 How Razorpay Became India’s Largest Payments Company |
-| B2B SaaS template | Standard layout design often used by companies selling software to businesses. | The old YC homepage felt to have this utilitarian feel. | 2026-01-30 How We Redesigned Our Website |
-| Backprop | Backpropagation; the standard algorithm used to update AI weights during training. | The speaker seeks alternatives that might better reflect how the human brain learns. | 2026-06-12 5 Papers That Show Where AI Research Is Heading Right Now |
-| Backprop Through Time | Method for training recursive models by looking back through every step to update knowledge. | Identified as the limiting step for RNNs because errors accumulate over time. | 2026-05-01 Recursion Is The Next Scaling Law In AI |
-| Base pairs | Building blocks that make up the ladder-like structure of DNA. | Finding a single different base pair among 3 billion is a needle in a haystack problem. | 2026-04-06 BillionToOne Is Solving One of Biotech’s Hardest Problems |
-| BCI | Brain-Computer Interface; technology that allows direct communication between a brain and an external device. | Not a single product but a category ranging from medical treatments to consumer focus tools. | 2026-03-09 The Future Of Brain-Computer Interfaces |
-| Bento Box | A design layout style that organizes content into a grid of neat, modular rectangular compartments. | Used to display a diverse product suite on homepages (like Stripe's) in an organized, visual manner. | 2026-06-12 5 Papers That Show Where AI Research Is Heading Right Now |
-| BERT | An older influential AI model from Google used for understanding text meaning. | Example of models worked on during research phases. | 2026-05-29 Why Two IIT Engineers Turned Down \$550K Jobs To Build A Startup |
-| Beta Schedule | Mathematical curve determining the rate of noise addition at every time step. | Implementation ensuring the model learns a constant relative amount of error. | 2026-01-22 The ML Technique Every Founder Should Know |
-| Bioforge | Specialized modular chemical manufacturing plants using biological catalysts. | Name for state-of-the-art plants built for green chemistry. | 2026-03-20 Inside The Startup Reinventing The \$6 Trillion Chemical Manufacturing Industry |
-| Biohybrid | An approach combining biological tissue (like lab-grown neurons) with synthetic electronic devices. | Describes seeding engineered stem cells onto an implant to grow into the brain. | 2026-03-09 The Future Of Brain-Computer Interfaces |
-| Bioinformaticians | Scientists using computers and math to analyze complex biological data. | Experts needing both data science and DNA chemistry knowledge. | 2026-04-06 BillionToOne Is Solving One of Biotech’s Hardest Problems |
-| Bioplausibility | The degree to which an AI's design mimics biological brain functions. | Debate over whether AI research should strictly follow biological rules or use them as inspiration. | 2026-05-01 Recursion Is The Next Scaling Law In AI |
-| Blank Canvas Problem | Difficulty users face when starting with a powerful tool that provides no direction. | Why tools start with specific suggestions rather than just an open chat. | 2026-07-08 How A Prototype Built During A Missed Flight Became A New Gusto Product |
-| Boil the Ocean | A philosophy of being absolutely thorough and doing an exhaustive amount of work. | Applied to software that researches 20 sources and cross-references them. | 2026-05-08 Tokenmaxxing: How Top Builders Your AI To Do The Work Of 400 Engineers |
-| Bolt Line | Internal software tool built to track parts, maintenance, and factory operations. | Manages the complexity of building and reusing rockets. | 2026-01-08 Inside The Startup Building Reusable Rockets |
-| BOM Cost | Bill of Materials cost; the total price of physical parts needed to build a robot. | Cloud-based models lower this cost by reducing the need for expensive on-device computers. | 2026-04-16 The GPT Moment for Robotics Is Here |
-| Bookface | Private internal social network and community platform used by YC founders. | Platform used to poll founders about acquiring their first customers. | 2026-06-22 How to Get Your First 10 Customers |
-| Brutalist | A design style with raw, bold, and unadorned elements that feel stark or industrial. | Describes the modern, black-and-white, AI-forward aesthetic of certain websites. | 2026-01-29 Why Your Startup Website Isn't Converting |
-| Bubble column with a membrane | Chemical reactor where air is bubbled through liquid and a filter keeps the catalyst inside. | Physical structure of PVC reactors and scaled-up industrial versions. | 2026-03-20 Inside The Startup Reinventing The \$6 Trillion Chemical Manufacturing Industry |
-| Burn the boats | Total commitment strategy where alternative options are eliminated to force success. | Advising founders to stop working on other ideas to focus entirely on one. | 2026-06-17 How To Pick A Startup Idea |
-| Business in a Box | Ready-to-use tools provided to someone so they can start a business immediately. | Evolved from a toolkit into a full supplier for social sellers. | 2026-06-11 How Meesho Became India’s Biggest Shopping App |
-| CAC | Customer Acquisition Cost; total cost of convincing a potential customer to buy a product or service. | Organic growth can lead to near-zero costs to acquire users. | 2026-06-15 Groww: If Your Customers Don't Love It or Hate It, You've Already Lost |
-| Cambrian Explosion | A rapid period of growth where many new types of companies and technologies emerge at once. | Describes the expected surge of vertical robotics companies enabled by new AI models. | 2026-04-16 The GPT Moment for Robotics Is Here |
-| Canary | A hidden piece of unique info used at the start of a chat to check if the AI still remembers earlier details. | A trick to detect when an AI's context has been poisoned or forgotten. | 2026-02-06 We're All Addicted To Claude Code |
-| CAPEX Investment | Money spent by a company to acquire or maintain fixed assets. | Strategy for using initial products to fund production of later models. | 2026-01-14 How To Get Your First Users |
-| Caveman mode | Manual editing mode where a user types code instead of letting AI do it. | Used for rare occasions when a human needs to make a manual file change. | 2026-06-04 Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup |
-| Chain of Thought (CoT) | A technique where an AI is encouraged to write out its reasoning step-by-step to arrive at better answers. | Described as a hack to give models reasoning-like abilities in visible text space, used to evaluate logic capabilities. | 2026-05-01 Recursion Is The Next Scaling Law In AI |
-| Chemoenzymatic  processing | Manufacturing combining biological enzymes with industrial metal catalysts. | Process for producing chemicals with higher yields and lower footprints. | 2026-03-20 Inside The Startup Reinventing The \$6 Trillion Chemical Manufacturing Industry |
-| Chinchilla Scaling Laws | Rules of thumb for the ideal balance between model size and the amount of training data. | YC Paper Club | 2026-05-28 Inference, Diffusion, World Models, and More | YC Paper Club |
-| Churned | When a customer or user stops paying for or using a service. | Occurs when high-value contracts are lost (e.g., a champion leaving a company). | 2026-07-09 How To Better Understand Your Users |
-| Claude Code | An AI-powered command-line tool designed to autonomously write, debug, test, and manage software code. | Described as a daily driver for engineering that works inside the terminal to handle architecture and product decisions. | 2026-02-17 Inside Claude Code With Its Creator Boris Cherny |
-| CLAUDE.md | A markdown configuration file where users give the AI specific instructions or rules for a project. | Provides persistent context, such as pull request rules or specific coding styles, to the agent. | 2026-02-17 Inside Claude Code With Its Creator Boris Cherny |
-| Clay | Platform using AI to research and enrich lead lists with specific data points. | Helps qualify leads based on hiring or LinkedIn activity. | 2026-06-22 How to Get Your First 10 Customers |
-| CLI | Command Line Interface; a text-based interface used to interact with software by typing commands. | Favored for its speed and low cost, becoming a weird retro future where text-based tools beat visual environments. | 2026-02-17 Inside Claude Code With Its Creator Boris Cherny |
-| Closed Loop | Self-regulating system using feedback from outputs to continuously monitor and adjust. | Ideal way to run an AI-native company where decisions are systematically measured. | 2026-04-24 How To Build A Company With AI From The Ground Up |
-| Skills files | Instruction documents telling an AI about a team's coding rules and styles. | Ensures AI writes code like a startup rather than an enterprise. | 2026-06-04 Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup |
-| Cloud Sandboxes | Secure, isolated virtual environments in the cloud where code can be executed and tested. | Building internal infrastructure improves feedback loops for the agent. | 2026-03-16 India’s Fastest Growing AI Startup |
-| Cowork | A graphical version of Claude Code designed for non-technical users to use in a virtual machine. | Used by finance and sales teams to use agents without a terminal interface. | 2026-02-17 Inside Claude Code With Its Creator Boris Cherny |
-| Codex | An early AI model specifically designed to understand and generate computer code. | Compared to modern tools; described as a CTO for tough technical problems and visual brainstorming. | 2026-02-06 We're All Addicted To Claude Code |
-| Coding Agents | AI programs designed to autonomously perform programming tasks like fixing bugs, writing tests, or building features. | Described as tools that allow one person to do the work of many, achieving top rankings on software engineering benchmarks. | 2026-02-06 We're All Addicted To Claude Code |
-| Cohort retention curves | Graph grouping users based on start date to track how many stay over time. | Tool for figuring out if groups of users keep using a product. | 2026-07-09 How To Better Understand Your Users |
-| Cold Start Problem | Difficulty starting a new system that requires a certain number of users or approvals to function. | The difficulty of landing the first sale while waiting for licenses. | 2026-05-06 How Razorpay Became India’s Largest Payments Company |
-| Compaction | A process where an AI tool automatically shrinks or summarizes its history/memory to stay within processing limits. | Used to allow for very long running jobs without requiring users to manually manage folder or session history. | 2026-02-06 We're All Addicted To Claude Code |
-| Compound startup | Business model where a company builds multiple integrated products simultaneously. | Comparing how modern startups evolve from building products to automating functions. | 2026-02-14 The New Way To Build A Startup |
-| Computer Use Models | AI systems designed to interact with computer interfaces by moving the mouse and clicking. | Developing models that can navigate legacy software remains difficult. | 2026-04-25 Replit's CEO On The Only Two Jobs Left In The Company Of The Future |
-| Conductor | App allowing users to manage and coordinate multiple AI coding assistants on a Mac. | Tool used to orchestrate coding agents to perform development tasks. | 2026-06-04 Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup |
-| Context poisoning | A situation where an AI's memory fills with irrelevant or incorrect data, causing performance to fail. | Occurs if an agent gets stuck in a loop or reaches its token limit, leading to a dumb zone. | 2026-02-06 We're All Addicted To Claude Code |
-| Context stuffing | Providing an AI with massive data in its memory window to help answer better. | Systems automatically determine if more data needs to be added to the prompt. | 2026-02-27 The Powerful Alternative To Fine-Tuning |
-| Context Window | The limited amount of memory or information an AI model can process at one single time. | Compared to human working memory; managing this limit is critical to prevent context poisoning or performance degradation. | 2026-02-06 We're All Addicted To Claude Code |
-| Continual Learning | The ability of an AI system to update its knowledge and skills over time from experience without forgetting previous info. | Identified as an essential but currently unsolved requirement for creating true autonomous agents. | 2026-03-16 India’s Fastest Growing AI Startup |
-| Copilot | AI assistant designed to help workers by suggesting code or automating parts of work. | Used as an example of a minor productivity boost versus a shift in capability. | 2026-04-24 How To Build A Company With AI From The Ground Up |
-| Cortical Motor Decoders | Devices that read signals from the brain's motor cortex to translate thoughts into actions or commands. | Helps paralyzed patients control cursors or keyboards via thought. | 2026-03-09 The Future Of Brain-Computer Interfaces |
-| CrabTrap | An open source security tool that acts as a proxy to monitor and secure AI agent network traffic. | Brex's solution for auditing HTTP requests to verify they follow security policies. | 2026-06-10 The CEO Must Be the Chief AI Officer |
-| Critical Mass | Minimum amount required to start or maintain a self-sustaining movement. | Point at which a city has enough founders to explode as a tech center. | 2026-05-13 Paul Graham, Founder of Y Combinator, Live from Stockholm |
-| Cron Job | A command used to schedule tasks to run automatically at specific intervals. | Underlying design of how an AI heartbeat triggers automations. | 2026-07-08 How A Prototype Built During A Missed Flight Became A New Gusto Product |
-| Cross Embodiment | A single AI model that can control many different types of robot hardware simultaneously. | Training models on data from many different robots makes generalists better than specialists. | 2026-04-16 The GPT Moment for Robotics Is Here |
-| CRUD | The four basic functions of data storage: Create, Read, Update, and Delete. | Describes the technical nature of prototypes for managing data. | 2026-07-08 How A Prototype Built During A Missed Flight Became A New Gusto Product |
-| CTA | Call to Action; a button or link prompting a user to perform a specific action like signing up. | Analyzed for placement and effectiveness; described as the most important line in an outreach email. | 2026-01-29 Why Your Startup Website Isn't Converting |
-| Cursor | An AI-integrated code editor that helps developers write and refactor code efficiently. | A tool for engineers that can be used to prototype or cook up creative website sections. | 2026-06-19 The Age Of The 40-Year-Old Solo Founder Is Here |
-| Cursor agent | Specific AI coding assistant used within an editor to help build features. | Allows non-technical staff to ship product features independently. | 2026-03-31 This Startup Catches Fraud at Scale |
-| Custom Agents | Personalized AI programs designed to automate specific manual tasks for employees. | Employees document tasks so companies can build specific AI tools for them. | 2026-02-14 The New Way To Build A Startup |
-| Custom Heat Shield | Protective layer using flowing liquid hydrogen to keep a vehicle from burning up. | Solutions for surviving 2700° F heat during re-entry. | 2026-01-08 Inside The Startup Building Reusable Rockets |
-| Cyber Psychosis | Slang for being intensely obsessed with working with AI agents late into the night. | Lifestyle of staying up until 3 a.m. building things with AI agents. | 2026-02-21 The AI Agent Economy Is Here |
-| Dark Stores | Small local warehouses used to fulfill online orders quickly rather than walk-ins. | Used to control speed and quality in delivery operations. | 2026-05-19 Why Zepto's Aadit Palicha Turned Down Stanford to Deliver Groceries |
-| Data Viz | Data visualization; turning statistics into visual charts or animations to make them easier to understand. | Some site animations are for visual interest rather than being precise data visualizations. | 2026-04-22 How Stripe Built Their New Website |
-| DAUs / MAUs | Daily or Monthly Active Users; unique people using a service over a period. | Common aggregate metrics that lump all users together. | 2026-07-09 How To Better Understand Your Users |
-| Dead Internet Theory | Theory suggesting the majority of internet content is generated by bots rather than humans. | Discussed regarding a future where 99% of text on sites might be bot-written. | 2026-02-21 The AI Agent Economy Is Here |
-| Deep container technology | Packaging software to run reliably across environments, enhanced for AI needs. | Invented to allow AI agents to run in parallel efficiently. | 2026-06-06 Emergent: How Six Months of Tinkering Led To A \$100M ARR Company |
-| Deep Equilibrium (DEQ) Learning | A method focusing on finding a stable state in processing rather than calculating every loop step. | A trick used to avoid memory problems during recursive training. | 2026-05-01 Recursion Is The Next Scaling Law In AI |
-| Deep Tech | Companies based on substantial scientific or engineering challenges with long development cycles. | Founders are encouraged to combine AI with hard science like materials or medicine. | 2026-04-29 Demis Hassabis: Agents, AGI & The Next Big Scientific Breakthrough |
-| Deflection rates | Percentage of customer queries resolved by automated systems without a human. | Quantifies AI efficiency compared to traditional chatbots. | 2026-05-29 Why Two IIT Engineers Turned Down \$550K Jobs To Build A Startup |
-| Deformable Objects | Items that change shape when touched, such as clothing or laundry. | Folding laundry is seen as a Turing test for robotics compared to rigid objects. | 2026-04-16 The GPT Moment for Robotics Is Here |
-| Delaware C Corp | A standard type of American corporation often favored by investors for its clear legal rules. | Mentioned as a structure that can force founders to prioritize profits over a mission. | 2026-05-22 How The Best Companies Defend Against Mediocrity And Rot |
-| Demoware | Software that looks good in a demo but isn't functional for real-world use. | Contrasted with functional software that beats coding benchmarks. | 2026-06-06 Emergent: How Six Months of Tinkering Led To A \$100M ARR Company |
-| Demonetization | Stripping a currency of legal tender status, leading to a surge in digital payment adoption. | A pivotal 2016 moment that forced businesses to adopt digital systems. | 2026-05-06 How Razorpay Became India’s Largest Payments Company |
-| Design Shotgun | Tool quickly generating multiple visual design options for a user to choose from. | Generating different dashboard variants for the same app idea. | 2026-04-23 How to Make Claude Code Your AI Engineering Team |
-| Design Systems | A collection of reusable components and standards for consistent digital products. | AI may help manage these systems to maintain a cohesive look as companies scale. | 2026-04-22 How Stripe Built Their New Website |
-| Deterministic systems | Systems producing the same output for an input based on fixed if-then rules. | Contrasted with modern agentic AI systems for fraud detection. | 2026-03-31 This Startup Catches Fraud at Scale |
-| DevRel (Developer Relations) | Role focused on building relationships and educating a technical community. | Focuses on teaching non-technical people what is possible with AI tools. | 2026-04-25 Replit's CEO On The Only Two Jobs Left In The Company Of The Future |
-| DevTools | Software that helps computer programmers build and test other software. | Field where non-technical founders might struggle with founder market fit. | 2026-06-17 How To Pick A Startup Idea |
-| Diarization | Organizing and summarizing large amounts of recorded audio or data. | Turning thousands of hours of office hours into useful manuals. | 2026-05-21 How to Build a Self-Improving Company with AI |
-| Diffusion | A machine learning framework that creates data by learning to reverse a process of adding noise to information. | An alternative to auto-regressive models, used for high-quality image generation and more natural robotic movements. | 2026-01-22 The ML Technique Every Founder Should Know |
-| Diffusion Policy | Applying the diffusion framework to robotics to learn complex physical movements. | Makes robots move more naturally and effectively. | 2026-01-22 The ML Technique Every Founder Should Know |
-| Diffusion Transformers | Modern architecture combining diffusion with the transformer structure. | Used in state-of-the-art systems like Sora or Flux. | 2026-01-22 The ML Technique Every Founder Should Know |
-| Direct hydrogen peroxide synthesis | Method of creating peroxide by reacting hydrogen and oxygen gas directly. | A skunk works project focused on finding biological alternatives. | 2026-03-20 Inside The Startup Reinventing The \$6 Trillion Chemical Manufacturing Industry |
-| Direct Mutual Funds | Investment funds bought directly without distributor commissions for higher returns. | A pivot made after power customers asked for zero-commission options. | 2026-06-15 Groww: If Your Customers Don't Love It or Hate It, You've Already Lost |
-| Disk/Memory snapshotting | Taking a digital picture of a computer's state to be restored or copied later. | built to preserve software state while multiple agents worked on it. | 2026-06-06 Emergent: How Six Months of Tinkering Led To A \$100M ARR Company |
-| Distillation | The process of transferring knowledge from a large, complex AI model into a smaller, faster, and cheaper one. | YC Paper Club | 2026-05-28 Inference, Diffusion, World Models, and More | YC Paper Club |
-| Dogfooding | The practice of a company using its own product internally to test it before release. | Used by the Anthropic team to ship code using Claude Code before the official launch. | 2026-02-17 Inside Claude Code With Its Creator Boris Cherny |
-| Domain Knowledge | Business expertise stored in the minds of employees or communication tools. | Extracted from humans and history to define context for AI systems. | 2026-05-21 How to Build a Self-Improving Company with AI |
-| Dot plot | Visual grid where rows are individual users and columns are time periods. | Primary tool suggested to identify patterns that aggregate data misses. | 2026-07-09 How To Better Understand Your Users |
-| Downrange | Landing location far away from the initial launch site, usually in the ocean. | Where the first stage of the rocket might land after ascent. | 2026-01-08 Inside The Startup Building Reusable Rockets |
-| Dream Cycle | An automated background process where an AI reviews past work to improve and learn. | Features in GBrain where the system processes data at night to update skills. | 2026-05-27 Inside YC's AI Playbook |
-| DRI | Directly Responsible Individual; a single person accountable for a specific outcome. | Critical for avoiding decisions by committee in lean organizations. | 2026-05-21 How to Build a Self-Improving Company with AI |
-| Drop Shippers | Sellers who don't keep stock but pass orders to a supplier who ships to the buyer. | Identified as early power users of platforms selling via WhatsApp. | 2026-06-11 How Meesho Became India’s Biggest Shopping App |
-| Early Adopters | First group of people willing to use a new, often imperfect, technology. | Small group startups must find who are willing to take a chance on new products. | 2026-01-14 How To Get Your First Users |
-| Early Demand Trap | Signing too many initial customers, causing teams to get stuck in manual work. | Warning to limit pilot customers to avoid failing to scale the product. | 2026-06-03 How to Build an AI-Native Services Company |
-| ECMO | Extra Corporeal Membrane Oxygenation; a machine that acts as a temporary heart and lungs. | A starting point for the Vessel project, aiming to turn large ICU machines into portable therapies. | 2026-03-09 The Future Of Brain-Computer Interfaces |
-| Embeddings | Representing data so an AI can understand relationships and context between pieces of info. | Giving an AI context through personal data makes it more useful. | 2026-07-08 How A Prototype Built During A Missed Flight Became A New Gusto Product |
-| Ensembling | Combining several different AI models to get a single, more accurate prediction. | YC Paper Club | 2026-05-28 Inference, Diffusion, World Models, and More | YC Paper Club |
-| Enzyme | Biological substance from living cells acting as a catalyst to speed reactions. | Mutated enzymes can transform corn syrup into specific chemical compounds. | 2026-03-20 Inside The Startup Reinventing The \$6 Trillion Chemical Manufacturing Industry |
-| Ephemeral Software | Programs and dashboards created by AI to solve current problems and then discarded. | Code and dashboards are treated as disposable; only data is permanent. | 2026-05-21 How to Build a Self-Improving Company with AI |
-| Euler's Method | Numerical procedure for solving differential equations by taking small steps. | Used to iteratively refine an image at test time by following predicted velocities. | 2026-01-22 The ML Technique Every Founder Should Know |
-| Evals (Evaluations) | Standardized tests or frameworks used to measure the performance, accuracy, and reliability of AI models. | Suggested as a permanent part of the company fabric to ensure every fix for an agent mistake becomes a test case. | 2026-06-10 The CEO Must Be the Chief AI Officer |
-| Expectation Maximization (EM) | Iterative math method alternating between estimating values and refining them to explain data. | Describes how models update internal memory and answers in parallel. | 2026-05-01 Recursion Is The Next Scaling Law In AI |
-| Experience Replay | A technique where an AI reviews past experiences or successful actions to learn more effectively. | Borrowed from human hippocampal consolidation to master games like Atari. | 2026-04-29 Demis Hassabis: Agents, AGI & The Next Big Scientific Breakthrough |
-| Fashnear | Name of Meesho's first failed version focusing on local discovery. | Allowed shops to list items for local customers within a certain radius. | 2026-06-11 How Meesho Became India’s Biggest Shopping App |
-| Figma | Digital tool used by designers to create visual mockups and prototypes. | Design teams may move from Figma to live code for interactive elements. | 2026-01-30 How We Redesigned Our Website |
-| Fine-tuning | Training a pre-trained AI model further on a specific dataset to improve task performance. | One method to enhance model performance, though noted as expensive and slow. | 2026-06-06 Emergent: How Six Months of Tinkering Led To A \$100M ARR Company |
-| Flow Matching | Simplified diffusion teaching a model to move in a straight line from noise to clear data. | A modern research breakthrough simplifying the math for diffusion. | 2026-01-22 The ML Technique Every Founder Should Know |
-| Formidable | Impressive, powerful, or inspiring fear because of great ability. | Used to describe the extraordinary founders funded by accelerators. | 2026-01-30 How We Redesigned Our Website |
-| Forward Deployed Engineer (FDE) | Engineer working at a customer's location to implement and customize a product. | Identified as a bottleneck in AI adoption that startups aim to automate. | 2026-05-29 Why Two IIT Engineers Turned Down \$550K Jobs To Build A Startup |
-| Fossil fuel feed stock | Raw materials derived from oil and gas used in manufacturing. | Traditional industry reliance replaced by materials like corn syrup. | 2026-03-20 Inside The Startup Reinventing The \$6 Trillion Chemical Manufacturing Industry |
-| Founder-Market Fit | Match between a founder's unique skills and the industry they are trying to solve. | Common worry regarding whether deep domain experience is required for a startup. | 2026-06-17 How To Pick A Startup Idea |
-| Founder Mode | A hands-on management style where founders stay deeply involved in details and trust their instincts rather than delegating. | Referred to as presence not absence, used to protect a company's core vision and maintain high-intensity energy. | 2026-06-25 Zynga Founder: Consumer Is Not Investible Right Now \- Thats Why You Should Build It |
-| Founder sales | Phase where the person who started the company personally handles all selling. | Core strategy for early-stage startups that founders should internalize. | 2026-06-22 How to Get Your First 10 Customers |
-| Fréchet Inception Distance (FID) | Metric measuring how similar generated images are to real images; lower is better. | Researchers iteratively improved models by trying to lower this score. | 2026-01-22 The ML Technique Every Founder Should Know |
-| Frontier Model | The most advanced and capable version of an AI model currently available. | Founders are advised to build for the next generation of models rather than today's versions. | 2026-02-17 Inside Claude Code With Its Creator Boris Cherny |
-| Full Stack | Managing every layer of a project, from underlying tech to customer interaction. | Advises founders to think from first principles of customers to long-term strategy. | 2026-06-25 Zynga Founder: Consumer Is Not Investible Right Now \- That's Why You Should Build It |
-| Fully and Rapidly Reusable Rockets | Rockets designed to return to Earth in one piece to be flown again immediately. | Mission to achieve aircraft-like reusability to lower space flight costs. | 2026-01-08 Inside The Startup Building Reusable Rockets |
-| Garry Mode | A specialized interface setting that reveals the step-by-step reasoning and every technical tool call made by an AI. | Named after a power user, it uncollapses all technical actions for maximum transparency. | 2026-06-04 Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup |
-| GAS (Growth as a Service) | A model providing outsourced growth, marketing, and sales functions as a subscription. | A play on the term SaaS (Software as a Service). | 2026-01-29 Why Your Startup Website Isn't Converting |
-| GDP Counter | A live digital display tracking the percentage of global goods/services processed by a company's systems. | Used at the top of the Stripe site to demonstrate massive scale and social proof. | 2026-04-22 How Stripe Built Their New Website |
-| General Availability | Stage where a product is made available to all customers in the general market. | Milestone reached by Legora in October 2024\. | 2026-06-05 How Legora Went From YC to \$100M ARR in 18 Months |
-| Generalization | The ability of an AI model to apply learned information to new, unseen data or tasks. | YC Paper Club | 2026-05-28 Inference, Diffusion, World Models, and More | YC Paper Club |
-| GEO Strategy | Generative Engine Optimization; the practice of trying to make a company show up favorably in AI search results. | Companies use this to fool LLMs into recommending their products via biased lists. | 2026-02-06 We're All Addicted To Claude Code |
-| Gestation Period | The time it takes for a business to go from initial setup to starting operations. | Describes long waits for regulatory approvals before processing the first transaction. | 2026-05-06 How Razorpay Became India’s Largest Payments Company |
-| Git Work Trees | Feature in Git allowing a developer to have multiple branches checked out at once. | A contrarian view prefers multiple full copies of a repository instead. | 2026-02-07 OpenClaw Creator: Why 80% Of Apps Will Disappear |
-| GMV | Total dollar value of everything sold through a platform over a period. | Scale of transaction volume reached before founders committed full-time. | 2026-05-19 Why Zepto's Aadit Palicha Turned Down Stanford to Deliver Groceries |
-| GNC Software | Guidance, Navigation, and Control software; the brain steering the rocket. | Integration of the flight computer with the steering software during testing. | 2026-01-08 Inside The Startup Building Reusable Rockets |
-| Go Public | When a private company begins selling shares on a stock exchange. | Reaching an IPO (Initial Public Offering) is a milestone for top startups. | 2026-05-13 Paul Graham, Founder of Y Combinator, Live from Stockholm |
-| Governance Fortress | Legal rules and board structures that protect a company from hostile takeovers or forced changes. | Used by companies like Costco to maintain a customer-first mission. | 2026-05-22 How The Best Companies Defend Against Mediocrity And Rot |
-| GPT moment for Robotics | A turning point where machines achieve a level of general intelligence similar to the rise of LLMs. | Describing the mission to create a model that can control any robot for any task. | 2026-04-16 The GPT Moment for Robotics Is Here |
-| Gradient Descent | A mathematical optimization method used to train AI models by making step-by-step adjustments to minimize errors. | Cited as an example of a specific technical phrase and explained as the standard way current deep learning models learn patterns. | 2026-06-12 5 Papers That Show Where AI Research Is Heading Right Now |
-| Gradient Wave | A visual design element with smooth, colorful wave transitions. | A staple of Stripe's brand identity; built via a tool to experiment with color and movement. | 2026-04-22 How Stripe Built Their New Website |
-| Granularity | The level of detail in a set of data; higher means more specific. | Dot plots provide a deeper look into specific actions compared to broad charts. | 2026-07-09 How To Better Understand Your Users |
-| Grok | Highspeed AI service or model used for fast and cheap data processing. | Faster and cheaper alternative to Whisper for transcribing long videos. | 2026-02-21 The AI Agent Economy Is Here |
-| GStack | An open-source framework that organizes AI coding models into a team of specialists with specific skills. | Implements a thin harness approach to manage multiple agents as a parallel software development team. | 2026-04-23 How to Make Claude Code Your AI Engineering Team |
-| GTM Strategy | Go-To-Market strategy; a plan outlining how a company will launch a product and reach its target customers. | Used to describe specialized plans, such as targeting educational institutes or using AI agents for execution. | 2026-01-29 Why Your Startup Website Isn't Converting |
-| Gusto Cofounder | AI-powered tool automating business processes like payroll and time off approvals. | Released by Gusto to automate business operations for small business owners. | 2026-07-08 How A Prototype Built During A Missed Flight Became A New Gusto Product |
-| Hair on fire problem | An urgent, critical problem a customer is desperate to solve immediately. | Used to validate if there is real demand for a product. | 2026-06-17 How To Pick A Startup Idea |
-| Hallucinates | When an AI generates info that sounds confident but is factually incorrect. | Describes current agents which are smart but still prone to errors. | 2026-06-25 Zynga Founder: Consumer Is Not Investible Right Now \- Thats Why You Should Build It |
-| Happenstance | AI-based tool helping users search connections using everyday language. | Helps founders find specific experts within their extended network. | 2026-06-22 How to Get Your First 10 Customers |
-| Hard Tech | Startups involving significant scientific or physical hardware challenges. | Examples include robotics for space assembly. | 2026-06-17 How To Pick A Startup Idea |
-| Hardware in the Loop (HITL) Testing | Testing real hardware connected to a computer simulation for fake flight. | Used to prove flight computers and electronics are robust. | 2026-01-08 Inside The Startup Building Reusable Rockets |
-| Harness | A specialized software layer or structure built around an AI model to guide its behavior and improve its output for specific tasks. | Described as a thin layer that allows the model to focus on specific outcomes like website creation or reasoning. | 2026-03-27 François Chollet: Why Scaling Alone Isn’t Enough for AGI |
-| Hero section | Top part of a webpage containing a large image and main message. | Header that illustrates the transformation of founders. | 2026-01-30 How We Redesigned Our Website |
-| Hierarchal Reasoning Models (HRM) | AI using multiple levels of reasoning, often inspired by how the brain works at different speeds. | Demonstrated the power of recursive approaches in AI research in 2025\. | 2026-05-01 Recursion Is The Next Scaling Law In AI |
-| Hierarchical Organization | Traditional company structure where power flows through levels of managers. | Roman Legion model being broken by AI automation. | 2026-05-21 How to Build a Self-Improving Company with AI |
-| High Agency | Proactive quality of taking initiative rather than waiting for instructions. | Key trait of successful AI founders who build their own tools. | 2026-06-27 India Can Create The Largest AI Companies |
-| High Intelligence Threshold | Requirement where work necessitates a combination of advanced AI and human expertise. | A trait founders should look for when picking an AI services market. | 2026-06-03 How to Build an AI-Native Services Company |
-| Hot swap | Replacing or switching components or teams quickly without interrupting the process. | Tactical shift where engineering teams handle customers while leaders fundraise. | 2026-06-05 How Legora Went From YC to \$100M ARR in 18 Months |
-| Human Middleware | Middle managers whose primary job is to route info between different parts of a company. | Argued to be eliminated in AI-native companies to increase information speed. | 2026-04-24 How To Build A Company With AI From The Ground Up |
-| Humans in the loop (HITL) | Process where humans supervise or assist an automated or AI-driven system. | New algorithms can forecast supply chain needs without this human intervention. | 2026-05-19 Why Zepto's Aadit Palicha Turned Down Stanford to Deliver Groceries |
-| Hyperlocal E-commerce | The model focused on delivering goods from very nearby sources in extremely short timeframes. | Retail format tailored specifically to the Indian market. | 2026-05-19 Why Zepto's Aadit Palicha Turned Down Stanford to Deliver Groceries |
-| Hyperlocal network effects | The value of a service increases as more people use it within a small geographic area. | Contrasted with the new global wave of AI startups. | 2026-06-27 India Can Create The Largest AI Companies |
-| Individual Contributor (IC) | Employee who does the actual work rather than managing others. | In AI-native companies, everyone should be a builder or operator. | 2026-05-21 How to Build a Self-Improving Company with AI |
-| ICL | In-Context Learning; a model's ability to learn a task from a few examples provided in the current prompt. | Noted that performance does not always improve steadily as more examples are added. | 2026-06-12 5 Papers That Show Where AI Research Is Heading Right Now |
-| Ideal Customer Profile (ICP) | A detailed description of the specific type of person or company that would get the most value from a product. | Essential for guiding outbound sales and identifying which buyers care about a product more than a salesperson. | 2026-05-29 Why Two IIT Engineers Turned Down \$550K Jobs To Build A Startup |
-| IDE | Integrated Development Environment; Software providing comprehensive tools to programmers for development. | Traditional versions are being challenged by CLI-based AI tools. | 2026-04-25 Replit's CEO On The Only Two Jobs Left In The Company Of The Future |
-| Imposter Syndrome | Doubting accomplishments and fearing exposure as a fraud despite success. | Felt when comparing college dropouts to PhDs from MIT during YC batches. | 2026-06-05 How Legora Went From YC to \$100M ARR in 18 Months |
-| Incumbent Fallacy | Mistaken belief by large companies that they are safe and can react to market changes later. | Why startups must reinvent themselves with AI before competitors do. | 2026-05-06 How Razorpay Became India’s Largest Payments Company |
-| Industrial Foundation | A structure where a non-profit foundation owns a for-profit company to ensure its mission is maintained. | A stable structure used by companies like Novo Nordisk to survive for over 100 years. | 2026-05-22 How The Best Companies Defend Against Mediocrity And Rot |
-| Inference | The stage where a pre-trained AI model is used to generate content or predictions, rather than the learning stage. | YC Paper Club | 2026-05-28 Inference, Diffusion, World Models, and More | YC Paper Club |
-| Inference API | Technical interface allowing programs to use pre-trained AI models. | Example of a product shipped quickly to land a first customer. | 2026-01-14 How To Get Your First Users |
-| Intelligence Layer | Central AI system replacing middle management by routing and analyzing info. | Should serve as a company's operating system, removing human middleware. | 2026-04-24 How To Build A Company With AI From The Ground Up |
-| Isotropic Gaussian Noise | Standard type of random mathematical static uniform in all directions. | Starting point of the flow matching process. | 2026-01-22 The ML Technique Every Founder Should Know |
-| IVR | Interactive Voice Response; Automated phone system gathering info and routing calls through voice or keypad. | Frustrating traditional support method compared to modern AI. | 2026-05-29 Why Two IIT Engineers Turned Down \$550K Jobs To Build A Startup |
-| Jevons Paradox | Theory that an increase in efficiency leads to more consumption of a resource rather than less. | Suggests we will reach a point where AI compute is so cheap we squander it on everything. | 2026-06-25 Zynga Founder: Consumer Is Not Investible Right Now \- Thats Why You Should Build It |
-| JSON Parsing | Analyzing and converting JSON data into a structure a program can use. | A technical hurdle (structured output) that newer AI models have solved. | 2026-03-16 India’s Fastest Growing AI Startup |
-| Just-in-time Software | Software created by an AI on the fly when a user needs it and then discarded. | AI generates specific code or views to solve an immediate problem instead of fixed apps. | 2026-05-27 Inside YC's AI Playbook |
-| Kaggle | Online platform where data scientists compete to solve machine learning problems. | A place where engineers hack to win prize money and prove skill. | 2026-05-29 Why Two IIT Engineers Turned Down \$550K Jobs To Build A Startup |
-| KL Divergence | Kullback–Leibler Divergence; Mathematical measure of how one probability distribution differs from a reference one. | Training objective to minimize differences between learned and real data. | 2026-01-22 The ML Technique Every Founder Should Know |
-| KYB verifications | Know Your Business; process institutions use to verify a business entity's identity. | Helps verify that a person is legally linked to the business they claim. | 2026-03-31 This Startup Catches Fraud at Scale |
-| KYC | Know Your Customer; standard procedure to verify individual user identities. | One of the complex compliance processes AI agents can automate. | 2026-03-31 This Startup Catches Fraud at Scale |
-| Laboratory Information Management System (LIMS) | Software used in labs to track samples, results, and workflows. | Logs and tracks patient blood samples through processing cycles. | 2026-04-06 BillionToOne Is Solving One of Biotech’s Hardest Problems |
-| Latency | The delay or lag time between a user's request and the AI's response. | Thinking machines aim for close to zero latency in AI responses. | 2026-06-25 Zynga Founder: Consumer Is Not Investible Right Now \- Thats Why You Should Build It |
-| Latent Demand | A hidden desire for a product shown through user behaviors before a formal tool exists. | Described as the core product principle behind features like ClaudeMD. | 2026-02-17 Inside Claude Code With Its Creator Boris Cherny |
-| Latent Space | A mathematical space where an AI maps data points to understand relationships between complex concepts like faces or goals. | Explains how brain representations are similar to AI inner workings, allowing models to visualize objectives. | 2026-03-09 The Future Of Brain-Computer Interfaces |
-| Leaf Nodes | End points of a branching tree representing final or current versions. | Part of biological analogy describing mature products with millions of users. | 2026-01-14 How To Get Your First Users |
-| Lean (Programming) | A programming language and tool used to write and computer-verify mathematical proofs. | Used to create verified intelligence in mathematics and science. | 2026-06-12 5 Papers That Show Where AI Research Is Heading Right Now |
-| Lean Startup | Principles for building companies based on continuous testing and fast iteration rather than long-term planning. | A classic playbook for building companies, contrasted with new work on how to make them last. | 2026-05-22 How The Best Companies Defend Against Mediocrity And Rot |
-| Legacy SaaS | Older, established software-as-a-service companies. | Example of large incumbents that ambitious startups might compete against. | 2026-06-17 How To Pick A Startup Idea |
-| Legible to AI | Ensuring company interactions are recorded in a format models can read. | If an event wasn't recorded, it did not happen to the company intelligence. | 2026-05-21 How to Build a Self-Improving Company with AI |
-| Level 8 Software Factory | Highest level of automation where software is maintained entirely by AI. | Modern setups reach Level 7, enabling parallel development with some human oversight. | 2026-04-23 How to Make Claude Code Your AI Engineering Team |
-| Line of Business Applications | Software designed to fulfill a specific business need or process within a company. | Internal enterprise tools like sales automations or quote configurators. | 2026-04-25 Replit's CEO On The Only Two Jobs Left In The Company Of The Future |
-| Linear issue | Specific bug report or task listed in a popular project management tool. | Typical task where agents are asked to look at a ticket and suggest a fix. | 2026-06-04 Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup |
-| Liquid biopsy | Non-invasive blood test looking for cancer cells or tumor DNA. | Prenatal test technology applied to cancer detection. | 2026-04-06 BillionToOne Is Solving One of Biotech’s Hardest Problems |
-| LLM |  Large Language Model; A type of AI trained on massive amounts of text to understand and generate human-like language. | Often treated as expensive resources requiring strict control versus freeing them to act as agents. | 2026-06-10 The CEO Must Be the Chief AI Officer |
-| LLM as a Judge | Using one AI model to evaluate the quality or safety of another AI's actions or outputs. | Used within Crab Trap to approve or block HTTP requests made by agents. | 2026-06-10 The CEO Must Be the Chief AI Officer |
-| LLM.txt | Specialized text file format designed to be easily parsed by AI models. | Used by companies to make documentation agent friendly. | 2026-02-21 The AI Agent Economy Is Here |
-| LoRA | Low-Rank Adaptation; an efficient technique to fine-tune large models by changing only a small number of parameters. | Evaluated as an alternative to ICL for improving performance on small sample sizes. | 2026-06-12 5 Papers That Show Where AI Research Is Heading Right Now |
-| LSD (Lateral Syntactic Drift) mode | A search setting that forces an AI to combine unrelated concepts to spark creativity. | A feature in GBrain used to generate high-quality, creative social media content. | 2026-06-10 The CEO Must Be the Chief AI Officer |
-| M\&A transaction | Mergers and Acquisitions; process of one company buying or joining another. | Complex legal task where agents automate due diligence. | 2026-06-05 How Legora Went From YC to \$100M ARR in 18 Months |
-| Magic Patterns | AI-driven tool used to generate front-end designs without a dedicated designer. | Tool used to avoid hiring full-time design staff. | 2026-02-14 The New Way To Build A Startup |
-| Malleable software | Software designed to be easily changed or modded by the user. | Vision where users customize their own AI workflows like modding a game. | 2026-06-04 Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup |
-| Manager Mode | A state where a person focuses on delegating and overseeing rather than doing technical work. | Used metaphorically to describe the period when a founder stops coding, now reversed by AI. | 2026-02-06 We're All Addicted To Claude Code |
-| Managing General Agent (MGA) | Specialized insurance broker authorized to bind coverage like an insurance company. | Contrasted with full-stack insurance approaches. | 2026-06-17 How To Pick A Startup Idea |
-| Markdown file | Simple text file for formatting, often used for documentation or instructions. | AI agents are driven by policies written in these iteratively improved files. | 2026-05-29 Why Two IIT Engineers Turned Down \$550K Jobs To Build A Startup |
-| MCP |  Model Context Protocol; a standardized protocol for connecting AI models to various external data sources and software tools. | Discussed as a way to link agent harnesses to sources of truth or databases, though some find it has context bloat. | 2026-02-17 Inside Claude Code With Its Creator Boris Cherny |
-| Memory | The ability of an AI model to retain and recall information from previous parts of a conversation or document. | Noted as a hot topic in research for the last 18 months regarding long-term retrieval and context. | 2026-06-12 5 Papers That Show Where AI Research Is Heading Right Now |
-| Meta-prompting | Asking an AI to write or improve the instructions (prompts) used by another AI. | Systems improve their own tools by reading transcripts of successful interactions. | 2026-05-27 Inside YC's AI Playbook |
-| Metal catalyst | Material used in traditional chemistry to speed up reactions. | Paired with enzymes to achieve a 96% reaction yield. | 2026-03-20 Inside The Startup Reinventing The \$6 Trillion Chemical Manufacturing Industry |
-| Micro satellite instability | Specific genetic change in tumor DNA indicating response to certain treatments. | Identifies patients eligible for immunotherapy when traditional biopsies fail. | 2026-04-06 BillionToOne Is Solving One of Biotech’s Hardest Problems |
-| Minimum Evolvable Product | Basic product version designed specifically to be flexible enough to grow based on feedback. | Needed to survive contact with early users and adapt to market pressures. | 2026-01-14 How To Get Your First Users |
-| Minimum Viable Product | Version of a product with the least effort needed to collect validated learning. | Traditional starting point for startups, contrasted with evolvable versions. | 2026-01-14 How To Get Your First Users |
-| Mission Controlled Companies | Organizations with legal structures designed to protect the company's core purpose above all else. | A proposed third way for companies to endure for decades without losing their values. | 2026-05-22 How The Best Companies Defend Against Mediocrity And Rot |
-| Mixed Autonomy System | A setup where a robot performs tasks alone but has a human ready to step in and fix mistakes. | Explains how to deploy robots today even if they aren't 100% perfect yet. | 2026-04-16 The GPT Moment for Robotics Is Here |
-| Moat | A competitive advantage that protects a company from competitors entering the market. | Regulatory hurdles and customer trust become long-term advantages. | 2026-05-06 How Razorpay Became India’s Largest Payments Company |
-| Model Fluency | Deep understanding of what top AI models can achieve and how to design products for them. | An essential attribute for founders of AI services companies. | 2026-06-03 How to Build an AI-Native Services Company |
-| Model Predictive Control (MPC) | A method for controlling systems by predicting future outcomes and choosing the best sequence of actions. | YC Paper Club | 2026-05-28 Inference, Diffusion, World Models, and More | YC Paper Club |
-| Model Free Policies | AI systems that map situations directly to actions without predicting future outcomes. | YC Paper Club | 2026-05-28 Inference, Diffusion, World Models, and More | YC Paper Club |
-| Molecular diagnostics | Identifying diseases by looking at molecules like DNA or RNA in samples. | Identifies tissues shedding DNA into the bloodstream. | 2026-04-06 BillionToOne Is Solving One of Biotech’s Hardest Problems |
-| Moltbook | Online social network designed for AI agents to interact without human intervention. | First agent-only community where bots post content in their own world. | 2026-02-21 The AI Agent Economy Is Here |
-| Monitoring Agent | AI that watches other tools or activities to identify and fix errors. | Aha moment where agents observed failed queries and fixed the codebase. | 2026-05-21 How to Build a Self-Improving Company with AI |
-| Monte Carlo Tree Search (MCTS) | A decision making algorithm exploring moves by simulating various outcomes. | Re-evaluated at scale to augment modern foundation models. | 2026-04-29 Demis Hassabis: Agents, AGI & The Next Big Scientific Breakthrough |
-| Mood boards | Collection of images and colors used to establish the visual vibe of a project. | Used in early exploration to decide on aesthetic direction. | 2026-01-30 How We Redesigned Our Website |
-| MRD test | Highly sensitive test used to find small amounts of cancer cells remaining after treatment. | Ultra-sensitive test for finding microscopic residue in stage one patients. | 2026-04-06 BillionToOne Is Solving One of Biotech’s Hardest Problems |
-| Multi-agent Orchestrated System | Setup where multiple specialized AI assistants collaborate to finish a complex task. | Specialized agents for testing and design collaborate within a platform. | 2026-06-06 Emergent: How Six Months of Tinkering Led To A \$100M ARR Company |
-| Multi-agent Orchestration | The coordination and routing of tasks between different AI agents to achieve a goal. | Explains how different models are routed to work together effectively. | 2026-03-16 India’s Fastest Growing AI Startup |
-| Multi-agent System | An architecture where multiple AI agents work together and communicate to solve complex tasks. | An innovation where specialized agents coordinate and delegate tasks to one another. | 2026-03-16 India’s Fastest Growing AI Startup |
-| Multimodal | An AI's ability to process text, images, video, and audio simultaneously. | Gemini was built this way to understand the physical world and intuitive physics. | 2026-04-29 Demis Hassabis: Agents, AGI & The Next Big Scientific Breakthrough |
-| MVQP | Minimum Viable Quality Product; an MVP that emphasizes a high standard of quality even in the first release. | Suggests that product experiments must meet a high quality bar to maintain user trust. | 2026-04-22 How Stripe Built Their New Website |
-| Neuroplasticity | The brain's ability to reorganize itself by forming new neural connections throughout life. | Discussed regarding how the brain learns to interpret signals from new implants. | 2026-03-09 The Future Of Brain-Computer Interfaces |
-| Noise Schedule | Specific plan at which random static is added to data during training. | One of the hardest parts of diffusion to get right for model stability. | 2026-01-22 The ML Technique Every Founder Should Know |
-| Nova | Name of a specific two-stage rocket design being developed. | Walking through hardware architecture for specific rocket designs. | 2026-01-08 Inside The Startup Building Reusable Rockets |
-| NPS | Net Promoter Score; Metric measuring customer loyalty by asking likelihood of recommending on a scale of 0-10. | Measures customer love and organic word-of-mouth promotion. | 2026-06-15 Groww: If Your Customers Don't Love It or Hate It, You've Already Lost |
-| Objective Function | A mathematical formula defining the goal an AI model is trying to optimize. | A requirement for solving Grand Challenges like protein folding. | 2026-04-29 Demis Hassabis: Agents, AGI & The Next Big Scientific Breakthrough |
-| Office Hours | AI skill modeled after YC partner sessions that asks critical questions. | AI pushes back on ideas to find better business models and wedges. | 2026-04-23 How to Make Claude Code Your AI Engineering Team |
-| Onboarded | Process a new user goes through to start using a product for the first time. | Marked with a specific symbol on a dot plot to show the first interaction. | 2026-07-09 How To Better Understand Your Users |
-| One-shotting | Generating a complete design or piece of code in a single attempt using an AI prompt. | Risks shipping a landing page exactly as first produced without manual review. | 2026-03-06 Common Mistakes With Vibe Coded Websites |
-| Open Loop | Process operating without a feedback mechanism; decisions are made without measurement. | Characterized as lossy or inefficient old-world company management. | 2026-04-24 How To Build A Company With AI From The Ground Up |
-| Open source models | AI models whose code and inner workings are available for anyone to modify for free. | Makes AI accessible and cheap for a larger global population. | 2026-06-27 India Can Create The Largest AI Companies |
-| OpenClaw | An open-source AI agent framework used for personal automation and automated software engineering tasks. | Used by builders to automate business operations and iterate on AI skills directly on a user's computer. | 2026-06-10 The CEO Must Be the Chief AI Officer |
-| Operating Leverage | Financial benefit where revenue increases without a corresponding increase in operating costs. | Profit margins improve as AI or automation takes over human work. | 2026-05-19 Why Zepto's Aadit Palicha Turned Down Stanford to Deliver Groceries |
-| Operational Rigor | Disciplined management focusing on efficiency metrics like throughput and consistency. | Building an AI service requires skills in managing throughput and procedures. | 2026-06-03 How to Build an AI-Native Services Company |
-| Optogenetics | A biological technique using light to control neurons genetically modified to be light-sensitive. | Explored for vision restoration involving proteins that respond to indoor lighting. | 2026-03-09 The Future Of Brain-Computer Interfaces |
-| Opus 4.5 | Highly advanced AI model used for coding and creative tasks. | Used within coding editors to prototype creative website sections. | 2026-01-30 How We Redesigned Our Website |
-| Organic Growth | Growth achieved through internal resources and word-of-mouth rather than ads. | Occurs when almost 100% of growth comes from customer referrals. | 2026-06-15 Groww: If Your Customers Don't Love It or Hate It, You've Already Lost |
-| Outbound sales | Process where a company initiates first contact with potential customers. | Founders often assume this doesn't work if targeting the wrong channels. | 2026-06-22 How to Get Your First 10 Customers |
-| Outer Refinement Loop | A high-level repeating process that reviews and improves initial AI outputs. | The core reason certain models achieve breakthrough performance on difficult puzzles. | 2026-05-01 Recursion Is The Next Scaling Law In AI |
-| Outliers | Extreme cases falling far outside the normal range, representing innovative companies. | Planned meetings may exclude radical, unexpected ideas compared to unplanned ones. | 2026-05-13 Paul Graham, Founder of Y Combinator, Live from Stockholm |
-| Overparameterization | Using a model with far more internal variables than necessary to fit the training data. | YC Paper Club | 2026-05-28 Inference, Diffusion, World Models, and More | YC Paper Club |
-| Overton windows | Range of ideas or practices considered acceptable or possible at a given time. | Expanding perspectives on how much AI can be used in coding. | 2026-06-27 India Can Create The Largest AI Companies |
-| P(data) | Mathematical probability distribution representing the real version of data. | Machine learning models aim to learn the underlying distribution of training data. | 2026-01-22 The ML Technique Every Founder Should Know |
-| Paperclip Maximization | A thought experiment where an AI destroys the world while single-mindedly pursuing a simple, narrow goal. | Explains why AI companies seek governance structures to prevent purely profit-driven outcomes. | 2026-05-22 How The Best Companies Defend Against Mediocrity And Rot |
-| Parakeet | Specific local AI model used for converting spoken words into text. | Local text-to-speech model run on high-RAM computers. | 2026-06-04 Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup |
-| Parallel Agents | Ability for multiple AI assistants to work on different parts of a project at the same time. | Feature in Replit Agent 4 that allows for faster development. | 2026-04-25 Replit's CEO On The Only Two Jobs Left In The Company Of The Future |
-| Parallelized test time compute | Using massive processing power at the moment of generation to run multiple checks. | Innovation discovered while trying to beat top coding benchmarks. | 2026-06-06 Emergent: How Six Months of Tinkering Led To A \$100M ARR Company |
-| Parametric Learning | Machine learning relying on adjusting a fixed set of numbers (parameters) to fit data. | Contrasted with symbolic learning; argued to be less efficient for general logic. | 2026-03-27 François Chollet: Why Scaling Alone Isn’t Enough for AGI |
-| Path Dependent | Situation where outcomes are limited by decisions made in the past. | Explains why modern products have specific features based on what early adopters valued. | 2026-01-14 How To Get Your First Users |
-| Pay it Forward Culture | Social norm where successful people help newcomers without expecting repayment. | Unique habit where veterans help nobodies because they were once there. | 2026-05-13 Paul Graham, Founder of Y Combinator, Live from Stockholm |
-| PCR | Polymerase Chain Reaction; Lab method used to make many copies of a DNA segment for study. | Standard process to amplify DNA, though it can also amplify background noise. | 2026-04-06 BillionToOne Is Solving One of Biotech’s Hardest Problems |
-| Perpetual Purpose Trust | A legal entity designed to hold ownership of a company forever to protect its mission. | The mechanism used by Anthropic to protect its focus on AI safety. | 2026-05-22 How The Best Companies Defend Against Mediocrity And Rot |
-| Phylogenetic tree | Diagram showing evolutionary relationships among biological species. | Analogy explaining how a product evolves from a simple amoeba to a mature state. | 2026-01-14 How To Get Your First Users |
-| Pivot | A fundamental shift in a company's business strategy or product direction based on market reality or feedback. | Noted as a common occurrence where successful startup ideas were rarely the founder's initial concept. | 2026-05-06 How Razorpay Became India’s Largest Payments Company |
-| Plan Mode | A feature where an AI thinks through a strategy and writes a specification before writing code. | Prevents the model from jumping straight into coding by asking it to talk through an idea first. | 2026-02-17 Inside Claude Code With Its Creator Boris Cherny |
-| PLG (Product-Led Growth) | Strategy where the product itself is the main driver of customer acquisition. | Making a great product is seen as the best way to get referrals and adoption. | 2026-04-25 Replit's CEO On The Only Two Jobs Left In The Company Of The Future |
-| Ploy Slurper | A tool scanning an existing site to recreate its design system and components automatically. | A deterministic method for capturing a brand's design system from an old site. | 2026-06-19 The Age Of The 40-Year-Old Solo Founder Is Here |
-| PMF | Product Market Fit; the point where a company's product satisfies a strong market demand and grows rapidly. | Described as the moment of realizing organic compounding growth, which protects a founder's freedom and power. | 2026-05-19 Why Zepto's Aadit Palicha Turned Down Stanford to Deliver Groceries |
-| Poetic meta system | Master AI system designed to create and optimize other AI reasoning strategies. | Automated optimization process used to generate reasoning systems. | 2026-02-27 The Powerful Alternative To Fine-Tuning |
-| Poison Pill | A defensive tactic used by a board to prevent a hostile takeover by making the company unattractive to a buyer. | Historically used to fight off buyers who wanted to change a company's mission. | 2026-05-22 How The Best Companies Defend Against Mediocrity And Rot |
-| Policy Layer | Rules telling the AI what it is allowed to do and when it needs permission. | Explains how to govern AI decision-making within an organization. | 2026-05-21 How to Build a Self-Improving Company with AI |
-| POMDP | Partially Observable Markov Decision Process; a mathematical framework for decision-making under uncertainty. | Used to describe the finite and uncertain nature of real-life decision-making. | 2026-06-12 5 Papers That Show Where AI Research Is Heading Right Now |
-| Portfolio Companies | Collection of startups a venture capital firm or individual has invested in. | Some mentors help people regardless of having a financial stake. | 2026-05-13 Paul Graham, Founder of Y Combinator, Live from Stockholm |
-| Postgres / PostgreSQL | Popular, powerful open source system for managing digital databases. | The database tool AI agents frequently choose to set up and host. | 2026-02-21 The AI Agent Economy Is Here |
-| Power User / Power Customer | Highly active user of a product who utilizes advanced features and gives feedback. | Staying in touch with vocal users helps catch flaws and find new features. | 2026-06-15 Groww: If Your Customers Don't Love It or Hate It, You've Already Lost |
-| PR (Pull Request) | Request to merge new code changes into a main project for review. | Workflow where agents finish a task and request human review. | 2026-06-04 Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup |
-| Pressure-fed Gaseous Hydrogen Liquid Oxygen Thruster | Rocket engine using pressurized gases and liquids to create thrust. | First prototype built in a shipping container to prove tech to investors. | 2026-01-08 Inside The Startup Building Reusable Rockets |
-| Product Overhang | A situation where AI capabilities exist but have not yet been turned into useful consumer products. | Describes a market state where models are ready for tasks (like coding) but the right tools haven't been built yet. | 2026-02-17 Inside Claude Code With Its Creator Boris Cherny |
-| Program Synthesis | The automatic generation of computer code from high-level descriptions or data specifications. | Described as a core research focus for finding symbolic alternatives to standard deep learning approaches. | 2026-06-12 5 Papers That Show Where AI Research Is Heading Right Now |
-| Progressive Disclosure | A technique hiding complex info and showing it only in small pieces as the user needs it. | Logic behind using modals in the bento box layout to show product details without leaving the page. | 2026-04-22 How Stripe Built Their New Website |
-| Prompt Injection | Hacking an AI by giving it text designed to make it ignore its original rules. | Users in Discord try to hack bots, which may be programmed to laugh at attempts. | 2026-02-07 OpenClaw Creator: Why 80% Of Apps Will Disappear |
-| Propulsion | Engineering field focused on engines and systems that push a rocket forward. | Describes the backgrounds of engineers building rocket prototypes. | 2026-01-08 Inside The Startup Building Reusable Rockets |
-| Prospecting tools | Software used to find and organize contact info for potential customers. | Tools like Apollo only become relevant once a startup has initial traction. | 2026-06-22 How to Get Your First 10 Customers |
-| Prosumers | Professional consumers who buy high-quality, specialized equipment. | Target audience for AI founders due to higher budgets than average consumers. | 2026-01-14 How To Get Your First Users |
-| Protein Language Model | AI models trained on amino acid sequences to predict the 3D structure and function of proteins. | Explains how models like ESM help in biological research and drug discovery. | 2026-06-12 5 Papers That Show Where AI Research Is Heading Right Now |
-| Proven, Better, New | A framework of copying working mechanics, improving them, and adding one innovation. | A playbook for deconstructing successful products to find innovation zones. | 2026-06-25 Zynga Founder: Consumer Is Not Investible Right Now \- Thats Why You Should Build It |
-| Public Benefit Corporation (PBC) | A legal company type required by law to consider both its mission and its profits. | Recommended as a first step for founders wanting to legally protect their company's purpose. | 2026-05-22 How The Best Companies Defend Against Mediocrity And Rot |
-| Pundits | People considered experts who frequently give opinions or critiques. | Industry critics who question non-standard business models. | 2026-05-19 Why Zepto's Aadit Palicha Turned Down Stanford to Deliver Groceries |
-| Purple Gradients | A visual design trend frequently seen on modern tech landing pages. | Identified as an overused design choice in many AI-generated startup websites. | 2026-03-06 Common Mistakes With Vibe Coded Websites |
-| Qualia | The individual subjective qualities of conscious experience (e.g., what it feels like to see a color). | Explores the subjective experience of patients using bio-hybrid or retinal implants. | 2026-03-09 The Future Of Brain-Computer Interfaces |
-| Quality Gate | Safety checks, sometimes involving humans, to ensure AI output is safe. | A step in the AI loop to handle high-risk items and maintain standards. | 2026-05-21 How to Build a Self-Improving Company with AI |
-| Quantitative Counting Templates (QCTs) | Proprietary synthetic DNA markers added to samples to measure and correct errors. | Created during reagent manufacturing to remove lab-induced biases. | 2026-04-06 BillionToOne Is Solving One of Biotech’s Hardest Problems |
-| Queryable Organization | Company structure where all actions/data are recorded so AI can easily search them. | Allows an intelligence layer to learn from every artifact produced. | 2026-04-24 How To Build A Company With AI From The Ground Up |
-| Quick commerce | Business model focused on delivering small orders (like groceries) almost instantly. | Pioneered 10-minute delivery in India; enables new consumer brands to scale. | 2026-06-06 Emergent: How Six Months of Tinkering Led To A \$100M ARR Company |
-| RAG | Retrieval-Augmented Generation; A technique that lets an AI look up specific facts in an external database or document before generating an answer. | Mentioned as a necessary component for providing accurate, context-aware answers from internal company data. | 2026-05-27 Inside YC's AI Playbook |
-| Raising Funding | Process of seeking investment capital from outside sources to grow a business. | Contrasts speed and competitiveness of Silicon Valley vs. European investors. | 2026-05-13 Paul Graham, Founder of Y Combinator, Live from Stockholm |
-| Reasoning strategies | Step-by-step logic or code-based methods AI uses to solve complex problems. | Critical factor for performance, often more important than prompt text. | 2026-02-27 The Powerful Alternative To Fine-Tuning |
-| Reasoning Traces | Visible logs of an AI's internal logic and steps as it works through a problem. | Monitoring AI behavior through step-by-step logs. | 2026-04-23 How to Make Claude Code Your AI Engineering Team |
-| Recursion | The process of repeatedly applying the same set of rules or model weights to an input to refine an answer or reasoning. | Described as a next scaling law that helps small models outperform massive ones on complex logic puzzles. | 2026-05-01 Recursion Is The Next Scaling Law In AI |
-| Recursively Self-Improving System | AI designed to analyze its own performance and make adjustments to become smarter. | Core technology of systems that use self-improvement to beat frontier models. | 2026-02-27 The Powerful Alternative To Fine-Tuning |
-| Regulated Zone | Business environment strictly governed by government laws and oversight agencies. | Choosing to only operate where licenses are held reduces business variables. | 2026-06-15 Groww: If Your Customers Don't Love It or Hate It, You've Already Lost |
-| Reinforcement Learning (RL) | A method of training AI by giving rewards for correct actions and penalties for mistakes. | Used to fine-tune models like O3 to solve specific coding problems and implement features. | 2026-02-06 We're All Addicted To Claude Code |
-| Relentlessly resourceful | Founder's ability to solve problems and find ways around obstacles no matter what. | A core quality Y Combinator looks for in startup founders. | 2026-06-27 India Can Create The Largest AI Companies |
-| Repo (Repository) | Digital storage space for all files and history of a software project. | Created to start building website redesigns from scratch using AI. | 2026-01-30 How We Redesigned Our Website |
-| Representational Collapse | A failure where an AI simplifies everything into the same thing, losing the ability to distinguish situations. | YC Paper Club | 2026-05-28 Inference, Diffusion, World Models, and More | YC Paper Club |
-| Resolver | A system that decides which available AI skill is the right match for a user's request. | Links agent goals to the actual code or entry points. | 2026-05-27 Inside YC's AI Playbook |
-| Retention | Measurement of whether users continue to return and use a product. | Visualized on a dot plot by seeing dots in multiple time periods for a user. | 2026-07-09 How To Better Understand Your Users |
-| Retinal Stimulator | A device implanted in the eye that uses light or electrical signals to restore vision. | Specifically refers to the Prima implant, which uses solar panels to bypass dead photoreceptor cells. | 2026-03-09 The Future Of Brain-Computer Interfaces |
-| Return on Ad Spend (ROAS) | Metric measuring revenue earned for every dollar spent on advertising. | AI models help brands predict which keywords give the best financial results. | 2026-05-19 Why Zepto's Aadit Palicha Turned Down Stanford to Deliver Groceries |
-| Reverse ETL | Moving data from a central storage system back into operational tools like CRM. | Technical way for customers to integrate their data with AI platforms. | 2026-03-31 This Startup Catches Fraud at Scale |
-| RLHF | Reinforcement Learning from Human Feedback; a method of training AI by having humans rank or score responses to align them with preferences. | Included as a key technical phrase and a core component of current AI architectures for saturating reasoning benchmarks. | 2026-06-12 5 Papers That Show Where AI Research Is Heading Right Now |
-| RNN | Recurrent Neural Network; Older AI architecture that processes info in a sequence by feeding outputs back into the next step. | Historically limited by training difficulties like error accumulation. | 2026-05-01 Recursion Is The Next Scaling Law In AI |
-| Robo-Advisor | Automated digital platform providing financial planning based on algorithms. | Failed first product iteration inspired by US companies like Betterment. | 2026-06-15 Groww: If Your Customers Don't Love It or Hate It, You've Already Lost |
-| Robotic Transformer X (Open X) | A large-scale collaborative dataset and model trained across many types of robotic hardware. | Shows that scaling laws apply to robotics, making generalist models superior. | 2026-04-16 The GPT Moment for Robotics Is Here |
-| Root Nodes | Primary starting point or ancestor in a branching tree structure. | Part of biological analogy describing the simplest initial product version. | 2026-01-14 How To Get Your First Users |
-| RT2 (Robotic Transformer 2\) | A model translating visual and language info directly into specific physical actions for a robot. | Allows robots to reason about spatial positions without specific training data. | 2026-04-16 The GPT Moment for Robotics Is Here |
-| S16 Batch | Specific group of startups that participated in YC during the summer of 2016\. | Shows a company's long history with the accelerator program. | 2026-06-11 How Meesho Became India’s Biggest Shopping App |
-| Sam Altman Test | Assessment to see if model improvements make a business more valuable or replace it. | Evaluating whether a startup will be disrupted or strengthened by frontier models. | 2026-06-03 How to Build an AI-Native Services Company |
-| SaaS | Software as a Service; companies selling software through subscriptions. | Contrasted with hardware-heavy financial models. | 2026-01-08 Inside The Startup Building Reusable Rockets |
-| SaaS Bills | Recurring costs paid for cloud-based Software as a Service from other companies. | Internal AI and automation can reduce reliance on these expensive subscriptions. | 2026-05-19 Why Zepto's Aadit Palicha Turned Down Stanford to Deliver Groceries |
-| Scaffolding | Extra code or structures built around an AI model to improve its performance or reliability. | Discusses the trade-off between writing custom code vs. waiting for a better model. | 2026-02-17 Inside Claude Code With Its Creator Boris Cherny |
-| Scroll Jacking | Interfering with normal browser scrolling to trigger animations or effects. | Criticized as a distracting trend that makes the user experience feel clunky. | 2026-03-06 Common Mistakes With Vibe Coded Websites |
-| Scrolly Telling | A storytelling method where website content unfolds as the user scrolls down. | Critiqued for making it take too long for users to find what they need. | 2026-04-22 How Stripe Built Their New Website |
-| Search Algorithm | Step-by-step procedure used to locate specific data or solutions. | Finding product-market fit is described as an evolutionary search algorithm. | 2026-01-14 How To Get Your First Users |
-| Second mover advantage | Benefit of entering a market after others to learn from their mistakes and build better. | Small strong teams can beat established competitors with superior products. | 2026-06-27 India Can Create The Largest AI Companies |
-| Seed round | First official stage of equity funding for a startup to help it grow. | Funding stage reached after gaining traction on platforms like Hugging Face. | 2026-05-29 Why Two IIT Engineers Turned Down \$550K Jobs To Build A Startup |
-| SayCan | A research project showing how language models can provide common sense planning for robotics. | A historical breakthrough bringing LLM reasoning into physical tasks. | 2026-04-16 The GPT Moment for Robotics Is Here |
-| Selection Bias | Analysis error where the studied group is not representative of the whole. | Explains why stats on startups going home might be misleading. | 2026-05-13 Paul Graham, Founder of Y Combinator, Live from Stockholm |
-| Self-free DNA | Small pieces of DNA floating freely in the blood after breaking off from cells. | Type of DNA analyzed in maternal blood or cancer patient blood. | 2026-04-06 BillionToOne Is Solving One of Biotech’s Hardest Problems |
-| Self-healing system | System that automatically fixes its own problems or adapts to new threats. | Goal is to create systems that evolve rapidly in response to adversaries. | 2026-03-31 This Startup Catches Fraud at Scale |
-| Self-play | A training method where an AI improves by playing games or generating and solving tasks against itself. | Used to push LLMs beyond the limits of human-generated training data. | 2026-06-12 5 Papers That Show Where AI Research Is Heading Right Now |
-| Sensor Layer | Part of an AI system monitoring external info like emails or support tickets. | First step in the AI loop for gathering information. | 2026-05-21 How to Build a Self-Improving Company with AI |
-| Serendipitous Meetings | Unplanned encounters that often lead to valuable business ideas or partnerships. | Practical benefit of being in a hub where random conversations are life-changing. | 2026-05-13 Paul Graham, Founder of Y Combinator, Live from Stockholm |
-| Series A Funding | The first significant round of venture capital financing after showing some progress. | Managed with high capital efficiency to scale the product. | 2026-05-06 How Razorpay Became India’s Largest Payments Company |
-| Series B Funding | Second major round of investment usually occurring when ready to scale. | Milestone for expanding a business after initial success. | 2026-06-17 How To Pick A Startup Idea |
-| SFT | Supervised Fine-Tuning; training a model on a specific dataset of high-quality examples. | Mentioned as the final step in training for maximizing performance. | 2026-06-12 5 Papers That Show Where AI Research Is Heading Right Now |
-| Shadowbanned | When a user's posts are hidden on social media without the user being notified. | Experience of founders posting frequently on forums to find customers. | 2026-06-22 How to Get Your First 10 Customers |
-| Shareholder Primacy | A business theory stating a company's only duty is to maximize financial returns for investors. | Described as a relatively new idea that treats companies as financial instruments rather than organizations. | 2026-05-22 How The Best Companies Defend Against Mediocrity And Rot |
-| Signaling value | Benefit of being associated with a prestigious brand to indicate quality. | Being part of YC helps attract investor interest. | 2026-06-05 How Legora Went From YC to \$100M ARR in 18 Months |
-| Single Embodiment | AI software designed to work with only one specific type of robot hardware. | Contrasted with modern general-purpose approaches. | 2026-04-16 The GPT Moment for Robotics Is Here |
-| Skillify | Turning a successful one-time AI action or prompt into a permanent, reusable tool. | A meta-skill in OpenClaw where users tell the agent to save a successful workflow. | 2026-05-27 Inside YC's AI Playbook |
-| Skills Bench | A performance test evaluating how much better agents perform when equipped with specific pre-defined skills. | Shows that agents with specific skills outperform those without them. | 2026-03-16 India’s Fastest Growing AI Startup |
-| Skunk works project | Experimental or secret project within an organization focused on innovation. | Informal nature of initial research into chemical synthesis or AI systems. | 2026-03-20 Inside The Startup Reinventing The \$6 Trillion Chemical Manufacturing Industry |
-| Slot free zones | Codebase parts that must be written or verified by humans, not AI. | Prevents AI from repeating bad patterns in core architectural areas. | 2026-06-04 Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup |
-| Smartphone Dividend | The benefit technologies receive from the mass production of cheap, powerful, small smartphone components. | Explains why high-performance implantable electronics for BCI are now affordable. | 2026-03-09 The Future Of Brain-Computer Interfaces |
-| Social Commerce | Selling products directly through social media and messaging apps like WhatsApp. | Model where entrepreneurs run chat groups to sell to consumers. | 2026-06-11 How Meesho Became India’s Biggest Shopping App |
-| Software Development Life Cycle (SDLC) | The process of creating software from idea and design to coding and deployment. | AI missions aim to solve every stage of this process for users. | 2026-04-25 Replit's CEO On The Only Two Jobs Left In The Company Of The Future |
-| Software infrastructure | Underlying foundational systems that power other software applications. | Works under the hood for other products like GoFundMe. | 2026-03-31 This Startup Catches Fraud at Scale |
-| SOTA | State of the Art; highest level of performance currently achieved in a field. | Relation to beating top scores on benchmarks like ARC-AGI. | 2026-02-27 The Powerful Alternative To Fine-Tuning |
-| SOUL.md | File containing core values and personality instructions defining AI agent behavior. | Used to give AI a distinct personality; often kept proprietary while other code is open. | 2026-02-07 OpenClaw Creator: Why 80% Of Apps Will Disappear |
-| Sound bites | Short, catchy excerpts from recorded interviews or speeches. | Quotes gathered from recent founders to describe their experience. | 2026-01-30 How We Redesigned Our Website |
-| Speculative Decoding | A technique to speed up text generation by using a small model to guess tokens and a large model to verify them. | YC Paper Club | 2026-05-28 Inference, Diffusion, World Models, and More | YC Paper Club |
-| Squeezy Boy | Internal name for an interactive website section that changes size or content dynamically. | A nickname for a section showing integrations, APIs, and cultural highlights. | 2026-04-22 How Stripe Built Their New Website |
-| Squint Test | Metaphor for looking at high-level similarities rather than small details. | AI should share fundamental principles with biological intelligence. | 2026-01-22 The ML Technique Every Founder Should Know |
-| SSD | Speculative Speculative Decoding; An advanced version of speculative decoding that parallelizes drafting and verification steps. | YC Paper Club | 2026-05-28 Inference, Diffusion, World Models, and More | YC Paper Club |
-| Stage 2 Capsule | Top part of a rocket that carrying cargo or passengers into orbit. | Specific part designed to survive atmospheric re-entry. | 2026-01-08 Inside The Startup Building Reusable Rockets |
-| Startup Hub | City where many new businesses and entrepreneurs gather for ideas and funding. | Explores what makes a location a center for innovation. | 2026-05-13 Paul Graham, Founder of Y Combinator, Live from Stockholm |
-| Steady state | Stable condition in a process where variables remain constant over time. | Effort to get manual reactors to a stable operating point. | 2026-03-20 Inside The Startup Reinventing The \$6 Trillion Chemical Manufacturing Industry |
-| Stealth | Operating privately without public announcements to protect strategy or technology. | Coming out of stealth refers to announcing funding after building privately. | 2026-03-31 This Startup Catches Fraud at Scale |
-| Stream RAG | A system that retrieves information while a person is still speaking to reduce delay in voice conversations. | Presented as a way to handle real-time voice agents and reduce latency in conversational AI. | 2026-06-12 5 Papers That Show Where AI Research Is Heading Right Now |
-| Structural Neural Engineering | Designing and building new brain areas or pathways to change how the brain processes information. | A potential future stage for building smarter machines or treating conditions like addiction. | 2026-03-09 The Future Of Brain-Computer Interfaces |
-| Subagent | A secondary AI instance launched by a main agent to handle specific, smaller tasks in parallel. | Described as Mama Claude spawning recursive versions of itself to research files or debug bugs independently. | 2026-02-17 Inside Claude Code With Its Creator Boris Cherny |
-| Superintelligence | Advanced AI that exceeds human capabilities across a wide range of tasks. | Organizations build a collective brain by compounding automated skills. | 2026-05-27 Inside YC's AI Playbook |
-| Super Voting Shares | Stock giving certain people (usually founders) more voting power than regular investors. | Discussed regarding how control can expire, leading to the removal of founders by boards. | 2026-05-22 How The Best Companies Defend Against Mediocrity And Rot |
-| Swarm Intelligence | The collective behavior of many decentralized AI agents working together to solve problems like a hive. | Discussed as a potential alternative to one giant God Intelligence model, enabling decentralized, community-driven AI. | 2026-02-21 The AI Agent Economy Is Here |
-| SWE-bench | A standard benchmark used to measure AI agent performance in solving software engineering problems. | Achieving the number one spot on this benchmark is a target for coding agent startups. | 2026-03-16 India’s Fastest Growing AI Startup |
-| Symbolic Descent | An alternative training method that searches for the simplest mathematical or logical symbols to explain data. | A proposed symbolic equivalent to gradient descent used to find concise, generalizable models. | 2026-03-27 François Chollet: Why Scaling Alone Isn’t Enough for AGI |
-| Tabular review | Software feature allowing analysis of data or legal documents in a table format. | Core feature competing with companies focusing solely on document tables. | 2026-06-05 How Legora Went From YC to \$100M ARR in 18 Months |
-| Tall Poppies | Social phenomenon where successful people are criticized or resented by peers. | Cultural trait suggested to be avoided to better support startup growth. | 2026-05-13 Paul Graham, Founder of Y Combinator, Live from Stockholm |
-| TAM | Total Addressable Market; the potential money made if every customer in a market was captured. | A standard metric often asked during interview preparation and funding. | 2026-05-29 Why Two IIT Engineers Turned Down \$550K Jobs To Build A Startup |
-| Tauri / Phoenix app | Technical frameworks used to build desktop and web versions of software. | Describes the tech stack used to build orchestration apps. | 2026-06-04 Conductor CEO Charlie Holtz Walks Us Through His AI Coding Setup |
-| Technoeconomic analysis | Study evaluating both technical performance and economic feasibility. | Performed to prove that biological chemical plants could be profitable. | 2026-03-20 Inside The Startup Reinventing The \$6 Trillion Chemical Manufacturing Industry |
-| Term Sheet | Non-binding document outlining basic conditions for an investment. | Story about VC firms sending desperate offers after seeing competitor interest. | 2026-05-13 Paul Graham, Founder of Y Combinator, Live from Stockholm |
-| Test Time Compute | Using extra processing power during the generation phase (inference) to allow a model to think longer and improve its reasoning. | Discussed as a fundamental scaling area for beating coding benchmarks and sampling better solutions without human bias. | 2026-06-12 5 Papers That Show Where AI Research Is Heading Right Now |
-| Test-Driven Development (TDD) | Software process where developers write tests for a feature before writing the code. | Evolutionary basis for the AI Software Factory model. | 2026-04-24 How To Build A Company With AI From The Ground Up |
-| The Bitter Lesson | The theory that general methods leveraging massive computation and data are more effective than human-designed shortcuts. | Used to explain why scaling leads to better models in fields like biology or software over hand-built features. | 2026-06-12 5 Papers That Show Where AI Research Is Heading Right Now |
-| Thin harness fat skills | Philosophy where simple core structures manage powerful, specialized AI abilities. | Lets AI models do extraordinary work without heavy scaffolding. | 2026-04-23 How to Make Claude Code Your AI Engineering Team |
-| 1000x Engineer | Single engineer using AI agents to produce output equivalent to a massive team. | Describes the massive increase in individual capability made possible by AI. | 2026-04-24 How To Build A Company With AI From The Ground Up |
-| Three-Bench | A standardized test used to measure and compare AI coding tool performance. | Where the world number one ranking for certain coding agents was achieved. | 2026-06-06 Emergent: How Six Months of Tinkering Led To A \$100M ARR Company |
-| Throughput | Amount of products or tasks a system can process from start to finish in a given time. | High demand allows processing more volume and lowering operational costs. | 2026-05-19 Why Zepto's Aadit Palicha Turned Down Stanford to Deliver Groceries |
-| Ticker effect | An animation where logos or text scroll continuously across the screen. | Used for integration logos on websites; speed can be adjusted in tools like Framer. | 2026-01-29 Why Your Startup Website Isn't Converting |
-| Tiny Recursive Models (TRM) | Small AI models using recursive loops to outperform larger traditional models on logic tasks. | Illustrates how a 7M parameter model can outperform massive general models on puzzles. | 2026-05-01 Recursion Is The Next Scaling Law In AI |
-| Tokenmaxxing | A strategy of using as much AI processing power (tokens) as possible to achieve high-quality, deeply researched, or comprehensive results. | A mindset where founders prioritize high API bills over expensive human headcount to maximize productivity and exploration. | 2026-06-10 The CEO Must Be the Chief AI Officer |
-| Tokens | Basic units of text (like words or characters) processed and generated by AI. | Used to calculate data consumption and model running costs. | 2026-06-27 India Can Create The Largest AI Companies |
-| Tool Layer | Collection of computer functions (APIs) an AI can use to perform tasks. | Deterministic actions the AI can call upon to execute plans. | 2026-05-21 How to Build a Self-Improving Company with AI |
-| Tool Registry | A central library of specific capabilities or apps that an AI can choose to use. | Teams add new capabilities (like SQL querying) for internal agents to use. | 2026-05-27 Inside YC's AI Playbook |
-| Tool Use | The ability of an AI model to interact with external software functions or APIs to perform tasks. | Seen as a realization of a model's true potential, such as using Apple Script to find music. | 2026-02-17 Inside Claude Code With Its Creator Boris Cherny |
-| Transformers | Modern AI architecture that processes all parts of an input simultaneously. | Easier to train than RNNs but may lack inherent latent reasoning. | 2026-05-01 Recursion Is The Next Scaling Law In AI |
-| Turing Complete | A system capable of performing any calculation a standard computer can perform. | While LLMs are Turing complete at test time, learning logic from scratch remains a challenge. | 2026-05-01 Recursion Is The Next Scaling Law In AI |
-| Typography | The style and appearance of text, including font choices and spacing. | Critiqued when inconsistent font choices overwhelm a landing page. | 2026-01-29 Why Your Startup Website Isn't Converting |
-| UBO verifications | Process of identifying the Ultimate Beneficial Owner who controls a company. | Complex tasks performed to verify sellers and ownership structures. | 2026-03-31 This Startup Catches Fraud at Scale |
-| U-Net | Neural network architecture originally common in computer vision and early diffusion. | The predominant architecture before the shift toward transformers. | 2026-01-22 The ML Technique Every Founder Should Know |
-| Unicorn | A private startup company valued at over \$1 billion. | Some startups are unicorns before they pivot their business model. | 2026-06-11 How Meesho Became India’s Biggest Shopping App |
-| Unstructured data | Info without a predefined format, such as social media posts or web content. | A challenge for pooling data that lacks a clear relational schema. | 2026-03-31 This Startup Catches Fraud at Scale |
-| UPI | Unified Payments Interface; A real-time payment system in India for instant bank transfers via mobile. | Integrating this was a major growth driver for payment gateways. | 2026-05-06 How Razorpay Became India’s Largest Payments Company |
-| Valuations | Estimated financial worth of a startup, usually determined by investors. | Silicon Valley investors may complain about high prices while getting better returns. | 2026-05-13 Paul Graham, Founder of Y Combinator, Live from Stockholm |
-| Vanishing / Exploding Gradient | Training errors where teaching signals become too small or too large to handle. | A mathematical hurdle when multiplying matrices many times during training. | 2026-05-01 Recursion Is The Next Scaling Law In AI |
-| Variance | Degree of inconsistency in the final results delivered to a customer. | An existential problem where inconsistent quality destroys customer trust. | 2026-06-03 How to Build an AI-Native Services Company |
-| Verifiable Reward Signal | An automated way to check if an AI's answer is correct, such as a program running without errors. | Explains why coding agents advance faster than essay-writing AI, which lacks formal checking. | 2026-03-27 François Chollet: Why Scaling Alone Isn’t Enough for AGI |
-| Verification | The process of checking software to ensure it works correctly and meets requirements. | The insight that solving the testing part (verification) allows for the automation of all engineering. | 2026-03-16 India’s Fastest Growing AI Startup |
-| Vertical Robotics Company | A business focused on a specific industry use case rather than general-purpose AI. | Provides a playbook for startups using foundation models to solve industry problems. | 2026-04-16 The GPT Moment for Robotics Is Here |
-| Verticalize | Focusing on a specific industry and providing a complete outcome. | Startups should sell the final result instead of just selling software to companies. | 2026-06-17 How To Pick A Startup Idea |
-| Vibe Coding | A style of programming where a user provides high-level natural language descriptions or vibes to an AI rather than writing code manually. | Described as a trend allowing non-technical founders to rapidly build prototypes, though it can lead to slop without testing. | 2026-05-08 Tokenmaxxing: How Top Builders Use AI To Do The Work Of 400 Engineers |
-| Vibe Coding in Residence | A role or team tasked with using AI tools to solve internal business problems quickly. | Generalist teams building custom internal tools for HR and Support. | 2026-04-25 Replit's CEO On The Only Two Jobs Left In The Company Of The Future |
-| Virtual Cell | A complete digital simulation of a biological cell that can be experimented upon. | A long-term goal to accelerate drug discovery and biological research. | 2026-04-29 Demis Hassabis: Agents, AGI & The Next Big Scientific Breakthrough |
-| Walking the Store | A ritual where leaders personally test their own products from a customer's perspective. | Cultural practice at Stripe to ensure a cohesive user experience. | 2026-04-22 How Stripe Built Their New Website |
-| Vaani | A new voice-controlled AI assistant for shopping accessibility. | Designed for people who struggle with traditional app interfaces. | 2026-06-11 How Meesho Became India’s Biggest Shopping App |
-| Wayback Machine | Digital archive of the web allowing people to see old website versions. | Tool used to verify original website copy from 15 years ago. | 2026-01-30 How We Redesigned Our Website |
-| Wedge Strategy | Starting with a simple service to gain customers before expanding to profitable areas. | Aggregating simple tax forms is a wedge to later sell preparation services. | 2026-04-23 How to Make Claude Code Your AI Engineering Team |
-| Whisper | AI model designed to convert spoken audio into written text. | Specialist model for transcribing video content. | 2026-02-21 The AI Agent Economy Is Here |
-| Wipe Tunnel | Software project that became highly addictive to code before other agent frameworks. | A retirement project that led back into full-time development. | 2026-02-07 OpenClaw Creator: Why 80% Of Apps Will Disappear |
-| Work Tree | A feature or separate instance of a code project that allows an engineer or AI to work on different tasks simultaneously. | Used to handle multiple bug reports or ideas at once without cross-contamination. | 2026-02-07 OpenClaw Creator: Why 80% Of Apps Will Disappear |
-| World Models | AI that learns the internal physics of an environment to predict outcomes based on specific actions. | YC Paper Club | 2026-05-28 Inference, Diffusion, World Models, and More | YC Paper Club |
-| World of Atoms | The physical environment and tangible objects, as opposed to the digital world. | Builders are encouraged to shift focus from software to physical robotic applications. | 2026-04-16 The GPT Moment for Robotics Is Here |
-| YC / Y Combinator | A prominent startup accelerator providing funding, mentorship, and an intense intoxicating concentration of talent. | Mentioned for its signaling value to investors and its pay it forward culture of successful veterans helping newcomers. | 2026-05-06 How Razorpay Became India’s Largest Payments Company |
-| Zero Shot | A robot's ability to perform a task correctly the first time without specific training data for that task. | An emergent property where models perform difficult tasks without hundreds of hours of new data. | 2026-04-16 The GPT Moment for Robotics Is Here |
-| Zero to One | The initial phase of a startup going from nothing to creating something entirely new. | Describes the stage of company building that most current startup playbooks focus on. | 2026-05-22 How The Best Companies Defend Against Mediocrity And Rot |
-
