@@ -4106,3 +4106,90 @@ The Software industry is shifting toward cloud-native development environments, 
 3. Systemic AI maturity frameworks: Organizational advisor [Laura Tacho](https://at.linkedin.com/in/lauratacho) identifies that mature Engineering Organizations differentiate themselves by building team-level and company-level agentic systems focused on business outcomes, rather than relying on individual developer productivity tools.  
 4. Shift in high value skills: Based on the Framework articulated by [Titus Winters](https://www.linkedin.com/in/tituswinters) at **Google**, Engineering effectiveness relies on Intelligence (knowing how to build), Wisdom (knowing what to build), and Charisma (persuading others). Because raw intelligence and implementation details are commoditized by AI models, organizational value relies heavily on domain Wisdom and Charisma.  
 5. Practical leadership execution: Engineering leaders must adapt to reduced middle management overhead by returning to direct software delivery. Industry leaders such as [Will Larson](https://www.linkedin.com/in/lethain) (CTO operating in a 50 person Engineering Organization) have deployed more production code in the past 15 months than in the previous decade. Similarly, [Peter Mattis](https://en.wikipedia.org/wiki/Peter_Mattis) at **Cockroach Labs** has returned to direct coding, stating, "I feel I've learned more in the past year than in the previous 5 years combined" and noting "I got into Software Engineer because I like building stuff, and now I can build faster and without some of the compromises I had before." Engineering leaders must maintain active hands-on involvement, build internal AI automation systems, and focus on removing friction across their technical organizations.
+
+# **Sam Newman on Building Resilient Systems**
+
+## **Executive Summary**
+
+In this deep dive into distributed systems and modern Engineering practices, [Sam Newman](https://uk.linkedin.com/in/samnewman) argues that microservices should be treated as an architecture of last resort due to the severe operational and state distribution challenges they introduce. Grounding system design in three inescapable physical constraints, namely that information transfer takes time, targets can be unavailable, and resource pools are finite, [Newman](https://uk.linkedin.com/in/samnewman) highlights that system failures are overwhelmingly driven by resource saturation. Building truly resilient systems requires moving beyond basic technical robustness to cultivate organizational rebound, graceful extensibility, and sustained adaptability through observability, strict idempotency controls, and psychological safety. Furthermore, as Software Development increasingly integrates non-deterministic Artificial Intelligence tools from vendors like **OpenAI** and **Anthropic**, Engineering teams must actively guard against cognitive debt and cognitive surrender, maintaining rigorous architectural mental models, modular boundaries, and spec-driven verification rather than blindly delegating critical thinking to automated agents.
+
+## **Microservices and Architectural Evolution**
+
+Microservices originated around 2011 to 2012 out of architectural discussions involving [James Lewis](https://uk.linkedin.com/in/james-lewis-microservices), [Martin Fowler](https://en.wikipedia.org/wiki/Martin_Fowler_\(software_engineer\)), and Engineers at **ThoughtWorks**. The paradigm emerged as a continuation of fine-grained service-oriented architecture (SOA) and continuous delivery principles, moving away from heavy XML standards like SOAP and WSDL toward lightweight endpoints and smart pipes.
+
+[Newman](https://uk.linkedin.com/in/samnewman) defines microservices through two non-negotiable opinions:
+
+1. Independent deployability: The single service boundary must serve as the primary unit of deployment and change.  
+2. Business domain boundary alignment: Service boundaries should be defined around domain functionality rather than technical layers.
+
+"I describe microservices as being an architecture of last resort."
+
+While organizations like **Uber**, **Netflix**, and **REA Group** successfully leveraged fine-grained services, many adoptions stem from a desire for organizational team autonomy rather than technical necessity. At **Uber**, microservices were initially mandated to break through a monolithic delivery bottleneck, leading to thousands of services that later required strategic consolidation. In contrast to technology startups whose digital domains evolve alongside their software, traditional enterprise organizations face significantly greater domain complexity because their code must model decades of legacy, paper based business processes.
+
+## **The Three Rules of Distributed Systems**
+
+All distributed systems are governed by three fundamental physical constraints that dictate system behavior and failure modes.
+
+| Rule | Physical Constraint | Common Failure Modes |
+| :---- | :---- | :---- |
+| 1 | Information transfer cannot happen instantaneously across space. | Network latency, packet misrouting via BGP (Border Gateway Protocol), payload serialization overhead. |
+| 2 | "Rule number two is sometimes the thing you want to talk to, isn't there." | Host crashes, load balancer failures, physical infrastructure damage (e.g., data center fires, severed cables). |
+| 3 | "And the third rule is that resource pools are not infinite." | CPU, memory, or I/O starvation leading to widespread cascading outages. |
+
+The vast majority of system outages occur because a resource pool somewhere in the dependency chain becomes saturated. Saturation is frequently triggered by secondary effects, such as retry storms following a temporary dependency drop.
+
+## **System Resilience, Observability, and Idempotency**
+
+Observability is an inherent property of a system reflecting how easily an operator can infer its internal state using external signals. Transitioning from single process applications to distributed systems degrades default observability signals, making structured event streams, distributed tracing (spans), and vendor agnostic protocols like OpenTelemetry essential.
+
+To evaluate operational health, teams must move beyond basic machine metrics to establish explicit service indicators and objectives:
+
+* Service Level Indicators (SLIs): Quantifiable metrics determining whether a specific request or execution is good or bad.  
+* Service Level Objectives (SLOs): Target commitments that a system must maintain over time.  
+* Service Level Agreements (SLAs): Legal contracts specifying financial penalties upon failure.
+
+For maximum fault tolerance, financial institutions like **Monzo** maintain fully isolated standby banks built on alternative cloud infrastructure with zero shared code bases, enabling essential banking operations during main stack outages.
+
+On a functional level, distributed networks require operations to be idempotent so that retrying failed calls does not create duplicate side effects.
+
+| Mechanism | Operation | Limitations and Risks |
+| :---- | :---- | :---- |
+| Idempotency Keys | Client generates a unique ID (such as a UUID) and attaches it to the request payload. Server tracks executed keys. | Requires both client and server contract support; difficult to retrofit onto legacy APIs. |
+| Payload Fingerprinting | Server hashes request parameters to identify duplicate incoming requests. | Useful for retrofitting, but risks false negatives that reject legitimate consecutive duplicate requests. |
+
+## **System Overload, Thundering Herds, and Fallback**
+
+Thundering herd failures occur when resource demand drastically exceeds system capacity. Common drivers include malicious denial of service attacks, cache collapse (where flushing caches overload origin databases), retry storms, and high legitimate user concurrency. During a notable outage at **Square**, authentication clients repeatedly bombarded a **Redis** instance without delay limits, creating a severe retry storm upon service restart.
+
+Mitigation strategies require explicit business alignment on error handling:
+
+* Fail Open: System allows transactions to proceed during partial system failures. Used by early-stage ridesharing services like **Uber** or e-commerce sites to prioritize customer acquisition and revenue over potential inventory or payment mismatches.  
+* Fail Closed: System rejects requests when dependency state is uncertain. Required in high stakes environments, such as concert ticketing platforms, where false allocations inflict severe customer damage.
+
+## **The Four Dimensions of Resilience**
+
+Grounded in [David Woods](https://www.linkedin.com/in/davidwoods3)' Resilience Engineering research, system resilience is categorized across four distinct dimensions:
+
+1. Robustness: The capacity to absorb expected perturbations within known operational boundaries, such as **Kubernetes** automatically restarting a failed container process.  
+2. Rebound: The speed and effectiveness with which a system recovers to normal performance after experiencing degradation.  
+3. Graceful Extensibility: The capability of human operators and sociotechnical structures to manage surprise and novel failure modes. Practice drills like **Google**'s Wheel of Misfortune help teams train for unexpected conditions.  
+4. Sustained Adaptability: The continuous, long term organizational capacity to learn, adapt, and evolve system architecture based on post-incident reviews.
+
+Achieving sustained adaptability requires psychological safety within engineering organizations. Companies like **Cloudflare** exemplify this by rapidly publishing detailed public post-mortems that promote industrywide learning.
+
+## **AI, Cognitive Debt, and Modular Systems**
+
+Current Large Language Models (LLMs) lack causality and world models, operating instead as statistical generators of plausible text and code. Consequently, overreliance on automated tools introduces significant organizational risks:
+
+* Cognitive Debt: The loss of an Engineering team's shared mental model regarding how a system operates.  
+* Cognitive Surrender: The erosion of critical thinking that occurs when developers blindly approve generated code and documentation without proper verification.
+
+"Programming is not typing."
+
+"Production is truth."
+
+To leverage Artificial Intelligence effectively without compromising system resilience, organizations should apply structural constraints:
+
+* Spec-Driven Development: Utilize tools like **GitHub** Spec Kit or **AWS** Kiro to define explicit system specifications, verification criteria, and test suites before execution.  
+* Modular Architecture: Preserve clear system boundaries, whether within a microservices setup or a modular monolith like **Shopify**, letting automated agents generate code strictly within bounded contexts while human developers maintain the overarching architecture.  
+* Infrastructure Hedging: Mitigate provider availability issues by deploying multi-model and multi-vendor configurations across providers such as **Amazon**, **Google**, and **Microsoft**.
