@@ -434,3 +434,54 @@ When reflecting on early-stage product prioritization, [Collison](https://en.wik
 "Yeah you make a big list of all the product things you want to do, and then you do the things that'll be most impactful."
 
 This framework reinforces the focus of **Stripe** on user-first product development and operational flexibility amid market transformations.
+
+# **USV Strategy and Market Evolution**
+
+## **Executive Summary**
+
+**Union Square Ventures** (**USV**) has closed \$900 million in new funds, representing the largest fund raise in the firm's history and marking a deliberate strategy shift in response to changing Venture Capital dynamics. Partners [Fred Wilson](https://www.linkedin.com/in/fredwilson), [Rebecca Kaden](https://www.linkedin.com/in/rebecca-kaden), and [Mike Mignano](https://www.linkedin.com/in/mignano) outline that while **USV** maintains its identity as an early-stage, thesis driven firm, market forces such as expanding check sizes, accelerating deal speed, and surging compute and inference costs require larger capital deployments. Series A check sizes will expand to a \$10 million to \$30 million range, accompanied by an expanded seed investment effort that includes internal product incubations like **Supertake** and proprietary co-founding arrangements. **USV** is deploying capital across four core themes: AI applications under the philosophy of obliterate don't automate, open source AI infrastructure known as the Rebel Alliance, programmable energy investments, and Physical AI. Rather than chasing megafund vanity metrics or underwriting to trillion dollar market sizes, **USV** focuses on maintaining strong ownership stakes to yield high returns from outcomes in the single-digit to \$10 billion range.
+
+## **Key Themes and Analysis**
+
+### **Fund Expansion and Market Mechanics**
+
+The shift to a \$900 million fund structure reflects external market realities rather than a desire to accumulate management fees or hit vanity assets under management metrics. The venture landscape has evolved with larger round sizes, aggressive go to market spending, and substantial upfront compute costs. Startups increasingly subsidize AI inference for end users to drive initial adoption, recreating dynamics from the early web and mobile eras where value was given away for free to build scale.
+
+LPs supported the fund expansion, with several questioning whether **USV** should raise even more capital. However, **USV** limited the fund size to preserve disciplined underwriting and alignment with portfolio founders. The firm maintains that single-digit billion dollar exits generate exceptional fund performance when backed by meaningful ownership percentages.
+
+### **Strategic Investment Pillars**
+
+**USV** concentrates its investment portfolio across four explicit categories designed to capture value during the current technological shift:
+
+| Category | Core Thesis | Primary Objectives and Focus Areas |
+| :---- | :---- | :---- |
+| AI Applications | Obliterate don't automate | Restructuring legacy markets by giving end consumers direct access to intelligence previously gatekept by expensive human intermediaries. |
+| AI Infrastructure | Rebel Alliance | Supporting open source, open weight models, harnesses, routing, and memory layers to prevent developer lock-in by dominant platforms. |
+| Energy | Horizontal foundation | Investing in programmable, cheaper, and faster energy sources to support massive long term compute and AI infrastructure requirements. |
+| Physical AI | Real-world deployment | Funding fullstack robotics, edge computing, sensor technology, and custom model integration across physical environments. |
+
+### **Seed Strategy, Incubations, and Application Development**
+
+Given how rapidly startups can launch using modern AI toolsets, **USV** is moving earlier into the startup lifecycle. Proprietary seed deals, co-founding bets with venture partners, and internal incubations are projected to make up one-third to one-half of all seed investments in the new fund.
+
+A prime example of this strategy is **Supertake**, an AI investment agent product incubated directly within **USV**. Designed around the principle of democratizing financial expertise, **Supertake** allows users to input a belief or thesis, automatically constructs an investment portfolio, connects directly to user accounts at **Robinhood** or **Coinbase**, and actively manages rebalancing based on news and market performance.
+
+### **Technological Shifts, UI Dynamics, and Security**
+
+While industry commentary often suggests that traditional software interfaces will be completely replaced by conversational chatbots, **USV** asserts that the user interface remains essential. Visual interfaces build trust, provide intuitive navigation, and support media consumption experiences across platforms such as **Netflix**, **YouTube**, **X**, and **Instagram**.
+
+Additional operational insights and thesis parameters include:
+
+* User Retention vs. ARR: Annual recurring revenue can act as a misleading metric due to trial behavior driven by social discourse. **USV** evaluates cohort usage retention to gauge long term product viability over superficial subscription sign-ups.  
+* Incumbent Disruption: Legacy firms struggle to compete against AI native applications because adopting automated, low cost models directly cannibalizes their existing human capital revenue streams.  
+* Agent Interoperability and Trust: Consumer agents will increasingly act as personal intermediaries, negotiating with platform specific agents at **Amazon**, **Shopify**, or **Etsy**.  
+* Cybersecurity Rearchitecture: The rise of autonomous agents handling email and credentials creates a critical need for consumer security sandboxes like **Common Fabric**, local on-device model execution, and trust centered platforms similar to **Coinbase** in the crypto ecosystem.
+
+### **Key Quotes**
+
+"We are evolving our strategy to keep up with that, and really be able to attack that market."
+
+"I think the user interface is where people build trust with a product, where they gain comfort, and know how to navigate different experiences."
+
+"The best time to bet against an incumbent is when doing what you want fundamentally threatens their current business."
+
