@@ -1,4 +1,4 @@
-[[2026-09-24]]
+![[2026-09-24]]
 
 # Running Product Teams Like Research Labs in the AI Era
 
