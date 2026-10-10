@@ -1,4 +1,4 @@
-[[2026-09-24]]
+[2026-09-24]
 
 # Running Product Teams Like Research Labs in the AI Era
 
@@ -109,7 +109,7 @@ At **OpenAI**, a small, focused team explored the future of software engineering
 
 By establishing dedicated research labs, separating exploration from execution, maintaining two-slice teams, and enforcing strict research pipeline criteria, organizations can capitalize on rapid AI advances while maintaining core operational stability. The definitive test of a successful research lab infrastructure is organizational posture: product teams shift from fearing new model releases to actively anticipating them.
 
-\[\[2026-09-24\]\]
+[2026-09-24]
 
 # **Everyone Is Shipping More, Does Any of It Matter?**
 
@@ -201,7 +201,7 @@ Product management must transition from a velocity-driven model to an ambition-d
 
 By holding execution systems to high quality thresholds and discarding software that fails to prove strategic convictions, product organizations can leverage AI capacity to build meaningful, highly differentiated products.
 
-\[\[2026-09-25\]\]
+[2026-09-25]
 
 # **Re-engineering the Product Development Loop in the Era of Solved Coding**
 
@@ -316,7 +316,7 @@ As AI agents assume operational execution across product lifecycles, the role of
 
 "The best Ferrari ever built is the next one"
 
-\[\[2026-09-25\]\]
+[2026-09-25]
 
 # **Product Model Principles, AI Impacts, and Core Industry Regrets**
 
@@ -413,7 +413,7 @@ The following verbatim statements reflect critical observations regarding Produc
 | Team Motivation Framework | "We need teams of missionaries, not teams of mercenaries." |
 | Critique of Process Adherence | "In many companies process is used as a substitute for thinking." |
 
-\[\[2026-09-25\]\]
+[2026-09-25]
 
 # **Scaling Intent, Quality, and Artistry with AI**
 
