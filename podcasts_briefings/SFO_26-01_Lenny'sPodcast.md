@@ -1,3 +1,5 @@
+# 2026-01-01
+
 # The SaaStr GTM Transformation to Agentic Sales
 
 ## Executive Summary
@@ -74,7 +76,9 @@ In typical years, only 3-5% of prospects are in-market for a specific software c
 * **Embrace Transparency:** AI tools now allow for total transparency in CRM activity. Leaders should encourage team members to embrace this hyper-productivity rather than fighting the loss of opacity in their daily work.  
 * **Backfill with Agents:** Rather than laying off staff, organizations should stop backfilling human roles as people leave, replacing those functions with agents instead.
 
-# **Scaling Through Chaos: Leadership Frameworks and Career Growth**
+# 2026-01-04
+
+# **Scaling Through Chaos, Leadership Frameworks and Career Growth**
 
 ## **Executive Summary**
 
@@ -161,6 +165,8 @@ To navigate the emotional roller coaster of scaling, [Graham](https://www.linked
 ## **Conclusion**
 
 Ultimately, [Graham](https://www.linkedin.com/in/mograham) posits that the most interesting careers are winding and scary. In an era of AI and rapid change, the most valuable assets are soft skills, grit, curiosity, and the ability to learn. Leaders must embrace instability as the only constant, focusing on the only two things they truly take from a company: what they learned and the people who want to work with them again.
+
+# 2026-01-11
 
 # **AI Product Deployment Strategies from OpenAI, Google, and Amazon**
 
@@ -253,7 +259,9 @@ The term evals has suffered from semantic diffusion, where different stakeholder
 * **Pain as a Moat:** The knowledge gained through the painful iterative process of testing and failing is a more sustainable competitive advantage than simply having the latest model.  
 * **Data as the Differentiator:** 80% of AI engineering is understanding workflows and data, not building the coolest model. Professionals must look at the data to understand where the AI is failing.
 
-# **Silicon Valley Etiquette: Strategies for Professional Presence and Trust Building**
+# 2026-01-15
+
+# **Silicon Valley Etiquette Strategies for Professional Presence and Trust Building**
 
 ## **Executive Summary**
 
@@ -361,6 +369,8 @@ The source provides an incisive critique of the current investment landscape reg
 * **Vibe Coding:** The use of AI tools (like **Cursor**) to build initial versions of products quickly, though it may not scale without professional engineering.  
 * **Leave Them Wanting More:** The objective of any transaction or meeting should be to leave the other party interested in a follow-up, rather than exhausted by a monologue.
 
+# 2026-01-18
+
 # **The Arnovitz Workflow: AI-Driven Product Development for Non-Technical PMs** 
 
 ## **Executive Summary**
@@ -442,6 +452,8 @@ When AI makes a mistake, the user should ask: "What in your system prompt or too
 | **Wispr Flow** | Voice dictation for rapid feature dumping and brainstorming. |
 | **Base44 / Bolt / Lovable** | Vibe coding platforms for rapid prototyping and initial UI builds. |
 | **MCP (Model Context Protocol)** | Connects AI models to external tools like **Linear** and **GitHub**. |
+
+# 2026-01-25
 
 # **Jason Cohen’s Diagnostic Framework for Stalled Growth**
 
@@ -533,6 +545,8 @@ A/B testing is often a waste of time for startups without massive scale.
 
 * **Probability vs. Reality:** For major life decisions (starting/selling a company, marriage), mathematical expected value is useless. These are one-time events, not repeated trials.  
 * **Motto:** Be yourself, everyone else is taken. Authenticity is a competitive advantage in both brand building and personal fulfillment.
+
+# 2026-01-29
 
 # **Marc Andreessen on the Real AI Boom**
 
@@ -638,6 +652,8 @@ The industry is moving past the cosmic definition of AGI (the Singularity) towar
 
 "High productivity growth... is the equivalent of giving everybody a giant raise because now they have all this additional spending power", [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen)
 
+# 2026-02-01
+
 # **A Child Psychologist’s Guide to the Workplace**
 
 ## **Executive Summary**
@@ -737,6 +753,8 @@ Secure attachment in any relationship is defined by the presence of repair, not 
 
 The **Good Inside** approach to the corporate environment shifts the focus from behavior modification (rewards and punishments) to skill-building and relationship management. By viewing bad behavior as feelings overpowering skills, leaders transition from judges to coaches, creating an environment where employees feel seen, safe, and capable of high level performance.
 
+# 2026-02-08
+
 # **The Rise of the Professional Vibe Coder**
 
 ## **Executive Summary**
@@ -821,6 +839,8 @@ The traditional Venn diagram of PM, Engineer, and Designer is collapsing into a 
 * **Demo Don't Memo:** The 2025 mantra for startups is to build a functional prototype in hours using AI rather than writing long internal memos.  
 * **Professional Longevity:** Roles that are purely deterministic (X input \= Y output) are at risk. Roles that involve human-to-human dynamics, such as elite design or high-stakes infrastructure engineering, are more secure.  
 * **Call to Action:** The barrier to entry for building software has vanished. The advice for modern professionals is to transition from being a consumer to a builder by leveraging these tools immediately, as the leap is now only as big as one's ability to articulate a clear idea.
+
+# 2026-02-11
 
 # **OpenAI Insights on the Future of AI, Engineering, and Platform Strategy**
 
@@ -915,6 +935,8 @@ Management philosophy must adapt to a world where top performers have 10x more l
 
 "Software engineering isn't really like surgery... but the way that I act as a manager is I want to empower them to feel like they're a surgeon", [Sherwin Wu](https://www.linkedin.com/in/sherwinwu1)
 
+# 2026-02-15
+
 # **Brian Halligan on Modern CEO Leadership and Scaling in the AI Era**
 
 ## **Executive Summary**
@@ -993,6 +1015,8 @@ Top-tier CEOs exist in a state of perpetual dissatisfaction, focusing entirely o
 ### **Repetition in Communication**
 
 As an organization grows, the CEO's voice carries disproportionate weight. Leaders must be incredibly repetitive, as it just doesn't sink into people's heads otherwise. They must also be careful with off-the-cuff remarks, which employees may mistake for urgent directives. To mitigate this, [Halligan](https://www.linkedin.com/in/brianhalligan) suggests using a tagging system for communications (e.g., FYI vs. Please do this vs. Pleading for action).
+
+# 2026-02-19
 
 # **The Evolution of Software Development from the Head of Claude Code**
 
@@ -1082,6 +1106,8 @@ The current shift in software is comparable to the introduction of the printing 
 
 "Don't try to box the model in... give the model tools, give it a goal, and let it figure it out", [Boris Cherny](https://www.linkedin.com/in/bcherny)
 
+# 2026-02-26
+
 # **Jeetu Patel on AI as a Catalyst for Human Survival and Enterprise Transformation** 
 
 ## **Executive Summary**
@@ -1159,6 +1185,8 @@ Despite the rise of AI, human traits remain the ultimate differentiators in the 
 * **The Importance of Values:** Skills and belief systems may change, but values (kindness, work ethic, curiosity) are timeless. High emotional intelligence (EQ) and a strong internal value system are necessary to navigate a technology-heavy world.  
 * **Persistence and The Platform:** Success is often a combination of being useful and choosing the right platform (e.g., a specific country, industry, or mentor) that provides a springboard for talent.  
 * **Radical Transparency:** Effective leadership and personal relationships require being explicit with feelings and appreciation. Don't be stingy with words is a core tenet for building long-term trust and community.
+
+# 2026-03-01
 
 # **The Future of Product Design and Engineering Integration**
 
@@ -1250,6 +1278,8 @@ The following resources are identified for their insights into long-arc thinking
 
 The design profession is not disappearing but is undergoing a fundamental transformation. Designers must trade their historical gatekeeping role for one of active, technical partnership. Success in this new paradigm depends on the ability to embrace non deterministic outcomes, use speed to build trust, and maintain a high level of agency by building actual products rather than theoretical mocks. In an era where engineering speed is the default, the human capacity for judgment and taste becomes the ultimate differentiator.
 
+# 2026-03-08
+
 # **The Transformation of Industry Through Physical Artificial Intelligence**
 
 ## **Executive Summary**
@@ -1321,7 +1351,9 @@ Establishing a culture that surfaces the best ideas is critical for long-term su
 | **Half the Work is Follow-up** | Recognizing that basic operational discipline, like taking notes and following through, is the core of business. |
 | **High Output Matters** | Valuing the actual results produced by the team. |
 
-# **Lenny Rachitsky: Business of Content, Career Evolution, and Creative Discipline**
+# 2026-03-12
+
+# **Lenny Rachitsky on Business of Content, Career Evolution, and Creative Discipline**
 
 ## **Executive Summary**
 
@@ -1418,6 +1450,8 @@ The source context mentions several entities that power or support high-performa
 * **Metaview:** AI agents that automate recruiting tasks, such as taking interview notes and sourcing candidates.  
 * **DX:** A developer intelligence platform designed to measure the impact of AI and tools on engineering productivity.
 
+# 2026-03-15
+
 # **Jacob Warwick’s Tactical Playbook for Compensation Negotiation**
 
 ## **Executive Summary**
@@ -1510,6 +1544,8 @@ While [Warwick](https://www.thinkwarwick.com/) notes that rescinded offers are r
 
 Negotiation is not merely about personal gain, it is about setting a precedent. [Warwick](https://www.thinkwarwick.com/) argues that a rising tide raises all ships. By pushing for higher compensation and better protections (like severance), individuals raise the floor for those who follow them, including colleagues and future generations. The ultimate goal is to expand the pie so that both the company and the individual achieve greater success.
 
+# 2026-03-22
+
 # **The Art of Influence: Navigating Executive Decision Making and Strategic Alignment**
 
 ## **Executive Summary**
@@ -1580,6 +1616,8 @@ As AI begins to handle the type A administrative tasks of product management, su
 "Politics is manipulating outcomes and people for your own gain. Influence is about increasing the odds that your good ideas survive", [Jessica Fain](https://www.linkedin.com/in/jessica-fain-79b8989)
 
 "One of the biggest things you can do to build trust is kill things. Deprioritize things. That is a very, very senior way of thinking", [Jessica Fain](https://www.linkedin.com/in/jessica-fain-79b8989)
+
+# 2026-03-29
 
 # **The OpenClaw Utility Framework: From Skepticism to Agentic Mastery**
 
@@ -1665,6 +1703,8 @@ A critical takeaway is that managing AI agents requires the same skill set as ma
 
 "Managers, this is your moment. You can design your **OpenClaw** and design your team of OpenClaws using those organizational skills that you’ve developed over your career", [Claire Vo](https://www.linkedin.com/in/clairevo)
 
+# 2026-04-02
+
 # **AI State of the Union: Agentic Engineering and the Dark Factory Pattern**
 
 ## **Executive Summary**
@@ -1749,6 +1789,8 @@ The document draws a parallel to the **NASA** Challenger disaster, noting that t
 ## **Conclusion**
 
 Software engineering has transitioned from a labor-intensive craft to an oversight-heavy discipline. While code has become a cheap commodity, the value of human agency, creativity, and the ability to roll with rapid technological changes has increased. As the industry moves toward 2026, the focus is shifting toward specialized security models and the integration of AI into complex fields like investigative journalism, where AI acts as a sophisticated, if occasionally unreliable, source.
+
+# 2026-04-05
 
 # **Amol Avasare on the Unprecedented Growth of Anthropic**
 
@@ -1842,6 +1884,8 @@ The company utilizes notebook channels on **Slack**, which act as internal socia
 * **Freedom through Constraints:** This experience instilled a philosophy that constraints can lead to freedom by removing excess choice and forcing focus.  
 * **Operational Health:** To manage the intensity of his role, [Avasare](https://www.linkedin.com/in/amolavasare) maintains strict physical and mental health routines, including no alcohol or caffeine, daily meditation, and scheduled breaks, even during high pressure model launches.
 
+# 2026-04-12
+
 # **Building in the AI Era: Hard Truths on Talent, Leadership, and Strategy**
 
 ## **Executive Summary**
@@ -1911,6 +1955,8 @@ Successful investing and company building often require leaning into ideas that 
 * The Ugly Baby Concept: Great ideas, much like those at **Pixar**, often start as ugly babies that others dismiss. When half of the venture capital community laughs at an investment, it may indicate the presence of real alpha.  
 * Founder-Driven Investing: The most critical factor for an early stage investment is whether the founder has a non zero chance of changing an industry. This approach is prioritized by firms like **Khosla Ventures** over purely product market driven models.  
 * Regulatory and Legal Risk: Founders and investors who can accurately assess legal risks, as seen with **YouTube** and various financial services companies, can find opportunities in heavily regulated areas that others avoid.
+
+# 2026-04-19
 
 # **The Shifting Landscape for Product Management**
 
@@ -1988,7 +2034,9 @@ To thrive in the emerging future, product professionals must move beyond the men
 * **Long-term Focus:** The current period of rapid churn is a transition phase. While the pace is currently relentless, the industry is expected to reach a new state of optimization within a few years.  
   "I urge everyone to try their hand at rethinking their craft."
 
-# **Cat Wu on High-Velocity Product Development at Anthropic**
+# 2026-04-23
+
+# **Cat Wu on High Velocity Product Development at Anthropic**
 
 ## **Executive Summary**
 
@@ -2065,6 +2113,8 @@ The vision for the product suite involves moving from individual task success to
 * **Scaling Agency:** The next phase of development focuses on enabling users to run hundreds of Claude instances simultaneously. This requires new infrastructure for remote execution and interfaces that allow humans to verify large volumes of work quickly.  
 * **Self-Improving Processes:** Future iterations aim to make agents self improving, where feedback from a single failed task is incorporated to ensure the mistake is never repeated in future runs.  
 * **Human Leverage:** AI is viewed as a tool to provide humans with extreme leverage, automating the tedious or repetitive 80 percent of a job so that users can focus on creative and high priority "pet projects" that were previously neglected due to a lack of bandwidth.
+
+# 2026-04-26
 
 # **Evan Spiegel on Innovation, Distribution, and the Future of Computing**
 
@@ -2182,6 +2232,8 @@ The current year is a turning point where **Snap** must prove several key metric
 * **Engagement Growth:** Continuing to expand user reach and engagement across features like spotlight and gaming.  
 * **Hardware Validation:** Launching Specs to consumers to define the next chapter of the company's journey and provide a tangible look at the future of computing.
 
+# 2026-05-02
+
 # **Max Schoening on Agency and the Future of Product Building in the AI Era**
 
 ## **Executive Summary**
@@ -2257,6 +2309,8 @@ AI is accelerating the process of software eating the world by reducing the cost
 
 "Taste actually means you're able to run a virtual machine in your head, where given an idea you can predict for a certain in-group whether they're going to like it or not."
 
+# 2026-05-10
+
 # **Incorruptible: Strategies for Building and Protecting Lasting Organizations**
 
 ## **Executive Summary**
@@ -2329,6 +2383,8 @@ True leadership involves instilling a sense of common purpose that governs the o
 The shift toward shareholder primacy over the last 40 years is a historical anomaly. For most of corporate history, companies were expected to serve a beneficial public purpose. Leaders are encouraged to view their organizations as more than financial instruments. By encoding purpose into the legal and operational DNA of the company, founders can protect their legacy and ensure their organizations continue to contribute to human flourishing.
 
 "Success will not protect you because success is what makes you a target."
+
+# 2026-05-17
 
 # **Caitlin Kalinowski on Hardware Development in the AI Era**
 
@@ -2428,6 +2484,8 @@ The document highlights significant transitions in leadership and corporate gove
 
 The future of technology is increasingly physical. Success in this new era requires a blend of traditional hardware excellence, such as that practiced at **Apple**, and the rapid, AI driven iteration cycles seen at startups. To remain competitive and secure, there must be a concerted effort toward re-industrialization, supply chain resilience, and the design of robots that can safely and effectively navigate human environments.
 
+# 2026-05-24
+
 # **The AI Paradox: Future Predictions for Automation, Software, and Human Agency**
 
 ## **Executive Summary**
@@ -2515,6 +2573,8 @@ To remain successful as the technology advances, the following actions are recom
 "We speed ran the CLI era. It was nice while it lasted but I think CLI's over."
 
 "The only thing you need to do is ride the models and that means use them for whatever it is that you do."
+
+# 2026-05-31
 
 # **Benedict Evans on AI Evolution and Market Dynamics**
 
@@ -2607,6 +2667,8 @@ To succeed in an AI integrated future, individuals are encouraged to adopt a min
 | **Forward Deployed Engineer** | A role focused on the direct implementation of technology into a client's specific environment. |
 | **Platform Shift** | A fundamental change in technology infrastructure, such as the move from mainframe to PC, or PC to mobile. |
 
+# 2026-06-07
+
 # **Tony Fadell on Innovation, Product Strategy, and the Future of AI**
 
 ## **Executive Summary**
@@ -2698,6 +2760,8 @@ Product builders have a moral responsibility to consider the long term effects o
 * **Principle-Based Design:** Leaders must set clear boundaries. **Apple** famously decided not to allow pornographic content on the **iTunes** store despite its potential for revenue.  
   "We need leaders who are very clear, as opposed to I'm going to make a huge service for everyone, and they're all sex chat, sex chatbots for everyone."  
 * **Humanity Over Revenue:** Builders should avoid designs that prioritize dopamine hits or replace real social interaction with AI chatbots, as this can lead to a loss of humanity for short term financial gain.
+
+# 2026-06-14
 
 # **Mark Pincus on Product Development and Social Innovation**
 
@@ -2821,6 +2885,8 @@ Virality can create sinking speedboats where companies grow fast but lose users 
 * A round trip occurs when one player takes an action and the other responds (e.g., gifting back or taking a turn in a game).  
 * Moving a user from zero ASN to one increased the chance of seeing them the following month by 80%.  
 * Reaching an ASN of four resulted in a user being active for 22 out of the next 30 days.
+
+# 2026-06-21
 
 # **The Future of Software Engineering and AI-Native Workflows**
 
@@ -2946,6 +3012,8 @@ The following table summarizes the core operational principles mentioned by [Fio
 
 "In a world where you can be anything, be kind."
 
+# 2026-06-28
+
 # **The Evolution of Product Development and the Codex Ecosystem**
 
 ## **Executive Summary**
@@ -3054,6 +3122,8 @@ The document highlights a specific approach to building in a rapidly evolving la
 * **Process Agency:** Success requires the willingness to relearn processes constantly.  
   "Do not get married to your exact process, get married to like the outcomes that you are uniquely able to deliver, and then do things like change your process to try things."
 
+# 2026-07-09
+
 # **Adam Mosseri on the Evolution of Product, AI, and Instagram**
 
 ### **Executive Summary**
@@ -3126,6 +3196,8 @@ Management of technology at a personal level involves setting boundaries while e
   "I want you to be thinking, not just playing games, and I am gonna sit with you and do, we are going to do this together."  
 * **The Inevitability of Trade-offs:** Every major product decision, from privacy vs. safety to ranking changes, involves significant trade-offs.  
   "None of these contentious debates are nearly as simple, as most people pretend to make them out to be."
+
+# 2026-07-12
 
 # **Analysis of the 2026 Tech Workforce Sentiment Survey**
 
@@ -3213,6 +3285,8 @@ The environment in which a tech worker operates significantly impacts their leve
 
 The tech industry is currently in the second inning of a massive shift. While the future remains unstable, the survey data suggests that the successful navigation of this era depends less on the models themselves and more on supporting the people who use them.
 
+# 2026-07-19
+
 # **Why Netflix is betting on systems thinkers, not specialists, in the AI era**
 
 ## **Executive Summary**
@@ -3285,6 +3359,8 @@ The definition of entertainment is expanding beyond traditional film and TV, to 
 * **Human-Centric Storytelling:** Despite the power of AI, human emotion and connection remain central to compelling narratives.  
   "I have a hard time picturing entertainment that doesn't have humans at the heart of it."  
 * **Discovery Challenges:** As the catalog grows more fragmented across different formats, the primary technological challenge is making discovery and engagement seamless and personalized, across all devices and moments of the day.
+
+# 2026-07-26
 
 # **Anthropic Product Strategy and the Future of AI Development**
 
@@ -3382,6 +3458,8 @@ There is a significant opportunity for individuals to live in the future by spen
 
 "No matter how far you go there's always another level."
 
+# 2026-08-02
+
 # **Whatnot: The Strategic Re-evaluation of Product Management**
 
 ## **Executive Summary**
@@ -3476,6 +3554,8 @@ Reflecting on experiences at **Twitter**, the source highlights that true produc
 * **Identifying PMF:** PMF is described as a level of fervor and emotional investment from users, rather than just acceptable growth charts.  
 * **The Cost of Indecision:** Complexity is often a mask for weak leadership. At **Twitter**, the move beyond the 140 character limit was delayed for years due to endless design sprints and a lack of decisiveness, despite data from markets like Japan suggesting it was necessary.  
 * **The Importance of Nuance:** Relying on averages can be dangerous. "Averages mean nothing to the individual." A feature used by only 3 percent of users might be the core use case for a critical segment of the population, and deprecating it based on average utility can trigger a negative network effect.
+
+# 2026-08-09
 
 # **The Playbook for Building High Talent Density Teams**
 
@@ -3574,6 +3654,8 @@ For a company to succeed in hiring, the leadership must believe that talent is t
 * **Team Composition:** A high performing recruiting team consists of individuals who are excellent humans, have a chip on their shoulder to prove their excellence, and prioritize the team over themselves.  
 * **Capacity Management:** Recruiters are most effective when operating at 90% to 110% capacity. They thrive on the edge of adrenaline-rush busy but become ineffective when underutilized or completely overwhelmed.
 
+# 2026-08-16
+
 # **Ian Silber on the Future of Product Design and the AI Shift**
 
 ## **Executive Summary**
@@ -3645,6 +3727,8 @@ Reflecting on his career at **Groupon**, **Instagram**, **Artifact**, and **Open
 * **Advice for Anxious Designers:** Designers should recognize that everyone is still figuring out the AI shift.  
   "if you literally started today you're going to have a leg up on pretty much most people"  
 * **The Model Trajectory:** It is important to remember that the current version of AI technology is the worst it will ever be, every new model removes previous limitations and opens new design possibilities.
+
+# 2026-08-23
 
 # **Jen Abel on the 15 Step Enterprise Sales Playbook**
 
@@ -3744,6 +3828,8 @@ The most effective enterprise salespeople are often those who are not traditiona
 "The fastest way to commoditize yourself is to go into some sales script."
 
 Success in the enterprise depends on mirroring the buyer's process rather than forcing the buyer into a CRM defined pipeline.
+
+# 2026-08-30
 
 # **AI’s Third Era: The Rise of Persistent AI Coworkers**
 
@@ -3847,6 +3933,8 @@ Despite the availability of AI for reporting, maintaining human discipline in th
 
 "you are not the work you do, you are the person that you are"
 
+# 2026-09-06
+
 # **Anish Acharya on Why Companies are Becoming a Series of Loops** 
 
 ## **Executive Summary**
@@ -3925,6 +4013,8 @@ In a world where software can be generated rapidly, traditional moats and the co
 * **Positive Sum Mindset:** The Silicon Valley ecosystem rewards vulnerability, and building on the ideas of others.
 
 "This is a technology that really amplifies our agency, it kind of unbundles skill from desire, not only can we dramatically drive productivity, we can dramatically drive ambition."
+
+# 2026-09-08
 
 # **Roman Ugarte on Grok Bot Development**
 
@@ -4016,6 +4106,8 @@ Key areas for future development include:
 * **Applied Model Training:** **SpaceXAI** continues to train models with an applied mindset, focusing on building useful AI rather than chasing vague aspirational ideals.
 
 The team remains committed to the principle of doing the thing, a culture that values agency and the ability to reinvent the product every six months, to match the rapidly advancing capabilities of underlying AI models. This agility is viewed as the primary defense against larger competitors like **Microsoft**, **OpenAI**, and **Anthropic**.
+
+# 2026-09-20
 
 # **Peter Sellis on Product Leadership**
 
