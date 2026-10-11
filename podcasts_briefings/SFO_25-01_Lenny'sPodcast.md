@@ -1,4 +1,4 @@
-
+# 25-01 Lenny's Podcast
 
 | Expert Name | Primary Concept | Key Leadership Principle | Product Strategy Advice | Personal Growth Method |
 | :---- | :---- | :---- | :---- | :---- |
@@ -45,6 +45,8 @@
 | [Keith Coleman](https://www.linkedin.com/in/keith-coleman-19b12b46) & [Jay Baxter](https://www.linkedin.com/in/jaybaxter/) | Bridging-Based Agreement Algorithm | Voice of the People: Build trust by removing internal buttons that change status; rely on transparent, decentralized consensus. | Idealism as a feature: Making code and data open-source allows for external auditing and prevents "black box" perceptions. | Low Ego Truth-Seeking: Attach yourself to the outcome of solving the problem rather than being the "owner" of a specific team. |
 | [Scott Wu](https://www.linkedin.com/in/scott-wu-8b94ab96) | Bricklayer to Architect Paradigm | Asynchronous Empowerment: Multiply team output by allowing engineers to manage fleets of autonomous agents for high-level system design. | Jevons Paradox in Software: As AI makes programming cheaper and faster, the demand for software and engineers will increase exponentially. | Run towards discomfort: Identify things you aren't good at or find threatening and run towards that feeling to increase your learning rate. |
 | [Mayur Kamat](https://th.linkedin.com/in/mayur) | Daily Meeting Execution | Extreme ownership: Assign a single owner to urgent problems and meet daily until solved so no decision is blocked for more than 24 hours. | Hypothesis-to-Data Speed: Strategy is overrated; the goal is simply how fast you can go from a hypothesis to gathering real data. | Leverage Audit: Focus only on problems with a 10x potential impact. Keep a free calendar as a full one is a "badge of shame." |
+
+# 2025-01-02
 
 # **Gong: Product Strategy and Organizational Design**
 
@@ -158,6 +160,8 @@ When launching **Gong**, the founders avoided a horizontal market approach in fa
 
 This narrow focus created a small pond effect, where word of mouth and viral growth among similar companies could ignite. This concentration eventually led to the product’s ubiquity across the broader tech ecosystem.
 
+# 2025-01-05
+
 # **Alisa Cohn’s Strategic Frameworks for Leadership and Difficult Conversations**
 
 ## **Executive Summary**
@@ -257,6 +261,8 @@ Growth as a leader requires leaning into discomfort. This includes:
 * Adopting management sciences used by successful entities like **Disney** and **Amazon**.
 
 Professional success for coaches recognized by **Thinkers50** and **Global Gurus** often stems from turning rock bottom moments into fuel for skill acquisition. Effective leaders at companies such as **Etsy**, **Venmo**, **Pfizer**, **DraftKings**, and **The New York Times** are those who embrace the necessary tension of their roles to foster long term success.
+
+# 2025-01-09
 
 # **Drew Houston: Evolution and Leadership Lessons from the Dropbox Journey**
 
@@ -367,6 +373,8 @@ The transition from a single product company to a multi product entity requires 
 "The presence of badness is not necessarily that you are bad. And it's like, yeah, now you're just getting your stripes as an entrepreneur."
 
 This perspective allows for the equanimity needed to navigate the inevitable periods of wandering in the desert, that characterize the journey of long term company building.
+
+# 2025-01-12
 
 # **Product Management Strategy and Organizational Growth**
 
@@ -502,6 +510,8 @@ The collective provides tribal knowledge and resources to founders who are not l
 
 "Quality and writing demonstrates this ability to go in depth with something and to really put your thoughts on paper", [Rohini Pandhi](https://www.linkedin.com/in/rohinipandhi)
 
+# 2025-01-16
+
 # **Graham Weaver on Life Design and Professional Achievement**
 
 ## **Executive Summary**
@@ -590,6 +600,8 @@ Ultimately, the journey toward a successful life must begin with an internal rea
 [Graham Weaver](https://www.linkedin.com/in/graham-weaver-2b79) emphasizes that the world benefits most when individuals find what makes them come alive, as this state of being creates a positive impact that extends beyond the individual.
 
 "Don't ask what the world needs. Ask instead what makes you come alive, because what the world needs most is for you to come alive."
+
+# 2025-01-18
 
 # **Ebi Atawodi’s Frameworks and Strategies for Compelling Product Vision**
 
@@ -680,6 +692,8 @@ The time required to move from vision to launch varies based on the complexity o
 ## **Leadership and Influence**
 
 A core tenant of the vision process is that it should not be done in isolation. Humans are stronger when working in community. Effective leaders do not start with answers but follow a journey from conversations to comprehension, which eventually leads to conviction. Tools like the 10 Things I Should Know exercise, help stack rank priorities by bringing together diverse perspectives from marketing, product counsel, and user research. Vision can be influenced at any level, including by senior product managers, by utilizing the playbook to show the current Badness and proposing a visceral future.
+
+# 2025-01-19
 
 # **Growth Strategies, Common Pitfalls, and Frameworks for Scalable Success**
 
@@ -789,6 +803,8 @@ Professional growth in the tech industry is traditionally tied to titles and ver
 * **Knowledge Acquisition:** To unlock optionality, individuals must first build deep expertise through full-time roles.  
   "You have to earn your right to unlock optionality and earning, that right does usually lie within full-time jobs."
 
+# 2025-01-26
+
 # **An Operator's Guide to Product Strategy**
 
 ## **Executive Summary**
@@ -881,6 +897,8 @@ In the future, multi-agent models may automate specific strategic workflows. For
 
 "Our job becomes architecting bigger and bigger pieces of the product, to take advantage of these agents."
 
+# 2025-01-30
+
 # **Linear’s Product Building Strategies**
 
 ## **Executive Summary**
@@ -959,6 +977,8 @@ The approach to deadlines at **Linear** is centered on commitment and scope mana
 "I think the more competitive your industry is, the more the low hanging goal oriented stuff is already picked, because every PM from every one of these companies has been asking like, 'Well, what's your goal?'"
 
 "The only way to make deadlines real is to take them so seriously that they are basically like a P0 problem, and everything else has to not matter, in comparison to the deadline."
+
+# 2025-02-02
 
 # **Tobi Lütke on Leadership, Human Potential, and First Principles Thinking**
 
@@ -1046,6 +1066,8 @@ The final quality of a product is directly proportional to how much the creators
 * **Exothermic Leadership:** Product leaders must be infectious with their care for the product.  
   "Every product in the world, the quality at the end of the day is simply a reflection of how much the people who created it, gave a shit about the product."
 
+# 2025-02-09
+
 # **The Future of AI Development and the Shift Toward Soft Skills**
 
 ## **Executive Summary**
@@ -1125,6 +1147,8 @@ The next phase of AI interaction moves beyond synchronous chat into asynchronous
 ## **Conclusion**
 
 The transition toward agentic systems requires a high degree of trust and a focus on human-centric skills. While AI continues to automate redundant tasks in healthcare, education, and software development, the role of the human builder is evolving into that of a high level curator and strategist. The ultimate goal is to create systems that act as collaborative innovators, requiring researchers and product teams to prioritize the nuances of human interaction and organizational effectiveness.
+
+# 2025-02-16
 
 # **Uri Levine on Crisis Management in Startups**
 
@@ -1217,6 +1241,8 @@ The history of successful companies often involves near death experiences that a
 ## **Conclusion**
 
 [Levine](https://il.linkedin.com/in/uri-levine) asserts that there is no way to avoid crisis. The best preparation is maintaining a high level of cash in the bank, ideally 18 months of runway, to provide a comfort zone for execution and adaptation. Ultimately, founders must accept that "building a startup is a journey from one crisis to the next." Readiness, combined with opportunity, is the only practical definition of luck in the entrepreneurial journey.
+
+# 2025-02-23
 
 # **Job Moves: A Framework for Career Progress and Alignment**
 
@@ -1321,6 +1347,8 @@ The framework also provides insights for those looking to hire and keep talent.
 
 "The moment you are comfortable doing nothing, you know who you are again, and you can actually figure this out."
 
+# 2025-02-27
+
 # **The Development and Mechanics of Community Notes**
 
 ## **Executive Summary**
@@ -1419,6 +1447,8 @@ A project called Supernotes, developed outside the company, demonstrates the pot
 
 "It's the internet, it's of the internet, that's why it works."
 
+# 2025-03-02
+
 # **Matt Mullenweg on the Future of Open Source and the WordPress Ecosystem**
 
 ## **Executive Summary**
@@ -1508,6 +1538,8 @@ Through **Audrey Capital**, [Mullenweg](https://www.linkedin.com/in/mattm) has m
 "I refer to it as like a bastardized hacked up version of it, it's deluding our brand."
 
 "Don't just build a product, build a movement."
+
+# 2025-03-06
 
 # **Notion's Philosophy, Craft, and the Path to Horizontal Software**
 
@@ -1620,6 +1652,8 @@ The company is moving toward a solutions mindset for enterprise customers while 
 
 "I think the kernel of things could be really small, but just like math. It can compound."
 
+# 2025-03-09
+
 # **Anton Osika on the Rapid Growth and Operational Philosophy of Lovable**
 
 ## **Executive Summary**
@@ -1702,6 +1736,8 @@ The next phase of development for **Lovable** involves increasing agentic behavi
 
 "We say we're building the last piece of software."
 
+# 2025-03-13
+
 # **Eric Simons on the Development and Growth of Bolt**
 
 ## **Executive Summary**
@@ -1778,6 +1814,8 @@ Bolt is expanding its integration with existing professional workflows to bridge
 "You got to have confidence in your convictions, on how to best play the hand."
 
 "The entire software world order is going to get rewritten here."
+
+# 2025-03-16
 
 # **Susan Cain on Introversion and Professional Excellence**
 
@@ -1909,6 +1947,8 @@ Several companies and tools are mentioned within the context of supporting profe
 * **Procter and Gamble**: Cited for its R\&D leadership's use of introverted superpowers.  
 * **Cutco**: Referenced regarding successful introverted sales strategies.
 
+# 2025-03-23
+
 # **Rahul Vohra on Building Superhuman**
 
 ## **Executive Summary**
@@ -1994,6 +2034,8 @@ To maintain high standards for organizational choices, [Vohra](https://www.linke
 * **Avoiding Weak Compilations:** Relying on a list of many weak pros and cons often masks a lack of clarity.  
 * **Application:** When a team proposes a decision, they are asked to isolate the SDR. If they cannot, it indicates the decision requires further refinement.  
   "Multiple low quality reasons rarely add up to a high quality reason to do something."
+
+# 2025-03-27
 
 # **Product Development and Organizational Success in the AI Era**
 
@@ -2100,6 +2142,8 @@ The core of winning in the AI era is the ability to move first and adapt quickly
 "Quality is not something you compromise on most of the time."
 
 "The easiest way to be the best is to be the first, and that actually is key."
+
+# 2025-03-30
 
 # **Ryan Singer on the Shape Up Methodology**
 
@@ -2236,6 +2280,8 @@ It is important to note that **Basecamp**, as an organization, possesses unique 
 
 In most real world scenarios, shaping requires more explicit collaboration between distinct design and engineering roles to overcome the silos that naturally form in larger organizations. Shaping in real life requires bringing the right people together to solve the puzzle of what can be built within the constraints of the business interest and the team's technical infrastructure.
 
+# 2025-04-06
+
 # **Wes Kao’s Advanced Communication and Influence Strategies**
 
 ## **Executive Summary**
@@ -2340,6 +2386,8 @@ To improve communication over time, individuals should maintain a swipe file of 
 
 The jump from an in-house operator to a solo operator or leader involves a shift toward only focusing on one's core strengths. Developing world class communication is an accelerant for this transition. By investing time upfront in preparation, anticipating objections, and focusing on behavior change rather than self expression, leaders can significantly increase their influence and impact. "Wes single handedly raised the quality of the entire company's writing by like two X across the board." Achieving such results requires viewing communication as a rigorous, skill-based discipline.
 
+# 2025-04-10
+
 # **The Evolution of Artificial Intelligence and Product Strategy at OpenAI**
 
 ## **Executive Summary**
@@ -2414,6 +2462,8 @@ The trajectory of AI suggests a future where intelligence is ubiquitous, fast, a
 "Sometimes it's not any one thing, it's just good work consistently over a long period of time."
 
 By embracing high agency and the evolving tools of the AI era, individuals and organizations can participate in shaping the next wave of technological advancement.
+
+# 2025-04-13
 
 # **Inside the Mission of V0 and Vercel**
 
@@ -2529,6 +2579,8 @@ The ultimate trajectory of technology suggests that the distinction between AI a
 | **Notion** | Real-time collaboration and documentation. |
 | **DeepSseek** | Specialized models that prioritize transparent thinking processes. |
 
+# 2025-04-20
+
 # **Varun Mohan on the Evolution and Strategy of the Windsurf IDE**
 
 ## **Executive Summary**
@@ -2599,6 +2651,8 @@ Unlike many AI startups that focus solely on product led growth, **Codeium** inv
 * **The Six-Month Rule:** The internal goal is to make the current version of the product look silly every six to twelve months.  
   "We should be cannibalizing the existing state of our product every six to 12 months."  
 * **On Market Dominance:** Success in the AI space requires a secret roadmap not informed by current user requests, but by bets on where the world is heading. Developers and product managers are encouraged to get their hands dirty with these tools now to act as force multipliers within their organizations.
+
+# 2025-04-27
 
 # **Scaling and Product Transformation of monday.com**
 
@@ -2692,6 +2746,8 @@ When performance issues spiked due to the increasing complexity of customer use 
 
 "The first version get a feedback, which is not everything, is perfect because if this is the feedback, it means that we built too much and probably it's not focused product enough, and when you build a lot of features, this can be like the death by thousand cuts, because in each corner of the product you add more than you need."
 
+# 2025-05-01
+
 # **Michael Truell on the Rise and Strategic Vision of Cursor**
 
 ## **Executive Summary**
@@ -2765,6 +2821,8 @@ The trajectory of **Cursor** is described as a consistent exponential curve that
 
 The shift in software creation is viewed as a multi decade transition, more consequential than the advent of the internet. The demand for software is expected to increase as the cost and labor required to build it decrease. [Truell](https://www.linkedin.com/in/michael-t-5b1bbb122) argues that even if AI can eventually write all code, professional engineers will remain necessary to define software behavior and maintain control over complex, long-lived codebases. **Anysphere** continues to focus on being the company that automates the busy work of knowledge work, pushing for a future where computers can do significantly more for humans through high level intent.
 
+# 2025-05-04
+
 # **Scott Wu on Devin and the Future of Autonomous AI Engineering**
 
 ## **Executive Summary**
@@ -2828,6 +2886,8 @@ The company culture at **Cognition** emphasizes extreme speed and aggressive tal
   "I think that the truth within that truth is basically you should fight to all ends basically, to get the folks that you really want to bring in."  
 * **Product Iteration:** The company moved from a project in November 2023 to a company in January 2024 and a public launch in March 2024\.  
 * **Focus on Fundamentals:** Success is attributed to the rigorous application of five core principles: moving fast, hiring exceptional people, building what users want, staying close to customers, and anticipating the future state of technology rather than its current limitations.
+
+# 2025-05-08
 
 # **Jerry Colonna on Leadership and Radical Self-Inquiry**
 
@@ -2918,6 +2978,8 @@ Purposeful living involves moving beyond the anxiety of achievement toward a sen
 * **Contribution:** Purpose is found in using personal gifts to create a world characterized by kindness, empathy, and safety.  
 * **The Toppled Oak:** [Colonna](https://www.linkedin.com/in/jerry-colonna-reboot/) uses the metaphor of an oak tree to describe a life well lived, gnarled by both good and bad choices but ultimately providing shelter and shade before dissolving back into the earth.  
   "I just feel better, and I think I am a better person when I think about things like that."
+
+# 2025-05-11
 
 # **The Palantir Model: Organizational Architecture and the Founder Factory**
 
@@ -3018,6 +3080,8 @@ The fundamental secret identified by **Palantir** is that data integration is th
 "It's rare that disengagement is the correct answer."
 
 "You actually have to try and be better than the very, very best that ever did it."
+
+# 2025-05-15
 
 # **Revolut Product Leadership and Development Strategy**
 
@@ -3127,6 +3191,8 @@ The following resources and companies are highlighted as benchmarks for excellen
 
 "Plans are worthless, but planning is everything."
 
+# 2025-05-18
+
 # **Aparna Chennapragada on AI Product Development and the Future of Interface**
 
 ## **Executive Summary**
@@ -3217,6 +3283,8 @@ The development of **Google** Now serves as a pivotal lesson in the importance o
 * **Invariance:** Identifying what elements of a failed product work can provide the foundation for future versions, as seen in the evolution of the **Google** Assistant and Gemini.
 
 "The best way to predict the future is to invent it."
+
+# 2025-05-22
 
 # **Mayur Kamat on Product Leadership and Operational Lessons**
 
@@ -3338,6 +3406,8 @@ While [Kamat](https://th.linkedin.com/in/mayur) remains skeptical of AI as a dir
 * **International Perspective:** Working abroad in regions like Dubai, Bangalore, Singapore, or Bangkok can provide essential empathy and understanding of global constraints, particularly in regulated industries like fintech.  
 * **The Moving Ceiling:** A primary drawback of working in smaller tech hubs like Bangkok is the career ceiling. Advancing to the next level often requires relocating the entire family to a different country or region.
 
+# 2025-05-25
+
 # **Krithika Shankarraman on Marketing Strategy and Growth Tactics**
 
 ## **Executive Summary**
@@ -3422,6 +3492,8 @@ Good process is defined as a tool that speeds up a company by providing guardrai
 "The delta between expectations and reality is the function for unhappiness."
 
 "If you want somebody to be successful and contributing member of the organization very, very quickly, setting up some of these processes with the intention of trying to help them navigate, how to go from idea to execution can be very empowering and powerful."
+
+# 2025-06-01
 
 # **Product Culture, Operational Excellence, and Strategic Evolution at Uber**
 
@@ -3559,6 +3631,8 @@ The document concludes with practical advice derived from [Kansal](https://www.l
 | **Product Managers** | Focus on inputs (controllable actions) rather than output metrics, use AI for summarization and as a research assistant. |
 | **Leaders** | Model behavior by using the product personally, prioritize reducing decision making time over perfect documentation. |
 
+# 2025-06-05
+
 # **Anthropic Product Strategy and the Future of AI Development**
 
 ## **Executive Summary**
@@ -3655,6 +3729,8 @@ In an AI dominated world, the focus of skill development should shift toward the
 "How do we figure out what we want to be when we grow up versus what we currently aren't or wish that we were or see other players in the space being?"
 
 "Not everything meaningful shows up in metrics."
+
+# 2025-06-08
 
 # **Organizational Scale and Leadership Principles at Mercado Libre and Roblox**
 
@@ -3784,6 +3860,8 @@ The leadership at the company is informed by early entrepreneurial success and h
 
 [Barrios](https://www.linkedin.com/in/zebas) emphasizes that the world is malleable and that individuals with enough agency can reconfigure it. "Just understanding that you can actually change the world doesn't have to be in a massive way, it's also possible" serves as his guiding motto.
 
+# 2025-06-12
+
 # **Bob Baxley on Design Philosophy and Product Leadership** 
 
 ## **Executive Summary**
@@ -3878,6 +3956,8 @@ The Apollo program serves as a model for peacetime accomplishment and leadership
 * **Undermind Processing:** AI can help translate the undermind, the part of the brain that processes information before it reaches language, into conscious, actionable insights.  
 * **Resisting Dystopia:** While Hollywood often portrays AI as malevolent, the future of the medium depends on creators using these tools to build a digital world that is safe and valuable for everyone.  
   "Design is trying to imagine the future you want to live in, and then take the steps to make it real."
+
+# 2025-06-15
 
 # **Hilary Gridley on Product Leadership and Resilience**
 
@@ -3974,6 +4054,8 @@ Historically, junior employees gained judgment through years of tedious analyst 
 "Because if they didn't have the part of the song that sucked, the cool part wouldn't be as cool."
 
 "Build something the internet has never seen before."
+
+# 2025-06-19
 
 # **Sander Schulhoff on AI Prompt Engineering and Security in 2025**
 
@@ -4081,6 +4163,8 @@ The context suggests that while prompt engineering will continue to be a vital s
 * **Focus on Fine-Tuning:** For product security, companies should use safety tuning and fine-tuning on specific data sets rather than relying on prompt based instructions. This narrows the model's capabilities to only the required task, making it less susceptible to injection.  
 * **Adopt Research Backed Techniques:** Teams should move away from role play and toward few-shot examples and decomposition to ensure reliability.  
 * **Acknowledge the Security Gap:** Organizations must realize that "It is not a solvable problem." Security must be handled at the architectural level by the model providers, such as **OpenAI** and **Anthropic**, rather than through third party guardrails alone.
+
+# 2025-06-22
 
 # **Peter Deng's Product Leadership**
 
@@ -4204,6 +4288,8 @@ The application of the **IDEO** framework is essential for maintaining empathy w
 Leaders must maintain a strong point of view to avoid organizational indecision. This philosophy, shared by leaders at **Instagram** and **LinkedIn**, emphasizes that it is better to be decisive than to be paralyzed by options.
 
 "We may not be right, but at least we're not confused."
+
+# 2025-06-29
 
 # **David Placek from Lexicon Branding on Brand Naming**
 
