@@ -1,4 +1,4 @@
-# 2025-2 Molly O'Shea Sourcery
+# 25-2 Molly O'Shea Sourcery
 
 | Company Name | Sector | Key Leadership | Total Funding Raised | Annual Revenue | Core Mission | Strategic Partners and Investors |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
