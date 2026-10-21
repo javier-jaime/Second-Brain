@@ -667,3 +667,135 @@ Historical barriers in pharmaceutical distribution and health insurance are shif
 * Incumbent tech and pharmaceutical entities are aggressively acquiring specialized AI startups, evidenced by **Merck**, **Oracle**, and **Nvidia** partnering with specialized labs like **Eli Lilly**'s TuneLab.
 
 As medical algorithms assume broader diagnostic workloads, clinical infrastructure will reallocate resource bottlenecks toward hands-on patient execution, procedural capacity, and fullstack manufacturing capabilities. Large scale technology enterprises integrating Biology, Hardware, and delivery models are positioned to become the primary value drivers in the future global economy.
+
+# 2026-10-16
+
+# **Guillermo Rauch on Building the Internet for Agents**
+
+**Vercel** CEO [Guillermo Rauch](https://www.linkedin.com/in/rauchg) outlines a structural shift in Software Development where AI coding agents generate 60% of deployments on the **Vercel** platform, up from 3% at the start of the year. Following a \$300 million Series F funding round that valued **Vercel** at \$9.3 billion with \$600 million in annualized revenue, the platform added 1.5 billion deployments over a 10 month span, outpacing the 1 billion deployments accumulated over its prior 10 year history. The transition to agent-driven code creation requires new infrastructure built for agent to agent interactions, including protocol adoption like Model Context Protocol (MCP), sandbox environments for security containment, and fluid compute architectures. **Vercel**'s token distribution network reveals that 80% of token usage has migrated to open models, driven by competitive parity from international labs and enterprise demand for intelligence ownership. As software creation costs decline, developers are shifting toward supervisory roles analogous to Engineering Managers, while infrastructure providers focus on security sandboxing, verifiable code proofs, and zero data retention architectures.
+
+## **Financial Scale and Deployment Metrics**
+
+**Vercel** has expanded its infrastructure footprint and customer base as automated agents drive software creation. The platform hosts high profile enterprise workloads, including deployments for **OpenAI**, **Meta**, and **Mercedes-AMG**.
+
+| Operational Metric | Source Value |
+| :---- | :---- |
+| Series F Funding Raised | \$300 million |
+| Company Valuation | \$9.3 billion |
+| Annualized Revenue | \$600 million |
+| Total Customers | 485,000 |
+| Employee Headcount | Approximately 800 |
+| Deployments from Coding Agents | Grew from 3% to 60% within one year |
+| Historic Deployment Timeline | 1 billion deployments in first 10 years; 1.5 billion added in subsequent 10 months |
+| Token Network Composition | 80% open models |
+
+## **Evolution of Developer Workflows**
+
+The adoption of agentic coding tools alters how software is authored, audited, and maintained. Developers are moving away from manual line by line coding toward reviewing, verifying, and directing autonomous agents.
+
+* Engineering Management Paradigm: Developers operate as Engineering Managers by reviewing agent generated code, running benchmarks, conducting quality assurance, and establishing execution boundaries.  
+* Code as a Liability: Unverified code introduces security vulnerabilities and data leakage risks. Developers must maintain oversight rather than relying entirely on unexamined output.  
+* Accessibility and Learning: Historical barriers to entry, such as expensive proprietary tools and English only documentation, are eliminated because AI models are trained on open source software and defined rules.  
+* Proof Systems and Verification: **Vercel** is developing proof systems that enforce mathematical correctness in generated code, preventing unverified logic or slop from being deployed to production.
+
+"Agents are now making their choices, and they're choosing right."
+
+## **Protocols and Architecture for Agent to Agent Web**
+
+The target audience of the internet is shifting from human visual consumption to automated agent consumption. Traditional web design prioritized human-centric HTML, pixel arrangements, and bot blocking defenses. The emerging agentic web requires direct, high signal data streams and programmatic tools.
+
+1. Model Context Protocol (MCP): Standardizes how services expose their capabilities, tools, and endpoints directly to agents, allowing programmatic deployment and project management.  
+2. Machine Payment and Commerce Protocols: Enables agents to execute financial transactions autonomously. Agents on **Vercel** purchase cloud capabilities, such as browser infrastructure via **Browserbase** through the **Vercel** Marketplace, without human intervention.  
+3. Agentic Business Interfaces: Companies expose structured information endpoints rather than visual assets. For example, **DoorDash** deployed an agentic interface enabling users to order food over text messages.  
+4. Fluid Compute: Replaces legacy serverless models with infrastructure that expands and compresses dynamically like liquid to handle heavy compute demands generated by continuous agent queries and deployments.
+
+Case studies include the **Mercedes-AMG** Formula 1 team, which utilized an agent on **Vercel** to rewrite and migrate legacy code to a modern platform stack in five minutes, bypassing traditional multimonth consulting cycles.
+
+## **Security, Sandboxing, and Risk Containment**
+
+Autonomous agents operate in extended execution loops to complete complex tasks, increasing exposure to prompt injection attacks, external manipulation, and unauthorized system access.
+
+* Agentic Autonomy Risks: Long running autonomous agents tasked with open-ended missions may retrieve data from untrusted sources, exposing them to hidden prompt injections that hijack execution contexts.  
+* Sandbox Isolation: Secure sandboxes act as contained jails that restrict agent access to broader networks and internal corporate systems.  
+* The \$1 Million Sandbox Challenge: **Vercel** invited global Cybersecurity researchers to attack its sandbox environment. Only one participant, utilizing an army of agents, made progress by identifying a critical underlying vulnerability in **Linux**.  
+* Zero Data Retention: **Vercel**'s AI Gateway guarantees contractual zero data retention across US based inference providers to prevent sensitive corporate data from being stored or used for model training.
+
+## **Open vs. Closed Frameworks**
+
+Data from **Vercel**'s token distribution network indicates a major shift in enterprise model selection. Proprietary models from **OpenAI**, **Google**, and **SpaceXAI** initially dominated token volume, but usage has flipped to open models.
+
+* Open Model Market Share: Open models now represent 80% of token volume on **Vercel**'s network, driven by international releases such as Kimi models from Chinese research labs that achieve parity on standard tasks.  
+* Portfolio Model Strategy: Enterprise architectures reserve high intelligence frontier models for top level strategic planning, while routing execution, instruction translation, and code generation to cheaper open models.  
+* Data Ownership and Optionality: Enterprises leverage open models to avoid vendor lock-in, maintain control over their intelligence stack, and lower token costs.  
+* Automated Routing: Developers use the **Vercel** AI Gateway to swap underlying models using a single line of code, enabling dynamic model routing based on query context, cost, and latency.
+
+## **Company Operations and Hiring Standards**
+
+**Vercel** aligns its internal operations around core values such as iterate to greatness and dig deep into technical issues.
+
+* Agentic Engineering Leverage: Hiring criteria focus on an applicant's ability to direct and orchestrate networks of agents, creating software factories rather than manually writing static code.  
+* Technical Proficiency Across Roles: Non-Engineering roles, such as Account Executives, are expected to demonstrate deep technical competence to conduct automated enterprise migrations and explain complex APIs directly to customers.  
+* Human Communication: As synthetic content expands across the web, **Vercel** prioritizes authentic, high quality human communication for external interactions and enterprise sales relationships.
+
+# **Jim Lanzone on Yahoo Growth and Turnaround Strategy**
+
+The private equity firm **Apollo** acquired **Yahoo** from **Verizon** for nearly 5 billion dollars in a deal that closed in September 2021, with **Verizon** retaining a 10 percent stake. Under Chief Executive Officer [Jim Lanzone](https://www.linkedin.com/in/jimlanzone), **Yahoo** executed a turnaround playbook focused on restructuring the enterprise from a centralized operational model into an independent conglomerate structure across distinct brands including sports, finance, news, and mail. To eliminate hundreds of millions of dollars in annual operating losses and optimize ad yield, **Yahoo** executed significant divestments, shutting down its internal supply side platform, cutting over 2,000 jobs, selling its native advertising business to **Taboola**, and spinning off non-core assets including **Edgecast**, **TechCrunch**, and **AOL**. Realigning around its historic core mission of serving as a trusted guide for personal utility, **Yahoo** now reaches 700 million monthly active users, with 75 percent of site traffic coming directly, and over 50 percent of the user base comprising Gen Z and Millennials. Fueled by newly developed proprietary offerings like the AI answer engine Yahoo Scout and expanding first-party advertising data, the turnaround rapidly recouped **Apollo**'s initial capital outlay, positioning the business for a prospective Initial Public Offering (IPO).
+
+## **Acquisition Framework and Financial Outcomes**
+
+In May 2021, **Apollo** structured a deal to purchase **Yahoo** and **AOL** from **Verizon** for approximately 4.8 billion dollars, completing the transaction in September 2021\. **Verizon** had previously acquired **AOL** and **Yahoo** under prior leadership, merging them into an entity named **Oath**, later rebranded as **Verizon Media**, for roughly twice the purchase price negotiated by **Apollo**. During **Verizon**'s ownership, strategic decisions prioritized promoting 5G network growth over advancing the core product missions of the internet properties.
+
+The acquisition was structured to allow **Verizon** to retain a 10 percent equity stake while establishing a standalone corporate entity. Through subsequent divestments and asset sales, including the sale of **AOL**, **Yahoo** fully returned the initial deal capital to **Apollo**, making the transaction one of the fastest capital returning investments in **Apollo**'s history. The firm operates with an expectation of achieving a liquidity event, specifically targeting an IPO.
+
+## **Restructuring and Corporate Governance**
+
+[Jim Lanzone](https://www.linkedin.com/in/jimlanzone) assumed the Chief Executive Officer role in late September 2021, marking his third major internet turnaround following prior leadership roles at **Ask Jeeves**, which sold to **IAC** (**InterActiveCorp**), and **CBS Interactive**, where user reach grew from 70 million to 220 million unique users. [Lanzone](https://www.linkedin.com/in/jimlanzone) also previously served as Chief Executive Officer of **Tinder**.
+
+Upon taking leadership, [Lanzone](https://www.linkedin.com/in/jimlanzone) replaced **Verizon**'s centralized operational setup, which utilized single heads of product, technology, and content across all brands, with a decentralized conglomerate model.
+
+| Subsidiary Unit | Target Competitors | Primary Audience and Scale Metrics |
+| :---- | :---- | :---- |
+| Sports | **ESPN** | Over 100 million monthly users, record fantasy engagement |
+| Finance | **Bloomberg**, **CNBC**, **Wall Street Journal**, **TradingView** | Over 100 million monthly users |
+| Mail | **Google** | Hundreds of millions of accounts, used by one third of Americans |
+| News | **Associated Press** | Top three aggregator status globally and nationally |
+
+Each General Manager was empowered with dedicated departmental leads across product, technology, content, marketing, public relations, business development, and sales. This organizational shift restored independent speed and entrepreneurial accountability across distinct product divisions.
+
+## **Asset Divestments and Ad Tech Overhaul**
+
+To eliminate operational inefficiencies and improve profit margins, **Yahoo** executed a deliberate divestment strategy targeting non-core assets and unprofitable business lines:
+
+1. Divested **Edgecast**, a content delivery network competing with **Akamai**, due to a lack of core operational advantage.  
+2. Overhauled the inheritance of over 30 AdTech acquisitions made across **AOL** and **Yahoo**, which operated an unprofitable supply side platform, demand side platform, and native ad business losing hundreds of millions of dollars annually.  
+3. Shut down the supply side platform in February 2023, resulting in a workforce reduction of over 2,000 employees, enabling **Yahoo** to open its pages to yield optimization across all third-party platforms rather than restricting monetization to internal ad tech.  
+4. Sold the native ad platform to **Taboola** in exchange for a 25 percent equity stake.  
+5. Divested media properties including **TechCrunch** and sold **AOL** in October of the preceding year.
+
+Retaining and investing in the demand side platform allowed **Yahoo** to leverage its first-party logged-in user data, resulting in wins in 9 out of 10 head to head performance tests against competing ad platforms.
+
+## **Product Strategy and AI Answer Engines**
+
+The operational turnaround focused heavily on Product Design, User Experience, and reestablishing product ownership. Historically, **Yahoo**'s original failure stemmed from outsourcing search to **Inktomi** and later **Google** in June 2000 to save short term costs on what was misclassified as a non-core utility. For 17 years, **Yahoo** lacked its own search engine, relying on external arrangements with partners such as **Microsoft**.
+
+To correct this reliance, **Yahoo** built and released Yahoo Scout, an AI driven answer engine. Unlike generalized Large Language Models (LLMs) from competitors such as **OpenAI**, **Anthropic**, or **Google**, Yahoo Scout leverages proprietary company assets:
+
+1. Aggregation of 30 years of historical search query data and knowledge graphs.  
+2. Grounding mechanisms integrated with publisher partner content and real-time data feeds.  
+3. Integration with lightweight third-party frontier models, including **Anthropic** Haiku, to render distinct, customized user interface results.
+
+Furthermore, **Yahoo** narrowed its content strategy, moving away from enterprise breaking news bureaus to focus exclusively on context-driven utility in personal finance, sports analysis, and personal consumer tools.
+
+"We are a 5 year old company managing a 30 year old brand at this point."
+
+## **Audience Dynamics and Brand Engagement**
+
+**Yahoo** maintains a global audience of 700 million monthly active users, positioning the platform among the top five internet properties in the United States and worldwide. Audience stability is driven by high intentionality:
+
+1. Direct Traffic: 75 percent of overall users navigate directly to **Yahoo** properties rather than relying on Search Engine Optimization (SEO) discovery.  
+2. User Identity: Approximately 75 percent of active daily users are logged into registered accounts.  
+3. Demographics: Over 50 percent of the active audience consists of Gen Z and Millennial users, with 75 percent of all Gen Z internet users interacting with **Yahoo** products.
+
+Marketing initiatives generated a 31 absolute point increase in brand affinity among younger demographics. Recent product launches, such as college fantasy football, attracted user bases where 40 percent of participants represented entirely new users to the **Yahoo** ecosystem.
+
+"I really believe that the best days of **Yahoo** can really be ahead of it."
