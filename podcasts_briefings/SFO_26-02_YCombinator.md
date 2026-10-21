@@ -267,3 +267,132 @@ The company intentionally avoided the blue websites and complex pricing typical 
 
 "You're just default screwed as a startup, so it is all upside, you just can't win on downside."
 
+# 2026-07-22
+
+# **Paul Copplestone on the Growth and Operational Evolution of Supabase**
+
+## **Executive Summary**
+
+**Supabase** has emerged as a dominant entity in the Developer tools sector, recently achieving decacorn status with a valuation exceeding 10 billion dollars following a 500 million dollar funding round. Founded in 2020 by [Paul Copplestone](https://www.linkedin.com/in/paulcopplestone), the company has grown its user base to 10 million Developers, driven by its core identity as an open source alternative to **Firebase**. A significant shift in the company's trajectory occurred with the rise of Artificial Intelligence, where AI agents now account for 60 percent to 90 percent of all database launches on the platform. The organization maintains a strictly remote, distributed workforce of 360 people across 60 countries, prioritizing written documentation and Developer experience metrics, particularly time to value.
+
+## **Origins and Strategic Foundations**
+
+**Supabase** was established in 2020, representing the third venture-backed startup for its founder. The company’s origins trace back to a side project involving a real-time engine for **PostgreSQL**, which was open sourced and shared on Hacker News.
+
+* **Market Positioning**: The company initially focused on its real-time engine capabilities, but growth accelerated significantly after it adopted the tagline of being an open source **Firebase** alternative.  
+* **Database Selection**: The choice of **PostgreSQL** as the foundational technology was based on its 40 year history and its reputation for reliability.  
+* **Game Theory of Postgres**: The founder views the future of databases through the lens of Game Theory, noting that because no single entity owns **PostgreSQL**, it benefits from a flywheel effect where all major cloud providers and contributors work to improve it.  
+* **YC Integration**: During its time with **Y Combinator**, the company targeted high growth, venture-backed startups as its ideal customer profile. Currently, over 60 percent of every **Y Combinator** batch uses **Supabase**.
+
+## **The Open Source Moat and Monetization**
+
+**Supabase** utilizes a 100 percent open source model, offering its entire stack for free without an enterprise only version.
+
+* **Monetization Strategy**: While the tools are free, the company monetizes through hosting and scale. It took approximately 1.5 years to earn its first dollar, but revenue grew from 1 million dollars to 7.5 million dollars in Annual Recurring Revenue (ARR) within a single year.  
+* **Strategic Exclusions**: The only code not made public involves the complex, proprietary logic for hosting millions of databases, which includes billing and security-sensitive integrations.  
+* **Counterpositioning**: The company deliberately positions itself against legacy services such as **RDS** and **Aurora** from **AWS**. By offering a stack of tools that work together seamlessly, **Supabase** makes it difficult for traditional cloud providers to replicate the experience by simply hosting individual database instances.
+
+"For our model we give everything away, you can use it completely free, the only thing that's not available is how to host a million databases, mainly because that code is just ridiculous spaghetti like, you can't actually really push it out in an easy way."
+
+## **Developer Experience and Metrics**
+
+The organization places heavy emphasis on Developer experience, specifically measuring the time it takes for a user to realize value from the product.
+
+* **Time to Value Comparison**: Initial internal testing showed that launching an instance on **AWS** **RDS** took approximately 8.5 minutes. **Supabase** aimed for a sub-minute setup and has since reduced that time to 5 seconds.  
+* **Community Engagement**: The company monitors **Reddit**, **Twitter**, and Hacker News to stay aligned with developer needs and trends.  
+* **Evolution of the Interface**: The platform has moved from a complex dashboard for manual discovery to a streamlined interface featuring a SQL editor and chat capabilities to accommodate the shift toward code-based interactions.
+
+"We decided, well we have to get that at least under a minute, for us to get time to value, and then we just started tracking that as soon as fast as we can, and these days it's 5 seconds, or 5 seconds now."
+
+## **The Artificial Intelligence Shift**
+
+The arrival of AI agents has transformed **Supabase** into the default backend for AI driven applications.
+
+* **Agent Dominance**: Tools like **Bolt**, **Lovable**, Claude, and Codex have shifted the user base. Millions of databases are now launched monthly, with agents representing the vast majority of new instances.  
+* **Supabase for Platforms**: To support this, the company developed a specific product that allows other companies and innovation labs to launch and manage millions of databases simultaneously.  
+* **Infrastructure as Code**: The future of the developer experience is moving toward infrastructure as code, where entire database stacks must be branchable and manageable by agents through command-line interfaces and declarative schemas.
+
+## **Operational Philosophy and Remote Culture**
+
+**Supabase** operates as a fully remote organization with no physical offices.
+
+* **Documentation as an Asset**: Every decision made since the company's inception has been recorded in **Slack** or **Notion**. This written history allows internal AI agents to provide context on decisions made as far back as six years ago.  
+* **Global Distribution**: The team consists of 360 employees spread across more than 60 countries.  
+* **Investor Relations**: The company’s success has shifted the dynamics with its investors. Large hedge funds that were initially indifferent to small seed investments have become highly engaged as the company nears potential public market entry.
+
+## **Financial Scale and Future Outlook**
+
+With a recent valuation of 10 billion dollars, the company remains focused on long term generational growth rather than short term financial gains.
+
+* **Funding and Grounding**: The leadership maintains that capital is in service of the work and cannot solve fundamental startup problems.  
+* **Self-Driving Databases**: The next major technical frontier for the company is the development of Self-driving databases. This involves creating systems that can operate, patch, and secure themselves without human intervention, solving the difficult problem of database operations.
+
+"I think the thing that keeps you grounded, is just absolutely knowing that money will not solve your problems, and that's a good thing for for startups, as well like early stage startups, like we should not exist if **AWS** is so good, they've got way more cash than us, but we've been able to for many different reasons."
+
+# 2026-07-23
+
+# **Strategies for Building AI Platforms in the Era of Frontier Labs**
+
+## **Executive Summary**
+
+The current Artificial Intelligence landscape is defined by a rapid evolution of the technological substrate, requiring companies to be highly adaptable. **Dust**, a startup founded by former **Stripe** and **OpenAI** Engineer [Stanislas Polu](https://fr.linkedin.com/in/spolu), exemplifies a strategy centered on horizontal platform development and model agnosticism. Key takeaways include the necessity of maintaining flexibility between different model providers, the strategic decision to avoid inflated valuations to prevent reaching a coffin corner, and the shift from seat-based to credit-based pricing to protect margins against exploding token usage. While frontier labs like **OpenAI** and **Anthropic** dominate market attention and funding, opportunities exist for smaller players who focus on product layer innovation, collaborative multiplayer AI, and defensive moats like network effects.
+
+## **The Evolution of Work and Technological Disruption**
+
+The impact of Large Language Models (LLMs) on the workplace has transitioned from theoretical disruption to tangible change. The technological substrate, once stable with tools like JavaScript and **PostgreSQL**, is now moving at a pace that makes long term prediction difficult.
+
+* **Timeline of Change:** While the disruption was anticipated as early as 2022, significant shifts in how developers and other functions operate only became radically apparent in late 2025\.  
+* **The Nature of Future Work:** Professional activity is expected to undergo a shift similar to the transition from physical labor to desk based digital work. Future work may soon be unrecognizable to current standards.  
+* **The Persistence of Innovation:** Previous expectations of a technological plateau have not materialized. Instead, models continue to improve, requiring years of ongoing deployment and innovation to integrate AI into all aspects of work.
+
+## **Horizontal Platforms and Model Agnosticism**
+
+A core differentiator for companies building on top of frontier models is the choice between verticalized and horizontal applications.
+
+### **Horizontal vs. Vertical Approaches**
+
+Horizontal platforms aim to be broad productivity suites, similar to **Microsoft** or **Google Drive**, but designed for human agent interaction.
+
+* **Vertical Advantages:** Simpler go to market strategies and clear target audiences.  
+* **Horizontal Challenges:** More complex go to market due to the need for user education on broad use cases.  
+* **Market Convergence:** There is a notable convergence in the product space, where verticalized products lose depth as models improve, leading to a focus on broader integration and coverage.
+
+### **The Importance of Being Model Agnostic**
+
+**Dust** maintains a model agnostic stance, allowing users to switch between providers based on which model is currently superior for a specific task.
+
+* **Dependency Risks:** Relying on a single provider for both the product and the underlying intelligence tokens is compared to building a factory where the machines only work with one energy provider.  
+* **Competitive Edge:** Labs cannot be model agnostic as they are incentivized to lock users into their own ecosystems. Agnosticism allows startups to provide the best intelligence available at any given time.
+
+## **Building in the Shadow of Giants**
+
+Frontier labs like **OpenAI** and **Anthropic** act as both educational forces for the market and significant competitors for funding and talent.
+
+* **Funding Saturation:** Large labs absorb a significant portion of Venture Capital, as investors often prefer placing large bets on a single lab rather than smaller bets across multiple startups.  
+* **Market Education:** Labs efficiently educate the market on AI capabilities, which horizontal platforms can leverage to provide more refined, collaborative, and multiplayer AI experiences.  
+* **National Context:** Building a company in France presents additional constraints compared to the Silicon Valley ecosystem, particularly regarding fundraising and fashionability in the eyes of American investors. However, successful scaling eventually makes geographic location irrelevant to major venture capitalists.
+
+## **Company Building and Fiscal Strategy**
+
+Maintaining fiscal discipline is critical for startups to avoid the structural failures associated with overcapitalization.
+
+* **Avoiding the Coffin Corner:** Raising capital at excessively high valuations without realizing the corresponding potential leads to a coffin corner where the only outcomes are down rounds or failure.  
+* **Valuation Strategy:** **Dust** opted for reasonable valuations during Seed and Series A rounds to maintain momentum and aggressive building without the pressure of an unsustainable valuation.  
+* **GPU Policy:** A guiding mantra for product layer companies is to avoid heavy infrastructure spending before achieving Product-Market Fit.  
+  "No GPU before PMF."  
+* **European Context:** Companies like **Mistral** demonstrate that European labs can achieve significant valuations, though building from France requires navigating a different growth trajectory than San Francisco based firms.
+
+## **Monetization and Defensive Moats**
+
+As model usage increases and agent loops become longer, companies must adapt their pricing and defensibility strategies.
+
+* **Transition to Credit-Based Pricing:** Seat-based pricing is becoming unsustainable due to exploding usage and token costs. Credit-based pricing is necessary to maintain margins as users maximize their AI consumption.  
+* **Margin Pressures:** Frontier labs currently maintain high margins, estimated at 70 to 80 percent based on comparisons between latency equivalent models from providers like **Baseten** or **Fireworks AI** and frontier models.  
+* **Open Source Influence:** The advancement of open source models is expected to put downward pressure on lab margins, creating a more competitive market for product layer companies.  
+* **Defensibility Through Network Effects:** Pure intelligence is becoming commoditized. To remain defensible, verticalized products must move beyond just delivering intelligence and instead find network effects where value is derived from multiple users interacting on the same platform.
+
+## **Final Perspective on Entrepreneurship**
+
+The reality of building a company involves significant personal and professional difficulty. Success is tied to a clear vision and a specific problem the founder aims to solve.
+
+"Find the thing you want to fix, the vision you have, because building a company is shitty on a daily basis, like shitty as hell, there's some very highs and a lot of lows, and so if you don't have that thing, that you can really wake up in the morning and say, but this is the reason why I'm doing it, it's not sustainable, so that's the first thing, if you don't have that in your mind, find it today, it's fine to reinvent it while you build, it's okay, but find that thing that will keep you driven towards an objective, despite all the glass eating that is involved in the job."
