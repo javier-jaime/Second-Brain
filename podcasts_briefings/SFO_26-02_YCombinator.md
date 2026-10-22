@@ -396,3 +396,388 @@ As model usage increases and agent loops become longer, companies must adapt the
 The reality of building a company involves significant personal and professional difficulty. Success is tied to a clear vision and a specific problem the founder aims to solve.
 
 "Find the thing you want to fix, the vision you have, because building a company is shitty on a daily basis, like shitty as hell, there's some very highs and a lot of lows, and so if you don't have that thing, that you can really wake up in the morning and say, but this is the reason why I'm doing it, it's not sustainable, so that's the first thing, if you don't have that in your mind, find it today, it's fine to reinvent it while you build, it's okay, but find that thing that will keep you driven towards an objective, despite all the glass eating that is involved in the job."
+
+# 2026-07-23
+
+# **Photoroom Journey of Ambition and Scale**
+
+## **Executive Summary**
+
+This document analyzes the evolution of **Photoroom**, a European based startup that achieved significant global scale through a deliberate shift in ambition and tactical execution. The source highlights that depth of focus, rather than broadness of scope, is a primary driver of growth. For **Photoroom**, this involved specializing in e-commerce photography, leading to 300 million downloads and 20 million active users. A central theme is the transformative impact of the **Y Combinator** accelerator program, which shifts founder mindsets from moderate goals to multibillion dollar targets by providing concrete playbooks and exposure to high achieving peers. The source also examines the cultural differences between European and American entrepreneurship, the necessity of hiring for ambition, and specific tactical exercises used to maintain a high growth trajectory, such as the V0 Project Framework and the magic wand thought exercise.
+
+## **The Evolution of Ambition through Y Combinator**
+
+The founders of **Photoroom** emphasize that their level of ambition was fundamentally altered by their participation in **Y Combinator**. Before joining the program, the idea of building a billion dollar company was viewed as a distant dream without a concrete path.
+
+* **From Dreams to Playbooks:** **Y Combinator** provided a concrete playbook that transitioned the concept of a billion dollar company from a dream to a realistic objective. Interactions with founders who had built ten billion dollar companies made such scale appear achievable and closer in reach.  
+  "It changes the scale at which you can dream, and realistically dream."  
+* **Continuous Benchmarking:** Ambition is described as a continuous process maintained by surrounding oneself with peers who are growing faster or tackling more complex problems, such as founders launching satellites into space. These interactions serve to reset benchmarks for what is considered possible for a small company.  
+* **The Math of Success:** High growth during the batch, such as moving from zero to one million in annual recurring revenue (ARR), provides a mathematical basis for believing a company can reach unicorn status.
+
+## **Cultural Barriers to Ambition**
+
+The document identifies a significant cultural divide between European and American founders, particularly regarding how they view big ideas and failure.
+
+* **Cultural Discouragement in Europe:** European culture is characterized by a tendency to laugh at big ideas or focus on potential negative outcomes. This environment can lead founders to aim lower naturally.  
+* **American Encouragement and Overconfidence:** In contrast, the United States culture is noted for its default encouragement of big ideas. A specific anecdote compares a skilled French Engineer who declined a job due to self-doubt with an American Engineer who, though potentially overconfident, joined the company at a higher compensation level.  
+* **Perception of Failure:** In many European countries, failure is viewed negatively, whereas other cultures see it as a valuable learning experience that can even lead to better job offers.  
+* **Combatting Self-Doubt:** Founders are encouraged to acknowledge their doubts but set them aside to avoid missing opportunities that their skills would otherwise allow them to capture.
+
+## **The Strategic Value of Ambition**
+
+Ambition is framed as a functional requirement for high growth companies rather than just a personality trait.
+
+* **Attracting Talent:** Working on tough, ambitious problems is essential for attracting smart and talented people.  
+  "You won't like it if you don't have a hard, tough, ambitious problem. It's going to be very difficult to hire smart, smarter people than you."  
+* **The VC Growth Mandate:** Taking Venture Capital is described as a one way door decision. Once a company signs up for the classic startup model, growth becomes the necessary criteria for success, making ambition a requirement for alignment with investors and employees.  
+* **Ease of Solving Hard Problems:** The document suggests that while a problem may be tough to solve, it is not necessarily harder to solve than a smaller one, yet it yields significantly higher rewards and impact.
+
+## **Tactical Frameworks for Achieving Scale**
+
+The founders of **Photoroom** and representatives from **Y Combinator** outline several tactical exercises to force ambitious thinking and operational efficiency.
+
+### **Depth and Focus**
+
+Contrary to the idea that ambition requires doing many things, **Photoroom** grew by narrowing its focus. The company initially did both video and photo, but focused 10x on photo to grow 10x. They then focused exclusively on e-commerce photos to grow another 10x.
+
+"Being deep is actually a great way to achieve ambition."
+
+### **Success Metric Expansion**
+
+* **The Add a Zero Rule:** [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman) suggests adding a zero to any success metric to force a thought exercise on how to reach that next level of scale.  
+  "Just add a zero to whatever success metric you have in mind, and then that will force you to do the thought exercise of how you get there, and that exercise enough is extremely useful."  
+* **The 100 Million ARR Exercise:** Early-stage companies are encouraged to explain how their business will lead to 100 million in ARR, forcing them to evaluate the total size and potential of their market.
+
+### **Operational Speed and the V0 Concept**
+
+* **Impact Ranking:** Projects should be ranked by their potential revenue impact if they work perfectly.  
+* **v0 Framework:** To maximize impact, teams must reduce the time spent on each project by identifying the V0, or the smallest version of a project that allows for learning. This allows for more projects to be tested, acknowledging that roughly 50 percent of projects will fail to have the expected impact.  
+* **Resource Constraints:** Forcing a team to consider how they would achieve a goal with only half the resources encourages creative thinking and better outcomes.
+
+## **Hiring and Organizational Culture**
+
+Maintaining ambition as a company grows requires specific hiring practices and cultural standards.
+
+* **Language as a Filter:** **Photoroom** uses English as its primary language in its Paris office to act as a filter for talent. This ensures that everyone hired is prepared to build a global company rather than a regional one.  
+* **Goal Alignment:** It is critical to align with co-founders and early employees on whether the goal is a passion project or a high growth venture. A disconnect in these motivations can slow down the company and create frustration.  
+* **The Marathon Spike:** Setting high targets creates a self-fulfilling prophecy, similar to how marathon runners push themselves to finish just under a specific time goal.  
+  "Shoot for the stars, worst case you land on the moon and that's good enough."
+
+## **Current Scale and Impact of Photoroom**
+
+The effectiveness of these strategies is evidenced by the current market position of **Photoroom**.
+
+| Metric | Data Point |
+| :---- | :---- |
+| **Downloads** | 300 million |
+| **Active Users** | 20 million |
+| **Global Reach** | 180 countries |
+| **Major Clients** | **Amazon**, **Uber**, **DoorDash**, **Decathlon** |
+| **Regional Status** | Largest **Y Combinator** company with an HQ in Europe |
+
+The company serves e-commerce businesses by providing AI visuals to help them grow and sell, illustrating the successful application of deep focus on a specific market vertical.
+
+# 2026-07-24
+
+# **OpenCode: Scaling the Global Coding Agent Market**
+
+## **Executive Summary**
+
+The following document provides a comprehensive briefing on **OpenCode**, an open source coding agent platform that has experienced 20x growth within the first six months of 2025\. Led by CEO [Jay V](https://ca.linkedin.com/in/jayair), the company serves as an open alternative to Claude Code, allowing users to integrate any Large Language Model (LLM) into their development workflow. **OpenCode** currently manages 4.6 million weekly active users and processes approximately 7 trillion tokens per day, surpassing the volume of major competitors like **OpenRouter**.
+
+Critical takeaways include:
+
+* **Rapid Financial Scaling:** The company has reached an annualized revenue run rate between \$38 million and \$40 million within eight months of launching its inference business.  
+* **Market Inflection Point:** A strategic attempt by **Anthropic** to block **OpenCode** users in early 2025 served as a primary catalyst for growth, effectively positioning **OpenCode** as a direct peer to Claude Code.  
+* **Global Market Penetration:** Unlike many Silicon Valley startups, **OpenCode** has significant usage in developing nations and China, driven by the affordability and accessibility of open source models.  
+* **Enterprise Adoption:** Over a dozen Fortune 500 companies are currently utilizing the platform, often driven by organic bottom-up adoption by developers seeking model flexibility.  
+* **Persistence in Founders:** The current success is the result of a 16 year journey by the founding team, who applied to **Y Combinator** nine times before being accepted in 2021\.
+
+## **Operational and Financial Metrics**
+
+**OpenCode** has demonstrated significant scale across its user base and processing volume. The following table outlines the current performance indicators as of mid-2025:
+
+| Metric | Value |
+| :---- | :---- |
+| Weekly Active Users (WAU) | 4.6 Million |
+| Monthly Active Users (MAU) | 13 Million (June 2025\) |
+| Daily Token Volume | 7 Trillion Tokens |
+| Annualized Revenue (Total) | \$38 Million to \$40 Million |
+| Annualized Revenue (Subscription) | \$18 Million |
+| Monthly Subscribers | 160,000 |
+| Subscription Cost | \$10 per Month |
+
+The revenue model is bifurcated between the **OpenCode Go** subscription plan, which launched in early March 2025, and a pay per token inference business. The company benefits from volume discounts on tokens, which directly fuels its profit margins as it aggregates demand for open source models.
+
+## **Strategic Market Positioning and Competition**
+
+The growth of **OpenCode** was significantly accelerated by competitive friction with **Anthropic**. In January 2025, **Anthropic** began attempting to clamp down on users who utilized Claude Code subscriptions through the **OpenCode** interface.
+
+"The way I think they sort of blocked it, or they were trying to block it, was if the system prompt mentioned literally the word opencode, they would sort of reject the request."
+
+This action inadvertently signaled to the market that **OpenCode** was a viable competitor, leading to an explosion in new user acquisition. This phenomenon is compared to the growth **Instacart** experienced after **Amazon** acquired **Whole Foods**, where a perceived threat from a dominant player drove market interest to the alternative.
+
+**OpenCode** distinguishes itself through several core strategies:
+
+* **Model Neutrality:** The platform supports over 70 models and providers, preventing vendor lock-in.  
+* **Open Source Commitment:** The company maintains models.dev, a comprehensive database of global models and providers.  
+* **Terminal-First Design:** The founders, being practitioners of tools like Vim and Neovim, designed **OpenCode** to provide a superior terminal user interface (UI) compared to the standard offerings from **Anthropic**.
+
+## **Global Model Usage and Insights**
+
+**OpenCode** possesses unique data on how Engineers worldwide utilize different LLMs. Analysis of their usage data reveals a shift toward open weight models that offer competitive performance at lower costs.
+
+### **Leading Models by Volume**
+
+The platform sees the highest token volume and unique user counts for the following models:
+
+1. **DeepSeek** Flash: Primarily used as a cost saving measure for users reaching daily or weekly limits on frontier models.  
+2. **DeepSeek** Pro: Maintains a high level of unique user engagement.  
+3. **Z.ai** GLM-5.2: Noted for its strong performance in front-end design tasks.  
+4. **Moonshot AI** Kimi K2.5: Significant for being the first open source model to reach parity with frontier models in **OpenCode** usage data.
+
+### **Geographic Distribution**
+
+The user base is uniquely global, with a distribution that differs from traditional Western centric AI tools:
+
+* **China**: 17% (The largest single market for the platform).  
+* **United States**: Significant and growing, despite the initial focus on global markets.  
+* **Brazil**: 5%.  
+* **Indonesia**: 4%.  
+* **Vietnam**: High interest due to the high relative cost of \$200 monthly subscriptions from frontier labs.
+
+## **Enterprise Adoption and Integration**
+
+**OpenCode** has achieved significant penetration within the enterprise sector, including over a dozen forward thinking Fortune 500 companies. This adoption is characterized by a bottom-up approach where developers initiate usage, eventually forcing corporate procurement and security departments to engage with **OpenCode**.
+
+"You really know you have Product-Market Fit when Enterprises are bugging you to sign the Security Agreement so they can use your product."
+
+Enterprises utilize the platform for several reasons:
+
+* **Flexibility:** Companies avoid being locked into a single model provider.  
+* **Internal Tooling:** Some organizations, such as **Ramp**, have integrated the **OpenCode** agent loop into internal tools like **Slack** bots.  
+* **Token Management:** Large organizations use the platform to manage access and limit costs by directing certain teams toward cheaper open source models rather than expensive frontier models.
+
+## **The Founder Journey and Company History**
+
+The success of **OpenCode** is the culmination of a 16 year evolution of a single legal entity, originally incorporated in 2010 under the name **Anomaly**. The founders, [Jay V](https://ca.linkedin.com/in/jayair) and [Frank](https://linkedin.com/in/fanjiewang/), began their journey in 2006, influenced by the writings of [Paul Graham](https://en.wikipedia.org/wiki/Paul_Graham_\(programmer\)).
+
+The path to current success involved:
+
+* **Persistence in Y Combinator:** The team applied nine times between 2016 and 2021 and participated in four separate interviews before finally being accepted in the Summer 2021 batch.  
+* **Iterative Development:** Previous projects included a serverless framework for **AWS** called **SST**, a consumer tracking company, and a terminal based storefront called **Terminal.shop**.  
+* **Building in Public:** Encouraged by **Y Combinator** partner [Dalton Caldwell](https://www.linkedin.com/in/daltoncaldwell), the team adopted a transparent development style, sharing metrics and code publicly. This has created a community following that views the company's progress as a form of reality television for developers.
+
+The founders view **OpenCode** as the integration of all their previous experiences, combining expertise in open source development, terminal UIs, consumer acquisition, and enterprise sales into a single product aimed at providing the magic of a coding agent to a global audience.
+
+# 2026-07-24
+
+# **Olivier Pomel on the Evolution and Operational Philosophy of DataDog**
+
+## **Executive Summary**
+
+The following document synthesizes key insights from an interview with [Olivier Pomel](https://www.linkedin.com/in/olivierpomel), a co-founder of **DataDog**, detailing the company’s trajectory from a rejected **Y Combinator** applicant to a dominant force in the cloud observability market. The core findings highlight a company built on a specific bet regarding the convergence of development and operations (DevOps) and the massive expansion of cloud computing.
+
+Key takeaways include:
+
+* **Operational Grounding:** Leadership maintains a rigorous connection to ground level data, including support requests and customer feedback, to bypass sanitized corporate summaries.  
+* **Cultural Pragmatism:** The organization avoids written values, believing that culture is established through the actions, hiring, and firing decisions of leadership.  
+* **Strategic Category Positioning:** **DataDog** achieved market fit by adopting the established label of infrastructure monitoring rather than attempting to sell a brand new undefined category.  
+* **AI Transformation:** The company is currently pivoting toward a model where AI automates code generation, enabling small teams to achieve results previously requiring much larger engineering cohorts.  
+* **Decisive Personnel Management:** Success is attributed to moving fast in hiring and firing, favoring trial and error over the pursuit of a perfect hire.
+
+## **Foundational History and Market Bet**
+
+The origins of **DataDog** are rooted in the professional relationship between its founders, [Olivier](https://www.linkedin.com/in/olivierpomel) and [Alexis](https://www.linkedin.com/in/alexislequoc/) who met at **IBM** research in New York. Their experience in the startup ecosystem during the dotcom boom and bust provided critical lessons on overspending and the necessity of shipping products quickly.
+
+### **Identifying the Friction**
+
+While working at an educational software firm, the founders observed a fundamental divide between Development and Operations teams. This friction led to the central premise of **DataDog**:
+
+* The Dev team and Ops team often experienced conflict and mutual finger-pointing.  
+* Existing monitoring tools were siloed, reactive, and used almost exclusively by operations personnel.  
+* Developers remained largely blind to production environments.
+
+### **The Cloud Thesis**
+
+Founded in 2010, **DataDog** was built on the bet that cloud infrastructure would move from a toy for small companies to a central component of enterprise technology. Although major corporations initially dismissed **Amazon** and cloud services, the founders recognized that this shift would necessitate a unified platform where Developers and Operations could collaborate.
+
+## **Funding and Category Definition**
+
+**DataDog** faced significant early hurdles in securing capital and defining its place in the market. The company was famously rejected twice by **Y Combinator**, a fact that the founders eventually used as motivation.
+
+### **VC Biases and Regional Challenges**
+
+The fundraising journey was complicated by geographic and market misunderstandings:
+
+* New York Venture Capitalists often failed to understand the infrastructure market.  
+* Bay Area investors at the time were hesitant to fund infrastructure companies located outside of Silicon Valley.  
+* The founders purposefully adopted a different approach than Bay Area companies to prove the viability of their New York based model.
+
+### **The Importance of Established Categories**
+
+The company initially struggled to sell its product when it was marketed as a Data Platform for collaboration. The founders realized that people love the idea of a new thing, but they have no idea what they should pay for it, and their boss has no idea what they should pay for it. By rebranding as infrastructure monitoring, they entered a recognizable category that budgets were already allocated for, which accelerated adoption.
+
+## **Leadership and Organizational Culture**
+
+The leadership style at **DataDog** is characterized by a disdain for corporate jargon and a deep involvement in product details. [Olivier](https://www.linkedin.com/in/olivierpomel) expresses a particular dislike for the word strategic.
+
+"When people use strategic in a sentence, I usually replace that mentally by bullshit."
+
+### **Cultural Implementation**
+
+Unlike many technology firms, **DataDog** does not rely on written values or principles on the wall. The organizational philosophy dictates:
+
+* Culture flows from the top through direct example.  
+* Hiring, promotion, and termination decisions are the primary vehicles for reinforcing culture.  
+* Pragmatism is prioritized over training manuals, even as the company scales to 8,000 employees.
+
+### **Maintaining Fabric of the Universe Awareness**
+
+To prevent the isolation often caused by corporate growth, leadership employs a sampling method to stay informed:
+
+* They read raw support requests, sales transcripts, and customer feedback directly.  
+* Olivier continues to read all employee survey comments.  
+* Leaders are encouraged to look down into their span of control, rather than looking up to manage their bosses.  
+* The CEO acts as an editor rather than a bottleneck, intervening in product decisions when clarity or simplicity is lacking.
+
+## **Navigating the Public Market and Multi-Product Growth**
+
+Since going public in 2019, **DataDog** has expanded its portfolio to approximately 20 to 25 products. Growth is driven primarily by observing how customers build extensions or workflows around existing products.
+
+### **Public Market Realities**
+
+Operating as a public company involves managing stock volatility and its impact on employee compensation.
+
+* The company experienced a 65% drop in valuation during the COVID-19 lockup expiry, which required intensive Compensation Management.  
+* The CEO’s role in a public setting is highly choreographed, focusing on quarterly calls and ensuring the company story aligns with the Financial Data.  
+* Public investors are generally less concentrated and have a harder time reasoning about long term technical shifts than private VCs.
+
+## **The AI Paradigm Shift**
+
+The emergence of AI is fundamentally changing the internal and external operations of **DataDog**. The company is moving away from defensive positioning toward aggressive experimentation.
+
+### **Internal Engineering Evolution**
+
+The leadership has signaled a major shift in how the company produces software.
+
+"My co-founder stood in front of the whole Engineering team a couple of months ago saying, hey in two quarters we're not writing any code anymore."
+
+This indicates an inversion where Developers will mostly automate and only sometimes write code manually.
+
+| Metric | Traditional Model | AI Augmented Model |
+| :---- | :---- | :---- |
+| **Team Size** | 6 to 8 people | 2 to 3 people |
+| **Project Duration** | 6 months | A couple of days |
+| **Approach** | Precise planning | Taking more shots / higher error tolerance |
+
+### **Market Position and Agents**
+
+**DataDog** is currently positioned as a winner in the AI space, counting the top 10 AI companies in the world as customers. The product is being evolved to be used by autonomous agents and is fusing smarts directly into the data plane.
+
+## **Advice for Founders**
+
+[Olivier](https://www.linkedin.com/in/olivierpomel) offers specific guidance for European and aspiring founders based on the **DataDog** experience:
+
+* **Market Focus:** It is acceptable to start a company in Europe, but founders must target the US market as soon as they achieve Product-Market Fit. This typically requires at least one founder to move to the US.  
+* **Hiring Speed:** Founders should not be paralyzed by the search for a perfect hire.  
+  "Find someone who looks good, hire them right away and if it doesn't work out, you know, you fire him."  
+* **Decisive Firing:** Delaying the termination of underperformers is a common mistake. Most founders find that the rest of the team wonders why they waited so long to make a necessary change.
+
+# 2026-07-24
+
+# **Encord: Why Physical AI Is the Next Platform Shift**
+
+## **Executive Summary**
+
+The following document synthesizes key insights from a discussion regarding the evolution of Artificial Intelligence and the emergence of Physical AI as the next significant technological platform. [Eric Landau](https://www.linkedin.com/posts/seb-johnson_eric-landau-ceo-and-co-founder-at-encord-activity-7439671951008296961-D4G9), co-founder of **Encord**, outlines the transition from highly Engineered systems to data-driven scaling, a concept known as The Bitter Lesson. Despite the challenges of starting a company during the economic volatility of the early 2020s, **Encord** has established itself as a critical data layer for Multimodal AI.
+
+The analysis highlights the massive economic potential of Physical AI, which addresses the 80 percent of economic activity involving the movement and manipulation of physical objects. Key takeaways include the necessity of Multimodal Data (Vision, Audio, Sensor, and Language), the strategic value of geographic location for talent and customers, and the importance of founder resilience in navigating the inherent volatility of startup growth.
+
+## **The Evolution of AI and The Bitter Lesson**
+
+The trajectory of AI Development has moved away from manual Feature Engineering toward the large scale integration of data and compute. This shift is characterized as the bitter lesson, a concept that shaped the founding philosophy of **Encord**.
+
+* **From Physics to AI:** [Eric Landau](https://www.linkedin.com/posts/seb-johnson_eric-landau-ceo-and-co-founder-at-encord-activity-7439671951008296961-D4G9) transitioned from particle physics and high-frequency trading to AI entrepreneurship. In physics, data was filtered based on momentum and particle movement, while in trading, factors were manually crafted into Machine Learning models.  
+* **The Scaling Shift:** Modern AI Development relies on throwing massive amounts of data into Machine Learning systems and scaling them rather than inducing domain expertise.  
+* **Technological Paradigm:** AI is viewed as the generational equivalent of the early days of the internet or computing.
+
+## **The Physical AI Market**
+
+Physical AI represents a transition from digital only models to systems that interact with the real world. This market is described as nascent but possessing enormous potential.
+
+### **Economic Impact and Scale**
+
+* **Core Utility:** Physical AI focuses on manipulating or moving things in the real world, which accounts for 80 percent of all economic activity.  
+* **Autonomy Growth:** Projections suggest that within five to ten years, there may be more robots than people, creating a world packed with autonomy.  
+* **Maturity Curve:** Autonomous driving is currently further along the maturity curve and closer to mass scale production, while Humanoids, Consumer Robotics, and Manufacturing represent the next significant growth areas.
+
+### **Multimodality**
+
+**Encord** began with vision because it was considered the most difficult modality. The company operates on the thesis that AI Systems must be multimodal to mirror human decision making, which accepts various sensory inputs. Currently, Physical AI is the primary application for Multimodal AI, utilizing:
+
+* Video Streams  
+* Sensor Data  
+* Audio  
+* Natural Language
+
+## **Company Growth and Product-Market Fit**
+
+**Encord** was founded in 2021 and experienced a period of slow growth, referred to as being in the desert, before market conditions shifted.
+
+* **The Impact of ChatGPT:** The release of **ChatGPT** changed the tenor of conversations regarding AI, making the market more open to the solutions provided by **Encord**.  
+* **Compounding Growth:** Product-Market Fit did not occur as a single binary event, instead, it was the result of the product improving daily while the market moved toward the product.  
+* **Internal Validation:** A significant milestone for the founders was seeing sales close through the **Gong** channel for companies they were not personally familiar with, indicating the product was providing value beyond their direct sales efforts.
+
+## **Data Operations and Scalability**
+
+**Encord** manages the data layer required for Physical AI, dealing with scales that exceed the data used to train Large Language Models (LLMs) like GPT-4.
+
+| Feature | Description |
+| :---- | :---- |
+| **Data Scale** | Multiple petabytes of multimodal data. |
+| **Curation** | Finding a million needles in a billion haystacks by selecting and managing specific data points. |
+| **Data Collection** | Utilizing film set like facilities in the Bay Area to capture robot tasks and ingesting production data from customers. |
+| **Core Functions** | Management, curation, annotation, enrichment, and evaluation of data. |
+
+### **Geographic Strategy**
+
+The company maintains a dual presence in London and the Bay Area.
+
+* **London:** Offers a comparative advantage for AI talent and Engineering due to its Universities and less intense competition compared to San Francisco.  
+* **Bay Area:** Essential for proximity to customers and investors. The co-founder moved to San Francisco to build facilities and operations near the primary customer base.
+
+## **Entrepreneurial Insights and Strategic Advice**
+
+The experience of building **Encord** provides several lessons on Organizational Management and founder Psychology.
+
+### **Hiring and Management**
+
+* **Gut Instinct:** Founders should follow their gut when a hire is not a fit. **Encord** experienced setbacks by keeping the wrong personnel for up to nine months.  
+* **Trial and Error:** The company went through three different sales teams before finding a successful structure.  
+* **Adherence to Advice:** Founders often receive correct advice from organizations like **Y Combinator** but still make mistakes that require firsthand learning to correct.
+
+### **Founder Resilience**
+
+[Eric Landau](https://www.linkedin.com/posts/seb-johnson_eric-landau-ceo-and-co-founder-at-encord-activity-7439671951008296961-D4G9) emphasizes the importance of accepting the volatility of the startup journey.
+
+"Starting a company is a roller coaster, so there's like low lows and there are high highs, and my view is that you should just ride the roller coaster, like people try to mitigate it, but just ride it, and try to have fun."
+
+As a founder gains experience, they realize they have more control over their mental reaction to reality. The transition from the existential fear of high stakes trading to the concrete problems of a startup is described as rewarding, particularly when the work provides tangible value to customers.
+
+## **Competitive Landscape**
+
+While the space was initially seen as overly competitive, many early competitors pivoted, consolidated, or failed. **Encord** focuses on standing out through its ability to scale and its specific focus on Physical AI.
+
+* **Healthy Competition:** The presence of strong competitors is viewed as a positive force that pushes the company to improve.  
+* **Scaling Specialization:** The company's foundation is built on the ability to operate at the multiple-petabyte level, which remains a difficult task for many organizations.  
+* **Entry Points:** For smaller companies just starting, it is advised to use open source tools before reaching the inflection point where they require a professional scaling product like **Encord**.
+
+## **Direct Quotes**
+
+"The bitter lesson is this idea that AI, you know, it used to be that to build an AI system, you would think very carefully about it, you do all the Feature Engineering, you try to induce as much domain expertise into the the system, before kind of wrapping up in Machine Learning, and they found that actually it's better to not do any of that, and just to scale the system, just add more data more compute into it."
+
+"80% of economic activity is manipulating or moving things in the real world, so we live in the real world, and if you talk to a lot of the Robotics folks they think in 5 to 10 years, there will be more Robots than people."
+
+"It's like when you're ready, you should use a product like ours."
+
