@@ -377,7 +377,7 @@ Frontier labs like **OpenAI** and **Anthropic** act as both educational forces f
 Maintaining fiscal discipline is critical for startups to avoid the structural failures associated with overcapitalization.
 
 * **Avoiding the Coffin Corner:** Raising capital at excessively high valuations without realizing the corresponding potential leads to a coffin corner where the only outcomes are down rounds or failure.  
-* **Valuation Strategy:** **Dust** opted for reasonable valuations during Seed and Series A rounds to maintain momentum and aggressive building without the pressure of an unsustainable valuation.  
+* **Valuation Strategy:** **Dust** opted for reasonable valuations during seed and series A rounds to maintain momentum and aggressive building without the pressure of an unsustainable valuation.  
 * **GPU Policy:** A guiding mantra for product layer companies is to avoid heavy infrastructure spending before achieving Product-Market Fit.  
   "No GPU before PMF."  
 * **European Context:** Companies like **Mistral** demonstrate that European labs can achieve significant valuations, though building from France requires navigating a different growth trajectory than San Francisco based firms.
@@ -781,3 +781,167 @@ While the space was initially seen as overly competitive, many early competitors
 
 "It's like when you're ready, you should use a product like ours."
 
+# 2026-07-25
+
+# **AMI Labs: Advancing Beyond Language Models**
+
+### **Executive Summary**
+
+The current landscape of Artificial Intelligence is dominated by Large Language Models (LLMs), yet significant limitations remain regarding their ability to achieve General Intelligence. LLMs process the world through the proxy of human-written text, which restricts their common sense and problem solving abilities in novel, real-world situations. To address this, **AMI Labs** is developing World Models that learn directly from sensory data, including video, audio, and Robotics based touch, mimicking human and animal learning processes. Led by [Alex Lebrun](https://fr.linkedin.com/in/alexandrelebrun) and [Yann LeCun](https://en.wikipedia.org/wiki/Yann_LeCun), **AMI Labs** has secured a 1.2 billion dollar seed round, one of the largest in European history, primarily to fund the massive compute requirements necessary for training. The strategic approach of the company emphasizes high dimensional problem solving, a decentralized geographic footprint outside of Silicon Valley, and a commitment to taking the high stakes risks that large corporations like **Meta** or **Google** are often structurally unable to pursue.
+
+### **The Evolution of AI Architectures: LLMs Versus World Models**
+
+A fundamental shift is occurring in AI Development from models that manipulate symbols to models that understand physical reality.
+
+* Limitations of Language Models: LLMs are trained on existing human text, meaning they lack direct experience with the physical world. This lack of grounding results in models that may seem expert in many subjects but possess limited common sense. LLMs excel at low dimensional problems involving sequences of symbols, such as Mathematics, Programming, and Language.  
+* The World Model Approach: World Models do not rely on text as a primary source. Instead, they learn from scratch using video, audio, and sensory data. This method allows the AI to understand how objects interact and how the world functions without the filter of human description.  
+* Grounding and Intelligence: True intelligence requires grounding in real-world experience. When humans discuss a concept, it reactivates past physical experiences. For a machine to be truly smart, it must have a similar foundation, even if it is built through digital sensory input like video.  
+* Performance and Inference: While World Models are expensive to train due to GPU requirements, they are expected to be more lightweight during inference than LLMs because they typically utilize fewer parameters.
+
+### **Strategic Startup Development and Scaling**
+
+Building a functional AI model requires a departure from traditional startup financing and operational norms.
+
+* Capital Requirements: The primary cost in modern AI development is compute. The 1.2 billion dollar seed round for **AMI Labs** was necessitated by the need to purchase thousands of GPUs. This scale of funding shifts the culture of a startup, as the cost of hardware can make other operational expenses seem negligible.  
+* Managing Expectations: High profile funding creates significant external pressure. If a company raises 1 billion dollars and fails to produce visible results within two years, survival becomes difficult due to the weight of outside expectations.  
+* Geographic Strategy: **AMI Labs** maintains offices in Paris, New York, Montreal, and Singapore. The decision to avoid a primary headquarters in San Francisco is an intentional move to ensure employee commitment, as relocation to cities like New York requires a higher level of dedication to the company's specific mission.
+
+### **Structural Advantages of Startups Over Big Tech**
+
+Startups possess a unique ability to navigate risks that larger, established companies cannot, despite the resource advantages of the latter.
+
+* Agility and Risk Tolerance: Large companies possess more resources, stronger brands, and more talent, but they are often paralyzed by legal and brand safety concerns. A startup’s only significant advantage is the ability to make unconventional choices and take risks that would be blocked by corporate legal teams.  
+* The Chatbot Precedent: Early AI research at **Meta** (formerly **Facebook**) produced models capable of Statistical Learning without rules, but these were withheld from public release because they generated inappropriate content. Startups like **OpenAI** were able to iterate on these same technologies because they could tolerate the risks associated with early-stage deployment.  
+* Innovation Scaling: Technologies like transformers were originally developed within large organizations like **Google**, but it took smaller, more focused entities to scale the Engineering and solve the bottlenecks required to make the technology impactful.
+
+### **Core Bottlenecks in AI Development**
+
+Even with substantial financial backing, three critical factors determine the success of an AI Venture.
+
+* Talent: There is a limited pool of individuals who understand non LLM architectures. Managing these researchers requires a balance between providing enough direction to achieve a product and enough freedom to prevent them from leaving.  
+* Compute: Securing GPUs remains a significant challenge even for companies with billions of dollars. The hardware market is a primary constraint on the speed of development.  
+* Data: Finding and utilizing high quality data, particularly video and sensory data for World Models, is the third pillar of the current development bottleneck.
+
+### **Industry Applications and the Future of Robotics**
+
+The transition to World Models is expected to revolutionize Physical Automation and Robotics.
+
+* Limitations of Current Robotics: Modern Robots are often hardware sophisticated but computationally limited. They are typically narrow, vertical machines that perform repetitive tasks in closed environments. They lack the brain to operate safely in open, unpredictable environments like homes or streets.  
+* Vision Language Action (VLA) Issues: Current attempts to use LLMs as brains for Robots (VLA) are often inaccurate, slow, and expensive. They suffer from high latency and prohibitive compute costs for 24 hour operation.  
+* Future Integration: The goal is to develop machines with common sense that can handle high dimensional, noisy, and long horizon problems. Within five to ten years, this could lead to truly helpful Robots that handle dangerous or difficult tasks, while most human jobs remain but are improved by machine assistance.
+
+### **Insights on Ambition and Market Entry**
+
+Success in highly competitive technical fields requires a specific approach to problem solving and vision.
+
+* Narrow Focus, Big Vision: Entrepreneurs are advised to choose a very narrow problem for their initial product to ensure they can provide value as a small team. However, they must maintain and communicate a very ambitious long term vision within that narrow field.  
+* The Reality of AGI: There is a growing consensus that LLMs alone do not lead to Artificial General Intelligence (AGI). This shift in industry perspective has made the pursuit of alternative architectures like World Models less contrarian than it was in previous years.  
+* Resource Management: [Alex Lebrun](https://fr.linkedin.com/in/alexandrelebrun) emphasizes the importance of a culture that treats company money as if it were one’s own, a trait that is difficult to instill if not established at the beginning of the company's lifecycle.
+
+### **Direct Quotes**
+
+"So a World Model is a model where we don't cheat."
+
+"LLMs are already very, very good, as we all know, for everything that is language first."
+
+"The real craziness is the cost of compute."
+
+"If you raise 1 billion and you do nothing for 2 years, or people don't see anything coming out of it for 2 years, then it's very, very hard to survive."
+
+"A machine can speak about a cat, but if the machine has never seen a cat, touched a cat, played with a cat, or maybe be hurt by a cat, then it will never be very, very smart."
+
+"You have only one life, you're young, you can take it. If you're very ambitious in a very wide field, then you're not credible."
+
+# 2026-07-25
+
+# **Startup Durability and the Evolution of AI Native Ventures**
+
+## **Executive Summary**
+
+The modern startup landscape is undergoing a fundamental shift driven by the rapid commoditization of Intelligence and Software Development. The cost of Artificial Intelligence is decreasing by approximately 10x annually, making high level Intelligence a utility rather than a luxury. This transition has rendered pure Software products less durable, as they have become increasingly easy to replicate. To achieve long term viability, modern startups must identify and tackle a hard bit, such as complex hardware, regulatory hurdles, or intensive physical world operations.
+
+Organizational structures are also evolving. AI native companies are defined by their ability to automate internal loops while retaining human judgment for critical functions like founder well-being, community building, and high level decision making. Despite the theoretical possibility of a one person billion dollar company, the emotional and psychological benefits of co-founders remain indispensable for founder resilience. Success in this environment requires extreme agency, a bias toward empirical testing over theoretical research, and a commitment to launching products early and often to engage with the market.
+
+## **The Economics and Technical Capabilities of AI**
+
+The rapid advancement of AI models has altered the traditional cost-benefit analysis for startups, particularly regarding Engineering and Intelligence costs.
+
+* **Declining Costs of Intelligence:** The cost of Intelligence is dropping at a rate of roughly 10x per year. It is estimated that in six to twelve months, current economic concerns regarding token costs will be largely irrelevant.  
+* **Engineering Productivity:** Models have become so proficient at programming tasks that a single Engineer utilizing the best available models can be up to 1,000x more effective than one working without AI.  
+  "I just don't think there's a single programming task that a human is more effective, for a human to do than a model to do."  
+* **Model Routing and Infrastructure:** Intelligence will likely become a backend utility where queries are automatically routed to the most cost-effective and appropriate model level without user intervention. This transition is expected to occur within the next year.
+
+## **Defining Durability in a Post Software World**
+
+As Software becomes easier to build, the barrier to entry for B2B products has lowered, requiring founders to find new sources of defensibility.
+
+### **The Spectrum of Difficulty**
+
+Startup durability now relies on pursuing challenges that are difficult to replicate. This includes:
+
+* **Regulatory Barriers:** Navigating complex licensing, such as banking regulations, serves as a significant moat.  
+* **Physical World Challenges:** Activities involving atoms, such as spaceship launches or nuclear reactor construction, provide inherent durability.  
+* **Ambitious Visions:** High impact goals, such as curing diseases or creating infinite energy, naturally require more capital and offer more defensibility than simple Software tools.
+
+### **Vulnerable Business Models**
+
+Pure Software solutions that lack network effects or deep complexity are increasingly fragile.
+
+"I would just absolutely not start something like **Calendly** today or **Partiful**, or maybe **Partiful** actually has a network effect, but certainly **Calendly**, or like **Docusign** is basically dead."
+
+The ease of replication makes these businesses difficult to sustain against new competition.
+
+## **Strategies for AI Native Organizations**
+
+Becoming an AI native company involves restructuring internal processes to leverage automation while maintaining human-centric advantages.
+
+* **Internal Automation Loops:** Companies should identify narrow processes, such as sales follow-ups or prototype generation during calls, and implement AI agents to manage them. Information must be made legible and queryable for these agents.  
+* **The Power of Witnessing:** While AI can serve as a virtual partner or advisor, it cannot replace the human need for empathy and shared experience.  
+  "[Garry Tan](https://www.linkedin.com/in/garrytan) wrote an excellent post a few weeks ago, about the power of witnessing, which is the fact that you have someone in the room with you that acknowledges that, what you're going through is something that's normal, is incredibly powerful."  
+* **Judgment vs. Delegation:** Writing and thinking are closely correlated. To avoid outsourcing critical thought, founders should continue to write personally rather than delegating all communication to AI.
+
+## **Founder Dynamics and Execution**
+
+The profile of a successful founder is shifting from a requirement for deep technical specialization toward a requirement for high agency and effective execution.
+
+### **The Co-Founder Advantage**
+
+While AI can augment individual output, the psychological demands of a startup favor teams.
+
+* **Emotional Modulation:** Co-founders provide a necessary check on the manic and depressive cycles of startup life.  
+* **Coordination Costs:** AI helps keep companies below Dunbar's number, roughly 150 people, by compressing the number of employees needed to achieve massive scale.  
+   "Sure, theoretically I think, you could do a billion dollar startup with one person, I don't think it makes economic sense, I think the utility you get from adding a second person, will always outweigh the cost at that level."  
+* **Selection Criteria:** Founders should prioritize intelligence, determination, and integrity over complementary skills. The technical and business skills are increasingly easy to learn or augment with AI.
+
+### **Execution and Market Feedback**
+
+The most common failure among high achieving founders is a tendency to over-research in isolation rather than testing hypotheses in the real world.
+
+* **Empirical Progress:** Startups should be treated as empirical exercises rather than theoretical ones. Founders must avoid the library trap of thinking hard in a vacuum.  
+* **Launch Frequency:** Success is highly correlated with launching early and often.  
+  "The biggest regret that **YC** founders have after the batch is not having launched soon enough."  
+* **High Agency Development:** High agency is a trained belief that actions produce specific outputs.  
+  "High agency is basically a belief that your actions are going to produce output."  
+  It is built by successfully completing increasingly difficult projects.
+
+## **Geography and Investment**
+
+Despite the rise of remote work and AI, geographical hubs and concentrated capital remain vital for the most ambitious startups.
+
+* **The Global Hub:** San Francisco remains the primary center for startups due to its critical mass of ambitious founders. Smaller regional hubs like London and Paris offer alternatives, but being isolated in a city without a startup community can hinder a founder's growth.  
+* **Venture Capital Utility:** While Software companies may require less initial capital, the shift toward harder problems in hardware and deep tech means that large scale venture funding is still essential for high impact projects.  
+* **Geopolitical Wake-up Calls:** US export restrictions on AI models have highlighted the global dependence on American technology, potentially creating a new market for sovereign AI infrastructure and competitors outside the United States.
+
+## **Case Studies in Organizational Evolution**
+
+| Company Name | Industry / Context | Strategic Insight |
+| :---- | :---- | :---- |
+| **Y Combinator** | Accelerator | Betting on people over ideas, as ideas often pivot during the batch. |
+| **Brex** | Fintech | Used aggressive distribution strategies, such as billboards, to stand out in a crowded market. |
+| **GoCardless** | Payments | Pivoted from sports team payments to business payments based on customer pull. |
+| **SpaceX** | Aerospace | Represents the hard bit of atoms and Physical Engineering as a moat. |
+| **Cursor** | AI Development Tool | Demonstrated the value of persistent launching despite initial low engagement. |
+
+Founders are encouraged to focus on building something people want, through a cycle of building and talking to customers, a process that AI has accelerated but not replaced.
+
+"The motive of voice has never changed, like build something people want, and to do that, it's a cycle, build, talk to customers, build, talk to customers."
