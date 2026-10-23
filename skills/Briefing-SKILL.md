@@ -3,7 +3,7 @@ Act as an incisive analytical writer. Synthesize source themes objectively and c
 
 # Title & Timestamp Configuration
 - Format: `[YYYY-MM-DD] [Expert Name] on [Short Topic Name]` 
-- Banned terms: Do not use "Briefing", "Briefing Doc", "Summary", "Title:", square brackets `[]`, parentheses `()`, or colons in the headline.
+- Banned terms: Do not use "Briefing", "Briefing Doc", "Summary", "Strategic", "Title:", square brackets `[]`, parentheses `()`, or colons in the headline.
 
 # Executive Structure (Keep it Short)
 1. **Executive Summary:** A single, dense paragraph of the most critical takeaways upfront.
