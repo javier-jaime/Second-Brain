@@ -4039,9 +4039,9 @@ Manual Hash Sharding (Legacy):
 
 Automatic Range-Based Sharding (**CockroachDB**):  
 \[Contiguous Key Space: A \-\> Z\]  
-  |-- Range 1: \[A \-\> G\] \-\> Assigned to Node 2 (Raft Leader)  
-  |-- Range 2: \[H \-\> P\] \-\> Assigned to Node 5 (Raft Leader)  
-  |-- Range 3: \[Q \-\> Z\] \-\> Assigned to Node 1 (Raft Leader)  
+  \|-- Range 1: \[A \-\> G\] \-\> Assigned to Node 2 (Raft Leader)  
+  \|-- Range 2: \[H \-\> P\] \-\> Assigned to Node 5 (Raft Leader)  
+  \|-- Range 3: \[Q \-\> Z\] \-\> Assigned to Node 1 (Raft Leader)  
 \* Dynamically splits ranges at 64MB boundaries and rebalances across clusters automatically.
 
 **CockroachDB** replaces manual sharding with automatic range-based partitioning:
@@ -4365,3 +4365,70 @@ The adoption of agentic AI tools has redefined engineering productivity and oper
 "Around 15% of all of the production PRs go through Minion right now."
 
 "The more toil we reduce the more time Engineers can spend on the true feature work." 
+
+# 2026-10-21
+
+# **Will Larson on Revised Engineering Management Rules**
+
+## **Executive Summary**
+
+Engineering Management is undergoing a fundamental structural shift away from 2010s Zero Interest Rate Policy (ZIRP) habits toward hands-on technical execution, business alignment, and flattened organizational structures. During the ZIRP era, intense competitive hiring incentivized Managers to act strictly as non-technical facilitators, explicitly discouraging them from making technical decisions while prioritizing employee satisfaction over business necessity. Today, efficiency constraints and rapid AI development require leaders to reskill in technical details and directly address core business challenges. Line Managers are increasingly positioned to become effective executives over middle Managers because they maintain direct technical context alongside operational management skills. Furthermore, durable teams with deep domain context remain essential for organizational output, as code implementation time approaches zero while structural design, business logic, and operational trade-offs become the primary bottlenecks in modern software organizations.
+
+## **Historical Career Trajectory and Technical Lessons**
+
+[Will Larson](https://www.linkedin.com/in/lethain)'s career spans key phases of Silicon Valley infrastructure evolution, providing empirical context for modern management practices.
+
+| Company | Role | Key Context and Outcomes |
+| :---- | :---- | :---- |
+| **Yahoo** | Remote Contractor to Full-Time Engineer | Worked with pre open source internal software forks such as YApache, YPHP, and YUI following post 2008 hiring freezes. |
+| **Digg** | Software Manager | Managed transition from sharded MySQL to Cassandra, navigating major site outages, memory leak debugging, and the eventual acquisition of company assets by **Betaworks**, **SocialCode**, and **LinkedIn**. |
+| **Uber** | Infrastructure Manager | Scaled the core Infrastructure Engineering team from 6 to 70 people over two years during periods where Engineering headcount doubled every six months. |
+| **Stripe** | Engineering Leader | Led Engineering organizations growing from 500 to nearly 2,000 total employees, scaling teams up to 260 Engineers. |
+| **Calm** | Chief Technology Officer | Transitioned into executive leadership, running full technical operations. |
+| **Carta** | Chief Technology Officer | Implemented structural cost controls, fixed Engineering level ratios, and managed complex equity domain software. |
+| **Imprint** | Chief Technology Officer | Currently leads a unified organization spanning Engineering, Product, and Design, personally submitting over 500 production pull requests. |
+
+[Larson](https://www.linkedin.com/in/lethain)'s early experience at **Digg** during the **Digg** v4 launch highlighted the systemic risks of premature technology adoption and inadequate load testing. The failure of the Cassandra database rollout required writing custom caching layers on top of Redis and spending four weeks isolating memory leaks caused by mutable default parameters in Python API services.
+
+## **Shifts in Engineering Management**
+
+The economic climate of the 2010s created management behaviors that are no longer viable in the current technology environment.
+
+* The Non-Technical Manager Fallacy: In the 2010s, Engineering Managers were trained to completely detach from technical decision making.  
+  "One of the worst parts of being an Engineering Manager in the 2010s, is when you joined the ranks of Engineering Management, one of the first lessons you'd get is like hey, you need to never make a technical decision again."  
+* Retention as a Primary Metric: Zero Interest Rate Policy (ZIRP) conditions made talent acquisition and retention the primary differentiators between tech firms. Managers were evaluated on employee survey scores and headcount growth, leading to Org expansion and the insulation of Engineers from business realities.  
+* Alignment with Business Needs: Senior Engineers frequently demanded personally rewarding or interesting problems, framing business critical maintenance as a violation of management obligations.  
+  "I only have suffering to offer, but this suffering is what's going to make the business succeed."  
+* Reskilling Imperative: Current market dynamics require Managers to reconnect with execution details.  
+  "I do think if you're in Management, I think right now, either you have to get back into the details, or the world is changing so radically that like you, the profession you know, will not be valued in three years."
+
+## **The Collapse of Middle Management**
+
+The conventional path to Executive Leadership involved climbing through hierarchical layers of Middle Management. This path produced Executives who were effective Bureaucrats but lacked deep technical context.
+
+Line Managers are increasingly better positioned for Executive roles than dedicated Middle Managers. Line Managers operate closely with technical details, resulting in superior judgment regarding product execution and software delivery. However, running a broad Engineering function still requires learning administrative mechanisms, such as process design, structural incentives, and cross-functional Management. [Larson](https://www.linkedin.com/in/lethain) noted that at **Imprint**, Executive responsibilities expanded to include Customer Operations, while at **Stripe**, Leadership roles extended into Support Engineering and Data Engineering.
+
+Middle Management positions face structural compression across the industry. Organizations are flattening hierarchies, expanding direct report spans for Managers to 12 or more individuals, or shifting toward Tech Lead Manager models where Leaders maintain active coding responsibilities.
+
+## **Impact of AI on Software Engineering**
+
+AI code generation harnesses are rapidly reducing the time required to write Software Implementation, altering traditional Software Engineering roles and career progression rubrics.
+
+* Evolving Engineering Scope: While AI handles basic syntax and boilerplate generation, human Engineering value centers on navigating ambiguity, making architectural trade-offs, and understanding Unit Economics.  
+  "Solving problems that the business cares about is becoming much more important to thrive inside of companies."  
+* Limitations of Automation in Complex Domains: Businesses defined by intricate rules, legal constraints, and precise domain logic, such as Cap Table Management at **Carta**, show high defensibility. AI struggles to navigate implicit trade-offs that reside outside the prompt context window or clear Design Systems.  
+* Design and Product Convergence: Unified Engineering, Product, and Design structures allow teams to operate with higher velocity. At **Imprint**, testing Developer-led Design for secondary features resolved production bottlenecks, though it highlighted the ongoing necessity of specialized Design system governance.
+
+## **Organizational Design and Durable Teams**
+
+A persistent Management failure in growing companies is the reallocation of Engineers to handle immediate operational crises or delayed partner launches.
+
+"Hiring is the least interesting way to solve every problem."
+
+Transferring people onto critical path projects breaks team cohesion and destroys local domain context without accelerating delivery timelines. Modern Management requires creating persistent, durable pods that maintain ownership over specific domains. Durable teams build camaraderie, accumulate deep context, and self-optimize. When critical milestones are threatened, effective Leadership protects existing teams from administrative distractions and focuses local energy rather than diluting focus by adding external headcount.
+
+## **Technical Influence and Writing Philosophy**
+
+Engineering Leadership extends beyond internal operations into public technical writing and industry influence. [Larson](https://www.linkedin.com/in/lethain)'s books, including Staff Engineer, An Elegant Puzzle, and Crafting Engineering Strategy, established common industry frameworks such as the staff plus career track.
+
+High impact technical writing relies on authentic, dense idea distribution rather than artificial content volume. Utilizing AI tools to generate high volume content undermines genuine industry leverage and signals poor professional judgment. Authentic influence requires publishing precise, well-tested observations that directly address systemic industry challenges.
