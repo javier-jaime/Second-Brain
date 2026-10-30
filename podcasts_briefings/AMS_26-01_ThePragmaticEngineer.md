@@ -4432,3 +4432,81 @@ Transferring people onto critical path projects breaks team cohesion and destroy
 Engineering Leadership extends beyond internal operations into public technical writing and industry influence. [Larson](https://www.linkedin.com/in/lethain)'s books, including Staff Engineer, An Elegant Puzzle, and Crafting Engineering Strategy, established common industry frameworks such as the staff plus career track.
 
 High impact technical writing relies on authentic, dense idea distribution rather than artificial content volume. Utilizing AI tools to generate high volume content undermines genuine industry leverage and signals poor professional judgment. Authentic influence requires publishing precise, well-tested observations that directly address systemic industry challenges.
+
+# 2026-10-26
+
+# **Titus Winters on Software Engineering Scale and CS Education**
+
+## **Executive Summary**
+
+In this discussion, [Titus Winters](https://www.linkedin.com/in/tituswinters) synthesizes insights from managing developer infrastructure at **Google** and shaping global computer science curriculum standards. Highlighting the 250 million line C++ refactoring project at **Google** driven by a 10 to 12 person team, [Winters](https://www.linkedin.com/in/tituswinters) illustrates how deterministic, compiler assisted tooling surpasses non-deterministic AI generation for large scale codebase maintenance. He traces **Google**'s rigorous testing culture back to 2006, when search release cadences collapsed to once a quarter due to persistent regressions, prompting release Engineers to enforce absolute test requirements. Addressing developer productivity, [Winters](https://www.linkedin.com/in/tituswinters) critiques simplistic output metrics, noting that while AI tool usage can increase code volume by 70% and outages by 30% without increasing total features, its true value lies in enabling ambitious architectural shifts and generating deterministic linting or rewrite rules. Finally, he advocates burning down traditional Computer Science curricula unchanged since 2000, proposing that education pivot from manual coding tasks like linked lists to prompt evaluation, test design, system specification, and psychological safety.
+
+## **Large Scale Infrastructure and Refactoring at Google**
+
+The maintenance of massive codebases requires structured tooling, testing enforcement, and systematic refactoring strategies rather than reliance on individual memory or manual edits.
+
+### **Origins of Testing Infrastructure**
+
+Around 2006 and 2007, the flagship search product at **Google** suffered severe release delays. Cadences fell from target monthly schedules to quarterly deployments because of persistent code regressions. In response, Release Engineers established an absolute policy enforcing mandatory tests for all incoming code merges, overriding feature priorities and executive mandates. This policy created the testing foundation required for safe, continuous codebase modification.
+
+### **The Largest Refactoring Task in History**
+
+[Winters](https://www.linkedin.com/in/tituswinters) led a 10 to 12 person team tasked with refactoring the foundational C++ codebase at **Google**, encompassing 200 millions to 250 millions lines of first party code edited by 10,000 Engineers per month.
+
+* Refactoring workflow: The team used compiler assisted AST transformations by executing MapReduce jobs over codebase parse trees via Clang and LLVM.  
+* Tooling creation: Because whitespace management hindered automated code generation, the team developed clang-format to enable seamless automated edits.  
+* Execution strategy: To avoid blocking 10,000 active Engineers, updates were designed so old and new APIs coexisted. Edits were parallelized across directory structures, verified, and followed by the deletion of legacy APIs.
+
+### **Readability and Institutional Knowledge Sharing**
+
+[Winters](https://www.linkedin.com/in/tituswinters) previously managed the readability program at **Google**, which served as one of the largest educational initiatives in the technology sector, involving tens of thousands of active participants. The program originated with early employees reviewing initial code changes for new hires. It evolved into a structured, cross-company mentorship model where language experts reviewed code changes to ensure consistent idiomatic usage, architectural norms, and silent distribution of Engineering standards.
+
+## **Developer Productivity and the Impact of AI Tools**
+
+Evaluating Engineering output through raw volume metrics misconstrues actual productivity, particularly as automated tools alter development patterns.
+
+### **Framework for Engineering Impact**
+
+Engineering impact consists of 4 distinct forms:
+
+1. Product success, including user adoption, revenue, and net promoter scores.  
+2. Compute efficiency, such as optimizing cloud infrastructure costs or reducing application download binary sizes.  
+3. Engineering capacity, measured by gains in time or capability that permit additional architectural work or innovation.  
+4. Strategic innovation, which fundamentally alters game dynamics by making impossible capabilities possible or preventing catastrophic failures.
+
+### **Deterministic Tooling versus Pure Token Consumption**
+
+While empirical research indicates AI productivity gains remain around 20% to 30%, raw metrics reveal distorting side effects. Teams adopting AI code generators report code volume increases of 70% alongside 30% increases in production outages, with total delivered features remaining flat.
+
+To maximize utility, AI should not be applied to continuous token inference or direct code output generation. Instead, AI should generate deterministic tools, such as OpenRewrite recipes, linter rules, or transformation scripts. This approach provides auditable, fast, and low cost execution. [Winters](https://www.linkedin.com/in/tituswinters) references a key principle from a 1979 **IBM** training manual:
+
+"A computer will never be held accountable, therefore a computer should not be making management decisions."
+
+## **Reforming Computer Science and Software Education**
+
+Current undergraduate Computer Science curricula remain anchored in 1990s paradigms, failing to prepare students for modern industry practices or AI assisted development environments.
+
+### **Failure of the Legacy CS Curriculum**
+
+Most undergraduate CS requirements have not changed substantially since 2000 or earlier. Curricula focus on building databases or operating systems using 1990s techniques, forcing students through trivia level understanding across numerous isolated subjects rather than deep algorithmic thinking or fluent practice. Across a 4 year degree, total instructional and assignment time amounts to approximately 15 months of full time employment.
+
+### **Student Performance Shifts in the AI Era**
+
+The introduction of AI tools has fragmented student performance outcomes:
+
+* High performing students (B+ average and above) utilize AI as an infinitely patient tutor, accelerating their system design and algorithmic capabilities.  
+* Low performing students previously unable to complete assignments now submit unverified AI generated code slop.  
+* Middle-tier students experience skill collapse, utilizing AI shortcuts to bypass the friction necessary for deep conceptual learning.
+
+### **Proposed Curriculum Realignment**
+
+Computer Science programs must pivot from low level manual syntax construction toward high level system architecture, testing, and specification.
+
+| Dimension | Legacy CS Curriculum | Proposed Software Engineering Framework |
+| :---- | :---- | :---- |
+| Primary Artifact | Hand written code, linked lists, isolated algorithms | System specifications, prompts, test suites, architecture designs |
+| Evaluation Method | Grading final compiled code outputs | Evaluating prompt chains, validation rigor, and peer review quality |
+| Core Skillset | Manual syntax implementation and memory management | Systems thinking, code reading, validation, interteam communication |
+| Team Dynamics | Individual assignments, isolated project work | Group projects, sentiment aware code reviews, psychological safety |
+
+[Winters](https://www.linkedin.com/in/tituswinters) emphasizes that degree programs should grade the generation process, prompt Engineering quality, and test harnesses rather than raw final code outputs. Hands-on co-op models, such as the 4 internship requirement implemented by Canadian institutions, offer superior career preparation compared to traditional lecture driven coursework.
