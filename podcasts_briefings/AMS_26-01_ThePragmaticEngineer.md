@@ -4510,3 +4510,59 @@ Computer Science programs must pivot from low level manual syntax construction t
 | Team Dynamics | Individual assignments, isolated project work | Group projects, sentiment aware code reviews, psychological safety |
 
 [Winters](https://www.linkedin.com/in/tituswinters) emphasizes that degree programs should grade the generation process, prompt Engineering quality, and test harnesses rather than raw final code outputs. Hands-on co-op models, such as the 4 internship requirement implemented by Canadian institutions, offer superior career preparation compared to traditional lecture driven coursework.
+
+# 2026-11-05
+
+# **Maude Lemaire on Scaling High Load Systems Architecture**
+
+## **Executive Summary**
+
+System performance and infrastructure scaling at high growth Engineering organizations require balancing structural migrations, realistic load simulation, and deliberate abstraction design. During technical expansions at **Slack**, **GitHub**, and **Cursor**, Staff Engineer [Maude Lemaire](https://www.linkedin.com/in/lemairemaude) addressed architectural bottlenecks ranging from database multitenancy and WebSocket fanout explosions to legacy monolith query abstractions. Key Engineering interventions include consolidating unabstracted database access points across 400 call sites, replacing a \$150,000 headless browser load testing harness with lightweight simulated state workers, and addressing severe query fanout across 16 database shards supporting **GitHub**. Despite the rise of Artificial Intelligence in Software Development, current Large Language Models (LLMs) demonstrate systematic failures in automated performance investigation, asynchronous system profiling, and Root Cause Analysis (RCA), emphasizing the necessity of human domain expertise, strict system guardrails, and structured team rotations between Product and Platform Engineers.
+
+## **Database Migrations and Traffic Mitigation at Slack**
+
+Early infrastructure at **Slack** relied on database sharding organized strictly by team workspace, alongside single server WebSocket connections for each company. The introduction of enterprise clients such as **IBM**, which onboarded over 100,000 users, broke these single tenant assumptions. Enterprise data required overarching structures where users across different sub-workspaces constantly queried enterprise database shards for direct messages and organization wide channels.
+
+To construct client sidebars, legacy backend code performed complex unions across three separate database tables: public channels, private channels, and group direct messages. Because the code lacked an object relational mapping or data access layer, over 400 distinct call sites directly executed raw SQL statements. Resolving this required establishing a unified data access class, standardizing queries, executing double writes, backfilling records, and running shadow reads under feature flags. During the final cutover, an internal cache deletion mistake while feature flags remained active caused a 30 minute sidebar data outage across internal **Slack** teams.
+
+High volume traffic patterns presented severe operational risks through thundering herd dynamics and event floods:
+
+* Thundering Herd Events: A single announcement sent to 100,000 active users in a company wide channel causes simultaneous history fetches and WebSocket emoji reaction fanouts. A single custom emoji reaction fanned out to 100,000 connected clients generates 100,000 outbound events, causing exponential network load when multiplied by multiple users.  
+* Network Mitigation Strategies: **Slack** implemented WebSocket message prioritization, prioritizing text content over custom emoji reactions during high load scenarios. Additionally, **Slack** capped the maximum number of distinct custom emoji reactions per message to 23\.  
+* Event Floods: Power users acting as administrators across 30 or more enterprise workspaces received identical shared messages up to 30 times due to a lack of edge deduplication, causing client-side processing degradation.
+
+## **Load Testing Infrastructure and Cost Optimization**
+
+Simulating 500,000 active WebSocket connections to stress test **Slack** infrastructure prior to major enterprise onboardings from **Amazon** revealed severe cost and resource constraints under early testing methodologies.
+
+| Testing Methodology | Implementation Strategy | Operational Cost | Reliability & Performance |
+| :---- | :---- | :---- | :---- |
+| Headless Browser Simulation | Pods running headless browser instances executing DOM interaction scripts | 37 cents per instance per 5 hours (\$150,000 per 5 hour single test run) | Low reliability, frequent pod crashes, high memory and CPU overhead |
+| Lightweight State Workers | Lightweight processes maintaining WebSocket connections, API requests, and edge cache calls | Minimal fraction of browser simulation cost | High scalability, reproducible scenarios, sustained connection stability |
+
+"We needed 500,000 active websocket connections, we had a solution that would spin up **Slack** as a headless chrome instance in a bunch of kubernetes pods, it was 37 cents per headless chrome instance, per 5 hour bunch of load testing, yeah we're talking about \$150,000 for that one test"
+
+To capture accurate production behavior without browser overhead, Engineers built custom slash-command tools to capture raw API requests, edge cache queries, and incoming or outgoing WebSocket frames. These flows were serialized into repeatable routine scripts executed by lightweight client simulators.
+
+## **Monolithic Query Abstractions and Sharding Limits**
+
+At **GitHub**, database infrastructure faced severe scaling limitations within its core monolith as traffic expanded across physical data centers and cloud environments. All pull requests and issues across the entirety of **GitHub** were constrained to only 16 database shards.
+
+"There were 16 shards for all of pull requests and issues across all of github, which is not very many, given the amount of data that we know is associated with that whole space, the answer was, oh well, we can't have more because we already have so many scatter queries."
+
+Adding additional database shards was blocked by scatter queries, which are database operations executed without a primary sharding key. A single scatter query forces the database layer to query all 16 shards simultaneously, acting as an unindexed linear scan. Active Record abstractions within the framework obscured SQL generation behind multilayered function calls, making scatter query identification and domain extraction difficult. For example, rendering the repository disambiguation homepage required executing over 100 live database queries across at least 3 distinct database clusters without response caching.
+
+## **AI Tooling Limitations in Performance Engineering**
+
+Evaluation of Artificial Intelligence coding assistants at **Cursor** demonstrates clear boundaries between code generation and System Performance Engineering.
+
+"What parts of the job does AI not help you with, it has not helped me with performance optimizations, basically at all, at least the investigation part."
+
+Specific Artificial Intelligence failure modes and structural interventions include:
+
+1. Diagnostic Profiling Deficits: Large Language Models (LLMs) fail to accurately analyze asynchronous execution streams, time to first token bottlenecks, and complex RPC tracing data.  
+2. Naive Optimization Suggestions: Models frequently propose parallelizing independent tasks without evaluating critical path latency or resource consumption overhead, often optimizing operations that serve less than 1% of active traffic.  
+3. Tautological Unit Testing: Automated Artificial Intelligence test generation tends to write tests that merely validate the flawed assumptions of generated code. Applying mutation testing forces models to identify unhandled edge cases.  
+4. Analog Execution Mapping: Engineering complex latency flows requires manual code inspection, raw trace analysis, and physical sequence diagram mapping rather than automated model output.
+
+To maintain system integrity as Artificial Intelligence tooling accelerates code output, organizations must prevent disconnects between product and platform teams. Establishing structured Engineer rotations ensures platform teams build robust Architectural Guardrails capable of managing rapidly generated product code.
