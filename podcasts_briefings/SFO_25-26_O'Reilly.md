@@ -143,7 +143,7 @@ Viewing AI as a normal technology provides the agency to shape its future. "We h
 
 ## **Executive Summary**
 
-The emergence of vibe coding, a practice where developers use large language models to generate and iterate on code through natural language, introduces significant security risks that traditional development workflows may overlook. Critical vulnerabilities include the unintentional import of hallucinated, malicious open-source packages, the exposure of sensitive credentials through improper handling or live streaming, and the degradation of system architecture over time. Furthermore, AI-specific threats such as direct and indirect prompt injection present novel attack vectors, particularly for agentic systems that have the authority to perform actions like exfiltrating data. Defensive strategies require a combination of traditional application security tools, such as those from **Snyk** or **Sonar**, and the implementation of multi-agent AI workflows where one model reviews the output of another. As the industry enters an AI arms race, organizations must arm their security teams with AI-driven defensive capabilities to counter increasingly sophisticated, AI-accelerated threats from global actors.
+The emergence of vibe coding, a practice where developers use Large Language Models (LLMs) to generate and iterate on code through natural language, introduces significant security risks that traditional development workflows may overlook. Critical vulnerabilities include the unintentional import of hallucinated, malicious open-source packages, the exposure of sensitive credentials through improper handling or live streaming, and the degradation of system architecture over time. Furthermore, AI-specific threats such as direct and indirect prompt injection present novel attack vectors, particularly for agentic systems that have the authority to perform actions like exfiltrating data. Defensive strategies require a combination of traditional application security tools, such as those from **Snyk** or **Sonar**, and the implementation of multi-agent AI workflows where one model reviews the output of another. As the industry enters an AI arms race, organizations must arm their security teams with AI-driven defensive capabilities to counter increasingly sophisticated, AI-accelerated threats from global actors.
 
 ## **The Evolution and Risks of Vibe Coding**
 
@@ -565,7 +565,7 @@ The landscape of AI investment is defined by distinct strategic approaches that 
 
 **Patterns of Investment:**
 
-* **Raw Technology Bets:** This includes early-stage investments in fundamental models and infrastructure. While the window for starting a new large-scale transformer model from scratch may have passed, similar to the maturity of search engine indices, opportunities remain for stealth projects combining diffusion models and large language models (LLMs).  
+* **Raw Technology Bets:** This includes early-stage investments in fundamental models and infrastructure. While the window for starting a new large-scale transformer model from scratch may have passed, similar to the maturity of search engine indices, opportunities remain for stealth projects combining diffusion models and Large Language Models (LLMs).  
 * **Application Stacks:** These focus on immediate utility in sectors such as coding acceleration, work productivity, and customer service. Notable investments by **Greylock** target these areas because they follow established business principles like network effects and competitive moats.  
 * **AI-Native Reinvention:** This involves rebuilding industries from the ground up rather than adding AI to existing processes. For example, **Manas** is described as a drug discovery factory that reinvents target identification and testing through an AI-native lens.  
 * **Large vs. Local Models:** The future of AI architecture involves a combination of massive cloud-based platforms and specialized local models. Large models face superlinear cost increases, leading to the development of routing systems that direct tasks to the most cost effective model. Local models, such as those running on high end **Apple** hardware, offer benefits in 24/7 availability and direct access to personal data, though they will likely function as front-ends to larger agentic services in the cloud.
@@ -608,7 +608,7 @@ The transition to an AI-driven economy presents both significant challenges and 
 
 ## **Executive Summary**
 
-The prevailing assumption that generative AI follows traditional software economics is fundamentally flawed. Independent researcher [Anjali Shrivastava](https://www.linkedin.com/in/anjali-shrivastava99) identifies a critical scaling problem inherent in the physics of large language models. Unlike traditional software, which operates at near zero marginal cost, AI compute costs are non-linear and highly unpredictable. Because attention mechanisms are quadratic with respect to context size, the compute required for a single token increases as a conversation progresses. This variability undermines established subscription and per seat pricing models. Recent market shifts at companies like **Cursor** and **Anthropic** suggest that as AI products reach hyperscale, the probability of exceeding compute budgets increases, leading to degraded service quality and collapsing margins. To survive this transition, organizations must move away from monitoring average usage and instead analyze cost distributions to manage tail risks.
+The prevailing assumption that generative AI follows traditional software economics is fundamentally flawed. Independent researcher [Anjali Shrivastava](https://www.linkedin.com/in/anjali-shrivastava99) identifies a critical scaling problem inherent in the physics of Large Language Models (LLMs). Unlike traditional software, which operates at near zero marginal cost, AI compute costs are non-linear and highly unpredictable. Because attention mechanisms are quadratic with respect to context size, the compute required for a single token increases as a conversation progresses. This variability undermines established subscription and per seat pricing models. Recent market shifts at companies like **Cursor** and **Anthropic** suggest that as AI products reach hyperscale, the probability of exceeding compute budgets increases, leading to degraded service quality and collapsing margins. To survive this transition, organizations must move away from monitoring average usage and instead analyze cost distributions to manage tail risks.
 
 ## **The Myth of the Stable Token**
 
@@ -716,7 +716,7 @@ Software design is increasingly recognized as a social activity rather than a pu
 
 ## **The Genie Metaphor: AI in the Development Workflow**
 
-Integrating large language models into coding creates a new dynamic that [Beck](https://www.linkedin.com/in/kentbeck) likens to working with a genie that grants wishes but requires careful management.
+Integrating Large Language Models (LLMs) into coding creates a new dynamic that [Beck](https://www.linkedin.com/in/kentbeck) likens to working with a genie that grants wishes but requires careful management.
 
 * **Wish Fulfillment vs. Intent:** The genie provides what is asked for, but not necessarily what the developer actually wanted. This necessitates a skeptical approach to AI generated output.  
 * **The Role of Inhibition:** To build reliable systems from unreliable components, a problem studied since 1950, humans must provide inhibition. While the AI wants to move fast, the human must pull back on the reins to ensure the system meets specifications.  
@@ -2301,7 +2301,7 @@ Chinese AI labs have closed the gap with US counterparts, leading to a divide in
 
 ## **The Emergence of World Models**
 
-Many researchers view world models as the next step of intelligence beyond large language models (LLMs). While LLMs predict the next token, world models learn the structure, dynamics, and cause and effect relationships of the physical world.
+Many researchers view world models as the next step of intelligence beyond Large Language Models (LLMs). While LLMs predict the next token, world models learn the structure, dynamics, and cause and effect relationships of the physical world.
 
 ### **Key World Model Projects**
 
@@ -2525,7 +2525,7 @@ The most critical metric in the current AI era is the disproportionate number of
 
 ## **Infrastructure and Environmental Impact**
 
-The expansion of large language models from providers like **Anthropic** requires massive increases in physical infrastructure, specifically in data center space, energy consumption, and water for cooling.
+The expansion of Large Language Models (LLMs) from providers like **Anthropic** requires massive increases in physical infrastructure, specifically in data center space, energy consumption, and water for cooling.
 
 ### **Resource Consumption Projections**
 
@@ -2734,7 +2734,7 @@ Recent developments show humanoid robots capable of running faster than humans a
 
 Future applications are expected to integrate virtual and physical realities, such as **Harvard** utilizing AI avatars for professors. While there is optimism regarding domestic assistance, such as the concept of the Rosie, the robot from the Jetsons, the immediate focus remains on industrial production and factory management.
 
-"I really believe that ChatGPT and other large language models, are only a small percentage of the power and the growth that we're going to see in robotics in the next 5 to 10 years."
+"I really believe that ChatGPT and other Large Language Models (LLMs) are only a small percentage of the power and the growth that we're going to see in robotics in the next 5 to 10 years."
 
 # 2026-09-04
 
@@ -3668,3 +3668,145 @@ To standardize functional workflows across diverse model providers, **Anthropic*
 1. Over 1 million skill definitions published.  
 2. Over 280 million total skill ecosystem installations.  
 3. Industry adoption and format alignment across **OpenAI** ChatGPT, **Cursor**, and **GitHub** Copilot.
+
+# 2026-11-04
+
+# **Alex Komoroske on Resonant Computing and Common Fabric**
+
+## **Executive Summary**
+
+Modern technology has strayed from its empowering origins into engagement maxing and value extraction, creating hollow experiences that leave users feeling regret. To prevent Artificial Intelligence from supercharging these flawed dynamics, former **Google** and **Stripe** executive [Alex Komoroske](https://www.linkedin.com/in/alex-komoroske-6597336) led the Resonant Computing Manifesto and is building Common Fabric, an open decentralized platform designed to rearchitect the structural physics of digital trust. Rather than relying on corporate silos, ineffective permission dialogues, or vague terms of service, Common Fabric binds data directly to cryptographic provenance and policy metadata sidecars. An open source runtime executing within cloud-based trusted execution environments enforces these policies strictly, preventing unauthorized data exfiltration while allowing untrusted, Artificial Intelligence generated code patterns to perform complex workflows, UI rendering, and network calls on user data. By shifting software from corporate servers to personal digital environments and aligning economics through direct user compute payments, Common Fabric enables safe, open-ended, and prosocial computing capable of reclaiming personal data from legacy platforms.
+
+## **Core Themes and Architectural Analysis**
+
+### **The Resonant Computing Manifesto and Tech Physics**
+
+Technology was historically viewed through a hacker ethic as a massive positive force for humanity, but software development over the past decade has increasingly centered on engagement maxing, optimization, and value extraction. Experiences delivered by modern tech can be divided into two structural categories: hollow experiences and resonant experiences. A hollow experience is one that a user likes while using, but feels regret after completing. A resonant experience is one that a user enjoys while using, and feels nourished by afterward.
+
+While modern society, business, and tech infrastructure excel at delivering hollow experiences efficiently, they remain poor at delivering resonant experiences. With Artificial Intelligence acting as a massive accelerant, establishing a resonant default backbone for software infrastructure becomes essential. The Resonant Computing Manifesto establishes 5 foundational principles to guide this transformation.
+
+| Principle | Structural Definition |
+| :---- | :---- |
+| Private | Data is used strictly in accordance with user wishes without unexpected surprises or harm. |
+| Dedicated | Systems operate cleanly without underlying corporate conflicts of interest. |
+| Plural | Power is decentralized across nodes with no single entity controlling unnecessary centralized authority. |
+| Adaptable | Systems are open-ended, permitting capabilities unintended or unbuilt by original creators. |
+| Prosocial | Software helps communities pool effort, collaborate, and create meaning together as humans. |
+
+Around 1,000 signatories have backed the manifesto. The core objective is addressing the structural root causes of software degradation rather than applying superficial fixes.
+
+### **Contextual Integrity, Trust, and the Virality of Data**
+
+Traditional tech privacy initiatives often fail because they treat privacy as isolated data locks, rather than evaluating how trust and privacy interact within a social system. Following [Helen Nissenbaum](https://en.wikipedia.org/wiki/Helen_Nissenbaum) formulation of contextual integrity, privacy means ensuring that user data is handled in direct alignment with user expectations and intentions without harmful downstream outcomes. Technical mechanisms like end to end encryption are merely potential means to achieve contextual integrity rather than the end goal itself.
+
+From a game theoretic perspective, trust emerges when entities expect to interact directly or indirectly in the future. In the physical world of atoms, movement through space requires substantial effort, creating natural limiting factors against intrusive behavior like peering through windows. Conversely, the digital world of bits exhibits fundamentally different physical laws:
+
+1. Bits are vastly easier and cheaper to move across space than physical atoms.  
+2. Bits can be copied instantaneously at full fidelity for virtually zero cost, whereas atoms cannot be copied.
+
+Because data is inherently viral, once bits leave user control, they become structurally unmanageable under standard computing models. Historical attempts by the tech industry to contain data virality have relied on 3 flawed post hoc mechanisms:
+
+1. Terms of service agreements that users do not read and possess no leverage to modify.  
+2. Permission dialogues that function as responsibility laundering by asking users structurally ill posed questions regarding open-ended, perpetual trust in third parties.  
+3. Siloing data into isolated applications and websites such as **Spotify** or **Strava**, preventing combinatorial data benefits while trapping user records on vendor infrastructure.
+
+Legacy centralized platforms like **Google** aggregate massive user datasets across services, but lack strong incentives to build novel, cross-data innovations because user lock-in limits competitive pressure.
+
+### **Common Fabric Architecture and Information Flow Control**
+
+Common Fabric addresses data virality by restructuring Software Physics at lower infrastructure layers. Instead of forcing users to operate on corporate turf, Common Fabric creates a decentralized, open ecosystem where software orbits around individual users inside their personal digital home.
+
+Every piece of data inside Common Fabric is bound to a metadata sidecar containing 2 components:
+
+1. Cryptographic Provenance: A verifiable chain tracing the exact origin of the data, the fingerprint or SHA (Secure Hash Algorithm) of the software that executed the last computation, its computational inputs, and the executing identity. This math operates similarly to blockchains without requiring a global, hyperfinancialized state ledger.  
+2. Policies: Explicit mathematical conditions dictating under what exact conditions the data or its derivatives may be declassified now or in the future.
+
+The core execution engine is an open source runtime that evaluates proposed computational graphs generated by untrusted code. The runtime validates proposed actions against attached data policies. If a proposed computation violates a policy, such as initiating an unauthorized network request containing sensitive derivative data, the runtime halts execution and outputs a descriptive error. If the computation is legal, the runtime processes the data, updates the provenance chain, and executes the output.
+
+To run computations securely across distributed nodes without revealing sensitive data to node hosts, Common Fabric utilizes cloud-based Trusted Execution Environments (TEEs). These hardware-enclosed runtimes allow remote attestation, cryptographically proving to external users that the host is executing the unmodified, open source runtime and faithfully applying attached data policies.
+
+### **Patterns, Software Generation, and Artificial Intelligence**
+
+In Common Fabric, code running in userland consists of untrusted modules termed patterns. Patterns use TypeScript and React-like syntax, a structure selected because Large Language Models (LLMs) identified it as a natural frame for code generation.
+
+Patterns possess 6 distinct operational capabilities:
+
+1. Executing arbitrary local computation.  
+2. Generating derived data that is implicitly persisted and available to other patterns.  
+3. Rendering user interface outputs, generating virtual DOM representations adaptively for standard screens, dark modes, preview chips, or native chat components.  
+4. Making arbitrary network requests, including queries to Large Language Models (LLMs), provided network communication is permitted by data policies.  
+5. Instantiating arbitrary subpatterns dynamically fetched from the internet or constructed on the fly by Artificial Intelligence.  
+6. Wishing for additional data, allowing the pattern to declare data requirements that the system grants via contextual heuristics, direct user input, or background queries across local records.
+
+Security inside patterns relies on information flow control and taint checking. When sensitive data like an OAuth token tagged with restricted policies enters a computation, any downstream pattern or derived data that touches it becomes permanently tainted by those policies. To prevent unnecessary data tainting from blocking valid network calls, Common Fabric incorporates a compiler transformer that acts like the Rust language borrow checker. The compiler analyzes data flows, isolates direct access to raw secrets, and supplies handles instead. While manually resolving taint-checker warnings is tedious for human Software Engineers, Artificial Intelligence models iterate on code warnings continuously until patterns compile cleanly and safely.
+
+Because compilation guarantees structural safety against data leakage, patterns can be executed speculatively and proactively for users without manual installation. Crappy patterns are filtered out naturally through social sifting and ranking functions that observe authentic user engagement, while dangerous patterns are rendered structurally impossible by the underlying policy runtime.
+
+### **Economic Realignment and Data Reclaiming**
+
+The prevailing business model of web platforms relies on high Software Development costs. Corporations build software on their own servers, attract users, accumulate user data in cloud silos, and rent that data back to users or monetize it through advertising. In a paradigm of infinite software enabled by Artificial Intelligence code generation, software creation costs drop drastically, allowing users to run custom software directly on their own data.
+
+"Software is alchemy, it is our ability to extend our agency beyond ourselves and automate it, and so the idea that software is going to top out at these this very low thing, is just ludicrous to me, this is, AI should unleash the full potential of software to help us as humans as a society flourish, and that is the potential, and that is what we are not doing currently, because we're cramming it into the wrong physics."
+
+To break reliance on surveillance business models, the financial mechanics of computing must shift.
+
+"I think that if you aren't paying for your own computation, then it's not working for you, it's working for somebody else as in whoever's footing the bill, is the one ultimately that's got to like saying okay, but like now, also figure out how to show them good ads or whatever, and so I would argue that to structurally fix this, users have to pay for their own compute."
+
+Under Common Fabric, economics mirror cell phone service subscriptions. Users pay AI Service Providers (ASPs) directly, covering token costs, host compute, and storage margins, typically ranging from 20 to 30 dollars per month or more based on token volume. Because ASPs run Trusted Execution Environments (TEEs), hosts cannot inspect user data or monetize behavioral records.
+
+Users can reclaim historical data locked inside legacy silos using automated extraction tools like Message Vault, which ingests complete **Google** Gmail history dumps locally. Because Artificial Intelligence models possess infinite patience, they parse unformatted data exports, PDF documents, and legacy API endpoints effortlessly, moving user data onto local turf. Common Fabric is structured as a Public Benefit Corporation to align corporate incentives with long term systemic stability and user agency.
+
+# 2026-11-04
+
+# **Tim OReilly on Missing Mechanisms of AI**
+
+## **Executive Overview**
+
+In this address, [Tim O'Reilly](https://en.wikipedia.org/wiki/Tim_O%27Reilly) contends that the current Artificial Intelligence landscape lacks proper Mechanism Design, a concept drawn from Economics defined by [Leonard Hurwicz](https://en.wikipedia.org/wiki/Leonid_Hurwicz) as Reverse Game Theory. Rather than adopting the prevalent industry narrative that frames AI as a winner takes all contest for Superintelligence driven by centralized API providers, technology developers must define the ultimate objective of human flourishing and Reverse Engineer the systemic rules and economic frameworks necessary to realize it. Historical precedent demonstrates that fundamental technological breakthroughs, such as UNIX developed at **AT\&T**, hypertext systems, pay per click advertising pioneered by **Overture** and **Google**, e-commerce security enabled by **Netscape** for **Amazon**, and Content ID created by **YouTube**, are consistently followed by an exploratory phase of mechanism discovery. Emerging developments like Model Context Protocol (MCP), open memory, open protocols, and open source architectures provide an architecture of participation that can decentralize AI capabilities, foster a circulatory economy of value exchange, and ensure AI functions as a tool for human partnership rather than replacement.
+
+## **Mechanism Design and Reverse Game Theory**
+
+In traditional Game Theory, participants determine the optimal strategy within a fixed set of established rules. Mechanism Design, as formulated by economist [Leonard Hurwicz](https://en.wikipedia.org/wiki/Leonid_Hurwicz) and applied by Nobel laureate [Al Roth](https://en.wikipedia.org/wiki/Alvin_E._Roth) to kidney transplant allocation, reverses this process by identifying the desired end outcome first and working backward to establish rules that generate that result.
+
+The AI industry is presently operating under rules designed for a centralized, winner takes all model characterized by massive infrastructure investments in data centers, closed model weights, restrictive terms of service, and API access controlled by dominant platforms. Redefining the target outcome toward human flourishing requires creating alternative mechanisms that prioritize user control and shared value.
+
+## **Evolution of Systems and Architectures of Participation**
+
+System Design frequently creates unintended participatory mechanisms. UNIX, created by [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) and [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) at **AT\&T**, was built with a compact kernel to ensure portability across 30, 40, or 50 distinct hardware architectures. This technical constraint required the distribution of underlying source code rather than compiled binaries, inadvertently establishing an architecture of participation that gave birth to the open source movement. [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) later observed that the modular architecture of UNIX made Linux possible, whereas monolithic platforms could not support decentralized contributions.
+
+In the AI domain, Model Context Protocol (MCP) provides a modern architecture of participation. By enabling developers and users to integrate their own models and infrastructure, Model Context Protocol (MCP) offers a decentralized alternative to centralized platform control reminiscent of early personal computer operating systems and mobile ecosystems.
+
+## **Technology Innovation Versus Mechanism Discovery**
+
+Technological progress occurs in 2 distinct phases, beginning with initial technological innovation and followed by the discovery of viable business and economic mechanisms through trial and error.
+
+| Innovation Milestone | Primary Innovators | Economic or System Mechanism | Implementing Corporate Entities | Long Term Systemic Impact |
+| :---- | :---- | :---- | :---- | :---- |
+| Portable Operating System Architecture | [Ken Thompson](https://en.wikipedia.org/wiki/Ken_Thompson) and [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie) | Small modular kernel requiring source code distribution | **AT\&T** | Created the architectural foundation for open source software |
+| World Wide Web Hypertext | [Tim Berners-Lee](https://en.wikipedia.org/wiki/Tim_Berners-Lee) | Webcrawling created in 1994 and citation based PageRank indexing | **Google** | Enabled scalable navigation and organization of public web data |
+| Native Web Monetization | Web ad pioneers | Pay per click ad auctions based on tracked user engagement | **Overture**, **Google** | Shifted advertising metrics from passive impressions to active direct engagement |
+| Secure Online Transactions | Security protocols | SSL encryption protocols for cardholder data | **Netscape**, **Amazon** | Established security infrastructure required for commercial e-commerce |
+| On-Demand Local Services | Matching marketplace pioneers | Real-time matching marketplaces for drivers and passengers | **Uber**, **Lyft** | Created the operational foundation for the on-demand service economy |
+| Digital Content Rights Management | Media legal teams | Content ID automated monetization and rights management options | **YouTube** | Converted copyright litigation disputes into a continuous creator economy |
+
+## **Mechanisms, Institutions, and Knowledge Artifacts**
+
+Systemic transitions involve 3 intertwined components: mechanisms, institutions, and knowledge artifacts. Misunderstandings occur when legal or administrative artifacts are prioritized over functional operational artifacts.
+
+In the open source movement, early emphasis was placed on software licensing artifacts managed by formal oversight bodies. However, developer behavior prioritized code repositories as the critical knowledge artifact, making **GitHub** the primary coordinating institution.
+
+Formal entities like the **Linux Foundation** provide structural support, but market coordination in AI will largely be determined by new de facto institutions that emerge naturally during market expansion. Attempting to freeze or standardize these structures prematurely hinders organic discovery.
+
+## **Mechanism Design for Human Flourishing**
+
+The current market trajectory relies on mechanisms designed to lock context within single provider environments, monetize user memory, appropriate intellectual property, and route inference through expensive proprietary APIs.
+
+To align AI with human flourishing, developers must construct mechanisms that enable a circulatory economy of value exchange between human actors and autonomous agents. Open source software, open memory standards, and open protocols preserve user sovereignty, ensuring technological tools enhance human agency rather than replace human effort.
+
+## **Direct Quotes**
+
+"In mechanism design you instead say what outcome do you want, and you work backwards to the rules that produce it."
+
+"I could not have built a new kernel for Windows even if I had the source code, the architecture wouldn't support it."
+
+"In the process of discovery, premature optimization is a mistake."
