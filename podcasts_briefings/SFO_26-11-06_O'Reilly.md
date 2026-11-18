@@ -1,8 +1,8 @@
 ---
+title: Christina Stathopoulos on the Cost of AI Progress
 date: 2026-11-06
+source: https://www.youtube.com/watch?v=Lqxqetpg278
 ---
-
-# **Christina Stathopoulos on the Cost of AI Progress**
 
 ## **Executive Summary**
 
@@ -28,6 +28,8 @@ Investor sentiment reflects increasing caution regarding the magnitude and timel
 | **Intel** | Stock price drop | Shares fell 28% on Friday |
 | **Alphabet** | Stock price drop | Shares fell almost 13% on Thursday |
 | **NASDAQ 100** | Broader index contraction | Sharp late week decline with minimal recovery by Monday morning |
+
+&nbsp;
 
 Additional market pressure impacted tech firms including **Amazon**, **ServiceNow**, **Twilio**, and **Reddit**, none of which had recovered their losses by Friday close.
 
