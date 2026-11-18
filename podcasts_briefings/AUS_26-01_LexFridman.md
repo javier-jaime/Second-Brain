@@ -1,8 +1,10 @@
-# 2026-01-13
+---
+date: 2026-01-13
+---
 
 # The Amazon Rainforest: Uncontacted Tribes and the Escalating Drug War
 
-## Executive S2026-01-13ummary
+## Executive Summary
 
 This document synthesizes recent developments regarding conservation efforts in the Western Amazon, specifically focusing on the activities of the organization **Junglekeepers** and its lead naturalist, [Paul Rosolie](https://en.wikipedia.org/wiki/Paul_Rosolie). The region is currently at a critical Endgame juncture, characterized by a dual-front struggle: the historic emergence of the uncontacted Mashco Piro (or Namole) tribe and an escalating violent conflict with narco-traffickers (Cocaine Mafia).
 
