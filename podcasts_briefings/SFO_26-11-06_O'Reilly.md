@@ -29,8 +29,6 @@ Investor sentiment reflects increasing caution regarding the magnitude and timel
 | **Alphabet** | Stock price drop | Shares fell almost 13% on Thursday |
 | **NASDAQ 100** | Broader index contraction | Sharp late week decline with minimal recovery by Monday morning |
 
-&nbsp;
-
 Additional market pressure impacted tech firms including **Amazon**, **ServiceNow**, **Twilio**, and **Reddit**, none of which had recovered their losses by Friday close.
 
 ## **AI Research, Interpretability, and Model Architecture**
