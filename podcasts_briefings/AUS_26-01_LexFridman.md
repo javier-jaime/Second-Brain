@@ -1,6 +1,4 @@
----
-date: 2026-01-13
----
+# 2026-01-13
 
 # The Amazon Rainforest: Uncontacted Tribes and the Escalating Drug War
 
