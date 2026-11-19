@@ -1,8 +1,10 @@
+===
 title: Duncan Davidson on Personal AI Context and Software Paradigms  
 date: 2026-11-12  
 source: https\://www\.youtube.com/watch?v=AN0RVFPIrQw
+===
 
-## **Executive Summary**
+## **Summary**
 
 The Software Engineering industry is undergoing a structural paradigm shift driven by Generative Artificial Intelligence, moving the primary role of developers from manual code generation to defining outcomes, system design, and evaluating automated outputs. Drawing parallels to the 1980s desktop publishing revolution that replaced physical pasteboards while preserving core design principles, current AI coding tools clear away routine typing toil but introduce operational friction in legacy open source workflows and threaten traditional Engineering apprenticeship models. Organizations optimizing strictly for bottom-line efficiency risk eroding critical foundational expertise, even as equalizing technologies allow smaller teams with compute access to rival traditional technical hierarchies. Concurrently, the proliferation of fragmented AI agents highlights an urgent need for standardized open memory protocols and granular context scoping to enable secure personal data portability without compromising user privacy or enterprise intellectual property.
 
