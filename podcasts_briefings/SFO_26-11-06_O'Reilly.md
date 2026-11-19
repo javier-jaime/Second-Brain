@@ -1,7 +1,7 @@
 ---
-title: Christina Stathopoulos on the Cost of AI Progress
-date: 2026-11-06
-source: https://www.youtube.com/watch?v=Lqxqetpg278
+
+title: Christina Stathopoulos on the Cost of AI Progress  
+date: 2026-11-06  
 ---
 
 ## **Summary**
@@ -14,7 +14,7 @@ The cadence of frontier model deployments continues to shorten, with major devel
 
 * **Google** Gemini 4 Carbon: Released just 2 weeks after the prior model iteration, this frontier system focuses on Cybersecurity, complex multistep execution, and coding. It is currently restricted to prerelease partner testing prior to public rollout.  
 * **Mistral** Large 4: The French frontier AI lab published the open weights for its 1 trillion parameter model, originally announced on October 12\. Developers can download these weights to customize and deploy the system on private servers, though execution requires high performance hardware.  
-* **Google DeepMind** Genie 4: Operating as a world model rather than a traditional language model, this system predicts physical interactions, environment mechanics, and cause and effect relationships in simulated spaces. Features include real-time world editing, realistic object movements, auto synchronized sound and dialogue, and multistep event simulations.  
+* **Google DeepMind** Genie 4: Operating as a world model rather than a traditional language model, this system predicts physical interactions, environment mechanics, and cause and effect relationships in simulated spaces. Features include real-time world editing, realistic object movements, autosynchronized sound and dialogue, and multistep event simulations.  
 * **DiffuSpace** Clover: Open sourced out of China, this 35 billion parameter model utilizes text diffusion instead of traditional autoregressive sequence generation. By refining text across parallel passes, Clover completed a sample output in 3 passes compared to 4 passes for an autoregressive baseline, delivering competitive performance and faster generation on complex agentic workloads.
 
 ## **Capital Markets and Tech Sector Valuations**
@@ -28,8 +28,6 @@ Investor sentiment reflects increasing caution regarding the magnitude and timel
 | **Intel** | Stock price drop | Shares fell 28% on Friday |
 | **Alphabet** | Stock price drop | Shares fell almost 13% on Thursday |
 | **NASDAQ 100** | Broader index contraction | Sharp late week decline with minimal recovery by Monday morning |
-
-&nbsp;
 
 Additional market pressure impacted tech firms including **Amazon**, **ServiceNow**, **Twilio**, and **Reddit**, none of which had recovered their losses by Friday close.
 
