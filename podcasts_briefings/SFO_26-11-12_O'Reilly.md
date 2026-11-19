@@ -1,8 +1,8 @@
-===
+---
 title: Duncan Davidson on Personal AI Context and Software Paradigms  
 date: 2026-11-12  
-source: https\://www\.youtube.com/watch?v=AN0RVFPIrQw
-===
+source: https://www.youtube.com/watch?v=AN0RVFPIrQw
+---
 
 ## **Summary**
 
