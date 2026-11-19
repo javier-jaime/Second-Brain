@@ -1,6 +1,8 @@
+---
 title: Christina Stathopoulos on the Cost of AI Progress  
 date: 2026-11-06  
 source: https\://www\.youtube.com/watch?v=Lqxqetpg278
+---
 
 ## Summary
 
