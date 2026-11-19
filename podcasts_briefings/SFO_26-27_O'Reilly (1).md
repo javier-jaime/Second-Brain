@@ -1,8 +1,8 @@
-\---  
+---  
 title: Christina Stathopoulos on Frontier AI and Sovereign Models  
 date: 2026-11-12  
-source: https\://www\.youtube.com/watch?v=2LHBgNfxFVs  
-\---
+source: https://www.youtube.com/watch?v=2LHBgNfxFVs  
+---
 
 ## Summary
 
