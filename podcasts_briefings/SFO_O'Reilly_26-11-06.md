@@ -2,7 +2,8 @@
 
 title: Christina Stathopoulos on the Cost of AI Progress  
 date: 2026-11-06  
-tags: Christina Stathopoulos  
+tags:  
+  \- Christina Stathopoulos  
 ---
 
 ## **Summary**
