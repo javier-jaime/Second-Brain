@@ -22,7 +22,7 @@ The transition into the era of AGI is no longer a matter of future speculation, 
 * **Roadmap Acceleration:** The development of GPT-6 Astra has reportedly pulled internal roadmaps forward by six months, allowing **OpenAI** to move product launches originally slated for mid 2027 to late 2026\.  
 * **Semantic Irrelevance:** While multiple definitions of AGI exist, experts argue that the debate over the term is irrelevant, compared to the fact that AI can now perform the vast majority of economically valuable cognitive tasks.
 
-## **Scientific Breakthrough: Solving the Navier-Stokes Problem**
+## **Solving the Navier-Stokes Problem**
 
 A major milestone in mathematical physics was achieved when an **OpenAI** team solved a version of the Navier-Stokes problem, one of the Clay Millennium Prize problems. This problem concerns the behavior of fluid dynamics, and whether singularities can form in idealized fluids in finite time.
 
