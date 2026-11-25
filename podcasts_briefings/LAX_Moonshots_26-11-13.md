@@ -1,7 +1,7 @@
 ---
 
 title: Jensen Huang Departure and AI Risk  
-date: 2026-11-23  
+date: 2026-11-13  
 tags: Peter Diamandis, Salim Ismail, Alexander Wissner-Gross, Emad Mostaque  
 ---
 
