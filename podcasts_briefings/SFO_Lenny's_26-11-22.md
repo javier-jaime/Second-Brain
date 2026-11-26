@@ -1,6 +1,6 @@
 ---
 
-title: Sherif Mansour on AI Product Management  
+title: AI Product Management  
 date: 2026-11-22  
 tags: Lenny Rachitsky, Sherif Mansour  
 ---
